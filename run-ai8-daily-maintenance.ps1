@@ -4,13 +4,13 @@ $today = Get-Date -Format 'yyyy-MM-dd'
 $stamp = Get-Date -Format 'yyyy-MM-dd HH:mm:ss'
 function Get-Code($url) {
   $tmp = Join-Path $env:TEMP ('curl_' + [guid]::NewGuid().ToString())
-  try { $code = & curl.exe -L --max-time 15 -s --output $tmp --write-out '%{http_code}' $url } catch { $code = 'ERR' }
+  try { $code = & curl.exe --http1.1 -4 -L --max-time 15 -s --output $tmp --write-out '%{http_code}' $url } catch { $code = 'ERR' }
   Remove-Item $tmp -ErrorAction SilentlyContinue
   return ($code | Select-Object -Last 1)
 }
 function Post-Json-Code($url, $file) {
   $tmp = Join-Path $env:TEMP ('curl_' + [guid]::NewGuid().ToString())
-  try { $code = & curl.exe -L --max-time 30 -s --output $tmp --write-out '%{http_code}' -X POST $url -H 'Content-Type: application/json' --data-binary "@$file" } catch { $code = 'ERR' }
+  try { $code = & curl.exe --http1.1 -4 -L --max-time 30 -s --output $tmp --write-out '%{http_code}' -X POST $url -H 'Content-Type: application/json' --data-binary "@$file" } catch { $code = 'ERR' }
   Remove-Item $tmp -ErrorAction SilentlyContinue
   return ($code | Select-Object -Last 1)
 }
@@ -33,7 +33,7 @@ foreach($s in $sites){
   $sitemapStatus = Get-Code "https://$d/sitemap.xml"
   $urls = @()
   try {
-    $xml = (& curl.exe -L --max-time 20 -s "https://$d/sitemap.xml") -join "`n"
+    $xml = (& curl.exe --http1.1 -4 -L --max-time 20 -s "https://$d/sitemap.xml") -join "`n"
     if($xml -match '<loc>') { $urls = [regex]::Matches($xml,'<loc>(.*?)</loc>') | ForEach-Object { $_.Groups[1].Value } | Select-Object -First 20 }
   } catch {}
   if($urls.Count -eq 0 -and (Test-Path $s.localSitemap)){
@@ -73,5 +73,6 @@ git push origin HEAD 2>$null
 $gitExit=$LASTEXITCODE
 Pop-Location
 "DONE $stamp gitExit=$gitExit dailyFile=$dailyFile"
+
 
 
