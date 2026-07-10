@@ -1,7 +1,7 @@
 ﻿[
     {
         "domain":  "iworkviewer.com",
-        "home":  "000",
+        "home":  "200",
         "robots":  "200",
         "sitemap":  "200",
         "urls":  20,
@@ -11,13 +11,13 @@
         "domain":  "livephotokit.com",
         "home":  "200",
         "robots":  "200",
-        "sitemap":  "000",
+        "sitemap":  "200",
         "urls":  20,
         "indexnow":  "200"
     },
     {
         "domain":  "plantingcalendar.net",
-        "home":  "000",
+        "home":  "200",
         "robots":  "200",
         "sitemap":  "200",
         "urls":  20,
@@ -41,7 +41,7 @@
     },
     {
         "domain":  "invoicepad.net",
-        "home":  "200",
+        "home":  "000",
         "robots":  "200",
         "sitemap":  "200",
         "urls":  20,
@@ -51,14 +51,14 @@
         "domain":  "zoneplan.net",
         "home":  "200",
         "robots":  "200",
-        "sitemap":  "200",
+        "sitemap":  "000",
         "urls":  20,
         "indexnow":  "200"
     },
     {
         "domain":  "pupvax.com",
-        "home":  "200",
-        "robots":  "200",
+        "home":  "000",
+        "robots":  "000",
         "sitemap":  "200",
         "urls":  20,
         "indexnow":  "200"
