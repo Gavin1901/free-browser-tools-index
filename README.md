@@ -36,3 +36,15 @@ A small index of free, privacy-first browser tools I maintain.
 - [BabyPercent](https://babypercent.com/) — baby growth percentile calculator.
 
 These tools are small static sites. Most processing happens in the browser. The goal is to solve one narrow problem per page with no account wall.
+
+## 2026 Tool Pages to Watch
+
+- [Browser file opener for iWork documents](https://iworkviewer.com/) for Pages, Numbers, and Keynote files.
+- [Private HEIC and Live Photo converter](https://livephotokit.com/) for iPhone image workflows.
+- [Vegetable planting calendar by zone](https://plantingcalendar.net/) for gardeners planning seasonal crops.
+- [Free TDEE and calorie calculators](https://freetdee.com/) for nutrition planning.
+- [Baby percentile calculator](https://babypercent.com/) for quick growth reference checks.
+- [Free invoice generator](https://invoicepad.net/) for freelancers and small businesses.
+- [Time zone meeting planner](https://zoneplan.net/) for remote teams.
+- [Puppy vaccine schedule tracker](https://pupvax.com/) for dog owners preparing vet visits.
+
