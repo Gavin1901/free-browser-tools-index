@@ -3,10 +3,7 @@ $root = 'D:\Tools\ai-tool-index'
 $today = Get-Date -Format 'yyyy-MM-dd'
 $stamp = Get-Date -Format 'yyyy-MM-dd HH:mm:ss'
 function Get-Code($url) {
-  $tmp = Join-Path $env:TEMP ('curl_' + [guid]::NewGuid().ToString())
-  try { $code = & curl.exe --http1.1 -4 -L --max-time 15 -s --output $tmp --write-out '%{http_code}' $url } catch { $code = 'ERR' }
-  Remove-Item $tmp -ErrorAction SilentlyContinue
-  return ($code | Select-Object -Last 1)
+  try { $r = Invoke-WebRequest -Uri $url -UseBasicParsing -TimeoutSec 25; return [string]$r.StatusCode } catch { return 'ERR' }
 }
 function Post-Json-Code($url, $file) {
   $tmp = Join-Path $env:TEMP ('curl_' + [guid]::NewGuid().ToString())
@@ -33,7 +30,7 @@ foreach($s in $sites){
   $sitemapStatus = Get-Code "https://$d/sitemap.xml"
   $urls = @()
   try {
-    $xml = (& curl.exe --http1.1 -4 -L --max-time 20 -s "https://$d/sitemap.xml") -join "`n"
+    $xml = (Invoke-WebRequest -Uri "https://$d/sitemap.xml" -UseBasicParsing -TimeoutSec 25).Content
     if($xml -match '<loc>') { $urls = [regex]::Matches($xml,'<loc>(.*?)</loc>') | ForEach-Object { $_.Groups[1].Value } | Select-Object -First 20 }
   } catch {}
   if($urls.Count -eq 0 -and (Test-Path $s.localSitemap)){
@@ -73,6 +70,3 @@ git push origin HEAD 2>$null
 $gitExit=$LASTEXITCODE
 Pop-Location
 "DONE $stamp gitExit=$gitExit dailyFile=$dailyFile"
-
-
-
