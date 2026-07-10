@@ -28,7 +28,7 @@ New-Item -ItemType Directory -Force -Path "$root\daily", "$root\logs" | Out-Null
 $results = @()
 foreach($s in $sites){
   $d=$s.domain
-  $home = Get-Code "https://$d/"
+  $homeCode = Get-Code "https://$d/"
   $robots = Get-Code "https://$d/robots.txt"
   $sitemapStatus = Get-Code "https://$d/sitemap.xml"
   $urls = @()
@@ -45,7 +45,7 @@ foreach($s in $sites){
   $payloadFile = "$root\logs\$today-$d-indexnow.json"
   $payload | Set-Content -Encoding UTF8 $payloadFile
   $indexStatus = Post-Json-Code 'https://www.bing.com/indexnow' $payloadFile
-  $results += [pscustomobject]@{domain=$d; home=$home; robots=$robots; sitemap=$sitemapStatus; urls=$urls.Count; indexnow=$indexStatus}
+  $results += [pscustomobject]@{domain=$d; home=$homeCode; robots=$robots; sitemap=$sitemapStatus; urls=$urls.Count; indexnow=$indexStatus}
 }
 $dailyFile = "$root\daily\$today-ai-tool-indexing-maintenance.md"
 $lines = @()
@@ -73,3 +73,4 @@ git push origin HEAD 2>$null
 $gitExit=$LASTEXITCODE
 Pop-Location
 "DONE $stamp gitExit=$gitExit dailyFile=$dailyFile"
+
