@@ -1,0 +1,66 @@
+﻿[
+    {
+        "domain":  "iworkviewer.com",
+        "home":  "C:\\Users\\69510",
+        "robots":  "200",
+        "sitemap":  "200",
+        "urls":  20,
+        "indexnow":  "200"
+    },
+    {
+        "domain":  "livephotokit.com",
+        "home":  "C:\\Users\\69510",
+        "robots":  "200",
+        "sitemap":  "200",
+        "urls":  20,
+        "indexnow":  "200"
+    },
+    {
+        "domain":  "plantingcalendar.net",
+        "home":  "C:\\Users\\69510",
+        "robots":  "200",
+        "sitemap":  "200",
+        "urls":  20,
+        "indexnow":  "200"
+    },
+    {
+        "domain":  "freetdee.com",
+        "home":  "C:\\Users\\69510",
+        "robots":  "000",
+        "sitemap":  "000",
+        "urls":  20,
+        "indexnow":  "200"
+    },
+    {
+        "domain":  "babypercent.com",
+        "home":  "C:\\Users\\69510",
+        "robots":  "200",
+        "sitemap":  "200",
+        "urls":  20,
+        "indexnow":  "200"
+    },
+    {
+        "domain":  "invoicepad.net",
+        "home":  "C:\\Users\\69510",
+        "robots":  "200",
+        "sitemap":  "200",
+        "urls":  20,
+        "indexnow":  "200"
+    },
+    {
+        "domain":  "zoneplan.net",
+        "home":  "C:\\Users\\69510",
+        "robots":  "000",
+        "sitemap":  "000",
+        "urls":  20,
+        "indexnow":  "200"
+    },
+    {
+        "domain":  "pupvax.com",
+        "home":  "C:\\Users\\69510",
+        "robots":  "000",
+        "sitemap":  "200",
+        "urls":  20,
+        "indexnow":  "200"
+    }
+]
