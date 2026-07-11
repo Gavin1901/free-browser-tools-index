@@ -33,7 +33,7 @@
     },
     {
         "domain":  "babypercent.com",
-        "home":  "200",
+        "home":  "ERR",
         "robots":  "200",
         "sitemap":  "200",
         "urls":  20,
@@ -57,7 +57,7 @@
     },
     {
         "domain":  "pupvax.com",
-        "home":  "200",
+        "home":  "ERR",
         "robots":  "200",
         "sitemap":  "200",
         "urls":  20,
