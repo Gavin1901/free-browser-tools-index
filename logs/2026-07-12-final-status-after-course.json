@@ -1,0 +1,98 @@
+﻿[
+    {
+        "site":  "iworkviewer.com",
+        "home":  200,
+        "robots":  200,
+        "sitemap":  200,
+        "locs":  51,
+        "titleLen":  73,
+        "descLen":  129,
+        "canonical":  "https://iworkviewer.com/",
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "livephotokit.com",
+        "home":  200,
+        "robots":  200,
+        "sitemap":  200,
+        "locs":  27,
+        "titleLen":  56,
+        "descLen":  157,
+        "canonical":  "https://livephotokit.com/",
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "plantingcalendar.net",
+        "home":  200,
+        "robots":  200,
+        "sitemap":  200,
+        "locs":  365,
+        "titleLen":  64,
+        "descLen":  130,
+        "canonical":  "https://plantingcalendar.net/",
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "freetdee.com",
+        "home":  200,
+        "robots":  200,
+        "sitemap":  200,
+        "locs":  43,
+        "titleLen":  58,
+        "descLen":  152,
+        "canonical":  "https://freetdee.com/",
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "babypercent.com",
+        "home":  200,
+        "robots":  200,
+        "sitemap":  200,
+        "locs":  35,
+        "titleLen":  71,
+        "descLen":  133,
+        "canonical":  "https://babypercent.com/",
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "invoicepad.net",
+        "home":  200,
+        "robots":  200,
+        "sitemap":  200,
+        "locs":  29,
+        "titleLen":  69,
+        "descLen":  145,
+        "canonical":  "https://invoicepad.net/",
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "zoneplan.net",
+        "home":  200,
+        "robots":  200,
+        "sitemap":  200,
+        "locs":  92,
+        "titleLen":  56,
+        "descLen":  143,
+        "canonical":  "https://zoneplan.net/",
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "pupvax.com",
+        "home":  200,
+        "robots":  200,
+        "sitemap":  200,
+        "locs":  36,
+        "titleLen":  65,
+        "descLen":  158,
+        "canonical":  "https://pupvax.com/",
+        "badLocs":  0,
+        "verdict":  "PASS"
+    }
+]
