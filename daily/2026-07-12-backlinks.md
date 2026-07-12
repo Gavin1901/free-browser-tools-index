@@ -36,3 +36,11 @@
 | 11 | Medium | https://medium.com/@lg695101011/5-free-browser-tools-i-built-for-everyday-problems-789121d1583d | livephotokit, invoicepad, zoneplan, freetdee, pupvax | published |
 | 12 | Medium | https://medium.com/@lg695101011/two-free-browser-tools-for-iphone-photos-and-simple-invoices-d0414daf2bbb | livephotokit, invoicepad | published |
 | x | Medium draft | https://medium.com/@lg695101011/b386fa7c5290 | freetdee, pupvax, zoneplan | draft, not counted |
+
+## Dev.to backlinks
+
+| # | Platform | URL | Covered sites | Status |
+|---:|---|---|---|---|
+| 13 | Dev.to | https://dev.to/gavinbuildsai/five-free-browser-tools-for-photos-invoices-time-zones-fitness-and-puppies-pfk | livephotokit, invoicepad, zoneplan, freetdee, pupvax | published |
+| 14 | Dev.to | https://dev.to/gavinbuildsai/building-a-free-heic-converter-and-invoice-generator-as-browser-first-tools-3c5i | livephotokit, invoicepad | published |
+| x | Dev.to failed | Three Small Planning Tools | zoneplan, freetdee, pupvax | 429 rate limit, not counted |
