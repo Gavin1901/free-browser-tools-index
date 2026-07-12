@@ -16,3 +16,15 @@
 - https://invoicepad.net/
 - https://zoneplan.net/
 - https://pupvax.com/
+
+## Weak site backlink push
+
+| # | Platform | Target site | URL | Status |
+|---:|---|---|---|---|
+| 4 | GitHub weak-site page | livephotokit.com | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-12-weak-sites-backlinks.md | pushed |
+| 5 | GitHub weak-site page | invoicepad.net | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-12-weak-sites-backlinks.md | pushed |
+| 6 | GitHub weak-site page | zoneplan.net | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-12-weak-sites-backlinks.md | pushed |
+| 7 | GitHub weak-site page | freetdee.com | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-12-weak-sites-backlinks.md | pushed |
+| 8 | GitHub weak-site page | pupvax.com | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-12-weak-sites-backlinks.md | pushed |
+| 9 | 阮一峰周刊 GitHub Issue | freetdee.com | https://github.com/ruanyf/weekly/issues/10681 | open |
+| 10 | 阮一峰周刊 GitHub Issue | pupvax.com | https://github.com/ruanyf/weekly/issues/10682 | open |
