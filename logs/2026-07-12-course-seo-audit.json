@@ -1,0 +1,98 @@
+﻿[
+    {
+        "site":  "iworkviewer.com",
+        "home":  200,
+        "titleLen":  73,
+        "descLen":  129,
+        "canonical":  "https://iworkviewer.com/",
+        "h1":  "Open Apple Pages, Numbers \u0026amp; Keynoteon Any Device. Free. Private.",
+        "robotsMeta":  "",
+        "sitemapLocs":  51,
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "livephotokit.com",
+        "home":  200,
+        "titleLen":  56,
+        "descLen":  157,
+        "canonical":  "https://livephotokit.com/",
+        "h1":  "2026 Free HEIC \u0026amp; Live Photo Converter",
+        "robotsMeta":  "",
+        "sitemapLocs":  27,
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "plantingcalendar.net",
+        "home":  200,
+        "titleLen":  64,
+        "descLen":  130,
+        "canonical":  "https://plantingcalendar.net/",
+        "h1":  "2026 Vegetable Planting Calendar by Zone",
+        "robotsMeta":  "",
+        "sitemapLocs":  365,
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "freetdee.com",
+        "home":  200,
+        "titleLen":  58,
+        "descLen":  152,
+        "canonical":  "https://freetdee.com/",
+        "h1":  "2026 Free TDEE \u0026amp; Calorie Calculator",
+        "robotsMeta":  "",
+        "sitemapLocs":  43,
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "babypercent.com",
+        "home":  200,
+        "titleLen":  71,
+        "descLen":  133,
+        "canonical":  "https://babypercent.com/",
+        "h1":  "2026 Baby Growth Percentile Calculator",
+        "robotsMeta":  "",
+        "sitemapLocs":  35,
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "invoicepad.net",
+        "home":  200,
+        "titleLen":  69,
+        "descLen":  145,
+        "canonical":  "https://invoicepad.net/",
+        "h1":  "2026 Free Invoice Generator for Freelancers",
+        "robotsMeta":  "",
+        "sitemapLocs":  29,
+        "badLocs":  0,
+        "verdict":  "PASS"
+    },
+    {
+        "site":  "zoneplan.net",
+        "home":  200,
+        "titleLen":  56,
+        "descLen":  174,
+        "canonical":  "https://zoneplan.net/",
+        "h1":  "2026 Meeting Time Zone Planner",
+        "robotsMeta":  "",
+        "sitemapLocs":  92,
+        "badLocs":  0,
+        "verdict":  "CHECK"
+    },
+    {
+        "site":  "pupvax.com",
+        "home":  200,
+        "titleLen":  65,
+        "descLen":  158,
+        "canonical":  "https://pupvax.com/",
+        "h1":  "2026 Dog Vaccine Schedule Tracker",
+        "robotsMeta":  "",
+        "sitemapLocs":  36,
+        "badLocs":  0,
+        "verdict":  "PASS"
+    }
+]
