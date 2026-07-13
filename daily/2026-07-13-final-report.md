@@ -1,4 +1,17 @@
-﻿# 2026-07-13 AI编程出海每日运营最终报告
+﻿# 2026-07-13 AI编程出海每日运营最终报告 修正版
+
+## 0. 纠错
+
+第一轮误用了 FeishuCourseScrape / 9222 浏览器仓检查 Dev.to、Medium、GSC，结论不准。
+
+已按知识库核准正确仓库：
+
+- 浏览器仓库：D:\ChromeProfiles\GavinBuilds
+- 调试端口：9223
+- 账号线：lg695101011@gmail.com
+- 用途：8站、SEO、GSC、GA4、AdSense、GitHub、Dev.to、工具站外链
+
+GSC 初进时默认身份显示 gl1700663@gmail.com，无权访问。切到 /u/1 后成功进入 AI编程出海资产后台。
 
 ## 1. 自动巡检与 IndexNow
 
@@ -21,64 +34,64 @@
 
 结果：8站全部 PASS。
 
-检查项：
+检查项：首页 HTTP、robots、sitemap、sitemap同域、title、description、canonical、noindex、GA4、AdSense。
 
-- 首页 HTTP 200
-- robots.txt 200
-- sitemap.xml 200
-- sitemap URL 同域
-- title 长度
-- description 长度
-- canonical
-- noindex
-- GA4 代码
-- AdSense 代码
-
-未发现需要立刻修复的技术 SEO 问题。本轮未改站点代码。
+本轮未发现需要立刻修复的站内 SEO 问题，未改站点代码。
 
 ## 3. Chrome 目检
 
-可控 Chrome 已逐个打开 8 站，均能看到 title、H1、首屏正文，不是空白页。
-
-8站：
-
-- https://iworkviewer.com/
-- https://livephotokit.com/
-- https://plantingcalendar.net/
-- https://freetdee.com/
-- https://babypercent.com/
-- https://invoicepad.net/
-- https://zoneplan.net/
-- https://pupvax.com/
+用 GavinBuilds 仓逐个打开 8 站，均能看到 title、H1、首屏正文，不是空白页。
 
 ## 4. 今日外链
 
-已完成并核实 HTTP 200 的公开外链页面：
+### 已完成并核实
 
-| # | Channel | URL | 覆盖 |
-|---|---|---|---|
-| 1 | GitHub daily backlink page | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-13-backlinks.md | 8站 |
-| 2 | GitHub weak sites page | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-13-weak-sites-backlinks.md | 弱站组 |
-| 3 | GitHub deep SEO audit page | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-13-deep-seo-audit.md | 8站 |
-| 4 | GitHub public Gist | https://gist.github.com/Gavin1901/41f910c37a72b59e7b5b993d02006b35 | 8站 |
-| 5 | GitHub Issue | https://github.com/Gavin1901/free-browser-tools-index/issues/1 | freetdee.com |
-| 6 | GitHub Issue | https://github.com/Gavin1901/free-browser-tools-index/issues/2 | pupvax.com |
-| 7 | GitHub Issue | https://github.com/Gavin1901/free-browser-tools-index/issues/3 | zoneplan.net |
+| # | Channel | URL | 覆盖 | 状态 |
+|---|---|---|---|---|
+| 1 | Dev.to | https://dev.to/gavinbuildsai/three-small-planning-tools-time-zones-calories-and-puppy-vaccines-1gil | zoneplan.net / freetdee.com / pupvax.com | 已发布，正文可见 |
+| 2 | GitHub daily backlink page | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-13-backlinks.md | 8站 | HTTP 200 |
+| 3 | GitHub weak sites page | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-13-weak-sites-backlinks.md | 弱站组 | HTTP 200 |
+| 4 | GitHub deep SEO audit page | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-13-deep-seo-audit.md | 8站 | HTTP 200 |
+| 5 | GitHub public Gist | https://gist.github.com/Gavin1901/41f910c37a72b59e7b5b993d02006b35 | 8站 | HTTP 200 |
+| 6 | GitHub Issue | https://github.com/Gavin1901/free-browser-tools-index/issues/1 | freetdee.com | HTTP 200 |
+| 7 | GitHub Issue | https://github.com/Gavin1901/free-browser-tools-index/issues/2 | pupvax.com | HTTP 200 |
+| 8 | GitHub Issue | https://github.com/Gavin1901/free-browser-tools-index/issues/3 | zoneplan.net | HTTP 200 |
 
-核验：以上 7 个 URL curl -L 均返回 HTTP 200。
+### Medium 状态
 
-## 5. 未完成
+Medium 旧 Draft 已打开，内容覆盖 freetdee、pupvax、zoneplan：
 
-| 渠道 | 状态 | 原因 |
+https://medium.com/@lg695101011/b386fa7c5290
+
+尝试发布时平台返回：过去 24 小时已达到最多 2 篇发布/排程限制。当前不能发布，不能算完成。
+
+## 5. GSC 真实数据
+
+口径：GavinBuilds 仓，Search Console /u/1，效果页，当前页面显示的 28 天数据。
+
+| 站点 | 点击 | 曝光 | CTR | 平均排名 |
+|---|---:|---:|---:|---:|
+| iworkviewer.com | 33 | 1610 | 2% | 31.6 |
+| livephotokit.com | 30 | 867 | 3.5% | 12 |
+| plantingcalendar.net | 12 | 3470 | 0.3% | 29.9 |
+| freetdee.com | 0 | 87 | 0% | 32.1 |
+| babypercent.com | 11 | 2440 | 0.4% | 19.1 |
+| invoicepad.net | 1 | 351 | 0.3% | 52 |
+| zoneplan.net | 1 | 390 | 0.3% | 48 |
+| pupvax.com | 0 | 115 | 0% | 36 |
+
+判断：弱站仍是 freetdee、pupvax、zoneplan、invoicepad。今天 Dev.to 和 GitHub 外链优先补这几个是对的。
+
+## 6. 仍未完成
+
+| 项 | 状态 | 原因 |
 |---|---|---|
-| Dev.to | 未完成 | 浏览器打开 dev.to/new 后进入登录页，无登录态。需要淦总本人登录或提供 API key。 |
-| Medium | 未完成 | medium.com/new-story 跳转登录页，无登录态。需要淦总本人登录。 |
-| GSC | 未查数据 | 只打开 Search Console 宣传页，不是资产后台，不能报索引、点击、曝光。 |
-| GA | 未查数据 | analytics.google.com 连接关闭，未进入报表。 |
-| 阮一峰周刊 Issue | 未完成 | gh 命令未产生可核实的新 issue，作者列表没有新增，所以不计完成。 |
+| Medium 发布 | 未完成 | 24小时最多2篇限制，页面明示不能发布或排程 |
+| GA 数据 | 未完成 | 本轮未继续读取 GA，优先完成 Dev.to 和 GSC |
+| 阮一峰周刊新 issue | 未完成 | gh 未产生可核实新 issue，不计完成 |
 
-## 6. 结论
+## 7. 结论
 
-今天完成了 8站巡检、IndexNow、深度 SEO 审计、Chrome 目检、7 个公开 GitHub 外链页面。没有发现需要马上优化的站内 SEO 问题。今天未碰站点代码。
+今天用正确 GavinBuilds 仓补跑后，真实完成项是：8站巡检、IndexNow、深度SEO审计、Chrome目检、Dev.to 1篇发布、GitHub公开外链7条、GSC 8站真实数据读取。
 
-下一步：淦总手动登录 Dev.to、Medium、GSC、GA 后，再补 Dev.to 1篇、Medium 1篇，并读取真实 GSC/GA 数据。
+下一步：等 Medium 24小时限制解除后，发布 draft b386fa7c5290；继续给 freetdee、pupvax、zoneplan、invoicepad 补高质量外链。

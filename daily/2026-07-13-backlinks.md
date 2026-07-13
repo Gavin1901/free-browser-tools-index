@@ -38,3 +38,16 @@ Pending live URLs are appended after creation.
 | Dev.to | not completed | Browser opened login page, no active login session. Human login or API key required. |
 | Medium | not completed | Browser opened sign in page, no active login session. Human login required. |
 | Ruanyf weekly issue | not completed | gh returned no verifiable new issue under author list, so it is not counted. |
+
+## Corrected after GavinBuilds browser check
+
+Dev.to published from D:\ChromeProfiles\GavinBuilds / 9223:
+
+- https://dev.to/gavinbuildsai/three-small-planning-tools-time-zones-calories-and-puppy-vaccines-1gil
+
+Medium draft found but not published due to Medium 24h two-story limit:
+
+- https://medium.com/@lg695101011/b386fa7c5290
+
+GSC was readable only with /u/1 under GavinBuilds. Weak sites confirmed: freetdee, pupvax, zoneplan, invoicepad.
+
