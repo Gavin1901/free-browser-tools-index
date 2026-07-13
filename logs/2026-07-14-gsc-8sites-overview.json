@@ -1,0 +1,42 @@
+[
+  {
+    "site": "iworkviewer.com",
+    "inputUrl": "https://search.google.com/u/1/search-console?resource_id=sc-domain:iworkviewer.com",
+    "error": "nothing to repeat at position 0"
+  },
+  {
+    "site": "livephotokit.com",
+    "inputUrl": "https://search.google.com/u/1/search-console?resource_id=sc-domain:livephotokit.com",
+    "error": "nothing to repeat at position 0"
+  },
+  {
+    "site": "plantingcalendar.net",
+    "inputUrl": "https://search.google.com/u/1/search-console?resource_id=sc-domain:plantingcalendar.net",
+    "error": "nothing to repeat at position 0"
+  },
+  {
+    "site": "freetdee.com",
+    "inputUrl": "https://search.google.com/u/1/search-console?resource_id=sc-domain:freetdee.com",
+    "error": "nothing to repeat at position 0"
+  },
+  {
+    "site": "babypercent.com",
+    "inputUrl": "https://search.google.com/u/1/search-console?resource_id=sc-domain:babypercent.com",
+    "error": "nothing to repeat at position 0"
+  },
+  {
+    "site": "invoicepad.net",
+    "inputUrl": "https://search.google.com/u/1/search-console?resource_id=sc-domain:invoicepad.net",
+    "error": "nothing to repeat at position 0"
+  },
+  {
+    "site": "zoneplan.net",
+    "inputUrl": "https://search.google.com/u/1/search-console?resource_id=sc-domain:zoneplan.net",
+    "error": "nothing to repeat at position 0"
+  },
+  {
+    "site": "pupvax.com",
+    "inputUrl": "https://search.google.com/u/1/search-console?resource_id=sc-domain:pupvax.com",
+    "error": "nothing to repeat at position 0"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "daily_backlinks",
+    "url": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-14-backlinks.md",
+    "status": 200,
+    "contains": {
+      "https://freetdee.com/": true,
+      "https://pupvax.com/": true,
+      "https://zoneplan.net/": true,
+      "https://invoicepad.net/": true
+    }
+  },
+  {
+    "name": "weak_page",
+    "url": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-14-weak-sites-backlinks.md",
+    "status": 200,
+    "contains": {
+      "https://freetdee.com/": true,
+      "https://pupvax.com/": true,
+      "https://zoneplan.net/": true,
+      "https://invoicepad.net/": true
+    }
+  },
+  {
+    "name": "deep_audit",
+    "url": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-14-deep-seo-audit.md",
+    "error": "('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))"
+  },
+  {
+    "name": "gist",
+    "url": "https://gist.github.com/Gavin1901/b4af854559519caf5c204ea2cf15da1e",
+    "status": 200,
+    "contains": {
+      "https://freetdee.com/": true,
+      "https://pupvax.com/": true,
+      "https://zoneplan.net/": true,
+      "https://invoicepad.net/": true
+    }
+  },
+  {
+    "name": "issue_freetdee",
+    "url": "https://github.com/Gavin1901/free-browser-tools-index/issues/4",
+    "status": 200,
+    "contains": {
+      "https://freetdee.com/": true
+    }
+  },
+  {
+    "name": "issue_pupvax",
+    "url": "https://github.com/Gavin1901/free-browser-tools-index/issues/5",
+    "status": 200,
+    "contains": {
+      "https://pupvax.com/": true
+    }
+  },
+  {
+    "name": "issue_zoneplan",
+    "url": "https://github.com/Gavin1901/free-browser-tools-index/issues/6",
+    "status": 200,
+    "contains": {
+      "https://zoneplan.net/": true
+    }
+  },
+  {
+    "name": "issue_invoicepad",
+    "url": "https://github.com/Gavin1901/free-browser-tools-index/issues/7",
+    "status": 200,
+    "contains": {
+      "https://invoicepad.net/": true
+    }
+  }
+]
