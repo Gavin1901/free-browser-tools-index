@@ -1,0 +1,30 @@
+[
+  {
+    "file": "freetdee-calorie-tool-crawl-note.md",
+    "gist": "https://gist.github.com/Gavin1901/8ecdbc4ce7d454f488f31543291782b2",
+    "status": 200,
+    "target": "https://freetdee.com/",
+    "contains_target": true
+  },
+  {
+    "file": "invoicepad-invoice-generator-crawl-note.md",
+    "gist": "https://gist.github.com/Gavin1901/648763ac1ea137063ff4c40f8f49d87b",
+    "status": 200,
+    "target": "https://invoicepad.org/",
+    "contains_target": true
+  },
+  {
+    "file": "pupvax-puppy-vaccine-crawl-note.md",
+    "gist": "https://gist.github.com/Gavin1901/b8c3b9782f556d38b35147f2371119d4",
+    "status": 200,
+    "target": "https://pupvax.com/",
+    "contains_target": true
+  },
+  {
+    "file": "zoneplan-time-zone-tool-crawl-note.md",
+    "gist": "https://gist.github.com/Gavin1901/338b026733252afde6af3b27bbd1a69f",
+    "status": 200,
+    "target": "https://zoneplan.ai/",
+    "contains_target": true
+  }
+]
