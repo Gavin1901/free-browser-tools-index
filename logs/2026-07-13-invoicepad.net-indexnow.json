@@ -1,0 +1,27 @@
+﻿{
+    "host":  "invoicepad.net",
+    "key":  "gavin-ai-export-20260710-0c8847231c234f0d",
+    "urlList":  [
+                    "https://invoicepad.net/",
+                    "https://invoicepad.net/invoice-templates/",
+                    "https://invoicepad.net/receipt-maker/",
+                    "https://invoicepad.net/estimate-generator/",
+                    "https://invoicepad.net/privacy-policy/",
+                    "https://invoicepad.net/terms/",
+                    "https://invoicepad.net/blog/how-to-write-an-invoice-freelancer/",
+                    "https://invoicepad.net/blog/what-to-include-on-an-invoice/",
+                    "https://invoicepad.net/blog/invoice-payment-terms-explained/",
+                    "https://invoicepad.net/invoice-template/graphic-designer/",
+                    "https://invoicepad.net/invoice-template/web-developer/",
+                    "https://invoicepad.net/invoice-template/freelance-writer/",
+                    "https://invoicepad.net/invoice-template/photographer/",
+                    "https://invoicepad.net/invoice-template/consultant/",
+                    "https://invoicepad.net/invoice-template/virtual-assistant/",
+                    "https://invoicepad.net/invoice-template/translator/",
+                    "https://invoicepad.net/invoice-template/tutor/",
+                    "https://invoicepad.net/invoice-template/coach/",
+                    "https://invoicepad.net/invoice-template/social-media-manager/",
+                    "https://invoicepad.net/invoice-template/video-editor/"
+                ],
+    "keyLocation":  "https://invoicepad.net/gavin-ai-export-20260710-0c8847231c234f0d.txt"
+}
