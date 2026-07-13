@@ -1,0 +1,82 @@
+[
+  {
+    "site": "iworkviewer.com",
+    "error": "error('nothing to repeat at position 0')",
+    "trace": [
+      "                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"C:\\Users\\69510\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_parser.py\", line 691, in _parse",
+      "    raise source.error(\"nothing to repeat\",",
+      "re.error: nothing to repeat at position 0"
+    ]
+  },
+  {
+    "site": "livephotokit.com",
+    "error": "error('nothing to repeat at position 0')",
+    "trace": [
+      "                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"C:\\Users\\69510\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_parser.py\", line 691, in _parse",
+      "    raise source.error(\"nothing to repeat\",",
+      "re.error: nothing to repeat at position 0"
+    ]
+  },
+  {
+    "site": "plantingcalendar.net",
+    "error": "error('nothing to repeat at position 0')",
+    "trace": [
+      "                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"C:\\Users\\69510\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_parser.py\", line 691, in _parse",
+      "    raise source.error(\"nothing to repeat\",",
+      "re.error: nothing to repeat at position 0"
+    ]
+  },
+  {
+    "site": "freetdee.com",
+    "error": "error('nothing to repeat at position 0')",
+    "trace": [
+      "                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"C:\\Users\\69510\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_parser.py\", line 691, in _parse",
+      "    raise source.error(\"nothing to repeat\",",
+      "re.error: nothing to repeat at position 0"
+    ]
+  },
+  {
+    "site": "babypercent.com",
+    "error": "error('nothing to repeat at position 0')",
+    "trace": [
+      "                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"C:\\Users\\69510\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_parser.py\", line 691, in _parse",
+      "    raise source.error(\"nothing to repeat\",",
+      "re.error: nothing to repeat at position 0"
+    ]
+  },
+  {
+    "site": "invoicepad.net",
+    "error": "error('nothing to repeat at position 0')",
+    "trace": [
+      "                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"C:\\Users\\69510\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_parser.py\", line 691, in _parse",
+      "    raise source.error(\"nothing to repeat\",",
+      "re.error: nothing to repeat at position 0"
+    ]
+  },
+  {
+    "site": "zoneplan.net",
+    "error": "error('nothing to repeat at position 0')",
+    "trace": [
+      "                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"C:\\Users\\69510\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_parser.py\", line 691, in _parse",
+      "    raise source.error(\"nothing to repeat\",",
+      "re.error: nothing to repeat at position 0"
+    ]
+  },
+  {
+    "site": "pupvax.com",
+    "error": "error('nothing to repeat at position 0')",
+    "trace": [
+      "                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
+      "  File \"C:\\Users\\69510\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\re\\_parser.py\", line 691, in _parse",
+      "    raise source.error(\"nothing to repeat\",",
+      "re.error: nothing to repeat at position 0"
+    ]
+  }
+]
