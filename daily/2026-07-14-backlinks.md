@@ -32,3 +32,25 @@ Priority is still the weaker group from GSC: FreeTDEE, PupVax, ZonePlan, and Inv
 
 - Deep SEO audit: https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-14-deep-seo-audit.md
 - Indexing maintenance: https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-14-ai-tool-indexing-maintenance.md
+
+## Published public URLs
+
+| # | Channel | URL | Covered sites | Status |
+|---|---|---|---|---|
+| 1 | GitHub daily backlink page | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-14-backlinks.md | 8 sites | published |
+| 2 | GitHub weak sites page | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-14-weak-sites-backlinks.md | freetdee, pupvax, zoneplan, invoicepad | published |
+| 3 | GitHub deep SEO audit page | https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-14-deep-seo-audit.md | 8 sites | published |
+| 4 | GitHub public Gist | https://gist.github.com/Gavin1901/b4af854559519caf5c204ea2cf15da1e | 8 sites | published |
+| 5 | GitHub Issue | https://github.com/Gavin1901/free-browser-tools-index/issues/4 | freetdee.com | published |
+| 6 | GitHub Issue | https://github.com/Gavin1901/free-browser-tools-index/issues/5 | pupvax.com | published |
+| 7 | GitHub Issue | https://github.com/Gavin1901/free-browser-tools-index/issues/6 | zoneplan.net | published |
+| 8 | GitHub Issue | https://github.com/Gavin1901/free-browser-tools-index/issues/7 | invoicepad.net | published |
+
+## Technical SEO action
+
+Local source fix prepared for BabyPercent homepage title length:
+
+- File: D:\Tools\babypercent\src\app\layout.tsx
+- Change: shortened default homepage title to `BabyPercent - Free Baby Growth Percentile Calculator`
+- Build check: `npm run build` passed on 2026-07-14
+- Deploy status: not deployed in this run because no deploy entry was found in the local project directory
