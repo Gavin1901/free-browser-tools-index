@@ -95,3 +95,41 @@ https://medium.com/@lg695101011/b386fa7c5290
 今天用正确 GavinBuilds 仓补跑后，真实完成项是：8站巡检、IndexNow、深度SEO审计、Chrome目检、Dev.to 1篇发布、GitHub公开外链7条、GSC 8站真实数据读取。
 
 下一步：等 Medium 24小时限制解除后，发布 draft b386fa7c5290；继续给 freetdee、pupvax、zoneplan、invoicepad 补高质量外链。
+
+## 8. 最终补处理记录 2026-07-13 12点后
+
+### GA
+
+已用正确浏览器仓 D:\ChromeProfiles\GavinBuilds / 9223 尝试：
+
+- https://analytics.google.com/u/1/analytics/web/
+- https://analytics.google.com/analytics/web/
+- https://marketingplatform.google.com/about/analytics/
+
+结果：Chrome 均返回 ERR_CONNECTION_CLOSED。curl 交叉测试显示 analytics.google.com TLS 握手失败。Test-NetConnection 443 通，但 HTTPS 握手断。判断为当前网络/代理层阻断，不是账号或仓库问题。本轮 GA 数据无法读取，不报数字。
+
+### Medium
+
+已用正确浏览器仓进入旧 Draft 编辑页：
+
+- https://medium.com/p/b386fa7c5290/edit
+- 公开 Draft 地址：https://medium.com/@lg695101011/b386fa7c5290
+
+内容覆盖 freetdee.com、pupvax.com、zoneplan.net。点击 Publish 后进入发布确认页，再点最终 Publish，页面明确提示：The author of this story has published or scheduled the maximum of two stories in the past 24 hours. Please try to publish or schedule again in 24 hours.
+
+结论：Medium 今天因平台 24小时两篇限制无法发布，不算完成。下一次限制解除后直接发布此 Draft。
+
+### 阮一峰周刊 GitHub Issue
+
+已尝试 gh issue create，命令 exit=0 但作者 issue 列表无新增，所以不计完成。随后使用 GitHub API 直接 POST repos/ruanyf/weekly/issues，返回：
+
+- HTTP 403
+- message: Blocked
+
+结论：ruanyf/weekly 今日对该账号创建 issue 被 GitHub/仓库侧阻断，不能继续硬刷。
+
+### 最终真实边界
+
+已完成：8站巡检、IndexNow、深度SEO审计、Chrome目检、Dev.to 1篇、GitHub公开外链7条、GSC 8站真实数据。
+
+未完成但已穷尽：GA 数据、Medium 发布、阮一峰新 issue。原因均已现场核实，不是漏做。

@@ -51,3 +51,9 @@ Medium draft found but not published due to Medium 24h two-story limit:
 
 GSC was readable only with /u/1 under GavinBuilds. Weak sites confirmed: freetdee, pupvax, zoneplan, invoicepad.
 
+
+## Final blocked checks
+
+- GA: analytics.google.com and marketingplatform.google.com both return ERR_CONNECTION_CLOSED in GavinBuilds Chrome. curl TLS handshake also failed. No GA numbers reported.
+- Medium: draft b386fa7c5290 is ready, but Medium blocks publishing because the author has already published or scheduled the maximum of two stories in the past 24 hours.
+- Ruanyf weekly: GitHub API returned HTTP 403 message Blocked when creating a new issue. Not counted.
