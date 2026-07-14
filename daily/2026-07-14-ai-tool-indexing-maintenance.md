@@ -1,12 +1,12 @@
 ﻿# 2026-07-14 AI Tool Indexing Maintenance
 
-Run time: 2026-07-14 07:30:19
+Run time: 2026-07-14 10:26:28
 
 ## Live checks and IndexNow
 
 | Site | Home | Robots | Sitemap | URLs submitted | IndexNow |
 |---|---:|---:|---:|---:|---:|
-| [iworkviewer.com](https://iworkviewer.com/) | ERR | 200 | 200 | 20 | 200 |
+| [iworkviewer.com](https://iworkviewer.com/) | 200 | 200 | 200 | 20 | 200 |
 | [livephotokit.com](https://livephotokit.com/) | 200 | 200 | 200 | 20 | 200 |
 | [plantingcalendar.net](https://plantingcalendar.net/) | 200 | 200 | 200 | 20 | 200 |
 | [freetdee.com](https://freetdee.com/) | 200 | 200 | 200 | 20 | 200 |
