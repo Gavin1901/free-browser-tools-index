@@ -1,0 +1,20 @@
+﻿[
+    {
+        "gist":  "https://gist.github.com/Gavin1901/565a3bba115b5759ee3099ed6ef68f24",
+        "site":  "https://iworkviewer.com/",
+        "status":  200,
+        "containsTarget":  true
+    },
+    {
+        "gist":  "https://gist.github.com/Gavin1901/979799adbd0c3071f9e8eb6b21a349fb",
+        "site":  "https://livephotokit.com/",
+        "status":  200,
+        "containsTarget":  true
+    },
+    {
+        "gist":  "https://gist.github.com/Gavin1901/b0445acb5575a431da78136ddfa4dbc0",
+        "site":  "https://plantingcalendar.net/",
+        "status":  200,
+        "containsTarget":  true
+    }
+]

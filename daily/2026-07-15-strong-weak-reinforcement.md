@@ -42,3 +42,9 @@ Weak sites keep getting direct backlinks and public index references:
 ## Next layer
 
 Dev.to and Medium should be used for the next high-authority article layer after this GitHub/Gist layer.
+
+## Extra strong-site Gist reinforcement
+
+- [Open Apple iWork Files Online](https://gist.github.com/Gavin1901/565a3bba115b5759ee3099ed6ef68f24) -> https://iworkviewer.com/
+- [Free HEIC and Live Photo Converter](https://gist.github.com/Gavin1901/979799adbd0c3071f9e8eb6b21a349fb) -> https://livephotokit.com/
+- [Vegetable Planting Calendar by USDA Zone](https://gist.github.com/Gavin1901/b0445acb5575a431da78136ddfa4dbc0) -> https://plantingcalendar.net/
