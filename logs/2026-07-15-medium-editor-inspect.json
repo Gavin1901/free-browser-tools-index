@@ -1,0 +1,267 @@
+{
+  "url": "https://medium.com/new-story",
+  "title": "New story – Medium",
+  "text_sample": "Homepage\nDraft\nPublish\nTitle\n\n\nTell your story…\n\n\nSelect text to change formatting, add headers, or create links.",
+  "fields": [
+    {
+      "i": 0,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "Publish",
+      "cls": "button button--primary button--filled button--smaller button--withChrome u-accentColor--buttonNormal button--publish js-publishButton js-buttonRequiresPostId u-paddingLeft10 u-paddingRight10 button--disabledPrimary button--chromeless js-buttonDisabledPrimary"
+    },
+    {
+      "i": 1,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--circle button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon js-moreActionsButton"
+    },
+    {
+      "i": 2,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": "Notifications",
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--small button--chromeless is-inSiteNavBar u-baseColor--buttonNormal button--withIcon button--withSvgIcon button--activity js-notificationsButton u-marginRight16 u-xs-marginRight10 u-lineHeight0 u-size25x25"
+    },
+    {
+      "i": 3,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--chromeless u-baseColor--buttonNormal is-inSiteNavBar js-userActions"
+    },
+    {
+      "i": 4,
+      "tag": "DIV",
+      "type": null,
+      "role": "textbox",
+      "aria": null,
+      "placeholder": null,
+      "text": "Title\n\n\nTell your story…\n",
+      "cls": "postArticle-content js-postField js-notesSource editable"
+    },
+    {
+      "i": 5,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": "Add an image, video, embed, or new part",
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--small button--circle button--dark button--withChrome u-baseColor--buttonDark button--withIcon button--withSvgIcon button--inlineTooltipControl js-inlineTooltipControl"
+    },
+    {
+      "i": 6,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": "Add an image",
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--small button--circle button--dark button--withChrome u-baseColor--buttonDark button--withIcon button--withSvgIcon button--scale u-transitionSeries button--chromeless"
+    },
+    {
+      "i": 7,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": "Add an image from Unsplash",
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--small button--circle button--dark button--withChrome u-baseColor--buttonDark button--withIcon button--withSvgIcon button--scale u-transitionSeries button--chromeless"
+    },
+    {
+      "i": 8,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": "Add a video",
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--small button--circle button--dark button--withChrome u-baseColor--buttonDark button--withIcon button--withSvgIcon button--scale u-transitionSeries button--chromeless"
+    },
+    {
+      "i": 9,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": "Add an embed",
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--small button--circle button--dark button--withChrome u-baseColor--buttonDark button--withIcon button--withSvgIcon button--scale u-transitionSeries button--chromeless"
+    },
+    {
+      "i": 10,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": "Add a new code block",
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--small button--circle button--dark button--withChrome u-baseColor--buttonDark button--withIcon button--withSvgIcon button--scale u-transitionSeries button--chromeless"
+    },
+    {
+      "i": 11,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": "Add a new part",
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--small button--circle button--dark button--withChrome u-baseColor--buttonDark button--withIcon button--withSvgIcon button--scale u-transitionSeries button--chromeless"
+    },
+    {
+      "i": 12,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--close button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon"
+    },
+    {
+      "i": 13,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": "Show previous tip",
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--large button--circle button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon"
+    },
+    {
+      "i": 14,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": "Show next tip",
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--large button--circle button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon"
+    },
+    {
+      "i": 15,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon button--highlightMenu"
+    },
+    {
+      "i": 16,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon button--highlightMenu is-active"
+    },
+    {
+      "i": 17,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon button--highlightMenu is-active"
+    },
+    {
+      "i": 18,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon button--highlightMenu"
+    },
+    {
+      "i": 19,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon button--highlightMenu"
+    },
+    {
+      "i": 20,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon button--highlightMenu"
+    },
+    {
+      "i": 21,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon button--highlightMenu"
+    },
+    {
+      "i": 22,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon button--highlightMenu"
+    },
+    {
+      "i": 23,
+      "tag": "INPUT",
+      "type": "text",
+      "role": null,
+      "aria": null,
+      "placeholder": "Paste or type a link…",
+      "text": "",
+      "cls": "highlightMenu-linkinputField"
+    },
+    {
+      "i": 24,
+      "tag": "BUTTON",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": "button button--chromeless u-baseColor--buttonNormal button--withIcon button--withSvgIcon button--highlightMenu"
+    },
+    {
+      "i": 25,
+      "tag": "DIV",
+      "type": null,
+      "role": null,
+      "aria": null,
+      "placeholder": null,
+      "text": "",
+      "cls": ""
+    }
+  ]
+}

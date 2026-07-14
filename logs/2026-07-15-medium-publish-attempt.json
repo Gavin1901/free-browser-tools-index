@@ -1,0 +1,157 @@
+{
+  "start_url": "https://dev.to/new",
+  "after_first_click_url": "https://dev.to/new",
+  "after_first_text": "Create Post\nEdit\nPreview\nWhoops, something went wrong:\ntitle: can't be blank\nUpload Cover Image\nUse a ratio of 1000:420 for best results.\n🍌 Generate Image\nCover Video Link\nAdd up to 4 tags\nMaximum 4 selections\n\nSelected items:\n\nBold CTRL + B\nItalic CTRL + I\nLink CTRL + K\nOrdered list\nUnordered list\nHeading\nQuote\nCode\nCode block\nEmbed CTRL + SHIFT + K\nUpload image\nPublishing Tips\nEnsure your post has a cover image set to make the most of the home feed and social media platforms.\nShare your post on social media platforms or with your co-workers or local communities.\nAsk people to leave questions for you in the comments. It's a great way to spark additional discussion describing personally why you wrote it or why people might find it helpful.\nPublish\nSave Draft\n|\nAdvanced Options\n🤖",
+  "buttons_after_first": [
+    {
+      "i": 0,
+      "text": "\n        Navigation menu\n    \n\n\n      ",
+      "cls": "c-btn c-btn--icon-alone js-hamburger-trigger mx-2"
+    },
+    {
+      "i": 1,
+      "text": "\n              Search\n    \n\n\n            ",
+      "cls": "c-btn c-btn--icon-alone absolute inset-px right-auto mt-0 py-0"
+    },
+    {
+      "i": 2,
+      "text": "\n            \n          ",
+      "cls": "c-btn c-btn--icon-alone radius-full p-1"
+    },
+    {
+      "i": 3,
+      "text": "\n        Close\n\n      ",
+      "cls": "c-btn c-btn--icon-alone js-hamburger-trigger shrink-0"
+    },
+    {
+      "i": 4,
+      "text": "Edit",
+      "cls": "crayons-tabs__item crayons-tabs__item--current"
+    },
+    {
+      "i": 5,
+      "text": "Preview",
+      "cls": "crayons-tabs__item "
+    },
+    {
+      "i": 6,
+      "text": "",
+      "cls": "c-btn c-btn--icon-alone"
+    },
+    {
+      "i": 7,
+      "text": "🍌 Generate Image",
+      "cls": "crayons-btn crayons-btn--outlined mr-2 whitespace-nowrap"
+    },
+    {
+      "i": 8,
+      "text": "Cover Video Link",
+      "cls": "crayons-btn crayons-btn--outlined mr-2 whitespace-nowrap"
+    },
+    {
+      "i": 9,
+      "text": "Bold CTRL + B",
+      "cls": "c-btn c-btn--icon-alone crayons-tooltip__activator toolbar-btn mr-1"
+    },
+    {
+      "i": 10,
+      "text": "Italic CTRL + I",
+      "cls": "c-btn c-btn--icon-alone crayons-tooltip__activator toolbar-btn mr-1"
+    },
+    {
+      "i": 11,
+      "text": "Link CTRL + K",
+      "cls": "c-btn c-btn--icon-alone crayons-tooltip__activator toolbar-btn mr-1"
+    },
+    {
+      "i": 12,
+      "text": "Ordered list",
+      "cls": "c-btn c-btn--icon-alone crayons-tooltip__activator toolbar-btn mr-1"
+    },
+    {
+      "i": 13,
+      "text": "Unordered list",
+      "cls": "c-btn c-btn--icon-alone crayons-tooltip__activator toolbar-btn mr-1"
+    },
+    {
+      "i": 14,
+      "text": "Heading",
+      "cls": "c-btn c-btn--icon-alone crayons-tooltip__activator toolbar-btn mr-1"
+    },
+    {
+      "i": 15,
+      "text": "Quote",
+      "cls": "c-btn c-btn--icon-alone crayons-tooltip__activator toolbar-btn mr-1"
+    },
+    {
+      "i": 16,
+      "text": "Code",
+      "cls": "c-btn c-btn--icon-alone crayons-tooltip__activator toolbar-btn mr-1"
+    },
+    {
+      "i": 17,
+      "text": "Code block",
+      "cls": "c-btn c-btn--icon-alone crayons-tooltip__activator toolbar-btn mr-1"
+    },
+    {
+      "i": 18,
+      "text": "Embed CTRL + SHIFT + K",
+      "cls": "c-btn c-btn--icon-alone crayons-tooltip__activator toolbar-btn mr-1"
+    },
+    {
+      "i": 19,
+      "text": "Upload image",
+      "cls": "c-btn c-btn--icon-alone crayons-tooltip__activator toolbar-btn formatter-btn mr-1"
+    },
+    {
+      "i": 20,
+      "text": "",
+      "cls": "c-btn c-btn--icon-alone toolbar-btn ml-auto"
+    },
+    {
+      "i": 21,
+      "text": "Publish",
+      "cls": "c-btn c-btn--primary mr-2 whitespace-nowrap"
+    },
+    {
+      "i": 22,
+      "text": "Save Draft",
+      "cls": "c-btn border border-base-20 mr-2 whitespace-nowrap"
+    },
+    {
+      "i": 23,
+      "text": "Advanced Options",
+      "cls": "c-btn c-btn--icon-left"
+    },
+    {
+      "i": 24,
+      "text": "\n      \n    ",
+      "cls": "crayons-btn crayons-btn--icon crayons-btn--ghost"
+    },
+    {
+      "i": 25,
+      "text": "🤖",
+      "cls": "crayons-btn crayons-btn--fab editor-ai-fab"
+    },
+    {
+      "i": 26,
+      "text": "\n      \n    ",
+      "cls": "crayons-btn crayons-btn--icon crayons-btn--ghost"
+    },
+    {
+      "i": 27,
+      "text": "Send",
+      "cls": "ai-chat-send"
+    }
+  ],
+  "final_url": "https://dev.to/new",
+  "title": "New Post - DEV Community",
+  "final_text_sample": "Create Post\nEdit\nPreview\nWhoops, something went wrong:\ntitle: can't be blank\nUpload Cover Image\nUse a ratio of 1000:420 for best results.\n🍌 Generate Image\nCover Video Link\nAdd up to 4 tags\nMaximum 4 selections\n\nSelected items:\n\nBold CTRL + B\nItalic CTRL + I\nLink CTRL + K\nOrdered list\nUnordered list\nHeading\nQuote\nCode\nCode block\nEmbed CTRL + SHIFT + K\nUpload image\nPublishing Tips\nEnsure your post has a cover image set to make the most of the home feed and social media platforms.\nShare your post on social media platforms or with your co-workers or local communities.\nAsk people to leave questions for you in the comments. It's a great way to spark additional discussion describing personally why you wrote it or why people might find it helpful.\nPublish\nSave Draft\n|\nAdvanced Options\n🤖",
+  "contains": {
+    "https://freetdee.com/": false,
+    "https://pupvax.com/": false,
+    "https://zoneplan.net/": false,
+    "https://invoicepad.net/": false,
+    "https://github.com/Gavin1901/free-browser-tools-index": false
+  }
+}

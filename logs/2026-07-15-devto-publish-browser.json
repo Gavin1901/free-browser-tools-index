@@ -1,0 +1,12 @@
+{
+  "current_url": "https://dev.to/gavinbuildsai/four-small-browser-tools-i-am-reinforcing-for-search-in-2026-1ng5",
+  "title": "Four Small Browser Tools I Am Reinforcing for Search in 2026 - DEV Community",
+  "text_sample": "Skip to content\nPowered by Algolia \nCreate Post\n3\n0\nAdd reaction\n0\nJump to Comments\n0\nSave\nBoost\nEditManageStats\nGavin Builds\n\nPosted on 7月15日\n\nFour Small Browser Tools I Am Reinforcing for Search in 2026\n#\ntools\n\nI am keeping a public maintenance trail for a small group of free browser tools built with AI.\n\nThis round is focused on four weaker sites that need more crawl signals and public references.\n\n1. FreeTDEE\n\nFreeTDEE is a browser-based calorie, BMR, TDEE, and macro calculator.\n\nLink: https://freetdee.com/\n\nWhy I am reinforcing it:\n\nuseful but still weak in search\ncalculator intent is competitive\nneeds more public references and long-tail coverage\n2. PupVax\n\nPupVax helps dog owners create a simple puppy vaccine schedule.\n\nLink: https://pupvax.com/\n\nWhy it matters:\n\nnew dog owners search with urgent intent\nthe site has a clear utility page\nvaccine and reminder queries can become long-tail traffic\n3. ZonePlan\n\nZonePlan is a meeting time zone planner for remote teams.\n\nLink: https://zoneplan.net/\n\nWhy I am keeping it alive:\n\nremote team scheduling is evergreen\nthe tool has strong daily utility\ntime zone searches are very fragmented, which is good for long-tail SEO\n4. InvoicePad\n\nInvoicePad is a free invoice generator for freelancers.\n\nLink: https://invoicepad.net/\n\nRecent maintenance:\n\nhomepage title was shortened\nproduction domain was checked again\nsitemap and robots are live\nPublic maintenance evidence\n\nI keep the daily evidence here:\n\nhttps://github.com/Gavin1901/free-b",
+  "contains": {
+    "https://freetdee.com/": true,
+    "https://pupvax.com/": true,
+    "https://zoneplan.net/": true,
+    "https://invoicepad.net/": true,
+    "https://github.com/Gavin1901/free-browser-tools-index": true
+  }
+}

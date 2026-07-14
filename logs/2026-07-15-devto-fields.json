@@ -1,0 +1,98 @@
+[
+  {
+    "i": 0,
+    "tag": "INPUT",
+    "type": "text",
+    "name": "q",
+    "id": "search-input",
+    "placeholder": "Find related posts...",
+    "aria": null,
+    "cls": "crayons-header--search-input crayons-textfield js-search-input",
+    "value": "",
+    "text": ""
+  },
+  {
+    "i": 1,
+    "tag": "INPUT",
+    "type": "file",
+    "name": null,
+    "id": "cover-image-input",
+    "placeholder": null,
+    "aria": null,
+    "cls": "screen-reader-only",
+    "value": "",
+    "text": ""
+  },
+  {
+    "i": 2,
+    "tag": "TEXTAREA",
+    "type": "text",
+    "name": null,
+    "id": "article-form-title",
+    "placeholder": "New post title here...",
+    "aria": "Post Title",
+    "cls": "crayons-textfield crayons-textfield--ghost fs-3xl m:fs-4xl l:fs-5xl fw-bold s:fw-heavy lh-tight focus-visible",
+    "value": "",
+    "text": ""
+  },
+  {
+    "i": 3,
+    "tag": "INPUT",
+    "type": "text",
+    "name": null,
+    "id": "tag-input",
+    "placeholder": "Add up to 4 tags...",
+    "aria": null,
+    "cls": "c-autocomplete--multi__input",
+    "value": "",
+    "text": ""
+  },
+  {
+    "i": 4,
+    "tag": "INPUT",
+    "type": "file",
+    "name": null,
+    "id": "image-upload-field",
+    "placeholder": null,
+    "aria": "Upload image",
+    "cls": "screen-reader-only",
+    "value": "",
+    "text": ""
+  },
+  {
+    "i": 5,
+    "tag": "TEXTAREA",
+    "type": null,
+    "name": "body_markdown",
+    "id": "article_body_markdown",
+    "placeholder": "Write your post content here...",
+    "aria": "Post Content",
+    "cls": "crayons-textfield crayons-textfield--ghost crayons-article-form__body__field ff-monospace fs-l h-100",
+    "value": "",
+    "text": ""
+  },
+  {
+    "i": 6,
+    "tag": "INPUT",
+    "type": "text",
+    "name": null,
+    "id": "ai-chat-input",
+    "placeholder": "Type your message...",
+    "aria": null,
+    "cls": "ai-chat-input",
+    "value": "",
+    "text": ""
+  },
+  {
+    "i": 7,
+    "tag": "TEXTAREA",
+    "type": null,
+    "name": null,
+    "id": "",
+    "placeholder": null,
+    "aria": null,
+    "cls": "",
+    "value": "x",
+    "text": ""
+  }
+]

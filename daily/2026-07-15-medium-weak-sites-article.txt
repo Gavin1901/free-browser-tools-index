@@ -1,0 +1,37 @@
+﻿Four Free Browser Tools I Am Reinforcing for Search
+
+I am running a small AI programming outbound experiment around free browser tools.
+
+The lesson this week is simple: shipping the site is not the finish line. Search only starts to care when the site stays healthy, gets submitted, receives public references, and keeps proving that it is maintained.
+
+This round focuses on four weaker tools.
+
+FreeTDEE
+https://freetdee.com/
+
+A free TDEE, BMR, calorie, and macro calculator. It is useful, but calorie keywords are competitive, so it needs more long-tail support and public references.
+
+PupVax
+https://pupvax.com/
+
+A puppy vaccine schedule tracker. Dog owners search with very specific timing questions, so this site can grow through focused utility pages and consistent indexing.
+
+ZonePlan
+https://zoneplan.net/
+
+A time zone meeting planner for remote teams. The category is evergreen and fragmented, which makes it a good long-tail SEO asset if maintained properly.
+
+InvoicePad
+https://invoicepad.net/
+
+A free invoice generator for freelancers. I shortened the homepage title, checked the production domain again, and kept it inside the public maintenance trail.
+
+I also keep a public evidence page here:
+
+https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-15-strong-weak-reinforcement.md
+
+And the full public index here:
+
+https://github.com/Gavin1901/free-browser-tools-index
+
+This is the boring part of AI programming outbound: not just building, but keeping the assets crawlable, linked, and verifiable.
