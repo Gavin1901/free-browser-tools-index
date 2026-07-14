@@ -1,0 +1,28 @@
+[
+  {
+    "name": "devto_browser",
+    "url": "https://dev.to/gavinbuildsai/four-free-browser-tools-i-shipped-with-ai-in-2026-5apj",
+    "title": "Four Free Browser Tools I Shipped With AI in 2026 - DEV Community",
+    "contains": {
+      "https://freetdee.com/": true,
+      "https://invoicepad.net/": true,
+      "https://babypercent.com/": true,
+      "https://iworkviewer.com/": true,
+      "https://github.com/Gavin1901/free-browser-tools-index": true
+    }
+  },
+  {
+    "name": "medium_browser",
+    "url": "https://medium.com/@lg695101011/four-free-ai-built-tools-for-everyday-planning-b36035ace6be",
+    "current_url": "https://medium.com/p/b36035ace6be?postPublishedType=initial",
+    "title": "Four Free AI Built Tools for Everyday Planning | by Lg | Jul, 2026 | Medium",
+    "published_text_found": true,
+    "contains": {
+      "https://freetdee.com/": true,
+      "https://invoicepad.net/": true,
+      "https://babypercent.com/": true,
+      "https://iworkviewer.com/": true,
+      "https://github.com/Gavin1901/free-browser-tools-index": true
+    }
+  }
+]
