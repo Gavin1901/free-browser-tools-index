@@ -1,0 +1,30 @@
+﻿[
+    {
+        "gist":  "https://gist.github.com/Gavin1901/88279d30d7a3b2312168a8feec42ea0d",
+        "site":  "https://freetdee.com/",
+        "status":  200,
+        "containsTarget":  true,
+        "length":  103270
+    },
+    {
+        "gist":  "https://gist.github.com/Gavin1901/4acf6e5231ed579862ff908628d79d05",
+        "site":  "https://pupvax.com/",
+        "status":  200,
+        "containsTarget":  true,
+        "length":  103214
+    },
+    {
+        "gist":  "https://gist.github.com/Gavin1901/48b2a1e6596bc644dcb7710319ce17b9",
+        "site":  "https://zoneplan.net/",
+        "status":  200,
+        "containsTarget":  true,
+        "length":  103222
+    },
+    {
+        "gist":  "https://gist.github.com/Gavin1901/8f2334b9f7f25f207a1a13faf3991392",
+        "site":  "https://invoicepad.net/",
+        "status":  200,
+        "containsTarget":  true,
+        "length":  103134
+    }
+]
