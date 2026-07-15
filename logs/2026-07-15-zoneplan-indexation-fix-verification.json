@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://zoneplan.net/",
+    "status": 200,
+    "len": 93177,
+    "title": "2026 Time Zone Meeting Planner | ZonePlan Free Converter",
+    "contains_global": false,
+    "contains_world": false,
+    "contains_international": false,
+    "sitemap_loc_count": null
+  },
+  {
+    "url": "https://zoneplan.net/global-meeting-planner/",
+    "status": "ERROR",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://zoneplan.net/world-clock-meeting-planner/",
+    "status": 200,
+    "len": 39648,
+    "title": "World Clock Meeting Planner 2026 - Compare Cities for Calls | 2026 Time Zone Planner",
+    "contains_global": false,
+    "contains_world": true,
+    "contains_international": false,
+    "sitemap_loc_count": null
+  },
+  {
+    "url": "https://zoneplan.net/international-meeting-planner/",
+    "status": 200,
+    "len": 37860,
+    "title": "International Meeting Planner 2026 - Schedule Across Countries | 2026 Time Zone Planner",
+    "contains_global": false,
+    "contains_world": false,
+    "contains_international": true,
+    "sitemap_loc_count": null
+  },
+  {
+    "url": "https://zoneplan.net/sitemap.xml",
+    "status": 200,
+    "len": 16143,
+    "title": null,
+    "contains_global": true,
+    "contains_world": true,
+    "contains_international": true,
+    "sitemap_loc_count": 95
+  }
+]
