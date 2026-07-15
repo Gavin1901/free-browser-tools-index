@@ -1,0 +1,927 @@
+{
+  "count": 92,
+  "issues": [
+    {
+      "url": "https://zoneplan.net/privacy-policy/",
+      "status": "ERROR",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>"
+    },
+    {
+      "url": "https://zoneplan.net/los-angeles-to-singapore/",
+      "status": "ERROR",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>"
+    }
+  ],
+  "results": [
+    {
+      "url": "https://zoneplan.net/",
+      "status": 200,
+      "len": 93177,
+      "title": "2026 Time Zone Meeting Planner | ZonePlan Free Converter",
+      "title_len": 56,
+      "description_len": 143,
+      "canonical": "https://zoneplan.net/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/meeting-planner/",
+      "status": 200,
+      "len": 54643,
+      "title": "2026 Meeting Planner - Find the Best Time to Meet Across Time Zones | 2026 Time Zone Planner",
+      "title_len": 92,
+      "description_len": 150,
+      "canonical": "https://zoneplan.net/meeting-planner/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/world-clock/",
+      "status": 200,
+      "len": 39703,
+      "title": "2026 World Clock - Live Local Time in 35+ Cities | ZonePlan | 2026 Time Zone Planner",
+      "title_len": 84,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/world-clock/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/time-zones/",
+      "status": 200,
+      "len": 76402,
+      "title": "2026 All Time Zone Converters &amp; City Pairs | ZonePlan | 2026 Time Zone Planner",
+      "title_len": 82,
+      "description_len": 153,
+      "canonical": "https://zoneplan.net/time-zones/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/privacy-policy/",
+      "status": "ERROR",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>"
+    },
+    {
+      "url": "https://zoneplan.net/terms/",
+      "status": 200,
+      "len": 29879,
+      "title": "Terms of Use (2026) - ZonePlan | 2026 Time Zone Planner",
+      "title_len": 55,
+      "description_len": 149,
+      "canonical": "https://zoneplan.net/terms/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/scenarios/remote-team-standup/",
+      "status": 200,
+      "len": 64314,
+      "title": "Remote Team Standup Time Zone Guide (2026) | ZonePlan",
+      "title_len": 53,
+      "description_len": 152,
+      "canonical": "https://zoneplan.net/scenarios/remote-team-standup/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/scenarios/client-call/",
+      "status": 200,
+      "len": 68908,
+      "title": "Client Call Time Zone Planner (2026) | ZonePlan",
+      "title_len": 47,
+      "description_len": 154,
+      "canonical": "https://zoneplan.net/scenarios/client-call/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/scenarios/global-webinar/",
+      "status": 200,
+      "len": 56257,
+      "title": "Global Webinar Time Zone Planning (2026) | ZonePlan | 2026 Time Zone Planner",
+      "title_len": 76,
+      "description_len": 136,
+      "canonical": "https://zoneplan.net/scenarios/global-webinar/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/blog/schedule-meeting-across-time-zones/",
+      "status": 200,
+      "len": 42363,
+      "title": "How to Schedule a Meeting Across Time Zones (2026) | 2026 Time Zone Planner",
+      "title_len": 75,
+      "description_len": 150,
+      "canonical": "https://zoneplan.net/blog/schedule-meeting-across-time-zones/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/blog/best-times-for-global-team-meetings/",
+      "status": 200,
+      "len": 40894,
+      "title": "Best Times to Schedule Global Team Meetings (2026) | 2026 Time Zone Planner",
+      "title_len": 75,
+      "description_len": 151,
+      "canonical": "https://zoneplan.net/blog/best-times-for-global-team-meetings/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/blog/utc-gmt-time-zone-offsets-explained/",
+      "status": 200,
+      "len": 41445,
+      "title": "UTC, GMT and Time Zone Offsets Explained (2026) | 2026 Time Zone Planner",
+      "title_len": 72,
+      "description_len": 145,
+      "canonical": "https://zoneplan.net/blog/utc-gmt-time-zone-offsets-explained/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-london/",
+      "status": 200,
+      "len": 68564,
+      "title": "New York to London Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-london/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-los-angeles/",
+      "status": 200,
+      "len": 69011,
+      "title": "New York to Los Angeles Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 95,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-los-angeles/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-tokyo/",
+      "status": 200,
+      "len": 67788,
+      "title": "New York to Tokyo Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 89,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-tokyo/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-mumbai/",
+      "status": 200,
+      "len": 67963,
+      "title": "New York to Mumbai Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-mumbai/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-bangalore/",
+      "status": 200,
+      "len": 68125,
+      "title": "New York to Bangalore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 93,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-bangalore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-berlin/",
+      "status": 200,
+      "len": 68550,
+      "title": "New York to Berlin Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-berlin/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-sydney/",
+      "status": 200,
+      "len": 68483,
+      "title": "New York to Sydney Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-sydney/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-singapore/",
+      "status": 200,
+      "len": 68208,
+      "title": "New York to Singapore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 93,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-singapore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-sao-paulo/",
+      "status": 200,
+      "len": 68157,
+      "title": "New York to São Paulo Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 93,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-sao-paulo/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-paris/",
+      "status": 200,
+      "len": 68451,
+      "title": "New York to Paris Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 89,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-paris/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-dubai/",
+      "status": 200,
+      "len": 67798,
+      "title": "New York to Dubai Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 89,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-dubai/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/new-york-to-manila/",
+      "status": 200,
+      "len": 67983,
+      "title": "New York to Manila Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/new-york-to-manila/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/los-angeles-to-london/",
+      "status": 200,
+      "len": 68914,
+      "title": "Los Angeles to London Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 93,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/los-angeles-to-london/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/los-angeles-to-tokyo/",
+      "status": 200,
+      "len": 68105,
+      "title": "Los Angeles to Tokyo Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 92,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/los-angeles-to-tokyo/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/los-angeles-to-sydney/",
+      "status": 200,
+      "len": 68889,
+      "title": "Los Angeles to Sydney Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 93,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/los-angeles-to-sydney/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/los-angeles-to-bangalore/",
+      "status": 200,
+      "len": 68514,
+      "title": "Los Angeles to Bangalore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 96,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/los-angeles-to-bangalore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/los-angeles-to-singapore/",
+      "status": "ERROR",
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)>"
+    },
+    {
+      "url": "https://zoneplan.net/los-angeles-to-manila/",
+      "status": 200,
+      "len": 68307,
+      "title": "Los Angeles to Manila Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 93,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/los-angeles-to-manila/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/los-angeles-to-berlin/",
+      "status": 200,
+      "len": 68956,
+      "title": "Los Angeles to Berlin Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 93,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/los-angeles-to-berlin/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/los-angeles-to-shanghai/",
+      "status": 200,
+      "len": 68645,
+      "title": "Los Angeles to Shanghai Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 95,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/los-angeles-to-shanghai/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-tokyo/",
+      "status": 200,
+      "len": 67464,
+      "title": "London to Tokyo Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 87,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-tokyo/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-mumbai/",
+      "status": 200,
+      "len": 67619,
+      "title": "London to Mumbai Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-mumbai/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-bangalore/",
+      "status": 200,
+      "len": 67906,
+      "title": "London to Bangalore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 91,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-bangalore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-sydney/",
+      "status": 200,
+      "len": 68172,
+      "title": "London to Sydney Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-sydney/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-singapore/",
+      "status": 200,
+      "len": 67976,
+      "title": "London to Singapore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 91,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-singapore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-dubai/",
+      "status": 200,
+      "len": 67469,
+      "title": "London to Dubai Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 87,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-dubai/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-berlin/",
+      "status": 200,
+      "len": 68224,
+      "title": "London to Berlin Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-berlin/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-sao-paulo/",
+      "status": 200,
+      "len": 67900,
+      "title": "London to São Paulo Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 91,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-sao-paulo/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-shanghai/",
+      "status": 200,
+      "len": 67994,
+      "title": "London to Shanghai Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-shanghai/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-toronto/",
+      "status": 200,
+      "len": 68204,
+      "title": "London to Toronto Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 89,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-toronto/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-hong-kong/",
+      "status": 200,
+      "len": 67849,
+      "title": "London to Hong Kong Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 91,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-hong-kong/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/london-to-manila/",
+      "status": 200,
+      "len": 67669,
+      "title": "London to Manila Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/london-to-manila/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/berlin-to-bangalore/",
+      "status": 200,
+      "len": 67908,
+      "title": "Berlin to Bangalore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 91,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/berlin-to-bangalore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/berlin-to-mumbai/",
+      "status": 200,
+      "len": 67606,
+      "title": "Berlin to Mumbai Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/berlin-to-mumbai/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/berlin-to-singapore/",
+      "status": 200,
+      "len": 67978,
+      "title": "Berlin to Singapore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 91,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/berlin-to-singapore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/berlin-to-tokyo/",
+      "status": 200,
+      "len": 67426,
+      "title": "Berlin to Tokyo Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 87,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/berlin-to-tokyo/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/paris-to-tokyo/",
+      "status": 200,
+      "len": 67354,
+      "title": "Paris to Tokyo Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 86,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/paris-to-tokyo/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/paris-to-bangalore/",
+      "status": 200,
+      "len": 67861,
+      "title": "Paris to Bangalore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/paris-to-bangalore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/amsterdam-to-bangalore/",
+      "status": 200,
+      "len": 68258,
+      "title": "Amsterdam to Bangalore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 94,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/amsterdam-to-bangalore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/amsterdam-to-singapore/",
+      "status": 200,
+      "len": 68281,
+      "title": "Amsterdam to Singapore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 94,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/amsterdam-to-singapore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/bangalore-to-sydney/",
+      "status": 200,
+      "len": 67835,
+      "title": "Bangalore to Sydney Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 91,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/bangalore-to-sydney/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/bangalore-to-singapore/",
+      "status": 200,
+      "len": 66774,
+      "title": "Bangalore to Singapore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 94,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/bangalore-to-singapore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/bangalore-to-tokyo/",
+      "status": 200,
+      "len": 66213,
+      "title": "Bangalore to Tokyo Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/bangalore-to-tokyo/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/mumbai-to-singapore/",
+      "status": 200,
+      "len": 66603,
+      "title": "Mumbai to Singapore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 91,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/mumbai-to-singapore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/mumbai-to-dubai/",
+      "status": 200,
+      "len": 66037,
+      "title": "Mumbai to Dubai Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 87,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/mumbai-to-dubai/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/mumbai-to-sydney/",
+      "status": 200,
+      "len": 67636,
+      "title": "Mumbai to Sydney Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/mumbai-to-sydney/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/singapore-to-sydney/",
+      "status": 200,
+      "len": 68001,
+      "title": "Singapore to Sydney Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 91,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/singapore-to-sydney/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/singapore-to-tokyo/",
+      "status": 200,
+      "len": 66372,
+      "title": "Singapore to Tokyo Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/singapore-to-tokyo/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/singapore-to-shanghai/",
+      "status": 200,
+      "len": 67038,
+      "title": "Singapore to Shanghai Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 93,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/singapore-to-shanghai/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/tokyo-to-sydney/",
+      "status": 200,
+      "len": 67417,
+      "title": "Tokyo to Sydney Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 87,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/tokyo-to-sydney/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/hong-kong-to-sydney/",
+      "status": 200,
+      "len": 67804,
+      "title": "Hong Kong to Sydney Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 91,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/hong-kong-to-sydney/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/shanghai-to-sydney/",
+      "status": 200,
+      "len": 67976,
+      "title": "Shanghai to Sydney Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/shanghai-to-sydney/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/manila-to-sydney/",
+      "status": 200,
+      "len": 67617,
+      "title": "Manila to Sydney Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/manila-to-sydney/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/seoul-to-sydney/",
+      "status": 200,
+      "len": 67404,
+      "title": "Seoul to Sydney Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 87,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/seoul-to-sydney/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/tokyo-to-shanghai/",
+      "status": 200,
+      "len": 66389,
+      "title": "Tokyo to Shanghai Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 89,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/tokyo-to-shanghai/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/toronto-to-bangalore/",
+      "status": 200,
+      "len": 67874,
+      "title": "Toronto to Bangalore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 92,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/toronto-to-bangalore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/toronto-to-london/",
+      "status": 200,
+      "len": 68072,
+      "title": "Toronto to London Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 89,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/toronto-to-london/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/sao-paulo-to-lisbon/",
+      "status": 200,
+      "len": 65322,
+      "title": "São Paulo to Lisbon Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 91,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/sao-paulo-to-lisbon/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/dubai-to-london/",
+      "status": 200,
+      "len": 67469,
+      "title": "Dubai to London Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 87,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/dubai-to-london/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/dubai-to-singapore/",
+      "status": 200,
+      "len": 66447,
+      "title": "Dubai to Singapore Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/dubai-to-singapore/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/chicago-to-london/",
+      "status": 200,
+      "len": 68137,
+      "title": "Chicago to London Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 89,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/chicago-to-london/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/vancouver-to-tokyo/",
+      "status": 200,
+      "len": 67593,
+      "title": "Vancouver to Tokyo Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/vancouver-to-tokyo/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/sydney-to-auckland/",
+      "status": 200,
+      "len": 68595,
+      "title": "Sydney to Auckland Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 90,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/sydney-to-auckland/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/mexico-city-to-madrid/",
+      "status": 200,
+      "len": 64133,
+      "title": "Mexico City to Madrid Time Converter &amp; Best Meeting Times (2026) | 2026 Time Zone Planner",
+      "title_len": 93,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/mexico-city-to-madrid/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/est-to-ist/",
+      "status": 200,
+      "len": 50095,
+      "title": "EST to IST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/est-to-ist/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/pst-to-gmt/",
+      "status": 200,
+      "len": 50334,
+      "title": "PST to GMT Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/pst-to-gmt/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/est-to-gmt/",
+      "status": 200,
+      "len": 50302,
+      "title": "EST to GMT Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/est-to-gmt/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/pst-to-ist/",
+      "status": 200,
+      "len": 50122,
+      "title": "PST to IST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/pst-to-ist/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/est-to-cet/",
+      "status": 200,
+      "len": 49908,
+      "title": "EST to CET Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/est-to-cet/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/pst-to-jst/",
+      "status": 200,
+      "len": 49655,
+      "title": "PST to JST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/pst-to-jst/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/gmt-to-ist/",
+      "status": 200,
+      "len": 50133,
+      "title": "GMT to IST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/gmt-to-ist/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/est-to-jst/",
+      "status": 200,
+      "len": 50025,
+      "title": "EST to JST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/est-to-jst/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/cet-to-ist/",
+      "status": 200,
+      "len": 49337,
+      "title": "CET to IST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/cet-to-ist/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/pst-to-aest/",
+      "status": 200,
+      "len": 49725,
+      "title": "PST to AEST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 89,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/pst-to-aest/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/est-to-aest/",
+      "status": 200,
+      "len": 50095,
+      "title": "EST to AEST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 89,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/est-to-aest/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/gmt-to-jst/",
+      "status": 200,
+      "len": 49666,
+      "title": "GMT to JST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/gmt-to-jst/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/est-to-pst/",
+      "status": 200,
+      "len": 50291,
+      "title": "EST to PST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/est-to-pst/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/cet-to-jst/",
+      "status": 200,
+      "len": 48870,
+      "title": "CET to JST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/cet-to-jst/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/ist-to-sgt/",
+      "status": 200,
+      "len": 48021,
+      "title": "IST to SGT Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 88,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/ist-to-sgt/",
+      "has_noindex": false
+    },
+    {
+      "url": "https://zoneplan.net/abbreviation/gmt-to-aest/",
+      "status": 200,
+      "len": 49736,
+      "title": "GMT to AEST Converter - 2026 Time Difference &amp; Meeting Times | 2026 Time Zone Planner",
+      "title_len": 89,
+      "description_len": 160,
+      "canonical": "https://zoneplan.net/abbreviation/gmt-to-aest/",
+      "has_noindex": false
+    }
+  ]
+}

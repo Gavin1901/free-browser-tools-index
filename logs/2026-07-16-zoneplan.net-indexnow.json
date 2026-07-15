@@ -1,0 +1,27 @@
+﻿{
+    "host":  "zoneplan.net",
+    "key":  "gavin-ai-export-20260710-0c8847231c234f0d",
+    "urlList":  [
+                    "https://zoneplan.net/",
+                    "https://zoneplan.net/meeting-planner/",
+                    "https://zoneplan.net/world-clock/",
+                    "https://zoneplan.net/time-zones/",
+                    "https://zoneplan.net/global-meeting-planner/",
+                    "https://zoneplan.net/world-clock-meeting-planner/",
+                    "https://zoneplan.net/international-meeting-planner/",
+                    "https://zoneplan.net/privacy-policy/",
+                    "https://zoneplan.net/terms/",
+                    "https://zoneplan.net/scenarios/remote-team-standup/",
+                    "https://zoneplan.net/scenarios/client-call/",
+                    "https://zoneplan.net/scenarios/global-webinar/",
+                    "https://zoneplan.net/blog/schedule-meeting-across-time-zones/",
+                    "https://zoneplan.net/blog/best-times-for-global-team-meetings/",
+                    "https://zoneplan.net/blog/utc-gmt-time-zone-offsets-explained/",
+                    "https://zoneplan.net/new-york-to-london/",
+                    "https://zoneplan.net/new-york-to-los-angeles/",
+                    "https://zoneplan.net/new-york-to-tokyo/",
+                    "https://zoneplan.net/new-york-to-mumbai/",
+                    "https://zoneplan.net/new-york-to-bangalore/"
+                ],
+    "keyLocation":  "https://zoneplan.net/gavin-ai-export-20260710-0c8847231c234f0d.txt"
+}
