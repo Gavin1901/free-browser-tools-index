@@ -1,0 +1,49 @@
+[
+  {
+    "url": "https://iworkviewer.com/",
+    "status": 200,
+    "title": "iWorkViewer - Open Apple iWork Files Online",
+    "h1": "Open Apple Pages, Numbers & Keynoteon Any Device. Free. Private.",
+    "bodyLen": 5610,
+    "urlAfter": "https://iworkviewer.com/",
+    "screenshot": "logs/2026-07-16-visual-iworkviewer.com.png"
+  },
+  {
+    "url": "https://livephotokit.com/",
+    "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://livephotokit.com/\nCall log:\n\u001b[2m  - navigating to \"https://livephotokit.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "url": "https://plantingcalendar.net/",
+    "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://plantingcalendar.net/\nCall log:\n\u001b[2m  - navigating to \"https://plantingcalendar.net/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "url": "https://freetdee.com/",
+    "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://freetdee.com/\nCall log:\n\u001b[2m  - navigating to \"https://freetdee.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "url": "https://babypercent.com/",
+    "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://babypercent.com/\nCall log:\n\u001b[2m  - navigating to \"https://babypercent.com/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "url": "https://invoicepad.net/",
+    "status": 200,
+    "title": "InvoicePad - Free Invoice Generator for Freelancers",
+    "h1": "2026 Free Invoice Generator for Freelancers",
+    "bodyLen": 8564,
+    "urlAfter": "https://invoicepad.net/",
+    "screenshot": "logs/2026-07-16-visual-invoicepad.net.png"
+  },
+  {
+    "url": "https://zoneplan.net/",
+    "error": "page.goto: net::ERR_CONNECTION_CLOSED at https://zoneplan.net/\nCall log:\n\u001b[2m  - navigating to \"https://zoneplan.net/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+  },
+  {
+    "url": "https://pupvax.com/",
+    "status": 200,
+    "title": "PupVax | 2026 Dog Vaccine Tracker — Free Schedule & Reminders",
+    "h1": "2026 Dog Vaccine Schedule Tracker",
+    "bodyLen": 10491,
+    "urlAfter": "https://pupvax.com/",
+    "screenshot": "logs/2026-07-16-visual-pupvax.com.png"
+  }
+]
