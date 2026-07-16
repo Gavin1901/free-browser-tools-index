@@ -15,9 +15,11 @@ Run time: 2026-07-16 08:15 +08:00
 
 ## Medium status
 
-Medium was opened in the GavinBuilds Chrome profile, but it stayed on Cloudflare security verification. No Medium post is claimed as published today.
+Medium was initially blocked by Cloudflare security verification, then passed in the GavinBuilds Chrome profile and was published.
 
-Evidence: logs/2026-07-16-medium-cloudflare-block.json
+Medium URL: https://medium.com/@lg695101011/eight-ai-built-browser-tools-i-maintained-today-00546f316f46
+
+Evidence: logs/2026-07-16-medium-public-proof.json
 
 ## Eight-site live checks
 
@@ -39,7 +41,12 @@ Backup suffix: bak_20260716_080736
 
 ## Deployment status
 
-Cloudflare Pages deploy was attempted through wrangler, but failed with fetch/network error in the current environment. Therefore these three title fixes are built locally but not verified as production deployed.
+Cloudflare Pages deploy was completed after clearing the broken proxy environment variables. Production title checks passed for FreeTDEE, PupVax, and LivePhotoKit.
+
+Evidence:
+
+- logs/2026-07-16-production-title-recheck-final.json
+- logs/2026-07-16-livephotokit-title-final-clean2.json
 
 ## Verification logs
 
@@ -48,3 +55,9 @@ Cloudflare Pages deploy was attempted through wrangler, but failed with fetch/ne
 - logs/2026-07-16-gist-backlinks-verified-final.json
 - logs/2026-07-16-backlink-reinforcement-public-check.json
 - logs/2026-07-16-course-level-8site-audit.json
+
+## Final deployment fix
+
+The wrangler deploy problem was caused by proxy environment variables pointing to 127.0.0.1:7897. Clearing HTTP_PROXY / HTTPS_PROXY / ALL_PROXY and lower-case variants allowed Cloudflare Pages deployments to complete.
+
+LivePhotoKit required an additional page-level metadata fix in src/app/page.tsx because the homepage metadata overrode layout metadata. Final production title: LivePhotoKit - Free HEIC & Live Photo Converter.
