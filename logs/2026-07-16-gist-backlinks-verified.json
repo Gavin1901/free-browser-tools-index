@@ -1,0 +1,66 @@
+[
+  {
+    "gist": "https://gist.github.com/Gavin1901/171ef604d099837c040ab6864f48f89e",
+    "targets": [
+      "https://freetdee.com/",
+      "https://freetdee.com/tdee-calculator/"
+    ],
+    "gist_status": 200,
+    "target_links_present": {
+      "https://freetdee.com/": true,
+      "https://freetdee.com/tdee-calculator/": true
+    },
+    "target_status": {
+      "https://freetdee.com/": 200,
+      "https://freetdee.com/tdee-calculator/": 404
+    }
+  },
+  {
+    "gist": "https://gist.github.com/Gavin1901/1f00a2b3251e298018e2c21cb54d1147",
+    "targets": [
+      "https://pupvax.com/",
+      "https://pupvax.com/puppy-vaccine-schedule/"
+    ],
+    "gist_status": 200,
+    "target_links_present": {
+      "https://pupvax.com/": true,
+      "https://pupvax.com/puppy-vaccine-schedule/": true
+    },
+    "target_status": {
+      "https://pupvax.com/": 200,
+      "https://pupvax.com/puppy-vaccine-schedule/": 200
+    }
+  },
+  {
+    "gist": "https://gist.github.com/Gavin1901/25f479ad8fa072751c0f683939edf04e",
+    "targets": [
+      "https://zoneplan.net/global-meeting-planner/",
+      "https://zoneplan.net/world-clock-meeting-planner/"
+    ],
+    "gist_status": 200,
+    "target_links_present": {
+      "https://zoneplan.net/global-meeting-planner/": true,
+      "https://zoneplan.net/world-clock-meeting-planner/": true
+    },
+    "target_status": {
+      "https://zoneplan.net/global-meeting-planner/": 200,
+      "https://zoneplan.net/world-clock-meeting-planner/": 200
+    }
+  },
+  {
+    "gist": "https://gist.github.com/Gavin1901/63463e28aea28f36e30da7b84a3155f7",
+    "targets": [
+      "https://invoicepad.net/",
+      "https://invoicepad.net/invoice-generator/"
+    ],
+    "gist_status": 200,
+    "target_links_present": {
+      "https://invoicepad.net/": true,
+      "https://invoicepad.net/invoice-generator/": true
+    },
+    "target_status": {
+      "https://invoicepad.net/": 200,
+      "https://invoicepad.net/invoice-generator/": 404
+    }
+  }
+]

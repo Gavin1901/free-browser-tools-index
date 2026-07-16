@@ -1,6 +1,6 @@
 ﻿# 2026-07-16 AI Tool Indexing Maintenance
 
-Run time: 2026-07-16 07:48:30
+Run time: 2026-07-16 09:30:02
 
 ## Live checks and IndexNow
 
@@ -10,8 +10,8 @@ Run time: 2026-07-16 07:48:30
 | [livephotokit.com](https://livephotokit.com/) | 200 | 200 | 200 | 20 | 200 |
 | [plantingcalendar.net](https://plantingcalendar.net/) | 200 | 200 | 200 | 20 | 200 |
 | [freetdee.com](https://freetdee.com/) | 200 | 200 | 200 | 20 | 200 |
-| [babypercent.com](https://babypercent.com/) | 200 | 200 | 200 | 20 | 200 |
-| [invoicepad.net](https://invoicepad.net/) | 200 | 200 | 200 | 20 | 200 |
+| [babypercent.com](https://babypercent.com/) | ERR | 200 | 200 | 20 | 200 |
+| [invoicepad.net](https://invoicepad.net/) | 200 | 200 | 200 | 20 | 000 |
 | [zoneplan.net](https://zoneplan.net/) | 200 | 200 | 200 | 20 | 200 |
 | [pupvax.com](https://pupvax.com/) | 200 | 200 | 200 | 20 | 200 |
 

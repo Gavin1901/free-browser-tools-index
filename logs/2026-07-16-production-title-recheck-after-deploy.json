@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://livephotokit.com/",
+    "status": 200,
+    "title": "LivePhotoKit — 2026 Free HEIC & Live Photo Converter",
+    "title_len": 52,
+    "has_mojibake": false,
+    "description_len": 153
+  },
+  {
+    "url": "https://freetdee.com/",
+    "status": 200,
+    "title": "2026 Free TDEE Calculator — BMR, Calorie & Macro Tools",
+    "title_len": 54,
+    "has_mojibake": false,
+    "description_len": 148
+  },
+  {
+    "url": "https://pupvax.com/",
+    "status": 200,
+    "title": "PupVax - Dog Vaccine Schedule Tracker",
+    "title_len": 37,
+    "has_mojibake": false,
+    "description_len": 145
+  }
+]

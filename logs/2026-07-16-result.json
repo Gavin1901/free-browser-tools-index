@@ -33,7 +33,7 @@
     },
     {
         "domain":  "babypercent.com",
-        "home":  "200",
+        "home":  "ERR",
         "robots":  "200",
         "sitemap":  "200",
         "urls":  20,
@@ -45,7 +45,7 @@
         "robots":  "200",
         "sitemap":  "200",
         "urls":  20,
-        "indexnow":  "200"
+        "indexnow":  "000"
     },
     {
         "domain":  "zoneplan.net",

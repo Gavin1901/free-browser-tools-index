@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://livephotokit.com/",
+    "error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='livephotokit.com', port=443): Max retries exceeded with url: /?v=202607160940 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))\"))"
+  },
+  {
+    "url": "https://freetdee.com/",
+    "status": 200,
+    "title": "Free TDEE Calculator - BMR, Calorie & Macro Tools",
+    "title_len": 49,
+    "bad_chars": false
+  },
+  {
+    "url": "https://pupvax.com/",
+    "status": 200,
+    "title": "PupVax - Dog Vaccine Schedule Tracker",
+    "title_len": 37,
+    "bad_chars": false
+  }
+]
