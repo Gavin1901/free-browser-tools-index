@@ -1,0 +1,147 @@
+{
+  "generated_at": "2026-07-16T10:50:43.471867",
+  "local_git_projects": [
+    {
+      "project": "freetdee",
+      "path": "D:\\Tools\\freetdee",
+      "git_head": "a8d5752",
+      "git_status_clean": true,
+      "recent_commits": [
+        "a8d5752 Move local backup files out of source tree",
+        "cdbed9f Baseline after 2026-07-16 weak-site reinforcement"
+      ],
+      "backup_files_in_src": []
+    },
+    {
+      "project": "pupvax",
+      "path": "D:\\Tools\\pupvax",
+      "git_head": "9b847c7",
+      "git_status_clean": true,
+      "recent_commits": [
+        "9b847c7 Move local backup files out of source tree",
+        "7e6d673 Baseline after 2026-07-16 weak-site reinforcement"
+      ],
+      "backup_files_in_src": []
+    },
+    {
+      "project": "invoicepad",
+      "path": "D:\\Tools\\invoicepad",
+      "git_head": "8c85440",
+      "git_status_clean": true,
+      "recent_commits": [
+        "8c85440 Move local backup files out of source tree",
+        "0d5e04a Baseline after 2026-07-16 weak-site reinforcement"
+      ],
+      "backup_files_in_src": []
+    },
+    {
+      "project": "zoneplan",
+      "path": "D:\\Tools\\zoneplan",
+      "git_head": "cce7f0f",
+      "git_status_clean": true,
+      "recent_commits": [
+        "cce7f0f Move local backup files out of source tree",
+        "fca67df Baseline after 2026-07-16 weak-site reinforcement"
+      ],
+      "backup_files_in_src": []
+    }
+  ],
+  "live_8site_audit": [
+    {
+      "domain": "iworkviewer.com",
+      "home_status": 200,
+      "title": "iWorkViewer - Open Apple iWork Files Online",
+      "canonical": true,
+      "noindex": false,
+      "bad_codepoints": [],
+      "robots_status": 200,
+      "sitemap_status": 200,
+      "sitemap_locs": 51,
+      "cross_domain_count": 0
+    },
+    {
+      "domain": "livephotokit.com",
+      "home_status": 200,
+      "title": "LivePhotoKit - Free HEIC &amp; Live Photo Converter",
+      "canonical": true,
+      "noindex": false,
+      "bad_codepoints": [],
+      "robots_status": 200,
+      "sitemap_status": 200,
+      "sitemap_locs": 27,
+      "cross_domain_count": 0
+    },
+    {
+      "domain": "plantingcalendar.net",
+      "home_status": 200,
+      "title": "2026 Vegetable Planting Calendar by USDA Zone | PlantingCalendar",
+      "canonical": true,
+      "noindex": false,
+      "bad_codepoints": [],
+      "robots_status": 200,
+      "sitemap_status": 200,
+      "sitemap_locs": 365,
+      "cross_domain_count": 0
+    },
+    {
+      "domain": "freetdee.com",
+      "home_status": 200,
+      "title": "Free TDEE Calculator - BMR, Calorie &amp; Macro Tools",
+      "canonical": true,
+      "noindex": false,
+      "bad_codepoints": [],
+      "robots_status": 200,
+      "sitemap_status": 200,
+      "sitemap_locs": 43,
+      "cross_domain_count": 0
+    },
+    {
+      "domain": "babypercent.com",
+      "home_status": 200,
+      "title": "BabyPercent - Free Baby Growth Percentile Calculator",
+      "canonical": true,
+      "noindex": false,
+      "bad_codepoints": [],
+      "robots_status": 200,
+      "sitemap_status": 200,
+      "sitemap_locs": 35,
+      "cross_domain_count": 0
+    },
+    {
+      "domain": "invoicepad.net",
+      "home_status": 200,
+      "title": "InvoicePad - Free Invoice Generator for Freelancers",
+      "canonical": true,
+      "noindex": false,
+      "bad_codepoints": [],
+      "robots_status": 200,
+      "sitemap_status": 200,
+      "sitemap_locs": 29,
+      "cross_domain_count": 0
+    },
+    {
+      "domain": "zoneplan.net",
+      "home_status": 200,
+      "title": "2026 Time Zone Meeting Planner | ZonePlan Free Converter",
+      "canonical": true,
+      "noindex": false,
+      "bad_codepoints": [],
+      "robots_status": 200,
+      "sitemap_status": 200,
+      "sitemap_locs": 95,
+      "cross_domain_count": 0
+    },
+    {
+      "domain": "pupvax.com",
+      "home_status": 200,
+      "title": "PupVax - Dog Vaccine Schedule Tracker",
+      "canonical": true,
+      "noindex": false,
+      "bad_codepoints": [],
+      "robots_status": 200,
+      "sitemap_status": 200,
+      "sitemap_locs": 36,
+      "cross_domain_count": 0
+    }
+  ]
+}
