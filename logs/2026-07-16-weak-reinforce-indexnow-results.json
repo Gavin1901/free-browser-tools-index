@@ -1,0 +1,26 @@
+﻿[
+    {
+        "domain":  "invoicepad.net",
+        "urls":  7,
+        "indexnow":  200,
+        "payload":  "D:\\Tools\\ai-tool-index\\logs\\2026-07-16-invoicepad.net-weak-reinforce-indexnow.json"
+    },
+    {
+        "domain":  "zoneplan.net",
+        "urls":  7,
+        "indexnow":  200,
+        "payload":  "D:\\Tools\\ai-tool-index\\logs\\2026-07-16-zoneplan.net-weak-reinforce-indexnow.json"
+    },
+    {
+        "domain":  "freetdee.com",
+        "urls":  7,
+        "indexnow":  200,
+        "payload":  "D:\\Tools\\ai-tool-index\\logs\\2026-07-16-freetdee.com-weak-reinforce-indexnow.json"
+    },
+    {
+        "domain":  "pupvax.com",
+        "urls":  7,
+        "indexnow":  200,
+        "payload":  "D:\\Tools\\ai-tool-index\\logs\\2026-07-16-pupvax.com-weak-reinforce-indexnow.json"
+    }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "domain": "freetdee.com",
+    "url": "https://freetdee.com/?v=20260716weakfix",
+    "status": 200,
+    "title": "Free TDEE Calculator - BMR, Calorie &amp; Macro Tools",
+    "checks": {
+      "Start with the pages people are already searching for": true,
+      "Calorie deficit calculator": true
+    },
+    "bad_mojibake_markers": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+    ]
+  },
+  {
+    "domain": "pupvax.com",
+    "url": "https://pupvax.com/?v=20260716weakfix",
+    "status": 200,
+    "title": "PupVax - Dog Vaccine Schedule Tracker",
+    "checks": {
+      "Most searched dog vaccine and deworming guides": true,
+      "Dog deworming schedule": true
+    },
+    "bad_mojibake_markers": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+    ]
+  },
+  {
+    "domain": "invoicepad.net",
+    "url": "https://invoicepad.net/?v=20260716weakfix",
+    "status": 200,
+    "title": "InvoicePad - Free Invoice Generator for Freelancers",
+    "checks": {
+      "Templates getting impressions right now": true,
+      "Free estimate maker": true
+    },
+    "bad_mojibake_markers": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+    ]
+  },
+  {
+    "domain": "zoneplan.net",
+    "url": "https://zoneplan.net/?v=20260716weakfix",
+    "status": 200,
+    "title": "2026 Time Zone Meeting Planner | ZonePlan Free Converter",
+    "checks": {
+      "Time zone meeting planner": true,
+      "San Francisco to Bangalore": true
+    },
+    "bad_mojibake_markers": [
+      "?",
+      "?",
+      "?",
+      "?",
+      "?",
+      "?"
+    ]
+  }
+]
