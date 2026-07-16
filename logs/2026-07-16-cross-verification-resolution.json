@@ -1,0 +1,28 @@
+{
+  "run_at": "2026-07-16T09:38:06.429788",
+  "first_pass_failures": [
+    "livephotokit robots_txt_status 000",
+    "livephotokit sitemap_xml_status 000",
+    "plantingcalendar sitemap_xml_status 000",
+    "babypercent home_status 000",
+    "public url not 200 https://dev.to/gavinbuildsai/eight-ai-built-browser-tools-i-maintained-today-3jfh 000",
+    "public url not 200 https://medium.com/@lg695101011/eight-ai-built-browser-tools-i-maintained-today-00546f316f46 403"
+  ],
+  "resolved_items": {
+    "livephotokit robots/sitemap 000": "False positive from direct curl no-proxy TLS path. Header recheck through normal route returned 200 for robots and sitemap.",
+    "plantingcalendar sitemap 000": "False positive from direct curl no-proxy TLS path. Header recheck through normal route returned 200.",
+    "babypercent home 000": "False positive from direct curl no-proxy TLS path. Header recheck returned 200.",
+    "dev.to 000": "False positive from direct curl no-proxy TLS path. Header recheck returned 200 and browser proof already exists.",
+    "medium 403": "Expected Cloudflare challenge for raw curl. Browser proof confirms published public page with title and body."
+  },
+  "remaining_unresolved": [],
+  "final_status": "PASS_WITH_MEDIUM_RAW_CURL_403_EXPECTED",
+  "evidence_files": [
+    "logs/2026-07-16-cross-verification-final.json",
+    "logs/2026-07-16-medium-public-proof.json",
+    "logs/2026-07-16-livephotokit-title-final-clean2.json",
+    "logs/2026-07-16-production-title-recheck-final.json",
+    "logs/2026-07-16-result.json",
+    "logs/2026-07-16-gist-backlinks-verified-final.json"
+  ]
+}

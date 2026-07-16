@@ -1,0 +1,245 @@
+{
+  "run_at": "2026-07-16T09:35:11.602072",
+  "sites": [
+    {
+      "name": "iworkviewer",
+      "url": "https://iworkviewer.com/",
+      "home_status": "200",
+      "title": "iWorkViewer - Open Apple iWork Files Online",
+      "title_len": 43,
+      "description_len": 124,
+      "bad_chars": false,
+      "has_ga4": true,
+      "has_adsense": true,
+      "robots_txt_status": "200",
+      "sitemap_xml_status": "200",
+      "sitemap_loc_count": 51,
+      "sitemap_same_domain": true
+    },
+    {
+      "name": "livephotokit",
+      "url": "https://livephotokit.com/",
+      "home_status": "200",
+      "title": "LivePhotoKit - Free HEIC & Live Photo Converter",
+      "title_len": 47,
+      "description_len": 153,
+      "bad_chars": false,
+      "has_ga4": true,
+      "has_adsense": true,
+      "robots_txt_status": "000",
+      "sitemap_xml_status": "000",
+      "sitemap_loc_count": 0,
+      "sitemap_same_domain": false
+    },
+    {
+      "name": "plantingcalendar",
+      "url": "https://plantingcalendar.net/",
+      "home_status": "200",
+      "title": "2026 Vegetable Planting Calendar by USDA Zone | PlantingCalendar",
+      "title_len": 64,
+      "description_len": 130,
+      "bad_chars": false,
+      "has_ga4": true,
+      "has_adsense": true,
+      "robots_txt_status": "200",
+      "sitemap_xml_status": "000",
+      "sitemap_loc_count": 0,
+      "sitemap_same_domain": false
+    },
+    {
+      "name": "freetdee",
+      "url": "https://freetdee.com/",
+      "home_status": "200",
+      "title": "Free TDEE Calculator - BMR, Calorie & Macro Tools",
+      "title_len": 49,
+      "description_len": 148,
+      "bad_chars": false,
+      "has_ga4": true,
+      "has_adsense": true,
+      "robots_txt_status": "200",
+      "sitemap_xml_status": "200",
+      "sitemap_loc_count": 43,
+      "sitemap_same_domain": true
+    },
+    {
+      "name": "babypercent",
+      "url": "https://babypercent.com/",
+      "home_status": "000",
+      "title": "",
+      "title_len": 0,
+      "description_len": 0,
+      "bad_chars": false,
+      "has_ga4": false,
+      "has_adsense": false,
+      "robots_txt_status": "200",
+      "sitemap_xml_status": "200",
+      "sitemap_loc_count": 35,
+      "sitemap_same_domain": true
+    },
+    {
+      "name": "invoicepad",
+      "url": "https://invoicepad.net/",
+      "home_status": "200",
+      "title": "InvoicePad - Free Invoice Generator for Freelancers",
+      "title_len": 51,
+      "description_len": 145,
+      "bad_chars": false,
+      "has_ga4": true,
+      "has_adsense": true,
+      "robots_txt_status": "200",
+      "sitemap_xml_status": "200",
+      "sitemap_loc_count": 29,
+      "sitemap_same_domain": true
+    },
+    {
+      "name": "zoneplan",
+      "url": "https://zoneplan.net/",
+      "home_status": "200",
+      "title": "2026 Time Zone Meeting Planner | ZonePlan Free Converter",
+      "title_len": 56,
+      "description_len": 143,
+      "bad_chars": false,
+      "has_ga4": true,
+      "has_adsense": true,
+      "robots_txt_status": "200",
+      "sitemap_xml_status": "200",
+      "sitemap_loc_count": 95,
+      "sitemap_same_domain": true
+    },
+    {
+      "name": "pupvax",
+      "url": "https://pupvax.com/",
+      "home_status": "200",
+      "title": "PupVax - Dog Vaccine Schedule Tracker",
+      "title_len": 37,
+      "description_len": 145,
+      "bad_chars": false,
+      "has_ga4": true,
+      "has_adsense": true,
+      "robots_txt_status": "200",
+      "sitemap_xml_status": "200",
+      "sitemap_loc_count": 36,
+      "sitemap_same_domain": true
+    }
+  ],
+  "public_links": [
+    {
+      "url": "https://dev.to/gavinbuildsai/eight-ai-built-browser-tools-i-maintained-today-3jfh",
+      "status": "000",
+      "has_iwork": false,
+      "has_freetdee": false,
+      "has_zoneplan": false,
+      "has_evidence": false
+    },
+    {
+      "url": "https://medium.com/@lg695101011/eight-ai-built-browser-tools-i-maintained-today-00546f316f46",
+      "status": "403",
+      "has_iwork": false,
+      "has_freetdee": false,
+      "has_zoneplan": false,
+      "has_evidence": false
+    },
+    {
+      "url": "https://github.com/Gavin1901/free-browser-tools-index/issues/8",
+      "status": "200",
+      "has_iwork": true,
+      "has_freetdee": true,
+      "has_zoneplan": true,
+      "has_evidence": true
+    },
+    {
+      "url": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-16-live-publish-and-site-repair.md",
+      "status": "200",
+      "has_iwork": false,
+      "has_freetdee": false,
+      "has_zoneplan": false,
+      "has_evidence": true
+    },
+    {
+      "url": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-16-backlink-reinforcement.md",
+      "status": "200",
+      "has_iwork": false,
+      "has_freetdee": true,
+      "has_zoneplan": true,
+      "has_evidence": true
+    },
+    {
+      "url": "https://gist.github.com/Gavin1901/171ef604d099837c040ab6864f48f89e",
+      "status": "200",
+      "has_iwork": false,
+      "has_freetdee": true,
+      "has_zoneplan": false,
+      "has_evidence": true
+    },
+    {
+      "url": "https://gist.github.com/Gavin1901/1f00a2b3251e298018e2c21cb54d1147",
+      "status": "200",
+      "has_iwork": false,
+      "has_freetdee": false,
+      "has_zoneplan": false,
+      "has_evidence": true
+    },
+    {
+      "url": "https://gist.github.com/Gavin1901/25f479ad8fa072751c0f683939edf04e",
+      "status": "200",
+      "has_iwork": false,
+      "has_freetdee": false,
+      "has_zoneplan": true,
+      "has_evidence": true
+    },
+    {
+      "url": "https://gist.github.com/Gavin1901/63463e28aea28f36e30da7b84a3155f7",
+      "status": "200",
+      "has_iwork": false,
+      "has_freetdee": false,
+      "has_zoneplan": false,
+      "has_evidence": true
+    }
+  ],
+  "logs": {
+    "2026-07-16-result.json": {
+      "exists": true,
+      "size": 1474
+    },
+    "2026-07-16-gist-backlinks-verified-final.json": {
+      "exists": true,
+      "size": 2040
+    },
+    "2026-07-16-backlink-reinforcement-public-check.json": {
+      "exists": true,
+      "size": 243
+    },
+    "2026-07-16-devto-browser-proof.json": {
+      "exists": true,
+      "size": 3541
+    },
+    "2026-07-16-medium-public-proof.json": {
+      "exists": true,
+      "size": 4552
+    },
+    "2026-07-16-livephotokit-title-final-clean2.json": {
+      "exists": true,
+      "size": 146
+    },
+    "2026-07-16-production-title-recheck-final.json": {
+      "exists": true,
+      "size": 680
+    },
+    "2026-07-16-course-level-8site-audit.json": {
+      "exists": true,
+      "size": 5224
+    },
+    "2026-07-16-chrome-8sites-visual-proof.json": {
+      "exists": true,
+      "size": 2185
+    }
+  },
+  "failures": [
+    "livephotokit robots_txt_status 000",
+    "livephotokit sitemap_xml_status 000",
+    "plantingcalendar sitemap_xml_status 000",
+    "babypercent home_status 000",
+    "public url not 200 https://dev.to/gavinbuildsai/eight-ai-built-browser-tools-i-maintained-today-3jfh 000",
+    "public url not 200 https://medium.com/@lg695101011/eight-ai-built-browser-tools-i-maintained-today-00546f316f46 403"
+  ]
+}
