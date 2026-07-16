@@ -1,0 +1,14 @@
+﻿{
+    "host":  "zoneplan.net",
+    "key":  "gavin-ai-export-20260710-0c8847231c234f0d",
+    "urlList":  [
+                    "https://zoneplan.net/",
+                    "https://zoneplan.net/meeting-planner/",
+                    "https://zoneplan.net/global-meeting-planner/",
+                    "https://zoneplan.net/world-clock-meeting-planner/",
+                    "https://zoneplan.net/international-meeting-planner/",
+                    "https://zoneplan.net/new-york-to-london/",
+                    "https://zoneplan.net/san-francisco-to-bangalore/"
+                ],
+    "keyLocation":  "https://zoneplan.net/gavin-ai-export-20260710-0c8847231c234f0d.txt"
+}

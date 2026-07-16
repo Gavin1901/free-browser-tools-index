@@ -1,0 +1,14 @@
+﻿{
+    "host":  "invoicepad.net",
+    "key":  "gavin-ai-export-20260710-0c8847231c234f0d",
+    "urlList":  [
+                    "https://invoicepad.net/",
+                    "https://invoicepad.net/invoice-templates/",
+                    "https://invoicepad.net/estimate-generator/",
+                    "https://invoicepad.net/invoice-template/web-developer/",
+                    "https://invoicepad.net/invoice-template/freelance-writer/",
+                    "https://invoicepad.net/invoice-template/handyman/",
+                    "https://invoicepad.net/receipt-maker/"
+                ],
+    "keyLocation":  "https://invoicepad.net/gavin-ai-export-20260710-0c8847231c234f0d.txt"
+}
