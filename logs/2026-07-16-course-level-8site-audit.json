@@ -1,0 +1,142 @@
+[
+  {
+    "url": "https://iworkviewer.com/",
+    "home_status": 200,
+    "home_len": 42146,
+    "title": "iWorkViewer - Open Apple iWork Files Online",
+    "description": "Can't open a .pages, .numbers, or .key file on Windows or Android? View Apple iWork files in your browser and export to PDF.",
+    "canonical": "https://iworkviewer.com/",
+    "robots_meta": "",
+    "h1": [
+      "Open Apple Pages, Numbers & Keynote on Any Device. Free. Private."
+    ],
+    "has_ga4": true,
+    "has_adsense": true,
+    "robots.txt_status": 200,
+    "robots.txt_len": 1905,
+    "sitemap.xml_status": 200,
+    "sitemap.xml_len": 8747,
+    "sitemap_loc_count": 51,
+    "sitemap_same_domain": true,
+    "issues": []
+  },
+  {
+    "url": "https://livephotokit.com/",
+    "home_status": 200,
+    "home_len": 35531,
+    "title": "LivePhotoKit — 2026 Free HEIC & Live Photo Converter",
+    "description": "Free online HEIC & Live Photo converter. Open .livp files, extract JPG/MP4, batch convert, compress in your browser. No upload, no sign-up, 100% private.",
+    "canonical": "https://livephotokit.com/",
+    "robots_meta": "",
+    "h1": [
+      "2026 Free HEIC & Live Photo Converter"
+    ],
+    "has_ga4": true,
+    "has_adsense": true,
+    "robots.txt_status": 200,
+    "robots.txt_len": 1906,
+    "sitemap.xml_status": 200,
+    "sitemap.xml_len": 4614,
+    "sitemap_loc_count": 27,
+    "sitemap_same_domain": true,
+    "issues": []
+  },
+  {
+    "url": "https://plantingcalendar.net/",
+    "home_error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='plantingcalendar.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))\"))",
+    "robots.txt_status": 200,
+    "robots.txt_len": 1910,
+    "sitemap.xml_status": 200,
+    "sitemap.xml_len": 61027,
+    "sitemap_loc_count": 365,
+    "sitemap_same_domain": true,
+    "issues": [
+      "home_not_200",
+      "missing_title"
+    ]
+  },
+  {
+    "url": "https://freetdee.com/",
+    "home_status": 200,
+    "home_len": 71195,
+    "title": "2026 Free TDEE Calculator — BMR, Calorie & Macro Tools",
+    "description": "Free 2026 TDEE calculator. Calculate your daily calorie needs for weight loss, muscle gain or maintenance. BMR, macros & nutrition tools. No signup.",
+    "canonical": "https://freetdee.com/",
+    "robots_meta": "",
+    "h1": [
+      "2026 Free TDEE & Calorie Calculator"
+    ],
+    "has_ga4": true,
+    "has_adsense": true,
+    "robots.txt_status": 200,
+    "robots.txt_len": 1902,
+    "sitemap.xml_status": 200,
+    "sitemap.xml_len": 7470,
+    "sitemap_loc_count": 43,
+    "sitemap_same_domain": true,
+    "issues": []
+  },
+  {
+    "url": "https://babypercent.com/",
+    "home_error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='babypercent.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))\"))",
+    "robots.txt_status": 200,
+    "robots.txt_len": 1905,
+    "sitemap.xml_status": 200,
+    "sitemap.xml_len": 5821,
+    "sitemap_loc_count": 35,
+    "sitemap_same_domain": true,
+    "issues": [
+      "home_not_200",
+      "missing_title"
+    ]
+  },
+  {
+    "url": "https://invoicepad.net/",
+    "home_status": 200,
+    "home_len": 77308,
+    "title": "InvoicePad - Free Invoice Generator for Freelancers",
+    "description": "Free 2026 invoice generator for freelancers. Create professional PDF invoices in seconds with no sign-up, no watermark, and browser-only privacy.",
+    "canonical": "https://invoicepad.net/",
+    "robots_meta": "",
+    "h1": [
+      "2026 Free Invoice Generator for Freelancers"
+    ],
+    "has_ga4": true,
+    "has_adsense": true,
+    "robots.txt_status": 200,
+    "robots.txt_len": 1904,
+    "sitemap.xml_status": 200,
+    "sitemap.xml_len": 5240,
+    "sitemap_loc_count": 29,
+    "sitemap_same_domain": true,
+    "issues": []
+  },
+  {
+    "url": "https://zoneplan.net/",
+    "home_error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='zoneplan.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))\"))",
+    "robots.txt_status": 200,
+    "robots.txt_len": 1902,
+    "sitemap.xml_status": 200,
+    "sitemap.xml_len": 16143,
+    "sitemap_loc_count": 95,
+    "sitemap_same_domain": true,
+    "issues": [
+      "home_not_200",
+      "missing_title"
+    ]
+  },
+  {
+    "url": "https://pupvax.com/",
+    "home_error": "SSLError(MaxRetryError(\"HTTPSConnectionPool(host='pupvax.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))\"))",
+    "robots.txt_status": 200,
+    "robots.txt_len": 1900,
+    "sitemap.xml_status": 200,
+    "sitemap.xml_len": 6224,
+    "sitemap_loc_count": 36,
+    "sitemap_same_domain": true,
+    "issues": [
+      "home_not_200",
+      "missing_title"
+    ]
+  }
+]

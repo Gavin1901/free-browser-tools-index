@@ -1,0 +1,46 @@
+[
+  {
+    "file": "daily\\2026-07-16-freetdee-calorie-macro-planner.md",
+    "title": "Free TDEE calculator and macro planning notes",
+    "returncode": 0,
+    "stdout": "https://gist.github.com/Gavin1901/171ef604d099837c040ab6864f48f89e",
+    "stderr": "- Creating gist 2026-07-16-freetdee-calorie-macro-planner.md\n✓ Created public gist 2026-07-16-freetdee-calorie-macro-planner.md",
+    "targets": [
+      "https://freetdee.com/",
+      "https://freetdee.com/tdee-calculator/"
+    ]
+  },
+  {
+    "file": "daily\\2026-07-16-pupvax-puppy-vaccine-schedule.md",
+    "title": "Puppy vaccine schedule tracker notes",
+    "returncode": 0,
+    "stdout": "https://gist.github.com/Gavin1901/1f00a2b3251e298018e2c21cb54d1147",
+    "stderr": "- Creating gist 2026-07-16-pupvax-puppy-vaccine-schedule.md\n✓ Created public gist 2026-07-16-pupvax-puppy-vaccine-schedule.md",
+    "targets": [
+      "https://pupvax.com/",
+      "https://pupvax.com/puppy-vaccine-schedule/"
+    ]
+  },
+  {
+    "file": "daily\\2026-07-16-zoneplan-global-meeting-pages.md",
+    "title": "Global meeting planner and world clock pages",
+    "returncode": 0,
+    "stdout": "https://gist.github.com/Gavin1901/25f479ad8fa072751c0f683939edf04e",
+    "stderr": "- Creating gist 2026-07-16-zoneplan-global-meeting-pages.md\n✓ Created public gist 2026-07-16-zoneplan-global-meeting-pages.md",
+    "targets": [
+      "https://zoneplan.net/global-meeting-planner/",
+      "https://zoneplan.net/world-clock-meeting-planner/"
+    ]
+  },
+  {
+    "file": "daily\\2026-07-16-invoicepad-freelancer-invoice-generator.md",
+    "title": "Free invoice generator for freelancers",
+    "returncode": 0,
+    "stdout": "https://gist.github.com/Gavin1901/63463e28aea28f36e30da7b84a3155f7",
+    "stderr": "- Creating gist 2026-07-16-invoicepad-freelancer-invoice-generator.md\n✓ Created public gist 2026-07-16-invoicepad-freelancer-invoice-generator.md",
+    "targets": [
+      "https://invoicepad.net/",
+      "https://invoicepad.net/invoice-generator/"
+    ]
+  }
+]

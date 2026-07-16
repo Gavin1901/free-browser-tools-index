@@ -1,0 +1,24 @@
+[
+  {
+    "gist_id": "171ef604d099837c040ab6864f48f89e",
+    "file": "daily/2026-07-16-freetdee-calorie-macro-planner.md",
+    "returncode": 0,
+    "stdout": "",
+    "stderr": "",
+    "targets": [
+      "https://freetdee.com/",
+      "https://freetdee.com/calorie-calculator/"
+    ]
+  },
+  {
+    "gist_id": "63463e28aea28f36e30da7b84a3155f7",
+    "file": "daily/2026-07-16-invoicepad-freelancer-invoice-generator.md",
+    "returncode": 0,
+    "stdout": "",
+    "stderr": "",
+    "targets": [
+      "https://invoicepad.net/",
+      "https://invoicepad.net/invoice-templates/"
+    ]
+  }
+]
