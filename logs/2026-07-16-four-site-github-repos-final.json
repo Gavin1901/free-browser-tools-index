@@ -1,0 +1,42 @@
+﻿[
+    {
+        "repo":  "freetdee",
+        "url":  "https://github.com/Gavin1901/freetdee",
+        "visibility":  "PRIVATE",
+        "default_branch":  "master",
+        "local_head":  "a8d5752",
+        "remote_master":  "a8d5752",
+        "clean":  true,
+        "remote":  "https://github.com/Gavin1901/freetdee.git"
+    },
+    {
+        "repo":  "invoicepad",
+        "url":  "https://github.com/Gavin1901/invoicepad",
+        "visibility":  "PRIVATE",
+        "default_branch":  "master",
+        "local_head":  "8c85440",
+        "remote_master":  "8c85440",
+        "clean":  true,
+        "remote":  "https://github.com/Gavin1901/invoicepad.git"
+    },
+    {
+        "repo":  "pupvax",
+        "url":  "https://github.com/Gavin1901/pupvax",
+        "visibility":  "PRIVATE",
+        "default_branch":  "master",
+        "local_head":  "9b847c7",
+        "remote_master":  "9b847c7",
+        "clean":  true,
+        "remote":  "https://github.com/Gavin1901/pupvax.git"
+    },
+    {
+        "repo":  "zoneplan",
+        "url":  "https://github.com/Gavin1901/zoneplan",
+        "visibility":  "PRIVATE",
+        "default_branch":  "master",
+        "local_head":  "cce7f0f",
+        "remote_master":  "cce7f0f",
+        "clean":  true,
+        "remote":  "https://github.com/Gavin1901/zoneplan.git"
+    }
+]
