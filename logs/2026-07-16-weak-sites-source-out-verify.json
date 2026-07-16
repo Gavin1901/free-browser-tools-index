@@ -1,0 +1,54 @@
+[
+  {
+    "project": "freetdee",
+    "source_checks": {
+      "Start with the pages people are already searching for": true,
+      "Calorie deficit calculator": true
+    },
+    "out_checks": {
+      "Start with the pages people are already searching for": true,
+      "Calorie deficit calculator": true
+    },
+    "source_bad_codepoints": [],
+    "out_bad_codepoints": []
+  },
+  {
+    "project": "pupvax",
+    "source_checks": {
+      "Most searched dog vaccine and deworming guides": true,
+      "Dog deworming schedule": true
+    },
+    "out_checks": {
+      "Most searched dog vaccine and deworming guides": true,
+      "Dog deworming schedule": true
+    },
+    "source_bad_codepoints": [],
+    "out_bad_codepoints": []
+  },
+  {
+    "project": "invoicepad",
+    "source_checks": {
+      "Templates getting impressions right now": true,
+      "Free estimate maker": true
+    },
+    "out_checks": {
+      "Templates getting impressions right now": true,
+      "Free estimate maker": true
+    },
+    "source_bad_codepoints": [],
+    "out_bad_codepoints": []
+  },
+  {
+    "project": "zoneplan",
+    "source_checks": {
+      "Time zone meeting planner": true,
+      "San Francisco to Bangalore": true
+    },
+    "out_checks": {
+      "Time zone meeting planner": true,
+      "San Francisco to Bangalore": true
+    },
+    "source_bad_codepoints": [],
+    "out_bad_codepoints": []
+  }
+]

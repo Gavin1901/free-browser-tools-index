@@ -1,0 +1,98 @@
+[
+  {
+    "domain": "iworkviewer.com",
+    "home_status": 200,
+    "title": "iWorkViewer - Open Apple iWork Files Online",
+    "has_noindex": false,
+    "has_canonical": true,
+    "bad_codepoints": [],
+    "robots_status": 200,
+    "sitemap_status": 200,
+    "sitemap_locs": 51,
+    "sitemap_cross_domain": []
+  },
+  {
+    "domain": "livephotokit.com",
+    "home_status": 200,
+    "title": "LivePhotoKit - Free HEIC &amp; Live Photo Converter",
+    "has_noindex": false,
+    "has_canonical": true,
+    "bad_codepoints": [],
+    "robots_status": 200,
+    "sitemap_status": 200,
+    "sitemap_locs": 27,
+    "sitemap_cross_domain": []
+  },
+  {
+    "domain": "plantingcalendar.net",
+    "home_status": 200,
+    "title": "2026 Vegetable Planting Calendar by USDA Zone | PlantingCalendar",
+    "has_noindex": false,
+    "has_canonical": true,
+    "bad_codepoints": [],
+    "robots_status": 200,
+    "sitemap_status": 200,
+    "sitemap_locs": 365,
+    "sitemap_cross_domain": []
+  },
+  {
+    "domain": "freetdee.com",
+    "home_status": 200,
+    "title": "Free TDEE Calculator - BMR, Calorie &amp; Macro Tools",
+    "has_noindex": false,
+    "has_canonical": true,
+    "bad_codepoints": [],
+    "robots_status": 200,
+    "sitemap_status": 200,
+    "sitemap_locs": 43,
+    "sitemap_cross_domain": []
+  },
+  {
+    "domain": "babypercent.com",
+    "home_status": 200,
+    "title": "BabyPercent - Free Baby Growth Percentile Calculator",
+    "has_noindex": false,
+    "has_canonical": true,
+    "bad_codepoints": [],
+    "robots_status": 200,
+    "sitemap_status": 200,
+    "sitemap_locs": 35,
+    "sitemap_cross_domain": []
+  },
+  {
+    "domain": "invoicepad.net",
+    "home_status": 200,
+    "title": "InvoicePad - Free Invoice Generator for Freelancers",
+    "has_noindex": false,
+    "has_canonical": true,
+    "bad_codepoints": [],
+    "robots_status": 200,
+    "sitemap_status": 200,
+    "sitemap_locs": 29,
+    "sitemap_cross_domain": []
+  },
+  {
+    "domain": "zoneplan.net",
+    "home_status": 200,
+    "title": "2026 Time Zone Meeting Planner | ZonePlan Free Converter",
+    "has_noindex": false,
+    "has_canonical": true,
+    "bad_codepoints": [],
+    "robots_status": 200,
+    "sitemap_status": 200,
+    "sitemap_locs": 95,
+    "sitemap_cross_domain": []
+  },
+  {
+    "domain": "pupvax.com",
+    "home_status": 200,
+    "title": "PupVax - Dog Vaccine Schedule Tracker",
+    "has_noindex": false,
+    "has_canonical": true,
+    "bad_codepoints": [],
+    "robots_status": 200,
+    "sitemap_status": 200,
+    "sitemap_locs": 36,
+    "sitemap_cross_domain": []
+  }
+]
