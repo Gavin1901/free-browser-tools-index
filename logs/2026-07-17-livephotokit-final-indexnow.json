@@ -1,0 +1,15 @@
+﻿{
+    "host":  "livephotokit.com",
+    "key":  "0f3e7a9c4b2d16850fa9c7e3b1d64a28",
+    "urlList":  [
+                    "https://livephotokit.com/",
+                    "https://livephotokit.com/sitemap.xml",
+                    "https://livephotokit.com/about/",
+                    "https://livephotokit.com/contact/",
+                    "https://livephotokit.com/heic-live-photo/",
+                    "https://livephotokit.com/heic-to-jpg/",
+                    "https://livephotokit.com/vs/cloudconvert-heic/",
+                    "https://livephotokit.com/blog/how-to-open-heic-files-on-windows-11/"
+                ],
+    "keyLocation":  "https://livephotokit.com/0f3e7a9c4b2d16850fa9c7e3b1d64a28.txt"
+}

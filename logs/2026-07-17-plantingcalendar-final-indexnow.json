@@ -1,0 +1,17 @@
+﻿{
+    "host":  "plantingcalendar.net",
+    "key":  "gavin-ai-export-20260710-0c8847231c234f0d",
+    "urlList":  [
+                    "https://plantingcalendar.net/",
+                    "https://plantingcalendar.net/sitemap.xml",
+                    "https://plantingcalendar.net/blog/beginner-garden-guide/",
+                    "https://plantingcalendar.net/blog/composting-101/",
+                    "https://plantingcalendar.net/blog/soil-preparation/",
+                    "https://plantingcalendar.net/vs/almanac-garden-planner/",
+                    "https://plantingcalendar.net/vs/seedtime-garden/",
+                    "https://plantingcalendar.net/vs/planter-garden/",
+                    "https://plantingcalendar.net/zones/3a/",
+                    "https://plantingcalendar.net/vegetables/tomato/"
+                ],
+    "keyLocation":  "https://plantingcalendar.net/gavin-ai-export-20260710-0c8847231c234f0d.txt"
+}

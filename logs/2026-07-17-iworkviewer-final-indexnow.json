@@ -1,0 +1,15 @@
+﻿{
+    "host":  "iworkviewer.com",
+    "key":  "6d9c5b4e2a1f4c7b9e8d3a2f1c6b5e4d",
+    "urlList":  [
+                    "https://iworkviewer.com/",
+                    "https://iworkviewer.com/sitemap.xml",
+                    "https://iworkviewer.com/about/",
+                    "https://iworkviewer.com/contact/",
+                    "https://iworkviewer.com/vs/cloudconvert-iwork/",
+                    "https://iworkviewer.com/open/pages-on-mac/",
+                    "https://iworkviewer.com/pages-to-pdf/",
+                    "https://iworkviewer.com/numbers-to-excel/"
+                ],
+    "keyLocation":  "https://iworkviewer.com/6d9c5b4e2a1f4c7b9e8d3a2f1c6b5e4d.txt"
+}
