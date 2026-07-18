@@ -1,0 +1,42 @@
+﻿[
+    {
+        "site":  "https://iworkviewer.com/",
+        "status":  200,
+        "final":  "https://iworkviewer.com/"
+    },
+    {
+        "site":  "https://livephotokit.com/",
+        "status":  200,
+        "final":  "https://livephotokit.com/"
+    },
+    {
+        "site":  "https://plantingcalendar.net/",
+        "status":  200,
+        "final":  "https://plantingcalendar.net/"
+    },
+    {
+        "site":  "https://freetdee.com/",
+        "status":  200,
+        "final":  "https://freetdee.com/"
+    },
+    {
+        "site":  "https://babypercent.com/",
+        "status":  200,
+        "final":  "https://babypercent.com/"
+    },
+    {
+        "site":  "https://invoicepad.net/",
+        "status":  200,
+        "final":  "https://invoicepad.net/"
+    },
+    {
+        "site":  "https://zoneplan.net/",
+        "status":  200,
+        "final":  "https://zoneplan.net/"
+    },
+    {
+        "site":  "https://pupvax.com/",
+        "status":  200,
+        "final":  "https://pupvax.com/"
+    }
+]
