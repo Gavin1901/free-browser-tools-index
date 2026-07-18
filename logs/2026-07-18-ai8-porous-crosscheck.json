@@ -1,0 +1,526 @@
+[
+  {
+    "domain": "iworkviewer.com",
+    "home": {
+      "url": "https://iworkviewer.com/",
+      "status": 200,
+      "final_url": "https://iworkviewer.com/",
+      "title": "iWorkViewer - Open Apple iWork Files Online",
+      "title_len": 43,
+      "description_len": 129,
+      "canonical": "https://iworkviewer.com/",
+      "noindex": false,
+      "h1_count": 1,
+      "ga": true,
+      "adsense": true
+    },
+    "robots_status": 200,
+    "robots_has_sitemap": true,
+    "robots_disallow_all": true,
+    "sitemap_status": 200,
+    "sitemap_url_count": 53,
+    "sitemap_same_domain": true,
+    "focus": [
+      {
+        "url": "https://iworkviewer.com/open/pages-on-android/",
+        "status": 200,
+        "final_url": "https://iworkviewer.com/open/pages-on-android/",
+        "title": "Open .pages File on Android 2026 - Free, No Mac Needed",
+        "title_len": 54,
+        "description_len": 205,
+        "canonical": "https://iworkviewer.com/open/pages-on-android/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://iworkviewer.com/about/",
+        "status": 200,
+        "final_url": "https://iworkviewer.com/about/",
+        "title": "About iWorkViewer (2026) — Apple iWork file viewer",
+        "title_len": 50,
+        "description_len": 106,
+        "canonical": "https://iworkviewer.com/about/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      }
+    ],
+    "issues": []
+  },
+  {
+    "domain": "livephotokit.com",
+    "home": {
+      "url": "https://livephotokit.com/",
+      "status": 200,
+      "final_url": "https://livephotokit.com/",
+      "title": "LivePhotoKit - Free HEIC &amp; Live Photo Converter",
+      "title_len": 51,
+      "description_len": 157,
+      "canonical": "https://livephotokit.com/",
+      "noindex": false,
+      "h1_count": 1,
+      "ga": true,
+      "adsense": true
+    },
+    "robots_status": 200,
+    "robots_has_sitemap": true,
+    "robots_disallow_all": true,
+    "sitemap_status": "ERR",
+    "sitemap_url_count": 0,
+    "sitemap_same_domain": false,
+    "focus": [
+      {
+        "url": "https://livephotokit.com/heic-live-photo/",
+        "status": 200,
+        "final_url": "https://livephotokit.com/heic-live-photo/",
+        "title": "HEIC Live Photo Guide - Open and Convert iPhone Live Photos",
+        "title_len": 59,
+        "description_len": 153,
+        "canonical": "https://livephotokit.com/heic-live-photo/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://livephotokit.com/blog/how-to-open-heic-files-on-windows-11/",
+        "status": 200,
+        "final_url": "https://livephotokit.com/blog/how-to-open-heic-files-on-windows-11/",
+        "title": "How to Open HEIC Files on Windows 11 (2026 Guide)",
+        "title_len": 49,
+        "description_len": 158,
+        "canonical": "https://livephotokit.com/blog/how-to-open-heic-files-on-windows-11/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://livephotokit.com/about/",
+        "status": 200,
+        "final_url": "https://livephotokit.com/about/",
+        "title": "About LivePhotoKit (2026) — HEIC and Live Photo conversion tools",
+        "title_len": 64,
+        "description_len": 120,
+        "canonical": "https://livephotokit.com/about/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      }
+    ],
+    "issues": [
+      "sitemap_not_200",
+      "sitemap_domain_warn"
+    ]
+  },
+  {
+    "domain": "plantingcalendar.net",
+    "home": {
+      "url": "https://plantingcalendar.net/",
+      "status": 200,
+      "final_url": "https://plantingcalendar.net/",
+      "title": "2026 Vegetable Planting Calendar by USDA Zone | PlantingCalendar",
+      "title_len": 64,
+      "description_len": 130,
+      "canonical": "https://plantingcalendar.net/",
+      "noindex": false,
+      "h1_count": 1,
+      "ga": true,
+      "adsense": true
+    },
+    "robots_status": 200,
+    "robots_has_sitemap": true,
+    "robots_disallow_all": true,
+    "sitemap_status": 200,
+    "sitemap_url_count": 375,
+    "sitemap_same_domain": true,
+    "focus": [
+      {
+        "url": "https://plantingcalendar.net/zone/6/",
+        "status": 404,
+        "final_url": "https://plantingcalendar.net/zone/6/",
+        "title": "404: This page could not be found.",
+        "title_len": 34,
+        "description_len": 130,
+        "canonical": "https://plantingcalendar.net/",
+        "noindex": true,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://plantingcalendar.net/about/",
+        "status": 200,
+        "final_url": "https://plantingcalendar.net/about/",
+        "title": "About PlantingCalendar (2026) — vegetable planting calendar | 2026 Planting Guide",
+        "title_len": 81,
+        "description_len": 113,
+        "canonical": "https://plantingcalendar.net/about/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      }
+    ],
+    "issues": [
+      "focus_not_200:https://plantingcalendar.net/zone/6/",
+      "focus_noindex:https://plantingcalendar.net/zone/6/"
+    ]
+  },
+  {
+    "domain": "freetdee.com",
+    "home": {
+      "url": "https://freetdee.com/",
+      "status": 200,
+      "final_url": "https://freetdee.com/",
+      "title": "Free TDEE Calculator - BMR, Calorie &amp; Macro Tools",
+      "title_len": 53,
+      "description_len": 152,
+      "canonical": "https://freetdee.com/",
+      "noindex": false,
+      "h1_count": 1,
+      "ga": true,
+      "adsense": true
+    },
+    "robots_status": "ERR",
+    "robots_has_sitemap": false,
+    "robots_disallow_all": false,
+    "sitemap_status": 200,
+    "sitemap_url_count": 53,
+    "sitemap_same_domain": true,
+    "focus": [
+      {
+        "url": "https://freetdee.com/macro-calculator/",
+        "status": 200,
+        "final_url": "https://freetdee.com/macro-calculator/",
+        "title": "Macro Calculator 2026 — Protein, Carbs &amp; Fat per Day | 2026 Free TDEE Calculator | 2026 Free TDEE Calculator",
+        "title_len": 112,
+        "description_len": 158,
+        "canonical": "https://freetdee.com/macro-calculator/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://freetdee.com/calorie-deficit-calculator/",
+        "status": 404,
+        "final_url": "https://freetdee.com/calorie-deficit-calculator/",
+        "title": "404: This page could not be found.",
+        "title_len": 34,
+        "description_len": 152,
+        "canonical": "https://freetdee.com/",
+        "noindex": true,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://freetdee.com/protein-calculator/",
+        "status": 200,
+        "final_url": "https://freetdee.com/protein-calculator/",
+        "title": "Protein Calculator 2026 — How Much Protein per Day | 2026 Free TDEE Calculator | 2026 Free TDEE Calculator",
+        "title_len": 106,
+        "description_len": 155,
+        "canonical": "https://freetdee.com/protein-calculator/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://freetdee.com/about/",
+        "status": 200,
+        "final_url": "https://freetdee.com/about/",
+        "title": "About FreeTDEE (2026) — TDEE fitness calculator | 2026 Free TDEE Calculator",
+        "title_len": 75,
+        "description_len": 101,
+        "canonical": "https://freetdee.com/about/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      }
+    ],
+    "issues": [
+      "robots_not_200",
+      "focus_not_200:https://freetdee.com/calorie-deficit-calculator/",
+      "focus_noindex:https://freetdee.com/calorie-deficit-calculator/"
+    ]
+  },
+  {
+    "domain": "babypercent.com",
+    "home": {
+      "url": "https://babypercent.com/",
+      "status": 200,
+      "final_url": "https://babypercent.com/",
+      "title": "BabyPercent - Free Baby Growth Percentile Calculator",
+      "title_len": 52,
+      "description_len": 133,
+      "canonical": "https://babypercent.com/",
+      "noindex": false,
+      "h1_count": 1,
+      "ga": true,
+      "adsense": true
+    },
+    "robots_status": 200,
+    "robots_has_sitemap": true,
+    "robots_disallow_all": true,
+    "sitemap_status": 200,
+    "sitemap_url_count": 45,
+    "sitemap_same_domain": true,
+    "focus": [
+      {
+        "url": "https://babypercent.com/20-month/",
+        "status": 200,
+        "final_url": "https://babypercent.com/20-month/",
+        "title": "Baby Growth at Month 20: Milestones &amp; Percentiles (2026) | 2026 Baby Growth Tracker",
+        "title_len": 87,
+        "description_len": 160,
+        "canonical": "https://babypercent.com/20-month/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://babypercent.com/about/",
+        "status": 200,
+        "final_url": "https://babypercent.com/about/",
+        "title": "About BabyPercent (2026) — baby growth tracker | 2026 Baby Growth Tracker",
+        "title_len": 73,
+        "description_len": 109,
+        "canonical": "https://babypercent.com/about/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      }
+    ],
+    "issues": []
+  },
+  {
+    "domain": "invoicepad.net",
+    "home": {
+      "url": "https://invoicepad.net/",
+      "status": "ERR",
+      "final_url": "https://invoicepad.net/",
+      "title": "",
+      "title_len": 0,
+      "description_len": 0,
+      "canonical": "",
+      "noindex": false,
+      "h1_count": 0,
+      "ga": false,
+      "adsense": false
+    },
+    "robots_status": 200,
+    "robots_has_sitemap": true,
+    "robots_disallow_all": true,
+    "sitemap_status": "ERR",
+    "sitemap_url_count": 0,
+    "sitemap_same_domain": false,
+    "focus": [
+      {
+        "url": "https://invoicepad.net/invoice-template/freelance-writer/",
+        "status": "ERR",
+        "final_url": "https://invoicepad.net/invoice-template/freelance-writer/",
+        "title": "",
+        "title_len": 0,
+        "description_len": 0,
+        "canonical": "",
+        "noindex": false,
+        "h1_count": 0,
+        "ga": false,
+        "adsense": false
+      },
+      {
+        "url": "https://invoicepad.net/freelance-writer-invoice-template/",
+        "status": 200,
+        "final_url": "https://invoicepad.net/freelance-writer-invoice-template/",
+        "title": "Freelance Writer Invoice Template - Free PDF Generator | 2026 Free Invoice Generator",
+        "title_len": 84,
+        "description_len": 140,
+        "canonical": "https://invoicepad.net/freelance-writer-invoice-template/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://invoicepad.net/web-developer-invoice-template/",
+        "status": 200,
+        "final_url": "https://invoicepad.net/web-developer-invoice-template/",
+        "title": "Web Developer Invoice Template - Free PDF Generator | 2026 Free Invoice Generator",
+        "title_len": 81,
+        "description_len": 145,
+        "canonical": "https://invoicepad.net/web-developer-invoice-template/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://invoicepad.net/handyman-invoice-template/",
+        "status": 200,
+        "final_url": "https://invoicepad.net/handyman-invoice-template/",
+        "title": "Handyman Invoice Template - Free PDF Generator | 2026 Free Invoice Generator",
+        "title_len": 76,
+        "description_len": 134,
+        "canonical": "https://invoicepad.net/handyman-invoice-template/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://invoicepad.net/invoice-templates/",
+        "status": 200,
+        "final_url": "https://invoicepad.net/invoice-templates/",
+        "title": "2026 Free Invoice Templates by Profession — 20+ Freelance Templates (2026) | 2026 Free Invoice Generator",
+        "title_len": 104,
+        "description_len": 136,
+        "canonical": "https://invoicepad.net/invoice-templates/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      }
+    ],
+    "issues": [
+      "home_not_200",
+      "sitemap_not_200",
+      "home_canonical_mismatch",
+      "title_len_warn",
+      "desc_len_warn",
+      "missing_h1",
+      "sitemap_domain_warn",
+      "focus_not_200:https://invoicepad.net/invoice-template/freelance-writer/"
+    ]
+  },
+  {
+    "domain": "zoneplan.net",
+    "home": {
+      "url": "https://zoneplan.net/",
+      "status": "ERR",
+      "final_url": "https://zoneplan.net/",
+      "title": "",
+      "title_len": 0,
+      "description_len": 0,
+      "canonical": "",
+      "noindex": false,
+      "h1_count": 0,
+      "ga": false,
+      "adsense": false
+    },
+    "robots_status": 200,
+    "robots_has_sitemap": true,
+    "robots_disallow_all": true,
+    "sitemap_status": 200,
+    "sitemap_url_count": 105,
+    "sitemap_same_domain": true,
+    "focus": [
+      {
+        "url": "https://zoneplan.net/meeting-planner/",
+        "status": 200,
+        "final_url": "https://zoneplan.net/meeting-planner/",
+        "title": "2026 Meeting Planner - Find the Best Time to Meet Across Time Zones | 2026 Time Zone Planner",
+        "title_len": 92,
+        "description_len": 150,
+        "canonical": "https://zoneplan.net/meeting-planner/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://zoneplan.net/about/",
+        "status": 200,
+        "final_url": "https://zoneplan.net/about/",
+        "title": "About ZonePlan (2026) — time zone meeting planner | 2026 Time Zone Planner",
+        "title_len": 74,
+        "description_len": 105,
+        "canonical": "https://zoneplan.net/about/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://zoneplan.net/contact/",
+        "status": 200,
+        "final_url": "https://zoneplan.net/contact/",
+        "title": "Contact ZonePlan (2026) — Get in Touch | 2026 Time Zone Planner",
+        "title_len": 63,
+        "description_len": 83,
+        "canonical": "https://zoneplan.net/contact/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      }
+    ],
+    "issues": [
+      "home_not_200",
+      "home_canonical_mismatch",
+      "title_len_warn",
+      "desc_len_warn",
+      "missing_h1"
+    ]
+  },
+  {
+    "domain": "pupvax.com",
+    "home": {
+      "url": "https://pupvax.com/",
+      "status": 200,
+      "final_url": "https://pupvax.com/",
+      "title": "PupVax - Dog Vaccine Schedule Tracker",
+      "title_len": 37,
+      "description_len": 158,
+      "canonical": "https://pupvax.com/",
+      "noindex": false,
+      "h1_count": 1,
+      "ga": true,
+      "adsense": true
+    },
+    "robots_status": 200,
+    "robots_has_sitemap": true,
+    "robots_disallow_all": true,
+    "sitemap_status": 200,
+    "sitemap_url_count": 45,
+    "sitemap_same_domain": true,
+    "focus": [
+      {
+        "url": "https://pupvax.com/dog-deworming-schedule/",
+        "status": 200,
+        "final_url": "https://pupvax.com/dog-deworming-schedule/",
+        "title": "2026 Dog Deworming Schedule — Puppy to Adult Worming Timeline | 2026 Dog Vaccine Tracker",
+        "title_len": 88,
+        "description_len": 158,
+        "canonical": "https://pupvax.com/dog-deworming-schedule/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      },
+      {
+        "url": "https://pupvax.com/about/",
+        "status": 200,
+        "final_url": "https://pupvax.com/about/",
+        "title": "About PupVax (2026) — dog vaccine tracker | 2026 Dog Vaccine Tracker",
+        "title_len": 68,
+        "description_len": 114,
+        "canonical": "https://pupvax.com/about/",
+        "noindex": false,
+        "h1_count": 1,
+        "ga": true,
+        "adsense": true
+      }
+    ],
+    "issues": []
+  }
+]
