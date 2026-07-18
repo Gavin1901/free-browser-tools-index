@@ -1,0 +1,1089 @@
+﻿
+<!DOCTYPE html><html lang="en" class="inter_5901b7c6-module__ec5Qua__variable h-full antialiased"><head><meta charSet="
+utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" href="/_next/static/me
+dia/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2" as="font" crossorigin="" type="font/woff2"/><link rel="stylesheet" href="
+/_next/static/chunks/0t-8bu_s61n_1.css" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" hre
+f="/_next/static/chunks/0wa60lc2wlwoc.js"/><script src="/_next/static/chunks/15orcrkp-_9ct.js" async=""></script><scrip
+t src="/_next/static/chunks/3j9pm5otqxm82.js" async=""></script><script src="/_next/static/chunks/0y-qmi6py9vt0.js" asy
+nc=""></script><script src="/_next/static/chunks/turbopack-05t0pci-b2j77.js" async=""></script><script src="/_next/stat
+ic/chunks/0ob_z_0z7sy-0.js" async=""></script><script src="/_next/static/chunks/14mrh2-p_w84d.js" async=""></script><sc
+ript src="/_next/static/chunks/3uhl6m34qftvw.js" async=""></script><link rel="preload" href="https://www.googletagmanag
+er.com/gtag/js?id=G-YV9YXJX3WV" as="script"/><link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/
+adsbygoogle.js?client=ca-pub-3256422033020643" as="script" crossorigin=""/><meta name="google-adsense-account" content=
+"ca-pub-3256422033020643"/><meta name="next-size-adjust" content=""/><title>Planting Calendar by ZIP &amp; USDA Zone 20
+26 | Frost Dates</title><meta name="description" content="Find your 2026 planting calendar by USDA zone with last frost
+ dates, first frost dates, seed-starting, transplant and harvest windows for 20+ vegetables. Free, printable, no sign-u
+p."/><meta name="keywords" content="planting calendar 2026,when to plant tomatoes,vegetable planting calendar,usda zone
+ planting,frost dates 2026,planting schedule by zone,garden calendar"/><link rel="canonical" href="https://plantingcale
+ndar.net/"/><meta property="og:title" content="Planting Calendar by ZIP &amp; USDA Zone 2026"/><meta property="og:descr
+iption" content="Find last frost dates, first frost dates and vegetable planting windows by USDA zone. Free 2026 garden
+ planner for tomatoes, carrots, lettuce, garlic and more."/><meta property="og:url" content="https://plantingcalendar.n
+et/"/><meta property="og:site_name" content="PlantingCalendar"/><meta property="og:image" content="https://plantingcale
+ndar.net/og.png"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta
+ property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:tit
+le" content="Planting Calendar by ZIP &amp; USDA Zone 2026"/><meta name="twitter:description" content="Find last frost 
+dates, first frost dates and vegetable planting windows by USDA zone. Free 2026 garden planner for tomatoes, carrots, l
+ettuce, garlic and more."/><meta name="twitter:image" content="https://plantingcalendar.net/og.png"/><link rel="icon" h
+ref="/favicon.ico?favicon.2vob68tjqpejf.ico" sizes="256x256" type="image/x-icon"/><script type="application/ld+json">{"
+@context":"https://schema.org","@type":"WebSite","name":"PlantingCalendar","url":"https://plantingcalendar.net"}</scrip
+t><script src="/_next/static/chunks/0cz1d0mv5g_q7.js" noModule=""></script></head><body class="min-h-full bg-stone-50 f
+ont-sans text-stone-900"><div hidden=""><!--$--><!--/$--></div><div class="flex min-h-full flex-col"><header class="bor
+der-b border-stone-200 bg-white"><div class="mx-auto flex max-w-5xl items-center justify-between px-4 py-3"><a class="f
+lex items-center gap-2 font-bold text-emerald-700" href="/"><span class="text-xl">🌱</span><span>PlantingCalendar</span
+></a><nav class="flex gap-4 text-sm text-stone-600"><a class="hover:text-emerald-700" href="/frost-dates/">Frost Dates<
+/a><a class="hover:text-emerald-700" href="/vegetables/">Vegetables</a><a class="hover:text-emerald-700" href="/zones/"
+>Zones</a></nav></div></header><main class="flex-1"><script type="application/ld+json">{"@context":"https://schema.org"
+,"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do I know my USDA hardiness zone?","acceptedAnswer":{"
+@type":"Answer","text":"Your USDA zone is based on the average annual minimum winter temperature where you live. Look u
+p your ZIP code on the USDA Plant Hardiness Zone Map, then select that zone above to get your personalized planting cal
+endar."}},{"@type":"Question","name":"What do the planting dates mean?","acceptedAnswer":{"@type":"Answer","text":"Star
+t Indoors is when to sow seeds in trays inside. Sow / Transplant is when to plant outside in the garden. Harvest From i
+s the earliest you can expect to pick. All dates are calculated from your zone's average last spring frost."}},{"@type"
+:"Question","name":"Are these dates exact for my town?","acceptedAnswer":{"@type":"Answer","text":"They are regional av
+erages for your USDA zone. Microclimates, elevation and a given year's weather shift them by a week or two. Use them as
+ a reliable starting point and adjust to your local frost dates."}},{"@type":"Question","name":"Is this planting calend
+ar free?","acceptedAnswer":{"@type":"Answer","text":"Yes — completely free, no sign-up, no app. Your selected zone is s
+aved in your browser so the calendar is ready every time you come back."}}]}</script><section class="bg-gradient-to-b f
+rom-emerald-50 to-stone-50"><div class="mx-auto max-w-5xl px-4 py-12 text-center"><h1 class="text-3xl font-extrabold tr
+acking-tight text-stone-900 sm:text-4xl">2026 Vegetable Planting Calendar by Zone</h1><p class="mx-auto mt-3 max-w-2xl 
+text-stone-600">Pick your zone and get an instant planting calendar — start-indoors, sow, transplant and harvest dates 
+for 20 popular vegetables. Free, no sign-up, your zone is remembered.</p></div></section><div class="mx-auto max-w-5xl 
+px-4 py-8"><div class="rounded-2xl border border-stone-200 bg-white p-5 shadow-sm"><div class="flex flex-wrap items-end
+ gap-4"><label class="flex flex-col gap-1 text-sm font-medium text-stone-700">Your USDA Hardiness Zone<select class="ro
+unded-lg border border-stone-300 bg-white px-3 py-2 text-base font-semibold text-emerald-700 focus:border-emerald-500 f
+ocus:outline-none"><option value="3a">Zone <!-- -->3a<!-- --> (<!-- -->-40 to -35<!-- -->°F)</option><option value="3b"
+>Zone <!-- -->3b<!-- --> (<!-- -->-35 to -30<!-- -->°F)</option><option value="4a">Zone <!-- -->4a<!-- --> (<!-- -->-30
+ to -25<!-- -->°F)</option><option value="4b">Zone <!-- -->4b<!-- --> (<!-- -->-25 to -20<!-- -->°F)</option><option va
+lue="5a">Zone <!-- -->5a<!-- --> (<!-- -->-20 to -15<!-- -->°F)</option><option value="5b">Zone <!-- -->5b<!-- --> (<!-
+- -->-15 to -10<!-- -->°F)</option><option value="6a">Zone <!-- -->6a<!-- --> (<!-- -->-10 to -5<!-- -->°F)</option><op
+tion value="6b">Zone <!-- -->6b<!-- --> (<!-- -->-5 to 0<!-- -->°F)</option><option value="7a" selected="">Zone <!-- --
+>7a<!-- --> (<!-- -->0 to 5<!-- -->°F)</option><option value="7b">Zone <!-- -->7b<!-- --> (<!-- -->5 to 10<!-- -->°F)</
+option><option value="8a">Zone <!-- -->8a<!-- --> (<!-- -->10 to 15<!-- -->°F)</option><option value="8b">Zone <!-- -->
+8b<!-- --> (<!-- -->15 to 20<!-- -->°F)</option><option value="9a">Zone <!-- -->9a<!-- --> (<!-- -->20 to 25<!-- -->°F)
+</option><option value="9b">Zone <!-- -->9b<!-- --> (<!-- -->25 to 30<!-- -->°F)</option><option value="10a">Zone <!-- 
+-->10a<!-- --> (<!-- -->30 to 35<!-- -->°F)</option><option value="10b">Zone <!-- -->10b<!-- --> (<!-- -->35 to 40<!-- 
+-->°F)</option></select></label><div class="text-sm text-stone-600"><p>Last spring frost: <strong class="text-stone-800
+">Apr 10</strong></p><p>First fall frost: <strong class="text-stone-800">Oct 25</strong></p><p>Growing season: <strong 
+class="text-stone-800">~<!-- -->198<!-- --> days</strong></p></div></div><p class="mt-2 text-xs text-stone-400">Saved t
+o this browser — your zone will be remembered next time. <!-- -->Typical areas: Nashville TN, Oklahoma City OK.</p><div
+ class="mt-4 rounded-lg border border-amber-200 bg-amber-50 p-3 text-sm text-stone-700"><p class="font-semibold text-am
+ber-800">Zone <!-- -->7a<!-- --> growing challenge:</p><p class="mt-1">With ~198 frost-free days, you have a solid grow
+ing window. Your main challenge is the transition between cool and warm seasons. Time your spring cool-season plantings
+ to finish before summer heat arrives, and start fall crops in mid-summer.</p></div><div class="mt-5 overflow-x-auto"><
+table class="w-full min-w-[640px] border-collapse text-sm"><thead><tr class="border-b border-stone-200 text-left text-s
+tone-500"><th class="py-2 pr-3">Vegetable</th><th class="py-2 pr-3">Start Indoors</th><th class="py-2 pr-3">Sow / Trans
+plant</th><th class="py-2 pr-3">Method</th><th class="py-2 pr-3">Harvest From</th><th class="py-2 pr-3"></th></tr></the
+ad><tbody><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-800"><spa
+n class="mr-1">🫜</span>Beet</td><td class="py-2 pr-3 text-stone-600">—</td><td class="py-2 pr-3 text-emerald-700 font-
+medium">Mar 13</td><td class="py-2 pr-3 text-stone-600">Direct sow</td><td class="py-2 pr-3 text-stone-600">May 7</td><
+td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/beet/">Details →</a></td></tr><tr class="bor
+der-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-800"><span class="mr-1">🥦</span>
+Broccoli</td><td class="py-2 pr-3 text-stone-600">Mar 6</td><td class="py-2 pr-3 text-emerald-700 font-medium">Mar 27</
+td><td class="py-2 pr-3 text-stone-600">Transplant</td><td class="py-2 pr-3 text-stone-600">May 31</td><td class="py-2 
+pr-3"><a class="text-emerald-600 hover:underline" href="/7a/broccoli/">Details →</a></td></tr><tr class="border-b borde
+r-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-800"><span class="mr-1">🫘</span>Bush Beans<
+/td><td class="py-2 pr-3 text-stone-600">—</td><td class="py-2 pr-3 text-emerald-700 font-medium">Apr 17</td><td class=
+"py-2 pr-3 text-stone-600">Direct sow</td><td class="py-2 pr-3 text-stone-600">Jun 11</td><td class="py-2 pr-3"><a clas
+s="text-emerald-600 hover:underline" href="/7a/beans/">Details →</a></td></tr><tr class="border-b border-stone-100 hove
+r:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-800"><span class="mr-1">🥬</span>Cabbage</td><td class="py-2
+ pr-3 text-stone-600">Feb 27</td><td class="py-2 pr-3 text-emerald-700 font-medium">Mar 27</td><td class="py-2 pr-3 tex
+t-stone-600">Transplant</td><td class="py-2 pr-3 text-stone-600">Jun 15</td><td class="py-2 pr-3"><a class="text-emeral
+d-600 hover:underline" href="/7a/cabbage/">Details →</a></td></tr><tr class="border-b border-stone-100 hover:bg-stone-5
+0"><td class="py-2 pr-3 font-medium text-stone-800"><span class="mr-1">🥕</span>Carrot</td><td class="py-2 pr-3 text-st
+one-600">—</td><td class="py-2 pr-3 text-emerald-700 font-medium">Mar 20</td><td class="py-2 pr-3 text-stone-600">Direc
+t sow</td><td class="py-2 pr-3 text-stone-600">May 29</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underl
+ine" href="/7a/carrot/">Details →</a></td></tr><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 
+pr-3 font-medium text-stone-800"><span class="mr-1">🥦</span>Cauliflower</td><td class="py-2 pr-3 text-stone-600">Feb 2
+7</td><td class="py-2 pr-3 text-emerald-700 font-medium">Mar 27</td><td class="py-2 pr-3 text-stone-600">Transplant</td
+><td class="py-2 pr-3 text-stone-600">Jun 10</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href
+="/7a/cauliflower/">Details →</a></td></tr><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3
+ font-medium text-stone-800"><span class="mr-1">🌽</span>Corn</td><td class="py-2 pr-3 text-stone-600">—</td><td class=
+"py-2 pr-3 text-emerald-700 font-medium">Apr 24</td><td class="py-2 pr-3 text-stone-600">Direct sow</td><td class="py-2
+ pr-3 text-stone-600">Jul 13</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/corn/">Det
+ails →</a></td></tr><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone
+-800"><span class="mr-1">🥒</span>Cucumber</td><td class="py-2 pr-3 text-stone-600">Mar 20</td><td class="py-2 pr-3 tex
+t-emerald-700 font-medium">Apr 24</td><td class="py-2 pr-3 text-stone-600">Direct sow or transplant</td><td class="py-2
+ pr-3 text-stone-600">Jun 18</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/cucumber/"
+>Details →</a></td></tr><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-s
+tone-800"><span class="mr-1">🧄</span>Garlic</td><td class="py-2 pr-3 text-stone-600">—</td><td class="py-2 pr-3 text-e
+merald-700 font-medium">Sep 25</td><td class="py-2 pr-3 text-stone-600">Direct sow</td><td class="py-2 pr-3 text-stone-
+600">May 23</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/garlic/">Details →</a></td>
+</tr><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-800"><span cla
+ss="mr-1">🥬</span>Kale</td><td class="py-2 pr-3 text-stone-600">Mar 6</td><td class="py-2 pr-3 text-emerald-700 font-m
+edium">Mar 20</td><td class="py-2 pr-3 text-stone-600">Direct sow or transplant</td><td class="py-2 pr-3 text-stone-600
+">May 14</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/kale/">Details →</a></td></tr>
+<tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-800"><span class="m
+r-1">🥬</span>Lettuce</td><td class="py-2 pr-3 text-stone-600">Mar 13</td><td class="py-2 pr-3 text-emerald-700 font-me
+dium">Mar 20</td><td class="py-2 pr-3 text-stone-600">Direct sow or transplant</td><td class="py-2 pr-3 text-stone-600"
+>May 4</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/lettuce/">Details →</a></td></tr
+><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-800"><span class="
+mr-1">🧅</span>Onion</td><td class="py-2 pr-3 text-stone-600">Jan 30</td><td class="py-2 pr-3 text-emerald-700 font-med
+ium">Mar 13</td><td class="py-2 pr-3 text-stone-600">Transplant</td><td class="py-2 pr-3 text-stone-600">Jun 21</td><td
+ class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/onion/">Details →</a></td></tr><tr class="bord
+er-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-800"><span class="mr-1">🟢</span>P
+eas</td><td class="py-2 pr-3 text-stone-600">—</td><td class="py-2 pr-3 text-emerald-700 font-medium">Feb 27</td><td cl
+ass="py-2 pr-3 text-stone-600">Direct sow</td><td class="py-2 pr-3 text-stone-600">Apr 28</td><td class="py-2 pr-3"><a 
+class="text-emerald-600 hover:underline" href="/7a/peas/">Details →</a></td></tr><tr class="border-b border-stone-100 h
+over:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-800"><span class="mr-1">🫑</span>Pepper</td><td class="py
+-2 pr-3 text-stone-600">Feb 13</td><td class="py-2 pr-3 text-emerald-700 font-medium">Apr 24</td><td class="py-2 pr-3 t
+ext-stone-600">Transplant</td><td class="py-2 pr-3 text-stone-600">Jul 3</td><td class="py-2 pr-3"><a class="text-emera
+ld-600 hover:underline" href="/7a/pepper/">Details →</a></td></tr><tr class="border-b border-stone-100 hover:bg-stone-5
+0"><td class="py-2 pr-3 font-medium text-stone-800"><span class="mr-1">🥔</span>Potato</td><td class="py-2 pr-3 text-st
+one-600">—</td><td class="py-2 pr-3 text-emerald-700 font-medium">Mar 27</td><td class="py-2 pr-3 text-stone-600">Direc
+t sow</td><td class="py-2 pr-3 text-stone-600">Jun 25</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underl
+ine" href="/7a/potato/">Details →</a></td></tr><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 
+pr-3 font-medium text-stone-800"><span class="mr-1">🌶️</span>Radish</td><td class="py-2 pr-3 text-stone-600">—</td><td
+ class="py-2 pr-3 text-emerald-700 font-medium">Mar 13</td><td class="py-2 pr-3 text-stone-600">Direct sow</td><td clas
+s="py-2 pr-3 text-stone-600">Apr 10</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/rad
+ish/">Details →</a></td></tr><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium t
+ext-stone-800"><span class="mr-1">🍃</span>Spinach</td><td class="py-2 pr-3 text-stone-600">—</td><td class="py-2 pr-3 
+text-emerald-700 font-medium">Mar 6</td><td class="py-2 pr-3 text-stone-600">Direct sow</td><td class="py-2 pr-3 text-s
+tone-600">Apr 15</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/spinach/">Details →</a
+></td></tr><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-800"><sp
+an class="mr-1">🎃</span>Summer Squash</td><td class="py-2 pr-3 text-stone-600">Mar 20</td><td class="py-2 pr-3 text-em
+erald-700 font-medium">Apr 17</td><td class="py-2 pr-3 text-stone-600">Direct sow or transplant</td><td class="py-2 pr-
+3 text-stone-600">Jun 6</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/squash/">Detail
+s →</a></td></tr><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-80
+0"><span class="mr-1">🍅</span>Tomato</td><td class="py-2 pr-3 text-stone-600">Feb 27</td><td class="py-2 pr-3 text-eme
+rald-700 font-medium">Apr 17</td><td class="py-2 pr-3 text-stone-600">Transplant</td><td class="py-2 pr-3 text-stone-60
+0">Jul 1</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/tomato/">Details →</a></td></t
+r><tr class="border-b border-stone-100 hover:bg-stone-50"><td class="py-2 pr-3 font-medium text-stone-800"><span class=
+"mr-1">🥒</span>Zucchini</td><td class="py-2 pr-3 text-stone-600">Mar 20</td><td class="py-2 pr-3 text-emerald-700 font
+-medium">Apr 17</td><td class="py-2 pr-3 text-stone-600">Direct sow or transplant</td><td class="py-2 pr-3 text-stone-6
+00">Jun 6</td><td class="py-2 pr-3"><a class="text-emerald-600 hover:underline" href="/7a/zucchini/">Details →</a></td>
+</tr></tbody></table></div></div><section class="mt-12"><h2 class="text-xl font-bold text-stone-900">Popular: When to p
+lant…</h2><div class="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4"><a class="rounded-xl border border-sto
+ne-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/ve
+getables/tomato/"><span class="mr-1">🍅</span>Tomato</a><a class="rounded-xl border border-stone-200 bg-white px-4 py-3
+ text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/vegetables/pepper/"><span c
+lass="mr-1">🫑</span>Pepper</a><a class="rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text
+-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/vegetables/cucumber/"><span class="mr-1">🥒</span>Cu
+cumber</a><a class="rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:bord
+er-emerald-300 hover:text-emerald-700" href="/vegetables/lettuce/"><span class="mr-1">🥬</span>Lettuce</a><a class="rou
+nded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:te
+xt-emerald-700" href="/vegetables/carrot/"><span class="mr-1">🥕</span>Carrot</a><a class="rounded-xl border border-sto
+ne-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/ve
+getables/broccoli/"><span class="mr-1">🥦</span>Broccoli</a><a class="rounded-xl border border-stone-200 bg-white px-4 
+py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/vegetables/spinach/"><s
+pan class="mr-1">🍃</span>Spinach</a><a class="rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-mediu
+m text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/vegetables/kale/"><span class="mr-1">🥬</span>
+Kale</a><a class="rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border
+-emerald-300 hover:text-emerald-700" href="/vegetables/onion/"><span class="mr-1">🧅</span>Onion</a><a class="rounded-x
+l border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-eme
+rald-700" href="/vegetables/garlic/"><span class="mr-1">🧄</span>Garlic</a><a class="rounded-xl border border-stone-200
+ bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/vegetabl
+es/potato/"><span class="mr-1">🥔</span>Potato</a><a class="rounded-xl border border-stone-200 bg-white px-4 py-3 text-
+sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/vegetables/corn/"><span class="mr
+-1">🌽</span>Corn</a><a class="rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700
+ hover:border-emerald-300 hover:text-emerald-700" href="/vegetables/beans/"><span class="mr-1">🫘</span>Bush Beans</a><
+a class="rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-
+300 hover:text-emerald-700" href="/vegetables/peas/"><span class="mr-1">🟢</span>Peas</a><a class="rounded-xl border bo
+rder-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" h
+ref="/vegetables/squash/"><span class="mr-1">🎃</span>Summer Squash</a><a class="rounded-xl border border-stone-200 bg-
+white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/vegetables/z
+ucchini/"><span class="mr-1">🥒</span>Zucchini</a><a class="rounded-xl border border-stone-200 bg-white px-4 py-3 text-
+sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/vegetables/radish/"><span class="
+mr-1">🌶️</span>Radish</a><a class="rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-ston
+e-700 hover:border-emerald-300 hover:text-emerald-700" href="/vegetables/beet/"><span class="mr-1">🫜</span>Beet</a><a 
+class="rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-30
+0 hover:text-emerald-700" href="/vegetables/cabbage/"><span class="mr-1">🥬</span>Cabbage</a><a class="rounded-xl borde
+r border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-70
+0" href="/vegetables/cauliflower/"><span class="mr-1">🥦</span>Cauliflower</a></div></section><section class="mt-12"><h
+2 class="text-xl font-bold text-stone-900">Browse by USDA zone</h2><div class="mt-4 flex flex-wrap gap-2"><a class="rou
+nded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:
+text-emerald-700" href="/zones/3a/">Zone <!-- -->3a</a><a class="rounded-lg border border-stone-200 bg-white px-3 py-1.
+5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/zones/3b/">Zone <!-- -->3b
+</a><a class="rounded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-e
+merald-300 hover:text-emerald-700" href="/zones/4a/">Zone <!-- -->4a</a><a class="rounded-lg border border-stone-200 bg
+-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/zones/4b/
+">Zone <!-- -->4b</a><a class="rounded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-7
+00 hover:border-emerald-300 hover:text-emerald-700" href="/zones/5a/">Zone <!-- -->5a</a><a class="rounded-lg border bo
+rder-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700"
+ href="/zones/5b/">Zone <!-- -->5b</a><a class="rounded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-me
+dium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/zones/6a/">Zone <!-- -->6a</a><a class="rou
+nded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:
+text-emerald-700" href="/zones/6b/">Zone <!-- -->6b</a><a class="rounded-lg border border-stone-200 bg-white px-3 py-1.
+5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/zones/7a/">Zone <!-- -->7a
+</a><a class="rounded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-e
+merald-300 hover:text-emerald-700" href="/zones/7b/">Zone <!-- -->7b</a><a class="rounded-lg border border-stone-200 bg
+-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/zones/8a/
+">Zone <!-- -->8a</a><a class="rounded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-7
+00 hover:border-emerald-300 hover:text-emerald-700" href="/zones/8b/">Zone <!-- -->8b</a><a class="rounded-lg border bo
+rder-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700"
+ href="/zones/9a/">Zone <!-- -->9a</a><a class="rounded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-me
+dium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/zones/9b/">Zone <!-- -->9b</a><a class="rou
+nded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:
+text-emerald-700" href="/zones/10a/">Zone <!-- -->10a</a><a class="rounded-lg border border-stone-200 bg-white px-3 py-
+1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700" href="/zones/10b/">Zone <!-- --
+>10b</a></div></section><section class="mt-12 prose prose-stone max-w-none"><h2 class="text-xl font-bold text-stone-900
+">How this planting calendar works</h2><p class="mt-3 text-stone-600">Every vegetable has a temperature personality. Co
+ol-season crops like lettuce, peas, spinach and kale shrug off light frost and can go in the ground weeks before your l
+ast spring frost. Warm-season crops like tomatoes, peppers, cucumbers and squash are killed by frost and need warm soil
+, so they wait until the danger has passed. This tool takes the average last-frost and first-frost dates for your USDA 
+hardiness zone and works backward and forward for each crop — telling you when to start seeds indoors, when to move the
+m outside, and roughly when you&#x27;ll be harvesting.</p><p class="mt-3 text-stone-600">The biggest mistake new garden
+ers make is planting warm-season crops too early because of one nice week in spring. A late frost wipes them out overni
+ght. The second biggest mistake is planting cool-season crops too late, so they bolt in the summer heat. A zone-based c
+alendar fixes both. Select your zone above, bookmark the page, and come back each season — your zone is saved automatic
+ally.</p></section><section class="mt-12"><h2 class="text-xl font-bold text-stone-900">Frequently asked questions</h2><
+div class="mt-4 space-y-4"><div class="rounded-xl border border-stone-200 bg-white p-4"><h3 class="font-semibold text-s
+tone-800">How do I know my USDA hardiness zone?</h3><p class="mt-1 text-sm text-stone-600">Your USDA zone is based on t
+he average annual minimum winter temperature where you live. Look up your ZIP code on the USDA Plant Hardiness Zone Map
+, then select that zone above to get your personalized planting calendar.</p></div><div class="rounded-xl border border
+-stone-200 bg-white p-4"><h3 class="font-semibold text-stone-800">What do the planting dates mean?</h3><p class="mt-1 t
+ext-sm text-stone-600">Start Indoors is when to sow seeds in trays inside. Sow / Transplant is when to plant outside in
+ the garden. Harvest From is the earliest you can expect to pick. All dates are calculated from your zone&#x27;s averag
+e last spring frost.</p></div><div class="rounded-xl border border-stone-200 bg-white p-4"><h3 class="font-semibold tex
+t-stone-800">Are these dates exact for my town?</h3><p class="mt-1 text-sm text-stone-600">They are regional averages f
+or your USDA zone. Microclimates, elevation and a given year&#x27;s weather shift them by a week or two. Use them as a 
+reliable starting point and adjust to your local frost dates.</p></div><div class="rounded-xl border border-stone-200 b
+g-white p-4"><h3 class="font-semibold text-stone-800">Is this planting calendar free?</h3><p class="mt-1 text-sm text-s
+tone-600">Yes — completely free, no sign-up, no app. Your selected zone is saved in your browser so the calendar is rea
+dy every time you come back.</p></div></div></section></div></main><footer class="border-t border-stone-200 bg-white"><
+div class="mx-auto max-w-5xl px-4 py-6 text-sm text-stone-500"><div class="flex flex-wrap gap-x-6 gap-y-2"><a class="ho
+ver:text-emerald-700" href="/">Home</a><a class="hover:text-emerald-700" href="/vegetables/">All Vegetables</a><a class
+="hover:text-emerald-700" href="/zones/">All Zones</a><a class="hover:text-emerald-700" href="/frost-dates/">Frost Date
+ Calculator</a><a class="hover:text-emerald-700" href="/privacy-policy/">Privacy</a><a class="hover:text-emerald-700" h
+ref="/terms/">Terms</a></div><div class="mt-4 pt-4 border-t border-stone-100"><p class="font-medium text-stone-700 mb-2
+">More Free Tools</p><div class="flex flex-wrap gap-x-4 gap-y-1 text-xs"><a href="https://freetdee.com" class="hover:te
+xt-emerald-700" target="_blank" rel="noopener">TDEE Calculator</a><a href="https://babypercent.com" class="hover:text-e
+merald-700" target="_blank" rel="noopener">Baby Growth Tracker</a><a href="https://invoicepad.net" class="hover:text-em
+erald-700" target="_blank" rel="noopener">Invoice Generator</a><a href="https://zoneplan.net" class="hover:text-emerald
+-700" target="_blank" rel="noopener">Time Zone Planner</a><a href="https://pupvax.com" class="hover:text-emerald-700" t
+arget="_blank" rel="noopener">Dog Vaccine Tracker</a><a href="https://livephotokit.com" class="hover:text-emerald-700" 
+target="_blank" rel="noopener">HEIC Converter</a><a href="https://iworkviewer.com" class="hover:text-emerald-700" targe
+t="_blank" rel="noopener">iWork Viewer</a></div></div><p class="mt-4">© <!-- -->2026<!-- --> <!-- -->PlantingCalendar<!
+-- -->. Free vegetable planting calendar by USDA zone. Dates are regional averages — always check your local frost date
+s.</p></div></footer></div><!--$--><!--/$--><footer class="mt-16 border-t border-zinc-200 bg-white px-5 py-10"><div cla
+ss="mx-auto max-w-4xl"><div class="flex flex-wrap items-center justify-between gap-4"><div class="text-sm text-zinc-500
+">© 2026 <!-- -->PlantingCalendar<!-- -->. All rights reserved.</div><nav class="flex flex-wrap gap-x-6 gap-y-2 text-sm
+"><a class="text-zinc-600 hover:text-indigo-600 transition-colors" href="/blog/">Blog</a><a class="text-zinc-600 hover:
+text-indigo-600 transition-colors" href="/about/">About</a><a class="text-zinc-600 hover:text-indigo-600 transition-col
+ors" href="/contact/">Contact</a><a class="text-zinc-600 hover:text-indigo-600 transition-colors" href="/privacy-policy
+/">Privacy Policy</a><a class="text-zinc-600 hover:text-indigo-600 transition-colors" href="/terms/">Terms</a></nav></d
+iv><p class="mt-4 text-xs text-zinc-400">plantingcalendar.net<!-- --> is a free online tool. All processing happens in 
+your browser — your files are never uploaded.</p></div></footer><script src="/_next/static/chunks/0wa60lc2wlwoc.js" id=
+"_R_" async=""></script><script>(self.__next_f=self.__next_f||[]).push([0])</script><script>self.__next_f.push([1,"1:\"
+$Sreact.fragment\"\n2:I[39756,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.js\"],\"d
+efault\"]\n3:I[37457,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.js\"],\"default\"]
+\n4:I[22016,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.js\",\"/_next/static/chunks
+/3uhl6m34qftvw.js\"],\"\"]\n5:I[79520,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.j
+s\"],\"\"]\nc:I[68027,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.js\"],\"default\"
+,1]\n:HL[\"/_next/static/chunks/0t-8bu_s61n_1.css\",\"style\"]\n:HL[\"/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zv
+c0dyp.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"}]\n"])</script><script>self.__next_f.push([1,"0:{\
+"P\":null,\"c\":[\"\",\"\"],\"q\":\"\",\"i\":false,\"f\":[[[\"\",{\"children\":[\"__PAGE__\",{}]},\"$undefined\",\"$und
+efined\",16],[[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/stati
+c/chunks/0t-8bu_s61n_1.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\
+"script\",\"script-0\",{\"src\":\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"
+$\",\"script\",\"script-1\",{\"src\":\"/_next/static/chunks/14mrh2-p_w84d.js\",\"async\":true,\"nonce\":\"$undefined\"}
+]],[\"$\",\"html\",null,{\"lang\":\"en\",\"className\":\"inter_5901b7c6-module__ec5Qua__variable h-full antialiased\",\
+"children\":[[\"$\",\"head\",null,{\"children\":[[\"$\",\"meta\",null,{\"name\":\"google-adsense-account\",\"content\":
+\"ca-pub-3256422033020643\"}],[\"$\",\"script\",null,{\"type\":\"application/ld+json\",\"dangerouslySetInnerHTML\":{\"_
+_html\":\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"WebSite\\\",\\\"name\\\":\\\"PlantingCalendar\
+\\",\\\"url\\\":\\\"https://plantingcalendar.net\\\"}\"}}]]}],[\"$\",\"body\",null,{\"className\":\"min-h-full bg-stone
+-50 font-sans text-stone-900\",\"children\":[[\"$\",\"$L2\",null,{\"parallelRouterKey\":\"children\",\"error\":\"$undef
+ined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"template\":[\"$\",\"$L3\",null,{}],\"templateSt
+yles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[[\"$\",\"title\",null,{\"children\":\"404: This
+ page could not be found.\"}],[\"$\",\"div\",null,{\"style\":{\"fontFamily\":\"system-ui,\\\"Segoe UI\\\",Roboto,Helvet
+ica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"height\":\"100vh\",\"textAlign\":\"center\",\
+"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"justifyContent\":\"center\"},\"children\":
+[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInnerHTML\":{\"__html\":\"body{color:#000;bac
+kground:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{colo
+r:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}\"}}],[\"$\",\"h1\",null,{\"classNam
+e\":\"next-error-h1\",\"style\":{\"display\":\"inline-block\",\"margin\":\"0 20px 0 0\",\"padding\":\"0 23px 0 0\",\"fo
+ntSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px\"},\"children\":404}],[\"$\",\"div\",nul
+l,{\"style\":{\"display\":\"inline-block\"},\"children\":[\"$\",\"h2\",null,{\"style\":{\"fontSize\":14,\"fontWeight\":
+400,\"lineHeight\":\"49px\",\"margin\":0},\"children\":\"This page could not be found.\"}]}]]}]}]],[]],\"forbidden\":\"
+$undefined\",\"unauthorized\":\"$undefined\"}],[\"$\",\"footer\",null,{\"className\":\"mt-16 border-t border-zinc-200 b
+g-white px-5 py-10\",\"children\":[\"$\",\"div\",null,{\"className\":\"mx-auto max-w-4xl\",\"children\":[[\"$\",\"div\"
+,null,{\"className\":\"flex flex-wrap items-center justify-between gap-4\",\"children\":[[\"$\",\"div\",null,{\"classNa
+me\":\"text-sm text-zinc-500\",\"children\":[\"© 2026 \",\"PlantingCalendar\",\". All rights reserved.\"]}],[\"$\",\"na
+v\",null,{\"className\":\"flex flex-wrap gap-x-6 gap-y-2 text-sm\",\"children\":[[\"$\",\"$L4\",null,{\"prefetch\":fals
+e,\"href\":\"/blog/\",\"className\":\"text-zinc-600 hover:text-indigo-600 transition-colors\",\"children\":\"Blog\"}],[
+\"$\",\"$L4\",null,{\"prefetch\":false,\"href\":\"/about/\",\"className\":\"text-zinc-600 hover:text-indigo-600 transit
+ion-colors\",\"children\":\"About\"}],[\"$\",\"$L4\",null,{\"prefetch\":false,\"href\":\"/contact/\",\"className\":\"te
+xt-zinc-600 hover:text-indigo-600 transition-colors\",\"children\":\"Contact\"}],[\"$\",\"$L4\",null,{\"prefetch\":fals
+e,\"href\":\"/privacy-policy/\",\"className\":\"text-zinc-600 hover:text-indigo-600 transition-colors\",\"children\":\"
+Privacy Policy\"}],[\"$\",\"$L4\",null,{\"prefetch\":false,\"href\":\"/terms/\",\"className\":\"text-zinc-600 hover:tex
+t-indigo-600 transition-colors\",\"children\":\"Terms\"}]]}]]}],[\"$\",\"p\",null,{\"className\":\"mt-4 text-xs text-zi
+nc-400\",\"children\":[\"plantingcalendar.net\",\" is a free online tool. All processing happens in your browser — your
+ files are never uploaded.\"]}]]}]}],[[\"$\",\"$L5\",null,{\"src\":\"https://www.googletagmanager.com/gtag/js?id=G-YV9Y
+XJX3WV\",\"strategy\":\"afterInteractive\"}],[\"$\",\"$L5\",null,{\"id\":\"ga4\",\"strategy\":\"afterInteractive\",\"ch
+ildren\":\"window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag(
+'config','G-YV9YXJX3WV');\"}]],[\"$\",\"$L5\",null,{\"id\":\"adsbygoogle\",\"async\":true,\"src\":\"https://pagead2.goo
+glesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3256422033020643\",\"crossOrigin\":\"anonymous\",\"strategy\"
+:\"afterInteractive\"}]]}]]}]]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[[\"$\",\"div\",null,{\"className\":\
+"flex min-h-full flex-col\",\"children\":[[\"$\",\"header\",null,{\"className\":\"border-b border-stone-200 bg-white\",
+\"children\":\"$L6\"}],\"$L7\",\"$L8\"]}],[\"$L9\"],\"$La\"]}],{},null,false,null]},null,false,null],\"$Lb\",false]],\"
+m\":\"$undefined\",\"G\":[\"$c\",[\"$Ld\"]],\"S\":true,\"h\":null,\"s\":\"$undefined\",\"l\":\"$undefined\",\"p\":\"$un
+defined\",\"d\":\"$undefined\",\"b\":\"mwdDf35xxhCJb9-d8ksDr\"}\n"])</script><script>self.__next_f.push([1,"f:I[42442,[
+\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.js\",\"/_next/static/chunks/3uhl6m34qftv
+w.js\"],\"default\"]\n23:I[97367,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.js\"],
+\"OutletBoundary\"]\n24:\"$Sreact.suspense\"\n26:I[97367,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chu
+nks/14mrh2-p_w84d.js\"],\"ViewportBoundary\"]\n28:I[97367,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/ch
+unks/14mrh2-p_w84d.js\"],\"MetadataBoundary\"]\n6:[\"$\",\"div\",null,{\"className\":\"mx-auto flex max-w-5xl items-cen
+ter justify-between px-4 py-3\",\"children\":[[\"$\",\"$L4\",null,{\"href\":\"/\",\"className\":\"flex items-center gap
+-2 font-bold text-emerald-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"text-xl\",\"children\":\"🌱\"}],[\"
+$\",\"span\",null,{\"children\":\"PlantingCalendar\"}]]}],[\"$\",\"nav\",null,{\"className\":\"flex gap-4 text-sm text-
+stone-600\",\"children\":[[\"$\",\"$L4\",null,{\"href\":\"/frost-dates\",\"className\":\"hover:text-emerald-700\",\"chi
+ldren\":\"Frost Dates\"}],[\"$\",\"$L4\",null,{\"href\":\"/vegetables\",\"className\":\"hover:text-emerald-700\",\"chil
+dren\":\"Vegetables\"}],[\"$\",\"$L4\",null,{\"href\":\"/zones\",\"className\":\"hover:text-emerald-700\",\"children\":
+\"Zones\"}]]}]]}]\ne:T514,{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage\",\"mainEntity\":[{\"@type\":\"Quest
+ion\",\"name\":\"How do I know my USDA hardiness zone?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Your USDA 
+zone is based on the average annual minimum winter temperature where you live. Look up your ZIP code on the USDA Plant 
+Hardiness Zone Map, then select that zone above to get your personalized planting calendar.\"}},{\"@type\":\"Question\"
+,\"name\":\"What do the planting dates mean?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Start Indoors is whe
+n to sow seeds in trays inside. Sow / Transplant is when to plant outside in the garden. Harvest From is the earliest y
+ou can expect to pick. All dates are calculated from your zone's average last spring frost.\"}},{\"@type\":\"Question\"
+,\"name\":\"Are these dates exact for my town?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"They are regional 
+averages for your USDA zone. Microclimates, elevation and a given year's weather shift them by a week or two. Use them 
+as a reliable starting point and adjust to your local frost dates.\"}},{\"@type\":\"Question\",\"name\":\"Is this plant
+ing calendar free?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Yes — completely free, no sign-up, no app. You
+r selected zone is saved in your browser so the calendar is ready every time you come back.\"}}]}"])</script><script>se
+lf.__next_f.push([1,"7:[\"$\",\"main\",null,{\"className\":\"flex-1\",\"children\":[[\"$\",\"script\",null,{\"type\":\"
+application/ld+json\",\"dangerouslySetInnerHTML\":{\"__html\":\"$e\"}}],[\"$\",\"section\",null,{\"className\":\"bg-gra
+dient-to-b from-emerald-50 to-stone-50\",\"children\":[\"$\",\"div\",null,{\"className\":\"mx-auto max-w-5xl px-4 py-12
+ text-center\",\"children\":[[\"$\",\"h1\",null,{\"className\":\"text-3xl font-extrabold tracking-tight text-stone-900 
+sm:text-4xl\",\"children\":\"2026 Vegetable Planting Calendar by Zone\"}],[\"$\",\"p\",null,{\"className\":\"mx-auto mt
+-3 max-w-2xl text-stone-600\",\"children\":\"Pick your zone and get an instant planting calendar — start-indoors, sow, 
+transplant and harvest dates for 20 popular vegetables. Free, no sign-up, your zone is remembered.\"}]]}]}],[\"$\",\"di
+v\",null,{\"className\":\"mx-auto max-w-5xl px-4 py-8\",\"children\":[[\"$\",\"$Lf\",null,{}],[\"$\",\"section\",null,{
+\"className\":\"mt-12\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-xl font-bold text-stone-900\",\"children
+\":\"Popular: When to plant…\"}],[\"$\",\"div\",null,{\"className\":\"mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 md:gri
+d-cols-4\",\"children\":[[\"$\",\"$L4\",\"tomato\",{\"href\":\"/vegetables/tomato\",\"className\":\"rounded-xl border b
+order-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700\"
+,\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🍅\"}],\"Tomato\"]}],[\"$\",\"$L4\",\"pepper
+\",{\"href\":\"/vegetables/pepper\",\"className\":\"rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-
+medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700\",\"children\":[[\"$\",\"span\",null,{\"className
+\":\"mr-1\",\"children\":\"🫑\"}],\"Pepper\"]}],[\"$\",\"$L4\",\"cucumber\",{\"href\":\"/vegetables/cucumber\",\"classN
+ame\":\"rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-3
+00 hover:text-emerald-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🥒\"}],\"Cucumber
+\"]}],[\"$\",\"$L4\",\"lettuce\",{\"href\":\"/vegetables/lettuce\",\"className\":\"rounded-xl border border-stone-200 b
+g-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700\",\"children\":[[\
+"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🥬\"}],\"Lettuce\"]}],[\"$\",\"$L4\",\"carrot\",{\"href\":\"/
+vegetables/carrot\",\"className\":\"rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-ston
+e-700 hover:border-emerald-300 hover:text-emerald-700\",\"children\":[\"$L10\",\"Carrot\"]}],\"$L11\",\"$L12\",\"$L13\"
+,\"$L14\",\"$L15\",\"$L16\",\"$L17\",\"$L18\",\"$L19\",\"$L1a\",\"$L1b\",\"$L1c\",\"$L1d\",\"$L1e\",\"$L1f\"]}]]}],\"$L
+20\",\"$L21\",\"$L22\"]}]]}]\n"])</script><script>self.__next_f.push([1,"8:[\"$\",\"footer\",null,{\"className\":\"bord
+er-t border-stone-200 bg-white\",\"children\":[\"$\",\"div\",null,{\"className\":\"mx-auto max-w-5xl px-4 py-6 text-sm 
+text-stone-500\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex flex-wrap gap-x-6 gap-y-2\",\"children\":[[\"$
+\",\"$L4\",null,{\"href\":\"/\",\"className\":\"hover:text-emerald-700\",\"children\":\"Home\"}],[\"$\",\"$L4\",null,{\
+"href\":\"/vegetables\",\"className\":\"hover:text-emerald-700\",\"children\":\"All Vegetables\"}],[\"$\",\"$L4\",null,
+{\"href\":\"/zones\",\"className\":\"hover:text-emerald-700\",\"children\":\"All Zones\"}],[\"$\",\"$L4\",null,{\"href\
+":\"/frost-dates\",\"className\":\"hover:text-emerald-700\",\"children\":\"Frost Date Calculator\"}],[\"$\",\"$L4\",nul
+l,{\"href\":\"/privacy-policy\",\"className\":\"hover:text-emerald-700\",\"children\":\"Privacy\"}],[\"$\",\"$L4\",null
+,{\"href\":\"/terms\",\"className\":\"hover:text-emerald-700\",\"children\":\"Terms\"}]]}],[\"$\",\"div\",null,{\"class
+Name\":\"mt-4 pt-4 border-t border-stone-100\",\"children\":[[\"$\",\"p\",null,{\"className\":\"font-medium text-stone-
+700 mb-2\",\"children\":\"More Free Tools\"}],[\"$\",\"div\",null,{\"className\":\"flex flex-wrap gap-x-4 gap-y-1 text-
+xs\",\"children\":[[\"$\",\"a\",null,{\"href\":\"https://freetdee.com\",\"className\":\"hover:text-emerald-700\",\"targ
+et\":\"_blank\",\"rel\":\"noopener\",\"children\":\"TDEE Calculator\"}],[\"$\",\"a\",null,{\"href\":\"https://babyperce
+nt.com\",\"className\":\"hover:text-emerald-700\",\"target\":\"_blank\",\"rel\":\"noopener\",\"children\":\"Baby Growth
+ Tracker\"}],[\"$\",\"a\",null,{\"href\":\"https://invoicepad.net\",\"className\":\"hover:text-emerald-700\",\"target\"
+:\"_blank\",\"rel\":\"noopener\",\"children\":\"Invoice Generator\"}],[\"$\",\"a\",null,{\"href\":\"https://zoneplan.ne
+t\",\"className\":\"hover:text-emerald-700\",\"target\":\"_blank\",\"rel\":\"noopener\",\"children\":\"Time Zone Planne
+r\"}],[\"$\",\"a\",null,{\"href\":\"https://pupvax.com\",\"className\":\"hover:text-emerald-700\",\"target\":\"_blank\"
+,\"rel\":\"noopener\",\"children\":\"Dog Vaccine Tracker\"}],[\"$\",\"a\",null,{\"href\":\"https://livephotokit.com\",\
+"className\":\"hover:text-emerald-700\",\"target\":\"_blank\",\"rel\":\"noopener\",\"children\":\"HEIC Converter\"}],[\
+"$\",\"a\",null,{\"href\":\"https://iworkviewer.com\",\"className\":\"hover:text-emerald-700\",\"target\":\"_blank\",\"
+rel\":\"noopener\",\"children\":\"iWork Viewer\"}]]}]]}],[\"$\",\"p\",null,{\"className\":\"mt-4\",\"children\":[\"© \"
+,2026,\" \",\"PlantingCalendar\",\". Free vegetable planting calendar by USDA zone. Dates are regional averages — alway
+s check your local frost dates.\"]}]]}]}]\n"])</script><script>self.__next_f.push([1,"9:[\"$\",\"script\",\"script-0\",
+{\"src\":\"/_next/static/chunks/3uhl6m34qftvw.js\",\"async\":true,\"nonce\":\"$undefined\"}]\na:[\"$\",\"$L23\",null,{\
+"children\":[\"$\",\"$24\",null,{\"name\":\"Next.MetadataOutlet\",\"children\":\"$@25\"}]}]\nb:[\"$\",\"$1\",\"h\",{\"c
+hildren\":[null,[\"$\",\"$L26\",null,{\"children\":\"$L27\"}],[\"$\",\"div\",null,{\"hidden\":true,\"children\":[\"$\",
+\"$L28\",null,{\"children\":[\"$\",\"$24\",null,{\"name\":\"Next.Metadata\",\"children\":\"$L29\"}]}]}],[\"$\",\"meta\"
+,null,{\"name\":\"next-size-adjust\",\"content\":\"\"}]]}]\nd:[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"
+/_next/static/chunks/0t-8bu_s61n_1.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\
+"}]\n"])</script><script>self.__next_f.push([1,"10:[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🥕\"}]\n
+11:[\"$\",\"$L4\",\"broccoli\",{\"href\":\"/vegetables/broccoli\",\"className\":\"rounded-xl border border-stone-200 bg
+-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700\",\"children\":[[\"
+$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🥦\"}],\"Broccoli\"]}]\n12:[\"$\",\"$L4\",\"spinach\",{\"href\
+":\"/vegetables/spinach\",\"className\":\"rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium tex
+t-stone-700 hover:border-emerald-300 hover:text-emerald-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\
+",\"children\":\"🍃\"}],\"Spinach\"]}]\n13:[\"$\",\"$L4\",\"kale\",{\"href\":\"/vegetables/kale\",\"className\":\"round
+ed-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text
+-emerald-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🥬\"}],\"Kale\"]}]\n14:[\"$\",
+\"$L4\",\"onion\",{\"href\":\"/vegetables/onion\",\"className\":\"rounded-xl border border-stone-200 bg-white px-4 py-3
+ text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700\",\"children\":[[\"$\",\"span\",nul
+l,{\"className\":\"mr-1\",\"children\":\"🧅\"}],\"Onion\"]}]\n15:[\"$\",\"$L4\",\"garlic\",{\"href\":\"/vegetables/garl
+ic\",\"className\":\"rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:bor
+der-emerald-300 hover:text-emerald-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🧄\"
+}],\"Garlic\"]}]\n16:[\"$\",\"$L4\",\"potato\",{\"href\":\"/vegetables/potato\",\"className\":\"rounded-xl border borde
+r-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700\",\"c
+hildren\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🥔\"}],\"Potato\"]}]\n17:[\"$\",\"$L4\",\"corn\"
+,{\"href\":\"/vegetables/corn\",\"className\":\"rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medi
+um text-stone-700 hover:border-emerald-300 hover:text-emerald-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\
+"mr-1\",\"children\":\"🌽\"}],\"Corn\"]}]\n18:[\"$\",\"$L4\",\"beans\",{\"href\":\"/vegetables/beans\",\"className\":\"
+rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover
+:text-emerald-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🫘\"}],\"Bush Beans\"]}]\
+n19:[\"$\",\"$L4\",\"peas\",{\"href\":\"/vegetables/peas\",\"className\":\"rounded-xl border border-stone-200 bg-white 
+px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700\",\"children\":[[\"$\",\"s
+pan\",null,{\"className\":\"mr-1\",\"children\":\"🟢\"}],\"Peas\"]}]\n1a:[\"$\",\"$L4\",\"squash\",{\"href\":\"/vegetab
+les/squash\",\"className\":\"rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 h
+over:border-emerald-300 hover:text-emerald-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\
+":\"🎃\"}],\"Summer Squash\"]}]\n1b:[\"$\",\"$L4\",\"zucchini\",{\"href\":\"/vegetables/zucchini\",\"className\":\"roun
+ded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:tex
+t-emerald-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🥒\"}],\"Zucchini\"]}]\n1c:[\
+"$\",\"$L4\",\"radish\",{\"href\":\"/vegetables/radish\",\"className\":\"rounded-xl border border-stone-200 bg-white px
+-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700\",\"children\":[[\"$\",\"spa
+n\",null,{\"className\":\"mr-1\",\"children\":\"🌶️\"}],\"Radish\"]}]\n1d:[\"$\",\"$L4\",\"beet\",{\"href\":\"/vegetabl
+es/beet\",\"className\":\"rounded-xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hove
+r:border-emerald-300 hover:text-emerald-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\
+"🫜\"}],\"Beet\"]}]\n1e:[\"$\",\"$L4\",\"cabbage\",{\"href\":\"/vegetables/cabbage\",\"className\":\"rounded-xl border 
+border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-700\
+",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🥬\"}],\"Cabbage\"]}]\n1f:[\"$\",\"$L4\",\"
+cauliflower\",{\"href\":\"/vegetables/cauliflo"])</script><script>self.__next_f.push([1,"wer\",\"className\":\"rounded-
+xl border border-stone-200 bg-white px-4 py-3 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-em
+erald-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"🥦\"}],\"Cauliflower\"]}]\n"])</s
+cript><script>self.__next_f.push([1,"20:[\"$\",\"section\",null,{\"className\":\"mt-12\",\"children\":[[\"$\",\"h2\",nu
+ll,{\"className\":\"text-xl font-bold text-stone-900\",\"children\":\"Browse by USDA zone\"}],[\"$\",\"div\",null,{\"cl
+assName\":\"mt-4 flex flex-wrap gap-2\",\"children\":[[\"$\",\"$L4\",\"3a\",{\"href\":\"/zones/3a\",\"className\":\"rou
+nded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:
+text-emerald-700\",\"children\":[\"Zone \",\"3a\"]}],[\"$\",\"$L4\",\"3b\",{\"href\":\"/zones/3b\",\"className\":\"roun
+ded-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:t
+ext-emerald-700\",\"children\":[\"Zone \",\"3b\"]}],[\"$\",\"$L4\",\"4a\",{\"href\":\"/zones/4a\",\"className\":\"round
+ed-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:te
+xt-emerald-700\",\"children\":[\"Zone \",\"4a\"]}],[\"$\",\"$L4\",\"4b\",{\"href\":\"/zones/4b\",\"className\":\"rounde
+d-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:tex
+t-emerald-700\",\"children\":[\"Zone \",\"4b\"]}],[\"$\",\"$L4\",\"5a\",{\"href\":\"/zones/5a\",\"className\":\"rounded
+-lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text
+-emerald-700\",\"children\":[\"Zone \",\"5a\"]}],[\"$\",\"$L4\",\"5b\",{\"href\":\"/zones/5b\",\"className\":\"rounded-
+lg border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-
+emerald-700\",\"children\":[\"Zone \",\"5b\"]}],[\"$\",\"$L4\",\"6a\",{\"href\":\"/zones/6a\",\"className\":\"rounded-l
+g border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-e
+merald-700\",\"children\":[\"Zone \",\"6a\"]}],[\"$\",\"$L4\",\"6b\",{\"href\":\"/zones/6b\",\"className\":\"rounded-lg
+ border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-em
+erald-700\",\"children\":[\"Zone \",\"6b\"]}],[\"$\",\"$L4\",\"7a\",{\"href\":\"/zones/7a\",\"className\":\"rounded-lg 
+border border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-eme
+rald-700\",\"children\":[\"Zone \",\"7a\"]}],[\"$\",\"$L4\",\"7b\",{\"href\":\"/zones/7b\",\"className\":\"rounded-lg b
+order border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emer
+ald-700\",\"children\":[\"Zone \",\"7b\"]}],[\"$\",\"$L4\",\"8a\",{\"href\":\"/zones/8a\",\"className\":\"rounded-lg bo
+rder border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emera
+ld-700\",\"children\":[\"Zone \",\"8a\"]}],[\"$\",\"$L4\",\"8b\",{\"href\":\"/zones/8b\",\"className\":\"rounded-lg bor
+der border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emeral
+d-700\",\"children\":[\"Zone \",\"8b\"]}],[\"$\",\"$L4\",\"9a\",{\"href\":\"/zones/9a\",\"className\":\"rounded-lg bord
+er border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald
+-700\",\"children\":[\"Zone \",\"9a\"]}],[\"$\",\"$L4\",\"9b\",{\"href\":\"/zones/9b\",\"className\":\"rounded-lg borde
+r border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald-
+700\",\"children\":[\"Zone \",\"9b\"]}],[\"$\",\"$L4\",\"10a\",{\"href\":\"/zones/10a\",\"className\":\"rounded-lg bord
+er border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emerald
+-700\",\"children\":[\"Zone \",\"10a\"]}],[\"$\",\"$L4\",\"10b\",{\"href\":\"/zones/10b\",\"className\":\"rounded-lg bo
+rder border-stone-200 bg-white px-3 py-1.5 text-sm font-medium text-stone-700 hover:border-emerald-300 hover:text-emera
+ld-700\",\"children\":[\"Zone \",\"10b\"]}]]}]]}]\n"])</script><script>self.__next_f.push([1,"21:[\"$\",\"section\",nul
+l,{\"className\":\"mt-12 prose prose-stone max-w-none\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-xl font-
+bold text-stone-900\",\"children\":\"How this planting calendar works\"}],[\"$\",\"p\",null,{\"className\":\"mt-3 text-
+stone-600\",\"children\":\"Every vegetable has a temperature personality. Cool-season crops like lettuce, peas, spinach
+ and kale shrug off light frost and can go in the ground weeks before your last spring frost. Warm-season crops like to
+matoes, peppers, cucumbers and squash are killed by frost and need warm soil, so they wait until the danger has passed.
+ This tool takes the average last-frost and first-frost dates for your USDA hardiness zone and works backward and forwa
+rd for each crop — telling you when to start seeds indoors, when to move them outside, and roughly when you'll be harve
+sting.\"}],[\"$\",\"p\",null,{\"className\":\"mt-3 text-stone-600\",\"children\":\"The biggest mistake new gardeners ma
+ke is planting warm-season crops too early because of one nice week in spring. A late frost wipes them out overnight. T
+he second biggest mistake is planting cool-season crops too late, so they bolt in the summer heat. A zone-based calenda
+r fixes both. Select your zone above, bookmark the page, and come back each season — your zone is saved automatically.\
+"}]]}]\n"])</script><script>self.__next_f.push([1,"22:[\"$\",\"section\",null,{\"className\":\"mt-12\",\"children\":[[\
+"$\",\"h2\",null,{\"className\":\"text-xl font-bold text-stone-900\",\"children\":\"Frequently asked questions\"}],[\"$
+\",\"div\",null,{\"className\":\"mt-4 space-y-4\",\"children\":[[\"$\",\"div\",\"How do I know my USDA hardiness zone?\
+",{\"className\":\"rounded-xl border border-stone-200 bg-white p-4\",\"children\":[[\"$\",\"h3\",null,{\"className\":\"
+font-semibold text-stone-800\",\"children\":\"How do I know my USDA hardiness zone?\"}],[\"$\",\"p\",null,{\"className\
+":\"mt-1 text-sm text-stone-600\",\"children\":\"Your USDA zone is based on the average annual minimum winter temperatu
+re where you live. Look up your ZIP code on the USDA Plant Hardiness Zone Map, then select that zone above to get your 
+personalized planting calendar.\"}]]}],[\"$\",\"div\",\"What do the planting dates mean?\",{\"className\":\"rounded-xl 
+border border-stone-200 bg-white p-4\",\"children\":[[\"$\",\"h3\",null,{\"className\":\"font-semibold text-stone-800\"
+,\"children\":\"What do the planting dates mean?\"}],[\"$\",\"p\",null,{\"className\":\"mt-1 text-sm text-stone-600\",\
+"children\":\"Start Indoors is when to sow seeds in trays inside. Sow / Transplant is when to plant outside in the gard
+en. Harvest From is the earliest you can expect to pick. All dates are calculated from your zone's average last spring 
+frost.\"}]]}],[\"$\",\"div\",\"Are these dates exact for my town?\",{\"className\":\"rounded-xl border border-stone-200
+ bg-white p-4\",\"children\":[[\"$\",\"h3\",null,{\"className\":\"font-semibold text-stone-800\",\"children\":\"Are the
+se dates exact for my town?\"}],[\"$\",\"p\",null,{\"className\":\"mt-1 text-sm text-stone-600\",\"children\":\"They ar
+e regional averages for your USDA zone. Microclimates, elevation and a given year's weather shift them by a week or two
+. Use them as a reliable starting point and adjust to your local frost dates.\"}]]}],[\"$\",\"div\",\"Is this planting 
+calendar free?\",{\"className\":\"rounded-xl border border-stone-200 bg-white p-4\",\"children\":[[\"$\",\"h3\",null,{\
+"className\":\"font-semibold text-stone-800\",\"children\":\"Is this planting calendar free?\"}],[\"$\",\"p\",null,{\"c
+lassName\":\"mt-1 text-sm text-stone-600\",\"children\":\"Yes — completely free, no sign-up, no app. Your selected zone
+ is saved in your browser so the calendar is ready every time you come back.\"}]]}]]}]]}]\n"])</script><script>self.__n
+ext_f.push([1,"27:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf-8\"}],[\"$\",\"meta\",\"1\",{\"name\":\"viewport\",\"conten
+t\":\"width=device-width, initial-scale=1\"}]]\n"])</script><script>self.__next_f.push([1,"2a:I[27201,[\"/_next/static/
+chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.js\"],\"IconMark\"]\n25:null\n"])</script><script>self._
+_next_f.push([1,"29:[[\"$\",\"title\",\"0\",{\"children\":\"Planting Calendar by ZIP \u0026 USDA Zone 2026 | Frost Date
+s\"}],[\"$\",\"meta\",\"1\",{\"name\":\"description\",\"content\":\"Find your 2026 planting calendar by USDA zone with 
+last frost dates, first frost dates, seed-starting, transplant and harvest windows for 20+ vegetables. Free, printable,
+ no sign-up.\"}],[\"$\",\"meta\",\"2\",{\"name\":\"keywords\",\"content\":\"planting calendar 2026,when to plant tomato
+es,vegetable planting calendar,usda zone planting,frost dates 2026,planting schedule by zone,garden calendar\"}],[\"$\"
+,\"link\",\"3\",{\"rel\":\"canonical\",\"href\":\"https://plantingcalendar.net/\"}],[\"$\",\"meta\",\"4\",{\"property\"
+:\"og:title\",\"content\":\"Planting Calendar by ZIP \u0026 USDA Zone 2026\"}],[\"$\",\"meta\",\"5\",{\"property\":\"og
+:description\",\"content\":\"Find last frost dates, first frost dates and vegetable planting windows by USDA zone. Free
+ 2026 garden planner for tomatoes, carrots, lettuce, garlic and more.\"}],[\"$\",\"meta\",\"6\",{\"property\":\"og:url\
+",\"content\":\"https://plantingcalendar.net/\"}],[\"$\",\"meta\",\"7\",{\"property\":\"og:site_name\",\"content\":\"Pl
+antingCalendar\"}],[\"$\",\"meta\",\"8\",{\"property\":\"og:image\",\"content\":\"https://plantingcalendar.net/og.png\"
+}],[\"$\",\"meta\",\"9\",{\"property\":\"og:image:width\",\"content\":\"1200\"}],[\"$\",\"meta\",\"10\",{\"property\":\
+"og:image:height\",\"content\":\"630\"}],[\"$\",\"meta\",\"11\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"
+$\",\"meta\",\"12\",{\"name\":\"twitter:card\",\"content\":\"summary_large_image\"}],[\"$\",\"meta\",\"13\",{\"name\":\
+"twitter:title\",\"content\":\"Planting Calendar by ZIP \u0026 USDA Zone 2026\"}],[\"$\",\"meta\",\"14\",{\"name\":\"tw
+itter:description\",\"content\":\"Find last frost dates, first frost dates and vegetable planting windows by USDA zone.
+ Free 2026 garden planner for tomatoes, carrots, lettuce, garlic and more.\"}],[\"$\",\"meta\",\"15\",{\"name\":\"twitt
+er:image\",\"content\":\"https://plantingcalendar.net/og.png\"}],[\"$\",\"link\",\"16\",{\"rel\":\"icon\",\"href\":\"/f
+avicon.ico?favicon.2vob68tjqpejf.ico\",\"sizes\":\"256x256\",\"type\":\"image/x-icon\"}],[\"$\",\"$L2a\",\"17\",{}]]\n"
+])</script></body></html>
+
+
+
+<!DOCTYPE html><html lang="en" class="inter_5901b7c6-module__ec5Qua__variable h-full antialiased"><head><meta charSet="
+utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="preload" href="/_next/static/me
+dia/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2" as="font" crossorigin="" type="font/woff2"/><link rel="stylesheet" href="
+/_next/static/chunks/06j51ppu5opj2.css" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" hre
+f="/_next/static/chunks/0wa60lc2wlwoc.js"/><script src="/_next/static/chunks/15orcrkp-_9ct.js" async=""></script><scrip
+t src="/_next/static/chunks/3j9pm5otqxm82.js" async=""></script><script src="/_next/static/chunks/0y-qmi6py9vt0.js" asy
+nc=""></script><script src="/_next/static/chunks/turbopack-05t0pci-b2j77.js" async=""></script><script src="/_next/stat
+ic/chunks/0ob_z_0z7sy-0.js" async=""></script><script src="/_next/static/chunks/14mrh2-p_w84d.js" async=""></script><sc
+ript src="/_next/static/chunks/3ll2io9teztkm.js" async=""></script><link rel="preload" href="https://www.googletagmanag
+er.com/gtag/js?id=G-7Z1639NK28" as="script"/><link rel="preload" href="https://pagead2.googlesyndication.com/pagead/js/
+adsbygoogle.js?client=ca-pub-3256422033020643" as="script" crossorigin=""/><meta name="google-adsense-account" content=
+"ca-pub-3256422033020643"/><meta name="next-size-adjust" content=""/><title>BabyPercent - Free Baby Growth Percentile C
+alculator</title><meta name="description" content="Free 2026 baby growth percentile calculator for weight, height, and 
+head circumference. Uses WHO and CDC charts for ages 0-24 months."/><meta name="keywords" content="baby percentile calc
+ulator 2026,baby growth percentile,baby weight percentile,baby height percentile,infant growth chart,WHO growth chart,C
+DC growth chart,baby head circumference percentile,baby milestones by month,is my baby in a healthy range"/><link rel="
+canonical" href="https://babypercent.com/"/><meta property="og:title" content="BabyPercent - Free Baby Growth Percentil
+e Calculator"/><meta property="og:description" content="See your baby&#x27;s weight, height, and head circumference per
+centile in seconds. Free, no sign-up. WHO and CDC charts. Educational only, not medical advice."/><meta property="og:ur
+l" content="https://babypercent.com/"/><meta property="og:site_name" content="BabyPercent"/><meta property="og:image" c
+ontent="https://babypercent.com/og.png"/><meta property="og:image:width" content="1200"/><meta property="og:image:heigh
+t" content="630"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="BabyPercent - Free Baby Growth Percentile Calculator"/><meta name="twitter:descript
+ion" content="See your baby&#x27;s weight, height, and head circumference percentile in seconds. Free, no sign-up. WHO 
+and CDC charts. Educational only, not medical advice."/><meta name="twitter:image" content="https://babypercent.com/og.
+png"/><link rel="icon" href="/icon.png?icon.07z92t8mr57_0.png" sizes="512x512" type="image/png"/><script type="applicat
+ion/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"BabyPercent","url":"https://babypercent.com"}</
+script><script src="/_next/static/chunks/0cz1d0mv5g_q7.js" noModule=""></script></head><body class="min-h-full bg-slate
+-50 font-sans text-slate-900"><div hidden=""><!--$--><!--/$--></div><div class="flex min-h-full flex-col"><header class
+="border-b border-slate-200 bg-white"><div class="mx-auto flex max-w-5xl items-center justify-between px-4 py-3"><a cla
+ss="flex items-center gap-2 font-bold text-sky-600" href="/"><span class="text-xl">👶</span><span>BabyPercent</span></a
+><nav class="flex gap-4 text-sm text-slate-600"><a class="hover:text-sky-600" href="/0-month/">By Age</a><a class="hove
+r:text-sky-600" href="/baby-weight-percentile/">Weight</a><a class="hover:text-sky-600" href="/baby-height-percentile/"
+>Height</a></nav></div></header><main class="flex-1"><script type="application/ld+json">{"@context":"https://schema.org
+","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is a baby growth percentile?","acceptedAnswer":{"@ty
+pe":"Answer","text":"A percentile compares your baby to other babies of the same age and sex. If your baby is in the 70
+th percentile for weight, they weigh more than about 70 out of 100 babies their age. It is a position on a curve, not a
+ score — being in any percentile from 3 to 97 is generally considered a normal, healthy range."}},{"@type":"Question","
+name":"Is a low percentile bad?","acceptedAnswer":{"@type":"Answer","text":"Not on its own. A baby who has tracked stea
+dily along the 10th percentile since birth is usually growing perfectly well. Pediatricians worry far more about a sudd
+en change — a baby crossing several percentile lines up or down — than about the number itself. This tool is educationa
+l only and not medical advice; discuss any concerns with your pediatrician."}},{"@type":"Question","name":"Which chart 
+does BabyPercent use — WHO or CDC?","acceptedAnswer":{"@type":"Answer","text":"BabyPercent provides both WHO and CDC re
+ference data so you can compare. The WHO charts (based on healthy breastfed babies from six countries) are recommended 
+by the CDC and AAP for ages 0-24 months. CDC charts are based on a US reference population. The values shown are refere
+nce averages for general understanding, not an official medical chart or diagnosis."}},{"@type":"Question","name":"Is B
+abyPercent free?","acceptedAnswer":{"@type":"Answer","text":"Yes — completely free, no sign-up, no app. Your last entry
+ is saved in your own browser so it is ready every month when you come back from a checkup. No data is ever sent to any
+ server."}},{"@type":"Question","name":"What measurements does BabyPercent track?","acceptedAnswer":{"@type":"Answer","
+text":"BabyPercent tracks three core growth measurements: weight, height (length), and head circumference. These are th
+e same three measurements your pediatrician takes at every well-baby visit. We also provide weight-for-length interpret
+ation (the baby equivalent of BMI) as an educational reference."}},{"@type":"Question","name":"Does BabyPercent work fo
+r premature babies?","acceptedAnswer":{"@type":"Answer","text":"Yes — the calculator includes an option to adjust for p
+rematurity. For babies born before 37 weeks, pediatricians use adjusted (corrected) age until about 24 months. Select y
+our baby's prematurity level in the tool to get percentiles based on their adjusted age. Always discuss prematurity gro
+wth concerns with your pediatrician."}},{"@type":"Question","name":"What do I do if my baby is not on the chart?","acce
+ptedAnswer":{"@type":"Answer","text":"If your baby's weight or length falls below the 3rd or above the 97th percentile,
+ do not panic. These are reference curves, not pass/fail lines. A single reading tells you very little. Call your pedia
+trician if your baby crosses several percentile lines between visits, is not feeding well, has very few wet diapers, or
+ if your gut tells you something is off."}},{"@type":"Question","name":"Can this replace my pediatrician?","acceptedAns
+wer":{"@type":"Answer","text":"No. BabyPercent is for education and peace of mind only. It is not medical advice and ca
+nnot diagnose anything. Your pediatrician measures your baby accurately with calibrated tools, plots the trend over tim
+e, and considers your whole family's health history. Always consult them about your child's growth."}}]}</script><secti
+on class="bg-gradient-to-b from-sky-50 to-slate-50"><div class="mx-auto max-w-5xl px-4 py-12 text-center"><h1 class="te
+xt-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl">2026 Baby Growth Percentile Calculator</h1><p class="m
+x-auto mt-3 max-w-2xl text-slate-600">Back from the pediatrician with a sheet of numbers? Enter your baby&#x27;s age, w
+eight and height to see their percentiles in plain English. Free, no sign-up, for ages 0-24 months. <span class="font-m
+edium text-rose-600">Educational only — not medical advice.</span></p></div></section><div class="mx-auto max-w-5xl px-
+4 py-8"><div class="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm"><div class="grid gap-4 sm:grid-cols-2">
+<label class="flex flex-col gap-1 text-sm font-medium text-slate-700">Baby&#x27;s sex<div class="flex gap-2"><button ty
+pe="button" class="flex-1 rounded-lg border px-3 py-2 text-base font-semibold capitalize border-sky-400 bg-sky-50 text-
+sky-700">👧 Girl</button><button type="button" class="flex-1 rounded-lg border px-3 py-2 text-base font-semibold capita
+lize border-slate-300 bg-white text-slate-600">👦 Boy</button></div></label><label class="flex flex-col gap-1 text-sm f
+ont-medium text-slate-700">Age (months)<select class="rounded-lg border border-slate-300 bg-white px-3 py-2 text-base f
+ont-semibold text-sky-700 focus:border-sky-500 focus:outline-none"><option value="0">Newborn (0 months)</option><option
+ value="1">1 month</option><option value="2">2 months</option><option value="3">3 months</option><option value="4">4 mo
+nths</option><option value="5">5 months</option><option value="6" selected="">6 months</option><option value="7">7 mont
+hs</option><option value="8">8 months</option><option value="9">9 months</option><option value="10">10 months</option><
+option value="11">11 months</option><option value="12">12 months</option><option value="13">13 months</option><option v
+alue="14">14 months</option><option value="15">15 months</option><option value="16">16 months</option><option value="17
+">17 months</option><option value="18">18 months</option><option value="19">19 months</option><option value="20">20 mon
+ths</option><option value="21">21 months</option><option value="22">22 months</option><option value="23">23 months</opt
+ion><option value="24">24 months</option></select></label><label class="flex flex-col gap-1 text-sm font-medium text-sl
+ate-700 sm:col-span-2">Adjusted for prematurity<select class="rounded-lg border border-amber-300 bg-amber-50 px-3 py-2 
+text-sm font-medium text-amber-800 focus:border-amber-500 focus:outline-none"><option value="0" selected="">Born at ter
+m (40+ weeks)</option><option value="2">2 weeks early (38 weeks)</option><option value="4">4 weeks early (36 weeks)</op
+tion><option value="6">6 weeks early (34 weeks)</option><option value="8">8 weeks early (32 weeks)</option><option valu
+e="10">10 weeks early (30 weeks)</option><option value="12">12 weeks early (28 weeks)</option></select></label><label c
+lass="flex flex-col gap-1 text-sm font-medium text-slate-700 sm:col-span-2">Growth chart standard<div class="flex gap-2
+"><button type="button" class="flex-1 rounded-lg border px-3 py-2 text-sm font-semibold uppercase border-sky-400 bg-sky
+-50 text-sky-700">who<!-- --> Charts</button><button type="button" class="flex-1 rounded-lg border px-3 py-2 text-sm fo
+nt-semibold uppercase border-slate-300 bg-white text-slate-600">cdc<!-- --> Charts</button></div></label><div class="sm
+:col-span-2"><div class="inline-flex rounded-lg border border-slate-300 p-0.5 text-sm"><button type="button" class="rou
+nded-md px-3 py-1 font-medium bg-sky-100 text-sky-700">lb / in (US)</button><button type="button" class="rounded-md px-
+3 py-1 font-medium text-slate-500">kg / cm</button></div></div><label class="flex flex-col gap-1 text-sm font-medium te
+xt-slate-700">Weight (<!-- -->lb<!-- -->)<input type="number" inputMode="decimal" placeholder="16.1" class="rounded-lg 
+border border-slate-300 bg-white px-3 py-2 text-base focus:border-sky-500 focus:outline-none" value=""/></label><label 
+class="flex flex-col gap-1 text-sm font-medium text-slate-700">Length / height (<!-- -->in<!-- -->)<input type="number"
+ inputMode="decimal" placeholder="25.9" class="rounded-lg border border-slate-300 bg-white px-3 py-2 text-base focus:bo
+rder-sky-500 focus:outline-none" value=""/></label><label class="flex flex-col gap-1 text-sm font-medium text-slate-700
+ sm:col-span-2">Head circumference (<!-- -->in<!-- -->) — optional<input type="number" inputMode="decimal" placeholder=
+"16.8" class="rounded-lg border border-slate-300 bg-white px-3 py-2 text-base focus:border-sky-500 focus:outline-none" 
+value=""/></label></div><div class="mt-5 grid gap-3 sm:grid-cols-3"><div class="rounded-xl border border-sky-200 bg-sky
+-50 p-4"><p class="text-xs font-medium uppercase tracking-wide text-slate-500">Weight percentile</p><p class="mt-1 text
+-sm text-slate-500">Enter a value</p><p class="mt-2 text-xs text-slate-400">WHO avg: 16.1 lb for a 6.0-mo girl.</p></di
+v><div class="rounded-xl border border-sky-200 bg-sky-50 p-4"><p class="text-xs font-medium uppercase tracking-wide tex
+t-slate-500">Height percentile</p><p class="mt-1 text-sm text-slate-500">Enter a value</p><p class="mt-2 text-xs text-s
+late-400">WHO avg: 25.9 in for a 6.0-mo girl.</p></div><div class="rounded-xl border border-sky-200 bg-sky-50 p-4"><p c
+lass="text-xs font-medium uppercase tracking-wide text-slate-500">Head percentile</p><p class="mt-1 text-sm text-slate-
+500">Enter a value</p><p class="mt-2 text-xs text-slate-400">WHO avg: 16.8 in for a 6.0-mo girl.</p></div></div><p clas
+s="mt-4 text-xs text-slate-400">Saved to this browser — your last entry is remembered. Using <!-- -->WHO<!-- --> refere
+nce data<!-- --> with chronological age<!-- -->.</p><div class="mt-4 rounded-lg bg-rose-50 p-3 text-xs text-rose-700"><
+strong>Reassurance first:</strong> the healthy range is very wide. Babies in the 5th percentile and the 95th percentile
+ can both be perfectly healthy. A single number tells you almost nothing — your pediatrician looks at the trend across 
+visits. This tool is educational only and is <strong>not medical advice</strong>. Talk to your pediatrician about your 
+baby&#x27;s growth.</div></div><section class="mt-12"><h2 class="text-xl font-bold text-slate-900">Growth by age (0-24 
+months)</h2><p class="mt-1 text-sm text-slate-500">Average weight, length and milestones for each month — and when to c
+heck in with your pediatrician.</p><div class="mt-4 grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-5"><a class="rou
+nded-xl border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 
+hover:text-sky-700" href="/0-month/">Newborn</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-ce
+nter text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/1-month/">1 mo</a><a class="rou
+nded-xl border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 
+hover:text-sky-700" href="/2-month/">2 mo</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-cente
+r text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/3-month/">3 mo</a><a class="rounde
+d-xl border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hov
+er:text-sky-700" href="/4-month/">4 mo</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-center t
+ext-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/5-month/">5 mo</a><a class="rounded-x
+l border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:
+text-sky-700" href="/6-month/">6 mo</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text
+-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/7-month/">7 mo</a><a class="rounded-xl b
+order border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:tex
+t-sky-700" href="/8-month/">8 mo</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text-sm
+ font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/9-month/">9 mo</a><a class="rounded-xl bord
+er border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-s
+ky-700" href="/10-month/">10 mo</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text-sm 
+font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/11-month/">11 mo</a><a class="rounded-xl bor
+der border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-
+sky-700" href="/12-month/">12 mo</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text-sm
+ font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/13-month/">13 mo</a><a class="rounded-xl bo
+rder border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text
+-sky-700" href="/14-month/">14 mo</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text-s
+m font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/15-month/">15 mo</a><a class="rounded-xl b
+order border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:tex
+t-sky-700" href="/16-month/">16 mo</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text-
+sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/17-month/">17 mo</a><a class="rounded-xl 
+border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:te
+xt-sky-700" href="/18-month/">18 mo</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text
+-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/19-month/">19 mo</a><a class="rounded-xl
+ border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:t
+ext-sky-700" href="/20-month/">20 mo</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-center tex
+t-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/21-month/">21 mo</a><a class="rounded-x
+l border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:
+text-sky-700" href="/22-month/">22 mo</a><a class="rounded-xl border border-slate-200 bg-white px-3 py-3 text-center te
+xt-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700" href="/23-month/">23 mo</a><a class="rounded-
+xl border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover
+:text-sky-700" href="/24-month/">24 mo</a></div></section><section class="mt-12"><h2 class="text-xl font-bold text-slat
+e-900">Understand each measurement</h2><div class="mt-4 grid gap-3 sm:grid-cols-2"><a class="rounded-xl border border-s
+late-200 bg-white p-4 hover:border-sky-300" href="/baby-weight-percentile/"><p class="font-semibold text-sky-700"><span
+ class="mr-1">⚖️</span>Baby Weight Percentile</p><p class="mt-1 text-sm text-slate-600 line-clamp-2">A baby weight perc
+entile compares your little one&#x27;s weight to other babies of the same age and sex. If your baby is in t<!-- -->…</p
+></a><a class="rounded-xl border border-slate-200 bg-white p-4 hover:border-sky-300" href="/baby-height-percentile/"><p
+ class="font-semibold text-sky-700"><span class="mr-1">📏</span>Baby Height Percentile</p><p class="mt-1 text-sm text-s
+late-600 line-clamp-2">A baby height (length, for babies measured lying down) percentile compares your baby&#x27;s leng
+th to other babies of the sam<!-- -->…</p></a><a class="rounded-xl border border-slate-200 bg-white p-4 hover:border-sk
+y-300" href="/baby-head-circumference/"><p class="font-semibold text-sky-700"><span class="mr-1">🧠</span>Baby Head Cir
+cumference</p><p class="mt-1 text-sm text-slate-600 line-clamp-2">Head circumference is measured around the widest part
+ of your baby&#x27;s head — just above the eyebrows and ears — and is on<!-- -->…</p></a><a class="rounded-xl border bo
+rder-slate-200 bg-white p-4 hover:border-sky-300" href="/baby-bmi/"><p class="font-semibold text-sky-700"><span class="
+mr-1">📊</span>Baby BMI / Weight-for-Length</p><p class="mt-1 text-sm text-slate-600 line-clamp-2">BMI is not used the 
+same way for babies as for adults. For children under 2, pediatricians use weight-for-length — compa<!-- -->…</p></a></
+div></section><section class="mt-12 max-w-none"><h2 class="text-xl font-bold text-slate-900">How baby percentiles actua
+lly work</h2><p class="mt-3 text-slate-600">At every well-baby visit, your pediatrician measures three things: weight, 
+length and head circumference. Each measurement is plotted on a growth chart — a set of curves built from thousands of 
+healthy babies. The curves are labeled with percentiles: the 3rd, 15th, 50th, 85th and 97th are the common reference li
+nes. The 50th percentile is the median, the exact middle. If your baby&#x27;s weight lands on the 50th line, half of ba
+bies their age weigh more and half weigh less.</p><p class="mt-3 text-slate-600">Here is the single most important idea
+, and the one new parents most often miss: there is no &quot;good&quot; or &quot;bad&quot; percentile. A baby in the 10
+th percentile is not behind, and a baby in the 90th percentile is not ahead. Both are simply different, healthy sizes —
+ the same way some adults are 5&#x27;2&quot; and others are 6&#x27;2&quot;.      What pediatricians actually watch is t
+he <strong>trend</strong>. A baby who has tracked the 25th percentile since birth is the picture of healthy, steady gro
+wth. The thing that gets a doctor&#x27;s attention is a baby who jumps or drops across several percentile lines between
+ visits, because that change — not the number — can be worth investigating.</p><p class="mt-3 text-slate-600">Measureme
+nts at home are also less precise than you might think. A wiggly baby on a home scale, a length read off a tape measure
+, the weight of a diaper — small errors add up to a percentile or two. That is exactly why one reading should never set
+ off alarm bells. Use BabyPercent to understand the numbers from your checkup and to feel calmer between visits, not to
+ make decisions. It cannot replace the trained eye and accurate scale at your pediatrician&#x27;s office.</p><p class="
+mt-3 rounded-xl bg-rose-50 p-4 text-sm text-rose-700"><strong>Reminder:</strong>BabyPercent shows reference averages fo
+r education only. It is not medical advice, not a diagnosis, and not a substitute for professional care. If you are eve
+r worried about your baby&#x27;s growth, feeding or development, call your pediatrician — that is always the right move
+.</p></section><section class="mt-12"><h2 class="text-xl font-bold text-slate-900">Frequently asked questions</h2><div 
+class="mt-4 space-y-4"><div class="rounded-xl border border-slate-200 bg-white p-4"><h3 class="font-semibold text-slate
+-800">What is a baby growth percentile?</h3><p class="mt-1 text-sm text-slate-600">A percentile compares your baby to o
+ther babies of the same age and sex. If your baby is in the 70th percentile for weight, they weigh more than about 70 o
+ut of 100 babies their age. It is a position on a curve, not a score — being in any percentile from 3 to 97 is generall
+y considered a normal, healthy range.</p></div><div class="rounded-xl border border-slate-200 bg-white p-4"><h3 class="
+font-semibold text-slate-800">Is a low percentile bad?</h3><p class="mt-1 text-sm text-slate-600">Not on its own. A bab
+y who has tracked steadily along the 10th percentile since birth is usually growing perfectly well. Pediatricians worry
+ far more about a sudden change — a baby crossing several percentile lines up or down — than about the number itself. T
+his tool is educational only and not medical advice; discuss any concerns with your pediatrician.</p></div><div class="
+rounded-xl border border-slate-200 bg-white p-4"><h3 class="font-semibold text-slate-800">Which chart does BabyPercent 
+use — WHO or CDC?</h3><p class="mt-1 text-sm text-slate-600">BabyPercent provides both WHO and CDC reference data so yo
+u can compare. The WHO charts (based on healthy breastfed babies from six countries) are recommended by the CDC and AAP
+ for ages 0-24 months. CDC charts are based on a US reference population. The values shown are reference averages for g
+eneral understanding, not an official medical chart or diagnosis.</p></div><div class="rounded-xl border border-slate-2
+00 bg-white p-4"><h3 class="font-semibold text-slate-800">Is BabyPercent free?</h3><p class="mt-1 text-sm text-slate-60
+0">Yes — completely free, no sign-up, no app. Your last entry is saved in your own browser so it is ready every month w
+hen you come back from a checkup. No data is ever sent to any server.</p></div><div class="rounded-xl border border-sla
+te-200 bg-white p-4"><h3 class="font-semibold text-slate-800">What measurements does BabyPercent track?</h3><p class="m
+t-1 text-sm text-slate-600">BabyPercent tracks three core growth measurements: weight, height (length), and head circum
+ference. These are the same three measurements your pediatrician takes at every well-baby visit. We also provide weight
+-for-length interpretation (the baby equivalent of BMI) as an educational reference.</p></div><div class="rounded-xl bo
+rder border-slate-200 bg-white p-4"><h3 class="font-semibold text-slate-800">Does BabyPercent work for premature babies
+?</h3><p class="mt-1 text-sm text-slate-600">Yes — the calculator includes an option to adjust for prematurity. For bab
+ies born before 37 weeks, pediatricians use adjusted (corrected) age until about 24 months. Select your baby&#x27;s pre
+maturity level in the tool to get percentiles based on their adjusted age. Always discuss prematurity growth concerns w
+ith your pediatrician.</p></div><div class="rounded-xl border border-slate-200 bg-white p-4"><h3 class="font-semibold t
+ext-slate-800">What do I do if my baby is not on the chart?</h3><p class="mt-1 text-sm text-slate-600">If your baby&#x2
+7;s weight or length falls below the 3rd or above the 97th percentile, do not panic. These are reference curves, not pa
+ss/fail lines. A single reading tells you very little. Call your pediatrician if your baby crosses several percentile l
+ines between visits, is not feeding well, has very few wet diapers, or if your gut tells you something is off.</p></div
+><div class="rounded-xl border border-slate-200 bg-white p-4"><h3 class="font-semibold text-slate-800">Can this replace
+ my pediatrician?</h3><p class="mt-1 text-sm text-slate-600">No. BabyPercent is for education and peace of mind only. I
+t is not medical advice and cannot diagnose anything. Your pediatrician measures your baby accurately with calibrated t
+ools, plots the trend over time, and considers your whole family&#x27;s health history. Always consult them about your 
+child&#x27;s growth.</p></div></div></section></div></main><footer class="border-t border-slate-200 bg-white"><div clas
+s="mx-auto max-w-5xl px-4 py-6 text-sm text-slate-500"><div class="flex flex-wrap gap-x-6 gap-y-2"><a class="hover:text
+-sky-600" href="/">Home</a><a class="hover:text-sky-600" href="/baby-weight-percentile/">Weight Percentile</a><a class=
+"hover:text-sky-600" href="/baby-height-percentile/">Height Percentile</a><a class="hover:text-sky-600" href="/baby-bmi
+/">Weight-for-Length</a><a class="hover:text-sky-600" href="/privacy-policy/">Privacy</a><a class="hover:text-sky-600" 
+href="/terms/">Terms</a></div><p class="mt-4 rounded-lg bg-rose-50 p-3 text-xs text-rose-700"><strong>Educational only 
+— not medical advice.</strong>BabyPercent shows reference averages from WHO-style growth charts to help you understand 
+the numbers. It is not a diagnosis. Every baby grows differently. Always consult your pediatrician about your child&#x2
+7;s growth and health.</p><div class="mt-4 pt-4 border-t border-stone-100"><p class="font-medium text-stone-700 mb-2">M
+ore Free Tools</p><div class="flex flex-wrap gap-x-4 gap-y-1 text-xs"><a href="https://plantingcalendar.net" class="hov
+er:text-emerald-700" target="_blank" rel="noopener">Planting Calendar</a><a href="https://freetdee.com" class="hover:te
+xt-emerald-700" target="_blank" rel="noopener">TDEE Calculator</a><a href="https://invoicepad.net" class="hover:text-em
+erald-700" target="_blank" rel="noopener">Invoice Generator</a><a href="https://zoneplan.net" class="hover:text-emerald
+-700" target="_blank" rel="noopener">Time Zone Planner</a><a href="https://pupvax.com" class="hover:text-emerald-700" t
+arget="_blank" rel="noopener">Dog Vaccine Tracker</a><a href="https://livephotokit.com" class="hover:text-emerald-700" 
+target="_blank" rel="noopener">HEIC Converter</a><a href="https://iworkviewer.com" class="hover:text-emerald-700" targe
+t="_blank" rel="noopener">iWork Viewer</a></div></div><p class="mt-4">© <!-- -->2026<!-- --> <!-- -->BabyPercent<!-- --
+>. Free baby growth percentile calculator for ages 0-24 months.</p></div></footer></div><!--$--><!--/$--><footer class=
+"mt-16 border-t border-zinc-200 bg-white px-5 py-10"><div class="mx-auto max-w-4xl"><div class="flex flex-wrap items-ce
+nter justify-between gap-4"><div class="text-sm text-zinc-500">© 2026 <!-- -->BabyPercent<!-- -->. All rights reserved.
+</div><nav class="flex flex-wrap gap-x-6 gap-y-2 text-sm"><a class="text-zinc-600 hover:text-indigo-600 transition-colo
+rs" href="/blog/">Blog</a><a class="text-zinc-600 hover:text-indigo-600 transition-colors" href="/about/">About</a><a c
+lass="text-zinc-600 hover:text-indigo-600 transition-colors" href="/contact/">Contact</a><a class="text-zinc-600 hover:
+text-indigo-600 transition-colors" href="/privacy-policy/">Privacy Policy</a><a class="text-zinc-600 hover:text-indigo-
+600 transition-colors" href="/terms/">Terms</a></nav></div><p class="mt-4 text-xs text-zinc-400">babypercent.com<!-- --
+> is a free online tool. All processing happens in your browser — your files are never uploaded.</p></div></footer><scr
+ipt src="/_next/static/chunks/0wa60lc2wlwoc.js" id="_R_" async=""></script><script>(self.__next_f=self.__next_f||[]).pu
+sh([0])</script><script>self.__next_f.push([1,"1:\"$Sreact.fragment\"\n2:I[39756,[\"/_next/static/chunks/0ob_z_0z7sy-0.
+js\",\"/_next/static/chunks/14mrh2-p_w84d.js\"],\"default\"]\n3:I[37457,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_
+next/static/chunks/14mrh2-p_w84d.js\"],\"default\"]\n4:I[22016,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/stat
+ic/chunks/14mrh2-p_w84d.js\",\"/_next/static/chunks/3ll2io9teztkm.js\"],\"\"]\n5:I[79520,[\"/_next/static/chunks/0ob_z_
+0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.js\"],\"\"]\nc:I[68027,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/
+_next/static/chunks/14mrh2-p_w84d.js\"],\"default\",1]\n:HL[\"/_next/static/chunks/06j51ppu5opj2.css\",\"style\"]\n:HL[
+\"/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2\",\"font\",{\"crossOrigin\":\"\",\"type\":\"font/woff2\"
+}]\n"])</script><script>self.__next_f.push([1,"0:{\"P\":null,\"c\":[\"\",\"\"],\"q\":\"\",\"i\":false,\"f\":[[[\"\",{\"
+children\":[\"__PAGE__\",{}]},\"$undefined\",\"$undefined\",16],[[\"$\",\"$1\",\"c\",{\"children\":[[[\"$\",\"link\",\"
+0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/06j51ppu5opj2.css\",\"precedence\":\"next\",\"crossOrigin\"
+:\"$undefined\",\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/static/chunks/0ob_z_0z7sy-0
+.js\",\"async\":true,\"nonce\":\"$undefined\"}],[\"$\",\"script\",\"script-1\",{\"src\":\"/_next/static/chunks/14mrh2-p
+_w84d.js\",\"async\":true,\"nonce\":\"$undefined\"}]],[\"$\",\"html\",null,{\"lang\":\"en\",\"className\":\"inter_5901b
+7c6-module__ec5Qua__variable h-full antialiased\",\"children\":[[\"$\",\"head\",null,{\"children\":[[\"$\",\"meta\",nul
+l,{\"name\":\"google-adsense-account\",\"content\":\"ca-pub-3256422033020643\"}],[\"$\",\"script\",null,{\"type\":\"app
+lication/ld+json\",\"dangerouslySetInnerHTML\":{\"__html\":\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\"
+:\\\"WebSite\\\",\\\"name\\\":\\\"BabyPercent\\\",\\\"url\\\":\\\"https://babypercent.com\\\"}\"}}]]}],[\"$\",\"body\",
+null,{\"className\":\"min-h-full bg-slate-50 font-sans text-slate-900\",\"children\":[[\"$\",\"$L2\",null,{\"parallelRo
+uterKey\":\"children\",\"error\":\"$undefined\",\"errorStyles\":\"$undefined\",\"errorScripts\":\"$undefined\",\"templa
+te\":[\"$\",\"$L3\",null,{}],\"templateStyles\":\"$undefined\",\"templateScripts\":\"$undefined\",\"notFound\":[[[\"$\"
+,\"title\",null,{\"children\":\"404: This page could not be found.\"}],[\"$\",\"div\",null,{\"style\":{\"fontFamily\":\
+"system-ui,\\\"Segoe UI\\\",Roboto,Helvetica,Arial,sans-serif,\\\"Apple Color Emoji\\\",\\\"Segoe UI Emoji\\\"\",\"heig
+ht\":\"100vh\",\"textAlign\":\"center\",\"display\":\"flex\",\"flexDirection\":\"column\",\"alignItems\":\"center\",\"j
+ustifyContent\":\"center\"},\"children\":[\"$\",\"div\",null,{\"children\":[[\"$\",\"style\",null,{\"dangerouslySetInne
+rHTML\":{\"__html\":\"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@me
+dia (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,
+.3)}}\"}}],[\"$\",\"h1\",null,{\"className\":\"next-error-h1\",\"style\":{\"display\":\"inline-block\",\"margin\":\"0 2
+0px 0 0\",\"padding\":\"0 23px 0 0\",\"fontSize\":24,\"fontWeight\":500,\"verticalAlign\":\"top\",\"lineHeight\":\"49px
+\"},\"children\":404}],[\"$\",\"div\",null,{\"style\":{\"display\":\"inline-block\"},\"children\":[\"$\",\"h2\",null,{\
+"style\":{\"fontSize\":14,\"fontWeight\":400,\"lineHeight\":\"49px\",\"margin\":0},\"children\":\"This page could not b
+e found.\"}]}]]}]}]],[]],\"forbidden\":\"$undefined\",\"unauthorized\":\"$undefined\"}],[\"$\",\"footer\",null,{\"class
+Name\":\"mt-16 border-t border-zinc-200 bg-white px-5 py-10\",\"children\":[\"$\",\"div\",null,{\"className\":\"mx-auto
+ max-w-4xl\",\"children\":[[\"$\",\"div\",null,{\"className\":\"flex flex-wrap items-center justify-between gap-4\",\"c
+hildren\":[[\"$\",\"div\",null,{\"className\":\"text-sm text-zinc-500\",\"children\":[\"© 2026 \",\"BabyPercent\",\". A
+ll rights reserved.\"]}],[\"$\",\"nav\",null,{\"className\":\"flex flex-wrap gap-x-6 gap-y-2 text-sm\",\"children\":[[\
+"$\",\"$L4\",null,{\"prefetch\":false,\"href\":\"/blog/\",\"className\":\"text-zinc-600 hover:text-indigo-600 transitio
+n-colors\",\"children\":\"Blog\"}],[\"$\",\"$L4\",null,{\"prefetch\":false,\"href\":\"/about/\",\"className\":\"text-zi
+nc-600 hover:text-indigo-600 transition-colors\",\"children\":\"About\"}],[\"$\",\"$L4\",null,{\"prefetch\":false,\"hre
+f\":\"/contact/\",\"className\":\"text-zinc-600 hover:text-indigo-600 transition-colors\",\"children\":\"Contact\"}],[\
+"$\",\"$L4\",null,{\"prefetch\":false,\"href\":\"/privacy-policy/\",\"className\":\"text-zinc-600 hover:text-indigo-600
+ transition-colors\",\"children\":\"Privacy Policy\"}],[\"$\",\"$L4\",null,{\"prefetch\":false,\"href\":\"/terms/\",\"c
+lassName\":\"text-zinc-600 hover:text-indigo-600 transition-colors\",\"children\":\"Terms\"}]]}]]}],[\"$\",\"p\",null,{
+\"className\":\"mt-4 text-xs text-zinc-400\",\"children\":[\"babypercent.com\",\" is a free online tool. All processing
+ happens in your browser — your files are never uploaded.\"]}]]}]}],[[\"$\",\"$L5\",null,{\"src\":\"https://www.googlet
+agmanager.com/gtag/js?id=G-7Z1639NK28\",\"strategy\":\"afterInteractive\"}],[\"$\",\"$L5\",null,{\"id\":\"ga4\",\"strat
+egy\":\"afterInteractive\",\"children\":\"window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(argument
+s);}gtag('js',new Date());gtag('config','G-7Z1639NK28');\"}]],[\"$\",\"$L5\",null,{\"id\":\"adsbygoogle\",\"async\":tru
+e,\"src\":\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3256422033020643\",\"crossOrig
+in\":\"anonymous\",\"strategy\":\"afterInteractive\"}]]}]]}]]}],{\"children\":[[\"$\",\"$1\",\"c\",{\"children\":[[\"$\
+",\"div\",null,{\"className\":\"flex min-h-full flex-col\",\"children\":[[\"$\",\"header\",null,{\"className\":\"border
+-b border-slate-200 bg-white\",\"children\":\"$L6\"}],\"$L7\",\"$L8\"]}],[\"$L9\"],\"$La\"]}],{},null,false,null]},null
+,false,null],\"$Lb\",false]],\"m\":\"$undefined\",\"G\":[\"$c\",[\"$Ld\"]],\"S\":true,\"h\":null,\"s\":\"$undefined\",\
+"l\":\"$undefined\",\"p\":\"$undefined\",\"d\":\"$undefined\",\"b\":\"ZdUbzNDIqIJpQRc_ds9xM\"}\n"])</script><script>sel
+f.__next_f.push([1,"11:I[97367,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.js\"],\"
+OutletBoundary\"]\n12:\"$Sreact.suspense\"\n14:I[97367,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunk
+s/14mrh2-p_w84d.js\"],\"ViewportBoundary\"]\n16:I[97367,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chun
+ks/14mrh2-p_w84d.js\"],\"MetadataBoundary\"]\n6:[\"$\",\"div\",null,{\"className\":\"mx-auto flex max-w-5xl items-cente
+r justify-between px-4 py-3\",\"children\":[[\"$\",\"$L4\",null,{\"href\":\"/\",\"className\":\"flex items-center gap-2
+ font-bold text-sky-600\",\"children\":[[\"$\",\"span\",null,{\"className\":\"text-xl\",\"children\":\"👶\"}],[\"$\",\"
+span\",null,{\"children\":\"BabyPercent\"}]]}],[\"$\",\"nav\",null,{\"className\":\"flex gap-4 text-sm text-slate-600\"
+,\"children\":[[\"$\",\"$L4\",null,{\"href\":\"/0-month\",\"className\":\"hover:text-sky-600\",\"children\":\"By Age\"}
+],[\"$\",\"$L4\",null,{\"href\":\"/baby-weight-percentile\",\"className\":\"hover:text-sky-600\",\"children\":\"Weight\
+"}],[\"$\",\"$L4\",null,{\"href\":\"/baby-height-percentile\",\"className\":\"hover:text-sky-600\",\"children\":\"Heigh
+t\"}]]}]]}]\ne:Td97,"])</script><script>self.__next_f.push([1,"{\"@context\":\"https://schema.org\",\"@type\":\"FAQPage
+\",\"mainEntity\":[{\"@type\":\"Question\",\"name\":\"What is a baby growth percentile?\",\"acceptedAnswer\":{\"@type\"
+:\"Answer\",\"text\":\"A percentile compares your baby to other babies of the same age and sex. If your baby is in the 
+70th percentile for weight, they weigh more than about 70 out of 100 babies their age. It is a position on a curve, not
+ a score — being in any percentile from 3 to 97 is generally considered a normal, healthy range.\"}},{\"@type\":\"Quest
+ion\",\"name\":\"Is a low percentile bad?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Not on its own. A baby 
+who has tracked steadily along the 10th percentile since birth is usually growing perfectly well. Pediatricians worry f
+ar more about a sudden change — a baby crossing several percentile lines up or down — than about the number itself. Thi
+s tool is educational only and not medical advice; discuss any concerns with your pediatrician.\"}},{\"@type\":\"Questi
+on\",\"name\":\"Which chart does BabyPercent use — WHO or CDC?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Ba
+byPercent provides both WHO and CDC reference data so you can compare. The WHO charts (based on healthy breastfed babie
+s from six countries) are recommended by the CDC and AAP for ages 0-24 months. CDC charts are based on a US reference p
+opulation. The values shown are reference averages for general understanding, not an official medical chart or diagnosi
+s.\"}},{\"@type\":\"Question\",\"name\":\"Is BabyPercent free?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"Ye
+s — completely free, no sign-up, no app. Your last entry is saved in your own browser so it is ready every month when y
+ou come back from a checkup. No data is ever sent to any server.\"}},{\"@type\":\"Question\",\"name\":\"What measuremen
+ts does BabyPercent track?\",\"acceptedAnswer\":{\"@type\":\"Answer\",\"text\":\"BabyPercent tracks three core growth m
+easurements: weight, height (length), and head circumference. These are the same three measurements your pediatrician t
+akes at every well-baby visit. We also provide weight-for-length interpretation (the baby equivalent of BMI) as an educ
+ational reference.\"}},{\"@type\":\"Question\",\"name\":\"Does BabyPercent work for premature babies?\",\"acceptedAnswe
+r\":{\"@type\":\"Answer\",\"text\":\"Yes — the calculator includes an option to adjust for prematurity. For babies born
+ before 37 weeks, pediatricians use adjusted (corrected) age until about 24 months. Select your baby's prematurity leve
+l in the tool to get percentiles based on their adjusted age. Always discuss prematurity growth concerns with your pedi
+atrician.\"}},{\"@type\":\"Question\",\"name\":\"What do I do if my baby is not on the chart?\",\"acceptedAnswer\":{\"@
+type\":\"Answer\",\"text\":\"If your baby's weight or length falls below the 3rd or above the 97th percentile, do not p
+anic. These are reference curves, not pass/fail lines. A single reading tells you very little. Call your pediatrician i
+f your baby crosses several percentile lines between visits, is not feeding well, has very few wet diapers, or if your 
+gut tells you something is off.\"}},{\"@type\":\"Question\",\"name\":\"Can this replace my pediatrician?\",\"acceptedAn
+swer\":{\"@type\":\"Answer\",\"text\":\"No. BabyPercent is for education and peace of mind only. It is not medical advi
+ce and cannot diagnose anything. Your pediatrician measures your baby accurately with calibrated tools, plots the trend
+ over time, and considers your whole family's health history. Always consult them about your child's growth.\"}}]}"])</
+script><script>self.__next_f.push([1,"7:[\"$\",\"main\",null,{\"className\":\"flex-1\",\"children\":[[\"$\",\"script\",
+null,{\"type\":\"application/ld+json\",\"dangerouslySetInnerHTML\":{\"__html\":\"$e\"}}],\"$Lf\",\"$L10\"]}]\n"])</scri
+pt><script>self.__next_f.push([1,"8:[\"$\",\"footer\",null,{\"className\":\"border-t border-slate-200 bg-white\",\"chil
+dren\":[\"$\",\"div\",null,{\"className\":\"mx-auto max-w-5xl px-4 py-6 text-sm text-slate-500\",\"children\":[[\"$\",\
+"div\",null,{\"className\":\"flex flex-wrap gap-x-6 gap-y-2\",\"children\":[[\"$\",\"$L4\",null,{\"href\":\"/\",\"class
+Name\":\"hover:text-sky-600\",\"children\":\"Home\"}],[\"$\",\"$L4\",null,{\"href\":\"/baby-weight-percentile\",\"class
+Name\":\"hover:text-sky-600\",\"children\":\"Weight Percentile\"}],[\"$\",\"$L4\",null,{\"href\":\"/baby-height-percent
+ile\",\"className\":\"hover:text-sky-600\",\"children\":\"Height Percentile\"}],[\"$\",\"$L4\",null,{\"href\":\"/baby-b
+mi\",\"className\":\"hover:text-sky-600\",\"children\":\"Weight-for-Length\"}],[\"$\",\"$L4\",null,{\"href\":\"/privacy
+-policy\",\"className\":\"hover:text-sky-600\",\"children\":\"Privacy\"}],[\"$\",\"$L4\",null,{\"href\":\"/terms\",\"cl
+assName\":\"hover:text-sky-600\",\"children\":\"Terms\"}]]}],[\"$\",\"p\",null,{\"className\":\"mt-4 rounded-lg bg-rose
+-50 p-3 text-xs text-rose-700\",\"children\":[[\"$\",\"strong\",null,{\"children\":\"Educational only — not medical adv
+ice.\"}],\"BabyPercent shows reference averages from WHO-style growth charts to help you understand the numbers. It is 
+not a diagnosis. Every baby grows differently. Always consult your pediatrician about your child's growth and health.\"
+]}],[\"$\",\"div\",null,{\"className\":\"mt-4 pt-4 border-t border-stone-100\",\"children\":[[\"$\",\"p\",null,{\"class
+Name\":\"font-medium text-stone-700 mb-2\",\"children\":\"More Free Tools\"}],[\"$\",\"div\",null,{\"className\":\"flex
+ flex-wrap gap-x-4 gap-y-1 text-xs\",\"children\":[[\"$\",\"a\",null,{\"href\":\"https://plantingcalendar.net\",\"class
+Name\":\"hover:text-emerald-700\",\"target\":\"_blank\",\"rel\":\"noopener\",\"children\":\"Planting Calendar\"}],[\"$\
+",\"a\",null,{\"href\":\"https://freetdee.com\",\"className\":\"hover:text-emerald-700\",\"target\":\"_blank\",\"rel\":
+\"noopener\",\"children\":\"TDEE Calculator\"}],[\"$\",\"a\",null,{\"href\":\"https://invoicepad.net\",\"className\":\"
+hover:text-emerald-700\",\"target\":\"_blank\",\"rel\":\"noopener\",\"children\":\"Invoice Generator\"}],[\"$\",\"a\",n
+ull,{\"href\":\"https://zoneplan.net\",\"className\":\"hover:text-emerald-700\",\"target\":\"_blank\",\"rel\":\"noopene
+r\",\"children\":\"Time Zone Planner\"}],[\"$\",\"a\",null,{\"href\":\"https://pupvax.com\",\"className\":\"hover:text-
+emerald-700\",\"target\":\"_blank\",\"rel\":\"noopener\",\"children\":\"Dog Vaccine Tracker\"}],[\"$\",\"a\",null,{\"hr
+ef\":\"https://livephotokit.com\",\"className\":\"hover:text-emerald-700\",\"target\":\"_blank\",\"rel\":\"noopener\",\
+"children\":\"HEIC Converter\"}],[\"$\",\"a\",null,{\"href\":\"https://iworkviewer.com\",\"className\":\"hover:text-eme
+rald-700\",\"target\":\"_blank\",\"rel\":\"noopener\",\"children\":\"iWork Viewer\"}]]}]]}],[\"$\",\"p\",null,{\"classN
+ame\":\"mt-4\",\"children\":[\"© \",2026,\" \",\"BabyPercent\",\". Free baby growth percentile calculator for ages 0-24
+ months.\"]}]]}]}]\n"])</script><script>self.__next_f.push([1,"9:[\"$\",\"script\",\"script-0\",{\"src\":\"/_next/stati
+c/chunks/3ll2io9teztkm.js\",\"async\":true,\"nonce\":\"$undefined\"}]\na:[\"$\",\"$L11\",null,{\"children\":[\"$\",\"$1
+2\",null,{\"name\":\"Next.MetadataOutlet\",\"children\":\"$@13\"}]}]\nb:[\"$\",\"$1\",\"h\",{\"children\":[null,[\"$\",
+\"$L14\",null,{\"children\":\"$L15\"}],[\"$\",\"div\",null,{\"hidden\":true,\"children\":[\"$\",\"$L16\",null,{\"childr
+en\":[\"$\",\"$12\",null,{\"name\":\"Next.Metadata\",\"children\":\"$L17\"}]}]}],[\"$\",\"meta\",null,{\"name\":\"next-
+size-adjust\",\"content\":\"\"}]]}]\nd:[\"$\",\"link\",\"0\",{\"rel\":\"stylesheet\",\"href\":\"/_next/static/chunks/06
+j51ppu5opj2.css\",\"precedence\":\"next\",\"crossOrigin\":\"$undefined\",\"nonce\":\"$undefined\"}]\n"])</script><scrip
+t>self.__next_f.push([1,"18:I[51717,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.js\
+",\"/_next/static/chunks/3ll2io9teztkm.js\"],\"default\"]\nf:[\"$\",\"section\",null,{\"className\":\"bg-gradient-to-b 
+from-sky-50 to-slate-50\",\"children\":[\"$\",\"div\",null,{\"className\":\"mx-auto max-w-5xl px-4 py-12 text-center\",
+\"children\":[[\"$\",\"h1\",null,{\"className\":\"text-3xl font-extrabold tracking-tight text-slate-900 sm:text-4xl\",\
+"children\":\"2026 Baby Growth Percentile Calculator\"}],[\"$\",\"p\",null,{\"className\":\"mx-auto mt-3 max-w-2xl text
+-slate-600\",\"children\":[\"Back from the pediatrician with a sheet of numbers? Enter your baby's age, weight and heig
+ht to see their percentiles in plain English. Free, no sign-up, for ages 0-24 months. \",[\"$\",\"span\",null,{\"classN
+ame\":\"font-medium text-rose-600\",\"children\":\"Educational only — not medical advice.\"}]]}]]}]}]\n"])</script><scr
+ipt>self.__next_f.push([1,"10:[\"$\",\"div\",null,{\"className\":\"mx-auto max-w-5xl px-4 py-8\",\"children\":[[\"$\",\
+"$L18\",null,{}],[\"$\",\"section\",null,{\"className\":\"mt-12\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"tex
+t-xl font-bold text-slate-900\",\"children\":\"Growth by age (0-24 months)\"}],[\"$\",\"p\",null,{\"className\":\"mt-1 
+text-sm text-slate-500\",\"children\":\"Average weight, length and milestones for each month — and when to check in wit
+h your pediatrician.\"}],[\"$\",\"div\",null,{\"className\":\"mt-4 grid grid-cols-3 gap-3 sm:grid-cols-4 md:grid-cols-5
+\",\"children\":[[\"$\",\"$L4\",\"0\",{\"href\":\"/0-month\",\"className\":\"rounded-xl border border-slate-200 bg-whit
+e px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"New
+born\"}],[\"$\",\"$L4\",\"1\",{\"href\":\"/1-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 p
+y-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"1 mo\"}],[\
+"$\",\"$L4\",\"2\",{\"href\":\"/2-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 py-3 text-ce
+nter text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"2 mo\"}],[\"$\",\"$L4\
+",\"3\",{\"href\":\"/3-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text-s
+m font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"3 mo\"}],[\"$\",\"$L4\",\"4\",{\"
+href\":\"/4-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medi
+um text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"4 mo\"}],[\"$\",\"$L4\",\"5\",{\"href\":\"/5
+-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-sla
+te-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"5 mo\"}],[\"$\",\"$L4\",\"6\",{\"href\":\"/6-month\",\"
+className\":\"rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hove
+r:border-sky-300 hover:text-sky-700\",\"children\":\"6 mo\"}],[\"$\",\"$L4\",\"7\",{\"href\":\"/7-month\",\"className\"
+:\"rounded-xl border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sk
+y-300 hover:text-sky-700\",\"children\":\"7 mo\"}],[\"$\",\"$L4\",\"8\",{\"href\":\"/8-month\",\"className\":\"rounded-
+xl border border-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover
+:text-sky-700\",\"children\":\"8 mo\"}],[\"$\",\"$L4\",\"9\",{\"href\":\"/9-month\",\"className\":\"rounded-xl border b
+order-slate-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-7
+00\",\"children\":\"9 mo\"}],[\"$\",\"$L4\",\"10\",{\"href\":\"/10-month\",\"className\":\"rounded-xl border border-sla
+te-200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"ch
+ildren\":\"10 mo\"}],[\"$\",\"$L4\",\"11\",{\"href\":\"/11-month\",\"className\":\"rounded-xl border border-slate-200 b
+g-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\"
+:\"11 mo\"}],[\"$\",\"$L4\",\"12\",{\"href\":\"/12-month\",\"className\":\"rounded-xl border border-slate-200 bg-white 
+px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"12 mo
+\"}],[\"$\",\"$L4\",\"13\",{\"href\":\"/13-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 py-
+3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"13 mo\"}],[\"
+$\",\"$L4\",\"14\",{\"href\":\"/14-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 py-3 text-c
+enter text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"14 mo\"}],[\"$\",\"$L
+4\",\"15\",{\"href\":\"/15-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 py-3 text-center te
+xt-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"15 mo\"}],\"$L19\",\"$L1a\",\
+"$L1b\",\"$L1c\",\"$L1d\",\"$L1e\",\"$L1f\",\"$L20\",\"$L21\"]}]]}],\"$L22\",\"$L23\",\"$L24\"]}]\n"])</script><script>
+self.__next_f.push([1,"19:[\"$\",\"$L4\",\"16\",{\"href\":\"/16-month\",\"className\":\"rounded-xl border border-slate-
+200 bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"child
+ren\":\"16 mo\"}]\n1a:[\"$\",\"$L4\",\"17\",{\"href\":\"/17-month\",\"className\":\"rounded-xl border border-slate-200 
+bg-white px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\
+":\"17 mo\"}]\n1b:[\"$\",\"$L4\",\"18\",{\"href\":\"/18-month\",\"className\":\"rounded-xl border border-slate-200 bg-w
+hite px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"
+18 mo\"}]\n1c:[\"$\",\"$L4\",\"19\",{\"href\":\"/19-month\",\"className\":\"rounded-xl border border-slate-200 bg-white
+ px-3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"19 m
+o\"}]\n1d:[\"$\",\"$L4\",\"20\",{\"href\":\"/20-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-
+3 py-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"20 mo\"}
+]\n1e:[\"$\",\"$L4\",\"21\",{\"href\":\"/21-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 py
+-3 text-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"21 mo\"}]\n1
+f:[\"$\",\"$L4\",\"22\",{\"href\":\"/22-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 py-3 t
+ext-center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"22 mo\"}]\n20:[\
+"$\",\"$L4\",\"23\",{\"href\":\"/23-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 py-3 text-
+center text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"23 mo\"}]\n21:[\"$\"
+,\"$L4\",\"24\",{\"href\":\"/24-month\",\"className\":\"rounded-xl border border-slate-200 bg-white px-3 py-3 text-cent
+er text-sm font-medium text-slate-700 hover:border-sky-300 hover:text-sky-700\",\"children\":\"24 mo\"}]\n"])</script><
+script>self.__next_f.push([1,"22:[\"$\",\"section\",null,{\"className\":\"mt-12\",\"children\":[[\"$\",\"h2\",null,{\"c
+lassName\":\"text-xl font-bold text-slate-900\",\"children\":\"Understand each measurement\"}],[\"$\",\"div\",null,{\"c
+lassName\":\"mt-4 grid gap-3 sm:grid-cols-2\",\"children\":[[\"$\",\"$L4\",\"baby-weight-percentile\",{\"href\":\"/baby
+-weight-percentile\",\"className\":\"rounded-xl border border-slate-200 bg-white p-4 hover:border-sky-300\",\"children\
+":[[\"$\",\"p\",null,{\"className\":\"font-semibold text-sky-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"
+mr-1\",\"children\":\"⚖️\"}],\"Baby Weight Percentile\"]}],[\"$\",\"p\",null,{\"className\":\"mt-1 text-sm text-slate-6
+00 line-clamp-2\",\"children\":[\"A baby weight percentile compares your little one's weight to other babies of the sam
+e age and sex. If your baby is in t\",\"…\"]}]]}],[\"$\",\"$L4\",\"baby-height-percentile\",{\"href\":\"/baby-height-pe
+rcentile\",\"className\":\"rounded-xl border border-slate-200 bg-white p-4 hover:border-sky-300\",\"children\":[[\"$\",
+\"p\",null,{\"className\":\"font-semibold text-sky-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"c
+hildren\":\"📏\"}],\"Baby Height Percentile\"]}],[\"$\",\"p\",null,{\"className\":\"mt-1 text-sm text-slate-600 line-cl
+amp-2\",\"children\":[\"A baby height (length, for babies measured lying down) percentile compares your baby's length t
+o other babies of the sam\",\"…\"]}]]}],[\"$\",\"$L4\",\"baby-head-circumference\",{\"href\":\"/baby-head-circumference
+\",\"className\":\"rounded-xl border border-slate-200 bg-white p-4 hover:border-sky-300\",\"children\":[[\"$\",\"p\",nu
+ll,{\"className\":\"font-semibold text-sky-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\
+":\"🧠\"}],\"Baby Head Circumference\"]}],[\"$\",\"p\",null,{\"className\":\"mt-1 text-sm text-slate-600 line-clamp-2\"
+,\"children\":[\"Head circumference is measured around the widest part of your baby's head — just above the eyebrows an
+d ears — and is on\",\"…\"]}]]}],[\"$\",\"$L4\",\"baby-bmi\",{\"href\":\"/baby-bmi\",\"className\":\"rounded-xl border 
+border-slate-200 bg-white p-4 hover:border-sky-300\",\"children\":[[\"$\",\"p\",null,{\"className\":\"font-semibold tex
+t-sky-700\",\"children\":[[\"$\",\"span\",null,{\"className\":\"mr-1\",\"children\":\"📊\"}],\"Baby BMI / Weight-for-Le
+ngth\"]}],[\"$\",\"p\",null,{\"className\":\"mt-1 text-sm text-slate-600 line-clamp-2\",\"children\":[\"BMI is not used
+ the same way for babies as for adults. For children under 2, pediatricians use weight-for-length — compa\",\"…\"]}]]}]
+]}]]}]\n"])</script><script>self.__next_f.push([1,"23:[\"$\",\"section\",null,{\"className\":\"mt-12 max-w-none\",\"chi
+ldren\":[[\"$\",\"h2\",null,{\"className\":\"text-xl font-bold text-slate-900\",\"children\":\"How baby percentiles act
+ually work\"}],[\"$\",\"p\",null,{\"className\":\"mt-3 text-slate-600\",\"children\":\"At every well-baby visit, your p
+ediatrician measures three things: weight, length and head circumference. Each measurement is plotted on a growth chart
+ — a set of curves built from thousands of healthy babies. The curves are labeled with percentiles: the 3rd, 15th, 50th
+, 85th and 97th are the common reference lines. The 50th percentile is the median, the exact middle. If your baby's wei
+ght lands on the 50th line, half of babies their age weigh more and half weigh less.\"}],[\"$\",\"p\",null,{\"className
+\":\"mt-3 text-slate-600\",\"children\":[\"Here is the single most important idea, and the one new parents most often m
+iss: there is no \\\"good\\\" or \\\"bad\\\" percentile. A baby in the 10th percentile is not behind, and a baby in the
+ 90th percentile is not ahead. Both are simply different, healthy sizes — the same way some adults are 5'2\\\" and othe
+rs are 6'2\\\".      What pediatricians actually watch is the \",[\"$\",\"strong\",null,{\"children\":\"trend\"}],\". A
+ baby who has tracked the 25th percentile since birth is the picture of healthy, steady growth. The thing that gets a d
+octor's attention is a baby who jumps or drops across several percentile lines between visits, because that change — no
+t the number — can be worth investigating.\"]}],[\"$\",\"p\",null,{\"className\":\"mt-3 text-slate-600\",\"children\":\
+"Measurements at home are also less precise than you might think. A wiggly baby on a home scale, a length read off a ta
+pe measure, the weight of a diaper — small errors add up to a percentile or two. That is exactly why one reading should
+ never set off alarm bells. Use BabyPercent to understand the numbers from your checkup and to feel calmer between visi
+ts, not to make decisions. It cannot replace the trained eye and accurate scale at your pediatrician's office.\"}],[\"$
+\",\"p\",null,{\"className\":\"mt-3 rounded-xl bg-rose-50 p-4 text-sm text-rose-700\",\"children\":[[\"$\",\"strong\",n
+ull,{\"children\":\"Reminder:\"}],\"BabyPercent shows reference averages for education only. It is not medical advice, 
+not a diagnosis, and not a substitute for professional care. If you are ever worried about your baby's growth, feeding 
+or development, call your pediatrician — that is always the right move.\"]}]]}]\n"])</script><script>self.__next_f.push
+([1,"24:[\"$\",\"section\",null,{\"className\":\"mt-12\",\"children\":[[\"$\",\"h2\",null,{\"className\":\"text-xl font
+-bold text-slate-900\",\"children\":\"Frequently asked questions\"}],[\"$\",\"div\",null,{\"className\":\"mt-4 space-y-
+4\",\"children\":[[\"$\",\"div\",\"What is a baby growth percentile?\",{\"className\":\"rounded-xl border border-slate-
+200 bg-white p-4\",\"children\":[[\"$\",\"h3\",null,{\"className\":\"font-semibold text-slate-800\",\"children\":\"What
+ is a baby growth percentile?\"}],[\"$\",\"p\",null,{\"className\":\"mt-1 text-sm text-slate-600\",\"children\":\"A per
+centile compares your baby to other babies of the same age and sex. If your baby is in the 70th percentile for weight, 
+they weigh more than about 70 out of 100 babies their age. It is a position on a curve, not a score — being in any perc
+entile from 3 to 97 is generally considered a normal, healthy range.\"}]]}],[\"$\",\"div\",\"Is a low percentile bad?\"
+,{\"className\":\"rounded-xl border border-slate-200 bg-white p-4\",\"children\":[[\"$\",\"h3\",null,{\"className\":\"f
+ont-semibold text-slate-800\",\"children\":\"Is a low percentile bad?\"}],[\"$\",\"p\",null,{\"className\":\"mt-1 text-
+sm text-slate-600\",\"children\":\"Not on its own. A baby who has tracked steadily along the 10th percentile since birt
+h is usually growing perfectly well. Pediatricians worry far more about a sudden change — a baby crossing several perce
+ntile lines up or down — than about the number itself. This tool is educational only and not medical advice; discuss an
+y concerns with your pediatrician.\"}]]}],[\"$\",\"div\",\"Which chart does BabyPercent use — WHO or CDC?\",{\"classNam
+e\":\"rounded-xl border border-slate-200 bg-white p-4\",\"children\":[[\"$\",\"h3\",null,{\"className\":\"font-semibold
+ text-slate-800\",\"children\":\"Which chart does BabyPercent use — WHO or CDC?\"}],[\"$\",\"p\",null,{\"className\":\"
+mt-1 text-sm text-slate-600\",\"children\":\"BabyPercent provides both WHO and CDC reference data so you can compare. T
+he WHO charts (based on healthy breastfed babies from six countries) are recommended by the CDC and AAP for ages 0-24 m
+onths. CDC charts are based on a US reference population. The values shown are reference averages for general understan
+ding, not an official medical chart or diagnosis.\"}]]}],[\"$\",\"div\",\"Is BabyPercent free?\",{\"className\":\"round
+ed-xl border border-slate-200 bg-white p-4\",\"children\":[[\"$\",\"h3\",null,{\"className\":\"font-semibold text-slate
+-800\",\"children\":\"Is BabyPercent free?\"}],[\"$\",\"p\",null,{\"className\":\"mt-1 text-sm text-slate-600\",\"child
+ren\":\"Yes — completely free, no sign-up, no app. Your last entry is saved in your own browser so it is ready every mo
+nth when you come back from a checkup. No data is ever sent to any server.\"}]]}],[\"$\",\"div\",\"What measurements do
+es BabyPercent track?\",{\"className\":\"rounded-xl border border-slate-200 bg-white p-4\",\"children\":[[\"$\",\"h3\",
+null,{\"className\":\"font-semibold text-slate-800\",\"children\":\"What measurements does BabyPercent track?\"}],[\"$\
+",\"p\",null,{\"className\":\"mt-1 text-sm text-slate-600\",\"children\":\"BabyPercent tracks three core growth measure
+ments: weight, height (length), and head circumference. These are the same three measurements your pediatrician takes a
+t every well-baby visit. We also provide weight-for-length interpretation (the baby equivalent of BMI) as an educationa
+l reference.\"}]]}],[\"$\",\"div\",\"Does BabyPercent work for premature babies?\",{\"className\":\"rounded-xl border b
+order-slate-200 bg-white p-4\",\"children\":[[\"$\",\"h3\",null,{\"className\":\"font-semibold text-slate-800\",\"child
+ren\":\"Does BabyPercent work for premature babies?\"}],[\"$\",\"p\",null,{\"className\":\"mt-1 text-sm text-slate-600\
+",\"children\":\"Yes — the calculator includes an option to adjust for prematurity. For babies born before 37 weeks, pe
+diatricians use adjusted (corrected) age until about 24 months. Select your baby's prematurity level in the tool to get
+ percentiles based on their adjusted age. Always discuss prematurity growth concerns with your pediatrician.\"}]]}],\"$
+L25\",\"$L26\"]}]]}]\n"])</script><script>self.__next_f.push([1,"25:[\"$\",\"div\",\"What do I do if my baby is not on 
+the chart?\",{\"className\":\"rounded-xl border border-slate-200 bg-white p-4\",\"children\":[[\"$\",\"h3\",null,{\"cla
+ssName\":\"font-semibold text-slate-800\",\"children\":\"What do I do if my baby is not on the chart?\"}],[\"$\",\"p\",
+null,{\"className\":\"mt-1 text-sm text-slate-600\",\"children\":\"If your baby's weight or length falls below the 3rd 
+or above the 97th percentile, do not panic. These are reference curves, not pass/fail lines. A single reading tells you
+ very little. Call your pediatrician if your baby crosses several percentile lines between visits, is not feeding well,
+ has very few wet diapers, or if your gut tells you something is off.\"}]]}]\n26:[\"$\",\"div\",\"Can this replace my p
+ediatrician?\",{\"className\":\"rounded-xl border border-slate-200 bg-white p-4\",\"children\":[[\"$\",\"h3\",null,{\"c
+lassName\":\"font-semibold text-slate-800\",\"children\":\"Can this replace my pediatrician?\"}],[\"$\",\"p\",null,{\"c
+lassName\":\"mt-1 text-sm text-slate-600\",\"children\":\"No. BabyPercent is for education and peace of mind only. It i
+s not medical advice and cannot diagnose anything. Your pediatrician measures your baby accurately with calibrated tool
+s, plots the trend over time, and considers your whole family's health history. Always consult them about your child's 
+growth.\"}]]}]\n"])</script><script>self.__next_f.push([1,"15:[[\"$\",\"meta\",\"0\",{\"charSet\":\"utf-8\"}],[\"$\",\"
+meta\",\"1\",{\"name\":\"viewport\",\"content\":\"width=device-width, initial-scale=1\"}]]\n"])</script><script>self.__
+next_f.push([1,"27:I[27201,[\"/_next/static/chunks/0ob_z_0z7sy-0.js\",\"/_next/static/chunks/14mrh2-p_w84d.js\"],\"Icon
+Mark\"]\n13:null\n"])</script><script>self.__next_f.push([1,"17:[[\"$\",\"title\",\"0\",{\"children\":\"BabyPercent - F
+ree Baby Growth Percentile Calculator\"}],[\"$\",\"meta\",\"1\",{\"name\":\"description\",\"content\":\"Free 2026 baby 
+growth percentile calculator for weight, height, and head circumference. Uses WHO and CDC charts for ages 0-24 months.\
+"}],[\"$\",\"meta\",\"2\",{\"name\":\"keywords\",\"content\":\"baby percentile calculator 2026,baby growth percentile,b
+aby weight percentile,baby height percentile,infant growth chart,WHO growth chart,CDC growth chart,baby head circumfere
+nce percentile,baby milestones by month,is my baby in a healthy range\"}],[\"$\",\"link\",\"3\",{\"rel\":\"canonical\",
+\"href\":\"https://babypercent.com/\"}],[\"$\",\"meta\",\"4\",{\"property\":\"og:title\",\"content\":\"BabyPercent - Fr
+ee Baby Growth Percentile Calculator\"}],[\"$\",\"meta\",\"5\",{\"property\":\"og:description\",\"content\":\"See your 
+baby's weight, height, and head circumference percentile in seconds. Free, no sign-up. WHO and CDC charts. Educational 
+only, not medical advice.\"}],[\"$\",\"meta\",\"6\",{\"property\":\"og:url\",\"content\":\"https://babypercent.com/\"}]
+,[\"$\",\"meta\",\"7\",{\"property\":\"og:site_name\",\"content\":\"BabyPercent\"}],[\"$\",\"meta\",\"8\",{\"property\"
+:\"og:image\",\"content\":\"https://babypercent.com/og.png\"}],[\"$\",\"meta\",\"9\",{\"property\":\"og:image:width\",\
+"content\":\"1200\"}],[\"$\",\"meta\",\"10\",{\"property\":\"og:image:height\",\"content\":\"630\"}],[\"$\",\"meta\",\"
+11\",{\"property\":\"og:type\",\"content\":\"website\"}],[\"$\",\"meta\",\"12\",{\"name\":\"twitter:card\",\"content\":
+\"summary_large_image\"}],[\"$\",\"meta\",\"13\",{\"name\":\"twitter:title\",\"content\":\"BabyPercent - Free Baby Grow
+th Percentile Calculator\"}],[\"$\",\"meta\",\"14\",{\"name\":\"twitter:description\",\"content\":\"See your baby's wei
+ght, height, and head circumference percentile in seconds. Free, no sign-up. WHO and CDC charts. Educational only, not 
+medical advice.\"}],[\"$\",\"meta\",\"15\",{\"name\":\"twitter:image\",\"content\":\"https://babypercent.com/og.png\"}]
+,[\"$\",\"link\",\"16\",{\"rel\":\"icon\",\"href\":\"/icon.png?icon.07z92t8mr57_0.png\",\"sizes\":\"512x512\",\"type\":
+\"image/png\"}],[\"$\",\"$L27\",\"17\",{}]]\n"])</script></body></html>
+
+

@@ -1,0 +1,172 @@
+﻿{
+    "time":  "2026-07-18T11:47:16.9213258+08:00",
+    "checks":  [
+                   {
+                       "site":  "plantingcalendar",
+                       "live_http":  "ok",
+                       "title":  "Planting Calendar by ZIP \u0026 USDA Zone 2026 | Frost Dates",
+                       "title_ok":  true,
+                       "desc":  "Find your 2026 planting calendar by USDA zone with last frost dates, first frost dates, seed-starting, transplant and harvest windows for 20+ vegetables. Free, printable, no sign-up.",
+                       "desc_contains":  true,
+                       "canonical":  "https://plantingcalendar.net/",
+                       "noindex":  false,
+                       "faq_schema":  true,
+                       "website_schema":  true,
+                       "html_saved":  "D:\\Tools\\ai-tool-index\\logs\\2026-07-18-plantingcalendar-live.html"
+                   },
+                   {
+                       "site":  "plantingcalendar",
+                       "git_status":  "",
+                       "last_commit":  "3d713e1 Improve CTR metadata for PlantingCalendar 2026 queries"
+                   },
+                   {
+                       "site":  "babypercent",
+                       "live_http":  "ok",
+                       "title":  "Baby Growth Percentile Calculator | WHO \u0026 CDC Charts",
+                       "title_ok":  true,
+                       "desc":  "Free baby growth percentile calculator for weight, length, height and head circumference from 0-24 months. Compare WHO and CDC charts instantly. Private, no sign-up.",
+                       "desc_contains":  true,
+                       "canonical":  "https://babypercent.com/",
+                       "noindex":  false,
+                       "faq_schema":  true,
+                       "website_schema":  true,
+                       "html_saved":  "D:\\Tools\\ai-tool-index\\logs\\2026-07-18-babypercent-live.html"
+                   },
+                   {
+                       "site":  "babypercent",
+                       "git_status":  "",
+                       "last_commit":  "a07c4d3 Improve CTR metadata for baby growth queries"
+                   },
+                   {
+                       "url":  "https://iworkviewer.com/",
+                       "status":  200,
+                       "final":  "https://iworkviewer.com/"
+                   },
+                   {
+                       "url":  "https://iworkviewer.com/robots.txt",
+                       "status":  200,
+                       "final":  "https://iworkviewer.com/robots.txt"
+                   },
+                   {
+                       "url":  "https://iworkviewer.com/sitemap.xml",
+                       "status":  200,
+                       "final":  "https://iworkviewer.com/sitemap.xml"
+                   },
+                   {
+                       "url":  "https://livephotokit.com/",
+                       "status":  200,
+                       "final":  "https://livephotokit.com/"
+                   },
+                   {
+                       "url":  "https://livephotokit.com/robots.txt",
+                       "status":  200,
+                       "final":  "https://livephotokit.com/robots.txt"
+                   },
+                   {
+                       "url":  "https://livephotokit.com/sitemap.xml",
+                       "status":  200,
+                       "final":  "https://livephotokit.com/sitemap.xml"
+                   },
+                   {
+                       "url":  "https://plantingcalendar.net/",
+                       "status":  200,
+                       "final":  "https://plantingcalendar.net/"
+                   },
+                   {
+                       "url":  "https://plantingcalendar.net/robots.txt",
+                       "status":  200,
+                       "final":  "https://plantingcalendar.net/robots.txt"
+                   },
+                   {
+                       "url":  "https://plantingcalendar.net/sitemap.xml",
+                       "status":  200,
+                       "final":  "https://plantingcalendar.net/sitemap.xml"
+                   },
+                   {
+                       "url":  "https://freetdee.com/",
+                       "status":  200,
+                       "final":  "https://freetdee.com/"
+                   },
+                   {
+                       "url":  "https://freetdee.com/robots.txt",
+                       "status":  200,
+                       "final":  "https://freetdee.com/robots.txt"
+                   },
+                   {
+                       "url":  "https://freetdee.com/sitemap.xml",
+                       "status":  200,
+                       "final":  "https://freetdee.com/sitemap.xml"
+                   },
+                   {
+                       "url":  "https://babypercent.com/",
+                       "status":  200,
+                       "final":  "https://babypercent.com/"
+                   },
+                   {
+                       "url":  "https://babypercent.com/robots.txt",
+                       "status":  200,
+                       "final":  "https://babypercent.com/robots.txt"
+                   },
+                   {
+                       "url":  "https://babypercent.com/sitemap.xml",
+                       "status":  200,
+                       "final":  "https://babypercent.com/sitemap.xml"
+                   },
+                   {
+                       "url":  "https://invoicepad.net/",
+                       "status":  200,
+                       "final":  "https://invoicepad.net/"
+                   },
+                   {
+                       "url":  "https://invoicepad.net/robots.txt",
+                       "status":  200,
+                       "final":  "https://invoicepad.net/robots.txt"
+                   },
+                   {
+                       "url":  "https://invoicepad.net/sitemap.xml",
+                       "status":  200,
+                       "final":  "https://invoicepad.net/sitemap.xml"
+                   },
+                   {
+                       "url":  "https://zoneplan.net/",
+                       "status":  200,
+                       "final":  "https://zoneplan.net/"
+                   },
+                   {
+                       "url":  "https://zoneplan.net/robots.txt",
+                       "status":  200,
+                       "final":  "https://zoneplan.net/robots.txt"
+                   },
+                   {
+                       "url":  "https://zoneplan.net/sitemap.xml",
+                       "status":  200,
+                       "final":  "https://zoneplan.net/sitemap.xml"
+                   },
+                   {
+                       "url":  "https://pupvax.com/",
+                       "status":  200,
+                       "final":  "https://pupvax.com/"
+                   },
+                   {
+                       "url":  "https://pupvax.com/robots.txt",
+                       "status":  200,
+                       "final":  "https://pupvax.com/robots.txt"
+                   },
+                   {
+                       "url":  "https://pupvax.com/sitemap.xml",
+                       "status":  200,
+                       "final":  "https://pupvax.com/sitemap.xml"
+                   },
+                   {
+                       "redirect":  "freetdee old calorie path",
+                       "curl":  "HTTP/1.1 200 Connection established\r\nHTTP/1.1 301 Moved Permanently\r\nLocation: /calorie-deficit/\r\nHTTP/1.1 200 OK"
+                   },
+                   {
+                       "redirect":  "plantingcalendar old zone path",
+                       "curl":  "HTTP/1.1 200 Connection established\r\nHTTP/1.1 301 Moved Permanently\r\nLocation: /zones/3a/\r\nHTTP/1.1 200 OK"
+                   }
+               ],
+    "self_findings":  [
+
+                      ]
+}
