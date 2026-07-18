@@ -1,0 +1,195 @@
+﻿{
+    "time":  "2026-07-18T12:28:32.8806983+08:00",
+    "domain_checks":  [
+                          {
+                              "site":  "zoneplan",
+                              "http":  200,
+                              "title":  "Time Zone Meeting Planner 2026 | World Clock Scheduler",
+                              "title_ok":  true,
+                              "desc":  "Free 2026 time zone meeting planner for international calls, remote teams and global meetings. Compare world clocks, find overlap windows and avoid DST mistakes.",
+                              "desc_ok":  true,
+                              "canonical":  "https://zoneplan.net/",
+                              "canonical_ok":  true,
+                              "noindex":  false,
+                              "ga":  true,
+                              "adsense":  true,
+                              "faq_schema":  true,
+                              "website_schema":  true
+                          },
+                          {
+                              "site":  "freetdee",
+                              "http":  200,
+                              "title":  "TDEE Calculator Free 2026 | BMR, Calories \u0026 Macros",
+                              "title_ok":  true,
+                              "desc":  "Free TDEE calculator for weight loss, bodybuilding and maintenance. Estimate BMR, daily calories, calorie deficit and macros instantly. No sign-up.",
+                              "desc_ok":  true,
+                              "canonical":  "https://freetdee.com/",
+                              "canonical_ok":  true,
+                              "noindex":  false,
+                              "ga":  true,
+                              "adsense":  true,
+                              "faq_schema":  true,
+                              "website_schema":  true
+                          },
+                          {
+                              "site":  "pupvax",
+                              "http":  200,
+                              "title":  "Dog Deworming \u0026 Puppy Vaccine Schedule 2026 | PupVax",
+                              "title_ok":  true,
+                              "desc":  "Free 2026 dog deworming schedule and puppy vaccine tracker. See DHPP, rabies, worming and booster timelines by age, breed and size. No sign-up.",
+                              "desc_ok":  true,
+                              "canonical":  "https://pupvax.com/",
+                              "canonical_ok":  true,
+                              "noindex":  false,
+                              "ga":  true,
+                              "adsense":  true,
+                              "faq_schema":  true,
+                              "website_schema":  true
+                          },
+                          {
+                              "site":  "invoicepad",
+                              "http":  200,
+                              "title":  "Invoice Templates for Freelancers 2026 | Free Generator",
+                              "title_ok":  true,
+                              "desc":  "Free 2026 invoice templates for SEO services, web developers, freelance writers and handymen. Create PDF invoices and estimates with no sign-up or watermark.",
+                              "desc_ok":  true,
+                              "canonical":  "https://invoicepad.net/",
+                              "canonical_ok":  true,
+                              "noindex":  false,
+                              "ga":  true,
+                              "adsense":  true,
+                              "faq_schema":  true,
+                              "website_schema":  true
+                          }
+                      ],
+    "sitemap_checks":  [
+                           {
+                               "url":  "https://zoneplan.net/robots.txt",
+                               "status":  200,
+                               "len":  1902,
+                               "same_domain":  true
+                           },
+                           {
+                               "url":  "https://zoneplan.net/sitemap.xml",
+                               "status":  200,
+                               "len":  17826,
+                               "same_domain":  true
+                           },
+                           {
+                               "url":  "https://freetdee.com/robots.txt",
+                               "status":  200,
+                               "len":  1902,
+                               "same_domain":  true
+                           },
+                           {
+                               "url":  "https://freetdee.com/sitemap.xml",
+                               "status":  200,
+                               "len":  9122,
+                               "same_domain":  true
+                           },
+                           {
+                               "url":  "https://pupvax.com/robots.txt",
+                               "status":  200,
+                               "len":  1900,
+                               "same_domain":  true
+                           },
+                           {
+                               "url":  "https://pupvax.com/sitemap.xml",
+                               "status":  200,
+                               "len":  7702,
+                               "same_domain":  true
+                           },
+                           {
+                               "url":  "https://invoicepad.net/robots.txt",
+                               "status":  200,
+                               "len":  1904,
+                               "same_domain":  true
+                           },
+                           {
+                               "url":  "https://invoicepad.net/sitemap.xml",
+                               "status":  200,
+                               "len":  5960,
+                               "same_domain":  true
+                           }
+                       ],
+    "repo_checks":  [
+                        {
+                            "repo":  "D:\\Tools\\zoneplan",
+                            "status":  "",
+                            "last":  "95e0511 Improve CTR metadata for time zone meeting queries"
+                        },
+                        {
+                            "repo":  "D:\\Tools\\freetdee",
+                            "status":  "",
+                            "last":  "9eb332f Improve CTR metadata for TDEE calculator queries"
+                        },
+                        {
+                            "repo":  "D:\\Tools\\pupvax",
+                            "status":  "",
+                            "last":  "ff244f0 Improve CTR metadata for dog deworming queries"
+                        },
+                        {
+                            "repo":  "D:\\Tools\\invoicepad",
+                            "status":  "",
+                            "last":  "fbaff15 Improve CTR metadata for invoice template queries"
+                        },
+                        {
+                            "repo":  "D:\\Tools\\plantingcalendar",
+                            "status":  "",
+                            "last":  "3d713e1 Improve CTR metadata for PlantingCalendar 2026 queries"
+                        },
+                        {
+                            "repo":  "D:\\Tools\\babypercent",
+                            "status":  "",
+                            "last":  "a07c4d3 Improve CTR metadata for baby growth queries"
+                        },
+                        {
+                            "repo":  "D:\\Tools\\ai-tool-index",
+                            "status":  "",
+                            "last":  "9ba7b5c Add AI8 weak sites CTR metadata execution 2026-07-18"
+                        }
+                    ],
+    "public_checks":  [
+                          {
+                              "url":  "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-18-ai8-weak-sites-ctr-metadata-execution.md",
+                              "status":  200,
+                              "content_ok":  true
+                          },
+                          {
+                              "url":  "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-18-ai8-p0-cross-audit-and-self-correction.md",
+                              "status":  200,
+                              "content_ok":  true
+                          },
+                          {
+                              "url":  "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-18-ai8-p0-seo-execution-closeout.md",
+                              "status":  200,
+                              "content_ok":  true
+                          }
+                      ],
+    "vault_checks":  [
+                         {
+                             "file":  "淦总领域/🤖AI系统/05_AI编程出海/内容生产/2026-07-18-AI编程出海四弱站CTR元数据执行回执.md",
+                             "LastWriteTime":  "2026-07-18T12:27:47",
+                             "len":  4304,
+                             "has_weak_ctr":  true,
+                             "has_self_correction":  true
+                         },
+                         {
+                             "file":  "淦总领域/🤖AI系统/05_AI编程出海/内容生产/2026-07-18-AI编程出海P0毛孔级交叉验证与自身原因.md",
+                             "LastWriteTime":  "2026-07-18T11:49:29",
+                             "len":  5620,
+                             "has_weak_ctr":  true,
+                             "has_self_correction":  true
+                         },
+                         {
+                             "file":  "淦总领域/🤖AI系统/05_AI编程出海/AI编程出海唯一总文件.md",
+                             "LastWriteTime":  "2026-07-18T12:27:47",
+                             "len":  80278,
+                             "has_weak_ctr":  true,
+                             "has_self_correction":  true
+                         }
+                     ],
+    "findings":  [
+
+                 ]
+}
