@@ -48,3 +48,8 @@ These tools are small static sites. Most processing happens in the browser. The 
 - [Time zone meeting planner](https://zoneplan.net/) for remote teams.
 - [Puppy vaccine schedule tracker](https://pupvax.com/) for dog owners preparing vet visits.
 
+
+## Offer
+
+- [ Small Tool Site SEO Audit](offers/small-tool-seo-audit-99.md)
+
