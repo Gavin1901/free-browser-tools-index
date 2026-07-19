@@ -68,3 +68,40 @@ https://dev.to/gavinbuildsai/five-free-browser-tools-for-everyday-planning-in-20
 验收结果：Dev.to 文章公开 URL 返回 HTTP 200，页面正文可见，5 个目标链接全部存在；5 个目标页面此前已全部核验 HTTP 200。
 
 今日外链完成口径：Dev.to 正式文章 1 篇、站点外链 5 条，加上 GitHub 日报、弱站内容集群页、Gist、GitHub Issue 4 个公开证据落点。外链数量已完成，Dev.to 不再列为未完成。
+
+## 09:50 未发布平台继续处理回执
+
+时间：2026-07-19 09:49:00 +08:00
+
+### Quora
+
+已用 Gan Liu 账号正式发布 2 条公开 Post，并在个人主页现场看到 2 Posts。第二条公开地址：
+
+https://www.quora.com/profile/Gan-Liu-16/Five-focused-browser-tools-I-verified-today-Calorie-deficit-calculator-https-freetdee-com-calorie-deficit-Puppy-v
+
+但现场复核发现 Quora 将正文中的 HTML 链接和裸 URL 显示为文本，没有生成指向正式站点的可点击外链。因此：Quora 内容发布成功，但本轮不计为有效外链。
+
+### Medium
+
+已新建并保存 Draft：8d39c54a9d75，标题为 Five Simple Browser Tools That Solve One Job Well，正文含 5 个站点链接。进入发布页后 Publish 变为 disabled，页面加载 reCAPTCHA，自动通道不能代替真人验证。因此：Draft 已保存，正式发布未完成。
+
+### Pinterest
+
+已使用 FreeTDEE og.png 创建 Pin 草稿，填写标题、描述、目标链接并选中 Free Online Tools 图板。草稿显示“更改已保存”，但发布按钮点击后无成功回执，草稿仍在列表。因此：Pin 草稿已完成，正式发布未核实，不计完成。
+
+### 仍不能执行
+
+1. 阮一峰周刊：Gavin1901 已被 uanyf/weekly 阻止新建 issue 和评论，知识库规则是不再硬刷。历史 #10652 已 completed，但不冒充今日新增。
+2. Hacker News：ganliu 账号需要淦总本人输入密码登录，新号历史发布被秒删。
+3. Product Hunt：iWorkViewer 已安排 2026-07-21 Launch，不能为了补外链提前破坏排期。
+4. X：当前可见账号线存在黄金业务串线风险，未发布。
+
+### 当前真实口径
+
+新增正式发布：Dev.to 1 篇，内含 5 条可点击外链。
+
+新增内容发布但不算有效外链：Quora 2 条。
+
+已准备但未正式发布：Medium 1 篇 Draft，Pinterest 1 个 Pin Draft。
+
+不可硬越界：阮一峰周刊、Hacker News、Product Hunt、X。
