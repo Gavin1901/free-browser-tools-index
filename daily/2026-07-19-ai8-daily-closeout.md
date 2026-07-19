@@ -1,42 +1,50 @@
 ﻿# 2026-07-19 AI编程出海每日执行回执
 
-时间：2026-07-19 08:38:26 +08:00
+时间：2026-07-19 09:31:23 +08:00
 
-## 已完成
+## 今日行动
 
-1. 已跑 8 站每日维护脚本：un-ai8-daily-maintenance.ps1。
-2. 8 站 IndexNow 已提交，每站 20 个 URL，返回 200。
-3. 今日 GitHub 日报已生成并推送：daily/2026-07-19-ai-tool-indexing-maintenance.md。
-4. 补了弱站公开外链页：daily/2026-07-19-weak-sites-content-cluster-backlinks.md。
-5. 新增公开 Gist：https://gist.github.com/Gavin1901/f8c4daad42228de92a99ee1cd720f28e。
-6. 新增 GitHub Issue：https://github.com/Gavin1901/free-browser-tools-index/issues/10。
-7. 核验公开链接：GitHub raw、Gist raw、Issue API 均 HTTP 200，正文命中 freetdee、pupvax、zoneplan、invoicepad。
-8. 复查 8 仓 GitHub Actions 最新 Deploy to Cloudflare Pages：全部 completed/success。
-9. 深度 SEO 抽查已生成：logs/2026-07-19-deep-seo-audit.json。8 站首页均 200，首页 canonical/noindex/GA/AdSense/schema 已抽查。
+1. 执行 8 站每日维护脚本 un-ai8-daily-maintenance.ps1，完成健康检查、IndexNow 和 GitHub 日报。
+2. 发布 4 个公开外链落点：GitHub 日报、弱站内容集群页、公开 Gist、GitHub Issue。
+3. 现场发现弱站内容集群页中的 5 个目标 URL 为 404，随即按破局教程补齐内容资产：
+   - PupVax：/puppy-vaccine-schedule-by-age/、/puppy-deworming-schedule/
+   - InvoicePad：/freelancer-invoice-template/、/consultant-invoice-template/
+   - ZonePlan：/utc-meeting-planner/
+4. 三个仓库本地生产构建全部通过，提交并推送：PupVax 9738a0b、InvoicePad 3fe241a、ZonePlan ce80412。
+5. 三条 Cloudflare Pages 部署工作流全部成功：29668629147、29668629274、29668631979。
+6. 现场复核公开外链涉及的 8 个长尾 URL，全部 HTTP 200；三个 sitemap 均已包含新增 URL。
 
-## 今日公开外链证据
+## 今日收获
+
+1. 外链不是“发出去”就完成，必须先验证落地页真实存在。今天发现公开外链指向 404 后，当场补页、部署、复核，形成“关键词页 → sitemap → 外链 → 正式域名 200”的完整闭环。
+2. 弱站破局不能只做巡检。更有效的低耗动作是一次补齐有明确搜索意图的长尾页，并让页面具备独立标题、描述、canonical、正文价值、内链和 sitemap 入口。
+3. 需要改进：以后生成外链清单前，先跑 URL 200 闸门，禁止把计划中的页面误当成已上线页面。
+
+## 好事分享
+
+今天不是只交一份巡检报告，而是把 5 个真实 404 变成了 5 个可访问、可抓取、可承接搜索流量的正式页面；相关 8 个外链目标现在全部返回 200。
+
+## 下一步行动
+
+1. 用 GavinBuilds Chrome 登录态补读 GSC，记录 8 站近 7 天点击、展示、CTR 和平均排名；当前浏览器控制通道未能接入，因此今天不编报 GSC 数据。
+2. 明日优先给 PupVax 或 InvoicePad 再补 1 个高意图长尾页，并在发布前执行 URL 200 闸门。
+3. 继续保持每日 3 到 5 个公开外链落点，但不重复堆同一 GitHub 域名；优先恢复 Dev.to，再评估 Medium。
+4. 跟踪新增页面是否进入 sitemap、GSC 发现和收录状态。
+
+## 公开证据
 
 1. https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-19-ai-tool-indexing-maintenance.md
 2. https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-19-weak-sites-content-cluster-backlinks.md
 3. https://gist.github.com/Gavin1901/f8c4daad42228de92a99ee1cd720f28e
 4. https://github.com/Gavin1901/free-browser-tools-index/issues/10
+5. https://github.com/Gavin1901/pupvax/commit/9738a0b
+6. https://github.com/Gavin1901/invoicepad/commit/3fe241a
+7. https://github.com/Gavin1901/zoneplan/commit/ce80412
 
-## 今日站点状态
+## 完成边界
 
-维护脚本原始结果里 iworkviewer 首页和 robots 一度 ERR，但随后用 curl 现场复查：home、robots、sitemap 均 HTTP 200。所以 iWorkViewer 结论以复查为准：可打开。
+已完成：8 站维护、4 个公开外链落点、5 个长尾页补齐、3 仓构建部署、正式域名与 sitemap 复核。
 
-其余 7 站在维护脚本中 home、robots、sitemap 均 200。
+部分完成：外链数量达标，但域名多样性仍偏弱。
 
-## 未完成
-
-1. GSC 今日未完成读取。原因：本机 9223 CDP 当前超时，Chrome 远程调试未接通，不能报今日 GSC 数据。
-2. Medium 未处理。历史状态为保存失败，今天不计入外链完成。
-3. X 未处理。当前已知登录线曾是 Gold Risk Notes，禁止混用。
-4. Product Hunt 今日未监控新增数据。Launch 时间仍按历史记录：2026-07-21 12:01 AM PDT。
-
-## 下一步
-
-1. 接下来优先修复 GavinBuilds Chrome 9223 接管，再补 GSC 最新导出。
-2. 明天优先监控 iWorkViewer Product Hunt Launch 前状态。
-3. 弱站继续围绕 freetdee、pupvax、zoneplan、invoicepad 补长尾页和 3 到 5 条外链。
-
+未完成：GSC 实时数据读取。浏览器控制通道未接入，账号登录与 OAuth 也必须由淦总本人处理。
