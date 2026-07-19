@@ -48,3 +48,23 @@
 部分完成：外链数量达标，但域名多样性仍偏弱。
 
 未完成：GSC 实时数据读取。浏览器控制通道未接入，账号登录与 OAuth 也必须由淦总本人处理。
+
+## 09:33 外链发布补充
+
+时间：2026-07-19 09:34:42 +08:00
+
+淦总要求“外链去发完”后，已通过 GavinBuilds 的 Dev.to 登录态正式发布一篇实用型文章，不是草稿：
+
+https://dev.to/gavinbuildsai/five-free-browser-tools-for-everyday-planning-in-2026-1op
+
+文章内已植入并现场核验 5 条正式站点外链：
+
+1. https://freetdee.com/calorie-deficit/
+2. https://pupvax.com/puppy-vaccine-schedule-by-age/
+3. https://pupvax.com/puppy-deworming-schedule/
+4. https://invoicepad.net/freelancer-invoice-template/
+5. https://zoneplan.net/utc-meeting-planner/
+
+验收结果：Dev.to 文章公开 URL 返回 HTTP 200，页面正文可见，5 个目标链接全部存在；5 个目标页面此前已全部核验 HTTP 200。
+
+今日外链完成口径：Dev.to 正式文章 1 篇、站点外链 5 条，加上 GitHub 日报、弱站内容集群页、Gist、GitHub Issue 4 个公开证据落点。外链数量已完成，Dev.to 不再列为未完成。
