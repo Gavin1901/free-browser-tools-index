@@ -1,0 +1,4 @@
+Link: link set: TEXTAREA id=pin-draft-link-62a80358-8897-49ed-bd8a-c60ecb7a3c70
+State: {"hasPublishBtn":false,"errors":[],"bodySnippet":"跳至内容\n创建广告 Pin 图\nG\nGavin Builds\nGavin Builds\nG\nPin 图生成器\nFree Online Tools\n发布\n创建轮播广告\nG\nGavin Builds\n简要描述你的 Pin 图\nPuppy Vaccine Schedule 2026 - Free Dog Vaccine Tracker | pupvax.com\n添加替代文本\nPin 图草稿\n立即发布\n稍后发布\n标记为 AI 修改\n完全或部分由 AI 制作的内容\n此 Pin 图包含 AI 生成的人物\n你创建了一张 Pin 图！\n每个月有数百万用户来 Pinterest，寻找值得购买、制作和尝试的新事物。推广你的 Pin 图，寻找相关受众。\n查看您的 Pin 图\n推广 Pin 图"}
+Publish: skipped
+Result: {"title":"Pinterest","url":"https://www.pinterest.com/pin-builder/"}

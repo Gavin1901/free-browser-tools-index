@@ -1,0 +1,6 @@
+Fields: [{"tag":"TEXTAREA","id":"pin-draft-title-62a80358-8897-","placeholder":"添加标题","ariaLabel":"","type":"textarea","name":""},{"tag":"DIV","id":"","placeholder":"","ariaLabel":"简要描述你的 Pin 图","type":"textarea","name":""},{"tag":"TEXTAREA","id":"pin-draft-link-62a80358-8897-4","placeholder":"添加目标链接","ariaLabel":"","type":"textarea","name":""},{"tag":"INPUT","id":"pin-draft-schedule-publish-imm","placeholder":"","ariaLabel":"","type":"radio","name":""},{"tag":"INPUT","id":"pin-draft-schedule-publish-lat","placeholder":"","ariaLabel":"","type":"radio","name":""},{"tag":"INPUT","id":"pin-draft-ai-disclosure-62a803","placeholder":"","ariaLabel":"","type":"checkbox","name":""},{"tag":"INPUT","id":"pin-draft-ai-disclosure-62a803","placeholder":"","ariaLabel":"","type":"checkbox","name":"pin-draft-ai-disclosure-62a80358-8897-49ed-bd8a-c60ecb7a3c70-synthetic-performer"}]
+Title: title set (ce)
+Desc: desc set: TEXTAREA
+Link: no link field
+Publish: CLICKED: 发布
+Result: {"title":"Pinterest","url":"https://www.pinterest.com/pin-builder/"}

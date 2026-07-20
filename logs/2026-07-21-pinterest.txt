@@ -1,0 +1,2 @@
+Page state: {"title":"Pinterest","url":"https://www.pinterest.com/pin-builder/","bodyStart":"跳至内容\n创建广告 Pin 图\nG\nGavin Builds 的个人资料\nG\nPin 图生成器\n选择\n发布\n拖放或点击以上传图片或视频\n我们建议使用小于 20 MB 的高质量 .jpg 文件或小于 2 GB 的 .mp4 文件\n查看 Pin 图最佳实践\n从网站收藏\nG\nGavin Builds\n添加替代文本\nPin 图草稿\n立即发布\n稍后发布\n标记为 AI 修改\n完全或部分由 AI 制作的内容\n此 Pin 图包含 AI 生成的人物"}
+After upload click: {"title":"Pinterest","url":"https://www.pinterest.com/pin-builder/"}

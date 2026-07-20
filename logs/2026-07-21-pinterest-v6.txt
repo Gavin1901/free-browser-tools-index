@@ -1,0 +1,2 @@
+Click: clicked: 创建广告 Pin 图
+Result: {"title":"Pinterest","url":"https://www.pinterest.com/pin-builder/"}
