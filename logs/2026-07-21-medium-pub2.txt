@@ -1,0 +1,3 @@
+Buttons: [{"text":"Homepage","tag":"A","visible":true},{"text":"Publish","tag":"BUTTON","visible":true}]
+Click result: CLICKED_PUBLISH
+After click: {"found":[],"url":"https://medium.com/p/0e808fbc05ec/submission?redirectUrl=https%3A%2F%2Fmedium.com%2Fp%2F0e808fbc05ec%2Fedit&submitType=publishing-post&postPublishedType=initial","title":"Medium"}

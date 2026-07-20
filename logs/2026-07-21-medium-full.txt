@@ -1,0 +1,5 @@
+Sidebar menu
+Write
+Notifications
+
+Interactive: [{"tag":"BUTTON","text":"Sidebar menu","type":"submit","placeholder":"","disabled":false},{"tag":"INPUT","text":"","type":"text","placeholder":"Search","disabled":false},{"tag":"BUTTON","text":"","type":"submit","placeholder":"","disabled":false}]

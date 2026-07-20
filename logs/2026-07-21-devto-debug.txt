@@ -1,0 +1,31 @@
+Create Post
+Edit
+Preview
+Upload Cover Image
+Use a ratio of 1000:420 for best results.
+🍌 Generate Image
+Cover Video Link
+Add up to 4 tags
+Maximum 4 selections
+
+Selected items:
+
+Bold CTRL + B
+Italic CTRL + I
+Link CTRL + K
+Ordered list
+Unordered list
+Heading
+Quote
+Code
+Code block
+Embed CTRL + SHIFT + K
+Upload image
+Writing a Great Post Title
+Think of your post title as a super short (but compelling!) description — like an overview of the actual post in one short sentence.
+Use keywords where appropriate to help ensure people can find your post by search.
+Publish
+Save Draft
+|
+Advanced Options
+🤖

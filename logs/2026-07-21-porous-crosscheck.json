@@ -1,0 +1,140 @@
+{
+  "iworkviewer.com": {
+    "domain": "iworkviewer.com",
+    "checks": {
+      "title": "iWorkViewer - Open Apple iWork Files Online",
+      "title_len": 43,
+      "title_has_mojibake": false,
+      "desc": "Can&#x27;t open a .pages, .numbers, or .key file on Windows or Android? View Apple iWork files in your browser and expor",
+      "canonical": "https://iworkviewer.com/",
+      "noindex": false,
+      "h1": "Open Apple Pages, Numbers &amp; Keynote<span class=\"block text-indigo-600\">on Any Device. Free. Priv",
+      "ga4": true,
+      "adsense": true,
+      "schema": true,
+      "sitemap_cross_domain": 0
+    },
+    "home": 200,
+    "robots": 200,
+    "sitemap": 200
+  },
+  "livephotokit.com": {
+    "domain": "livephotokit.com",
+    "checks": {
+      "title": "LivePhotoKit - Free HEIC &amp; Live Photo Converter",
+      "title_len": 51,
+      "title_has_mojibake": false,
+      "desc": "Free online HEIC &amp; Live Photo converter. Open .livp files, extract JPG/MP4, batch convert, compress in your browser.",
+      "canonical": "https://livephotokit.com/",
+      "noindex": false,
+      "h1": "2026 Free HEIC &amp; Live Photo Converter",
+      "ga4": true,
+      "adsense": true,
+      "schema": true,
+      "sitemap_cross_domain": 0
+    },
+    "home": 200,
+    "robots": "ERR",
+    "sitemap": 200
+  },
+  "plantingcalendar.net": {
+    "domain": "plantingcalendar.net",
+    "checks": {
+      "title": "Planting Calendar by ZIP &amp; USDA Zone 2026 | Frost Dates",
+      "title_len": 59,
+      "title_has_mojibake": false,
+      "desc": "Find your 2026 planting calendar by USDA zone with last frost dates, first frost dates, seed-starting, transplant and ha",
+      "canonical": "https://plantingcalendar.net/",
+      "noindex": false,
+      "h1": "2026 Vegetable Planting Calendar by Zone",
+      "ga4": true,
+      "adsense": true,
+      "schema": true,
+      "sitemap_cross_domain": 0
+    },
+    "home": 200,
+    "robots": 200,
+    "sitemap": 200
+  },
+  "freetdee.com": {
+    "domain": "freetdee.com",
+    "checks": {},
+    "home": "ERR",
+    "error": "HTTPSConnectionPool(host='freetdee.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_RE"
+  },
+  "babypercent.com": {
+    "domain": "babypercent.com",
+    "checks": {
+      "title": "Baby Growth Percentile Calculator | WHO &amp; CDC Charts",
+      "title_len": 56,
+      "title_has_mojibake": false,
+      "desc": "Free baby growth percentile calculator for weight, length, height and head circumference from 0-24 months. Compare WHO a",
+      "canonical": "https://babypercent.com/",
+      "noindex": false,
+      "h1": "2026 Baby Growth Percentile Calculator",
+      "ga4": true,
+      "adsense": true,
+      "schema": true,
+      "sitemap_cross_domain": 0
+    },
+    "home": 200,
+    "robots": 200,
+    "sitemap": 200
+  },
+  "invoicepad.net": {
+    "domain": "invoicepad.net",
+    "checks": {
+      "title": "Invoice Templates for Freelancers 2026 | Free Generator",
+      "title_len": 55,
+      "title_has_mojibake": false,
+      "desc": "Free 2026 invoice templates for SEO services, web developers, freelance writers and handymen. Create PDF invoices and es",
+      "canonical": "https://invoicepad.net/",
+      "noindex": false,
+      "h1": "2026 Free Invoice Generator for Freelancers",
+      "ga4": true,
+      "adsense": true,
+      "schema": true
+    },
+    "home": 200,
+    "robots": 200,
+    "sitemap": "ERR"
+  },
+  "zoneplan.net": {
+    "domain": "zoneplan.net",
+    "checks": {
+      "title": "Time Zone Meeting Planner 2026 | World Clock Scheduler",
+      "title_len": 54,
+      "title_has_mojibake": false,
+      "desc": "Free 2026 time zone meeting planner for international calls, remote teams and global meetings. Compare world clocks, fin",
+      "canonical": "https://zoneplan.net/",
+      "noindex": false,
+      "h1": "2026 Meeting Time Zone Planner",
+      "ga4": true,
+      "adsense": true,
+      "schema": true,
+      "sitemap_cross_domain": 0
+    },
+    "home": 200,
+    "robots": 200,
+    "sitemap": 200
+  },
+  "pupvax.com": {
+    "domain": "pupvax.com",
+    "checks": {
+      "title": "Dog Deworming &amp; Puppy Vaccine Schedule 2026 | PupVax",
+      "title_len": 56,
+      "title_has_mojibake": false,
+      "desc": "Free 2026 dog deworming schedule and puppy vaccine tracker. See DHPP, rabies, worming and booster timelines by age, bree",
+      "canonical": "https://pupvax.com/",
+      "noindex": false,
+      "h1": "2026 Dog Vaccine Schedule Tracker",
+      "ga4": true,
+      "adsense": true,
+      "schema": true,
+      "sitemap_cross_domain": 0
+    },
+    "home": 200,
+    "robots": 200,
+    "sitemap": 200
+  }
+}

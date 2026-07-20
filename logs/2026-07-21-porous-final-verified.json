@@ -1,0 +1,44 @@
+{
+  "date": "2026-07-21",
+  "time": "07:45 Beijing",
+  "status": "ALL_PASS",
+  "porous_crosscheck": {
+    "8site_health": "ALL_200",
+    "indexnow": "ALL_200",
+    "github_actions": "ALL_SUCCESS",
+    "deep_seo_audit": "PASS",
+    "backlinks_verified": "ALL_200"
+  },
+  "gsc_20260721": {
+    "iworkviewer.com": {"clicks": 50, "impressions": 3390, "ctr": "1.5%", "position": 31.4},
+    "livephotokit.com": {"clicks": 43, "impressions": 1350, "ctr": "3.2%", "position": 15.2},
+    "plantingcalendar.net": {"clicks": 19, "impressions": 5450, "ctr": "0.3%", "position": 29.8},
+    "freetdee.com": {"clicks": 1, "impressions": 194, "ctr": "0.5%", "position": 44.6},
+    "babypercent.com": {"clicks": 17, "impressions": 4490, "ctr": "0.4%", "position": 19},
+    "invoicepad.net": {"clicks": 1, "impressions": 701, "ctr": "0.1%", "position": 51.8},
+    "zoneplan.net": {"clicks": 2, "impressions": 1640, "ctr": "0.1%", "position": 45},
+    "pupvax.com": {"clicks": 0, "impressions": 212, "ctr": "0%", "position": 34.3}
+  },
+  "single_variable": {
+    "site": "pupvax.com",
+    "issue": "8 page titles had em dash mojibake + double branding",
+    "fix": "ASCII colon replace + remove duplicate | PupVax",
+    "pages_fixed": 8,
+    "verified": "6 of 8 confirmed clean (2 rate-limited)",
+    "git_commit": "ebdaa31",
+    "actions_deploy": "success"
+  },
+  "backlinks_5": [
+    "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-21-ai8-weak-site-optimization.md",
+    "https://gist.github.com/Gavin1901/40244b1ba0210f8c84dbb018c25f2fd5",
+    "https://github.com/Gavin1901/free-browser-tools-index/issues/12",
+    "https://github.com/Gavin1901/pupvax/issues/2",
+    "https://dev.to/gavinbuildsai/i-debugged-why-my-0-click-seo-tool-site-had-corrupted-titles-4g8p"
+  ],
+  "pending": [
+    "Product Hunt iWorkViewer Launch 15:01 Beijing",
+    "PupVax GSC复查 24-72h后",
+    "ZonePlan 7-day experiment 2026-07-26复盘"
+  ],
+  "total_clicks_8sites_today": 133
+}
