@@ -1,0 +1,1 @@
+{"title":"Submit | Hacker News","url":"https://news.ycombinator.com/submit","hasForm":true,"snippet":"\tSubmit\n\n\n\ntitle\t\nurl\t\ntext\t\n\t\n\t\n\n\tLeave url blank to submit a question for discussion. If there is no url, text will appear at the top of the thread. If there is a url, text is optional.\n\nYou can also submit via bookmarklet."}

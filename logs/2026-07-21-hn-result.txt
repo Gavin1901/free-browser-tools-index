@@ -1,0 +1,4 @@
+Title: title filled
+URL: url filled
+Submit: submit clicked
+Result: {"title":"Update re Show HNs | Hacker News","url":"https://news.ycombinator.com/showlim","snippet":"\tUpdate re Show HNs\n\n\n\nWe're temporarily restricting Show HNs because of a massive influx, mostly by users who aren't yet familiar with the site or its culture.\n\nYou're welcome on HN! Take some time to get to know the community, become a good contributor, and then it will be fine to post an occasional Show HN.\n\nHere are some links to get you started:\n\nhttps://news.ycombinator.com/newsguidelines.html\n\nhttps://news.ycombinator.com/newswelcome.html\n\nhttps://news.ycombinator.com/showhn.html\n\n\n"}
