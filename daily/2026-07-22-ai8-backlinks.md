@@ -51,7 +51,9 @@ After:  {Profession} Invoice Template — Free PDF Generator
 4. GitHub Issue #14: https://github.com/Gavin1901/free-browser-tools-index/issues/14 ✅
 5. InvoicePad Issue #3: https://github.com/Gavin1901/invoicepad/issues/3 ✅
 
-Dev.to 未完成：Chrome Profile 未保持登录态，需淦总手动登录。Medium 本轮未操作。
+6. Dev.to: https://dev.to/gavinbuilds/i-fixed-a-122-character-title-tag-killing-my-seo-tool-clicks-3183 ✅ (Google OAuth登录，HTTP200核验，正文含目标链接)
+
+Medium 本轮未操作。
 
 ## 外链工具站覆盖
 
