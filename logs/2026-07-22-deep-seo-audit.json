@@ -1,0 +1,98 @@
+﻿[
+    {
+        "Site":  "iworkviewer",
+        "HTTP":  200,
+        "Title":  "7 chars",
+        "Desc":  "0 chars",
+        "Canonical":  "MISSING",
+        "Noindex":  "NO",
+        "GA4":  "MISSING",
+        "AdSense":  "MISSING",
+        "H1":  "MISSING",
+        "Schema":  "MISSING"
+    },
+    {
+        "Site":  "livephotokit",
+        "HTTP":  200,
+        "Title":  "51 chars",
+        "Desc":  "157 chars",
+        "Canonical":  "YES",
+        "Noindex":  "NO",
+        "GA4":  "YES",
+        "AdSense":  "YES",
+        "H1":  "2026 Free HEIC \u0026amp; Live Photo Converter",
+        "Schema":  "YES"
+    },
+    {
+        "Site":  "plantingcalendar",
+        "HTTP":  200,
+        "Title":  "7 chars",
+        "Desc":  "0 chars",
+        "Canonical":  "MISSING",
+        "Noindex":  "NO",
+        "GA4":  "MISSING",
+        "AdSense":  "MISSING",
+        "H1":  "MISSING",
+        "Schema":  "MISSING"
+    },
+    {
+        "Site":  "freetdee",
+        "HTTP":  200,
+        "Title":  "7 chars",
+        "Desc":  "0 chars",
+        "Canonical":  "MISSING",
+        "Noindex":  "NO",
+        "GA4":  "MISSING",
+        "AdSense":  "MISSING",
+        "H1":  "MISSING",
+        "Schema":  "MISSING"
+    },
+    {
+        "Site":  "babypercent",
+        "HTTP":  200,
+        "Title":  "7 chars",
+        "Desc":  "0 chars",
+        "Canonical":  "MISSING",
+        "Noindex":  "NO",
+        "GA4":  "MISSING",
+        "AdSense":  "MISSING",
+        "H1":  "MISSING",
+        "Schema":  "MISSING"
+    },
+    {
+        "Site":  "invoicepad",
+        "HTTP":  200,
+        "Title":  "7 chars",
+        "Desc":  "0 chars",
+        "Canonical":  "MISSING",
+        "Noindex":  "NO",
+        "GA4":  "MISSING",
+        "AdSense":  "MISSING",
+        "H1":  "MISSING",
+        "Schema":  "MISSING"
+    },
+    {
+        "Site":  "zoneplan",
+        "HTTP":  200,
+        "Title":  "7 chars",
+        "Desc":  "0 chars",
+        "Canonical":  "MISSING",
+        "Noindex":  "NO",
+        "GA4":  "MISSING",
+        "AdSense":  "MISSING",
+        "H1":  "MISSING",
+        "Schema":  "MISSING"
+    },
+    {
+        "Site":  "pupvax",
+        "HTTP":  200,
+        "Title":  "56 chars",
+        "Desc":  "143 chars",
+        "Canonical":  "YES",
+        "Noindex":  "NO",
+        "GA4":  "YES",
+        "AdSense":  "YES",
+        "H1":  "2026 Dog Vaccine Schedule Tracker",
+        "Schema":  "YES"
+    }
+]
