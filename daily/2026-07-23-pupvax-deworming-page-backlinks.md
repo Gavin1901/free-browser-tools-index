@@ -30,3 +30,11 @@ Other free browser tools in this small portfolio:
 - [InvoicePad](https://invoicepad.net/)
 - [ZonePlan](https://zoneplan.net/)
 - [PupVax](https://pupvax.com/)
+
+## Additional external publication
+
+4. Dev.to: https://dev.to/gavinbuildsai/pupvax-got-its-first-google-click-what-i-fixed-next-38o7
+
+Live verification: HTTP 200. The article body contains the PupVax deworming-schedule URL and the public experiment-log URL.
+
+Medium was attempted through the logged-in GavinBuilds browser, but the editor returned: `Something is wrong and we cannot save your story.` It is not counted as published.
