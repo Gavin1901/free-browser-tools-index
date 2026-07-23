@@ -1,0 +1,51 @@
+[
+  {
+    "name": "public_gist",
+    "url": "https://gist.github.com/Gavin1901/a44b8451763d03dab3c1294a17f8429f",
+    "status": 200,
+    "target_visible": true,
+    "clickable_target_links": 1,
+    "rels": [
+      [
+        "nofollow"
+      ]
+    ]
+  },
+  {
+    "name": "index_issue",
+    "url": "https://github.com/Gavin1901/free-browser-tools-index/issues/15",
+    "status": 200,
+    "target_visible": true,
+    "clickable_target_links": 1,
+    "rels": [
+      [
+        "nofollow"
+      ]
+    ]
+  },
+  {
+    "name": "pupvax_issue",
+    "url": "https://github.com/Gavin1901/pupvax/issues/3",
+    "status": 200,
+    "target_visible": true,
+    "clickable_target_links": 1,
+    "rels": [
+      [
+        "nofollow"
+      ]
+    ]
+  },
+  {
+    "name": "devto",
+    "url": "https://dev.to/gavinbuildsai/pupvax-got-its-first-google-click-what-i-fixed-next-38o7",
+    "status": 200,
+    "target_visible": true,
+    "clickable_target_links": 1,
+    "rels": [
+      [
+        "noopener",
+        "noreferrer"
+      ]
+    ]
+  }
+]
