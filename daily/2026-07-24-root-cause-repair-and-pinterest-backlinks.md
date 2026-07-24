@@ -65,15 +65,30 @@ Verification:
 2. The Pin page contains a clickable destination link.
 3. The destination directly matches the highest-impression non-brand query visible in GSC.
 
-## Blocked channel
+## Medium root cause and repair
 
-Medium was retested in the logged-in GavinBuilds account. The editor again returned:
+Medium was not blocked by the account or by a platform publication limit.
+
+The actual cause was the automation method. Injecting a complete article by directly replacing editor DOM state or sending one oversized synthetic input event caused Medium's draft backend to reject the story with:
 
 `Something is wrong and we cannot save your story.`
 
-Medium is not counted as published.
+A clean draft was created and filled through native keyboard events, one paragraph at a time. Every paragraph retained the visible `DraftSaved` state and no failed Medium network response was observed.
+
+Published article:
+
+https://medium.com/@lg695101011/zoneplan-indexing-experiment-what-1-950-impressions-revealed-17775f5374d5
+
+Verification:
+
+1. Medium displayed the published public story.
+2. The page title and article body were visible.
+3. The canonical URL matched the public `@lg695101011` article.
+4. The article contained clickable links to:
+   1. https://zoneplan.net/global-meeting-planner/
+   2. https://zoneplan.net/blog/schedule-meeting-across-time-zones/
+   3. https://zoneplan.net/
 
 ## Strict conclusion
 
-Two new backlinks were published on a non-GitHub external domain and verified against their public Pin pages. The second link is query-led and targets `global meeting planner`, the strongest visible non-brand ZonePlan query.
-
+Three new backlinks were published across Pinterest and Medium. The query-led links target `global meeting planner`, the strongest visible non-brand ZonePlan query. All three public pages were verified in the logged-in GavinBuilds browser, and each contained a clickable ZonePlan destination.
