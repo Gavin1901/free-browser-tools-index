@@ -13,7 +13,9 @@ import argparse
 import asyncio
 import json
 import re
+import time
 import urllib.request
+import urllib.error
 from datetime import datetime
 from pathlib import Path
 
@@ -84,6 +86,50 @@ def parse_performance(text: str):
     }
 
 
+def parse_visible_query_rows(text: str):
+    """Extract the visible GSC query table rows from the raw body text.
+
+    GSC renders the query, clicks and impressions as tab-separated text near
+    the bottom of the performance page. This captures the visible top rows
+    without relying on translated UI labels.
+    """
+    rows = []
+    for line in text.splitlines():
+        parts = [part.strip() for part in line.split("\t")]
+        if len(parts) != 3:
+            continue
+        query, clicks, impressions = parts
+        if not query or not clicks.isdigit() or not impressions.isdigit():
+            continue
+        rows.append({
+            "query": query,
+            "clicks": int(clicks),
+            "impressions": int(impressions),
+        })
+    return rows
+
+
+def wait_for_cdp(port: str, attempts: int = 12, delay_seconds: int = 2):
+    """Wait for GavinBuilds Chrome instead of failing on the first 502/connection error."""
+    url = f"http://127.0.0.1:{port}/json/version"
+    last_error = None
+    for attempt in range(1, attempts + 1):
+        try:
+            with urllib.request.urlopen(url, timeout=5) as response:
+                version = json.load(response)
+            endpoint = version.get("webSocketDebuggerUrl")
+            if endpoint:
+                return endpoint
+            last_error = RuntimeError("CDP response did not contain webSocketDebuggerUrl")
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError, json.JSONDecodeError) as exc:
+            last_error = exc
+        if attempt < attempts:
+            time.sleep(delay_seconds)
+    raise RuntimeError(
+        f"GavinBuilds Chrome CDP {port} was not ready after {attempts} attempts: {last_error}"
+    )
+
+
 async def fetch_text(page, url: str, wait_ms: int):
     await page.goto(url, wait_until="domcontentloaded", timeout=45_000)
     await page.wait_for_timeout(wait_ms)
@@ -97,14 +143,19 @@ async def main():
     ap.add_argument("--port", default="9223")
     ap.add_argument("--outdir", default=".")
     ap.add_argument("--wait-ms", type=int, default=10000)
+    ap.add_argument("--cdp-attempts", type=int, default=12)
+    ap.add_argument("--cdp-delay-seconds", type=int, default=2)
     args = ap.parse_args()
 
     base = Path(args.outdir)
     (base / "logs").mkdir(exist_ok=True)
     (base / "daily").mkdir(exist_ok=True)
 
-    version = json.load(urllib.request.urlopen(f"http://127.0.0.1:{args.port}/json/version"))
-    endpoint = version["webSocketDebuggerUrl"]
+    endpoint = wait_for_cdp(
+        args.port,
+        attempts=args.cdp_attempts,
+        delay_seconds=args.cdp_delay_seconds,
+    )
 
     results = []
     raw = []
@@ -121,6 +172,7 @@ async def main():
                 perf = await fetch_text(page, perf_url, args.wait_ms)
                 overview = await fetch_text(page, overview_url, args.wait_ms)
                 metrics = parse_performance(perf["text"])
+                top_queries = parse_visible_query_rows(perf["text"])
                 indexed, not_indexed = parse_index_counts(overview["text"])
                 rec.update(metrics)
                 rec.update({
@@ -130,6 +182,7 @@ async def main():
                     "overview_url": overview["url"],
                     "performance_title": perf["title"],
                     "overview_title": overview["title"],
+                    "top_queries": top_queries,
                     "ok": all(metrics.get(k) is not None for k in ["clicks", "impressions", "ctr", "position"]),
                     "index_ok": indexed is not None or not_indexed is not None,
                 })
@@ -141,9 +194,18 @@ async def main():
 
     raw_path = base / "logs" / f"{args.date}-gsc-8sites-raw.json"
     json_path = base / "logs" / f"{args.date}-gsc-8sites-metrics.json"
+    query_path = base / "logs" / f"{args.date}-gsc-visible-top-queries.json"
     md_path = base / "daily" / f"{args.date}-gsc-8sites-metrics.md"
     raw_path.write_text(json.dumps(raw, ensure_ascii=False, indent=2), encoding="utf-8")
     json_path.write_text(json.dumps(results, ensure_ascii=False, indent=2), encoding="utf-8")
+    query_path.write_text(
+        json.dumps(
+            [{"site": r["site"], "queries": r.get("top_queries", [])} for r in results],
+            ensure_ascii=False,
+            indent=2,
+        ),
+        encoding="utf-8",
+    )
 
     lines = [f"# {args.date} GSC 8-site metrics", "", "Source: Google Search Console /u/1 via GavinBuilds Chrome CDP 9223.", ""]
     lines.append("| Site | Clicks | Impressions | CTR | Avg position | Indexed | Not indexed | Status |")
@@ -153,7 +215,14 @@ async def main():
         lines.append(
             f"| {r['site']} | {r.get('clicks')} | {r.get('impressions')} | {r.get('ctr')} | {r.get('position')} | {r.get('indexed')} | {r.get('not_indexed')} | {status} |"
         )
-    lines += ["", "## Evidence", "", f"- JSON: logs/{args.date}-gsc-8sites-metrics.json", f"- Raw text: logs/{args.date}-gsc-8sites-raw.json"]
+    lines += [
+        "",
+        "## Evidence",
+        "",
+        f"- JSON: logs/{args.date}-gsc-8sites-metrics.json",
+        f"- Visible top queries: logs/{args.date}-gsc-visible-top-queries.json",
+        f"- Raw text: logs/{args.date}-gsc-8sites-raw.json",
+    ]
     md_path.write_text("\n".join(lines), encoding="utf-8")
     print(json.dumps({"json": str(json_path), "markdown": str(md_path), "results": results}, ensure_ascii=False, indent=2))
 

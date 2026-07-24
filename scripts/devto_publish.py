@@ -52,7 +52,13 @@ async def send_and_recv(ws, msg_id, method, params=None):
     if params:
         payload['params'] = params
     await ws.send(json.dumps(payload))
-    return json.loads(await ws.recv())
+    # CDP emits asynchronous events on the same socket. Keep reading until the
+    # response matching this request id arrives, otherwise a real publication
+    # can be reported as "???" even when the page has already changed.
+    while True:
+        response = json.loads(await ws.recv())
+        if response.get('id') == msg_id:
+            return response
 
 async def evaluate(ws, msg_id, expression):
     return await send_and_recv(ws, msg_id, 'Runtime.evaluate', {

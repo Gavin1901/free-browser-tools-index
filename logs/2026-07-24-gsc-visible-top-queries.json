@@ -1,20 +1,7 @@
 [
   {
     "site": "iworkviewer.com",
-    "property": "sc-domain:iworkviewer.com",
-    "ok": true,
-    "clicks": 53,
-    "impressions": 3690,
-    "ctr": "1.4%",
-    "position": 30.5,
-    "indexed": 69,
-    "not_indexed": 53,
-    "performance_url": "https://search.google.com/u/1/search-console/performance/search-analytics?resource_id=sc-domain:iworkviewer.com&num_of_days=28",
-    "overview_url": "https://search.google.com/u/1/search-console?resource_id=sc-domain:iworkviewer.com",
-    "performance_title": "在 Google 搜索结果中的表现",
-    "overview_title": "概述",
-    "index_ok": true,
-    "top_queries": [
+    "queries": [
       {
         "query": "pages online viewer",
         "clicks": 5,
@@ -69,20 +56,7 @@
   },
   {
     "site": "livephotokit.com",
-    "property": "sc-domain:livephotokit.com",
-    "ok": true,
-    "clicks": 45,
-    "impressions": 1480,
-    "ctr": "3%",
-    "position": 16,
-    "indexed": 8,
-    "not_indexed": 26,
-    "performance_url": "https://search.google.com/u/1/search-console/performance/search-analytics?resource_id=sc-domain:livephotokit.com&num_of_days=28",
-    "overview_url": "https://search.google.com/u/1/search-console?resource_id=sc-domain:livephotokit.com",
-    "performance_title": "在 Google 搜索结果中的表现",
-    "overview_title": "概述",
-    "index_ok": true,
-    "top_queries": [
+    "queries": [
       {
         "query": "livp to jpg",
         "clicks": 2,
@@ -137,20 +111,7 @@
   },
   {
     "site": "plantingcalendar.net",
-    "property": "sc-domain:plantingcalendar.net",
-    "ok": true,
-    "clicks": 19,
-    "impressions": 5480,
-    "ctr": "0.3%",
-    "position": 29.9,
-    "indexed": 380,
-    "not_indexed": 186,
-    "performance_url": "https://search.google.com/u/1/search-console/performance/search-analytics?resource_id=sc-domain:plantingcalendar.net&num_of_days=28",
-    "overview_url": "https://search.google.com/u/1/search-console?resource_id=sc-domain:plantingcalendar.net",
-    "performance_title": "在 Google 搜索结果中的表现",
-    "overview_title": "概述",
-    "index_ok": true,
-    "top_queries": [
+    "queries": [
       {
         "query": "zone 8b planting schedule 2026",
         "clicks": 1,
@@ -205,20 +166,7 @@
   },
   {
     "site": "freetdee.com",
-    "property": "sc-domain:freetdee.com",
-    "ok": true,
-    "clicks": 1,
-    "impressions": 202,
-    "ctr": "0.5%",
-    "position": 44.7,
-    "indexed": 10,
-    "not_indexed": 47,
-    "performance_url": "https://search.google.com/u/1/search-console/performance/search-analytics?resource_id=sc-domain:freetdee.com&num_of_days=28",
-    "overview_url": "https://search.google.com/u/1/search-console?resource_id=sc-domain:freetdee.com",
-    "performance_title": "在 Google 搜索结果中的表现",
-    "overview_title": "概述",
-    "index_ok": true,
-    "top_queries": [
+    "queries": [
       {
         "query": "tdee calculator free",
         "clicks": 0,
@@ -273,20 +221,7 @@
   },
   {
     "site": "babypercent.com",
-    "property": "sc-domain:babypercent.com",
-    "ok": true,
-    "clicks": 18,
-    "impressions": 4720,
-    "ctr": "0.4%",
-    "position": 19.6,
-    "indexed": 46,
-    "not_indexed": 25,
-    "performance_url": "https://search.google.com/u/1/search-console/performance/search-analytics?resource_id=sc-domain:babypercent.com&num_of_days=28",
-    "overview_url": "https://search.google.com/u/1/search-console?resource_id=sc-domain:babypercent.com",
-    "performance_title": "在 Google 搜索结果中的表现",
-    "overview_title": "概述",
-    "index_ok": true,
-    "top_queries": [
+    "queries": [
       {
         "query": "baby percentile calculator",
         "clicks": 0,
@@ -341,20 +276,7 @@
   },
   {
     "site": "invoicepad.net",
-    "property": "sc-domain:invoicepad.net",
-    "ok": true,
-    "clicks": 1,
-    "impressions": 791,
-    "ctr": "0.1%",
-    "position": 50.9,
-    "indexed": 28,
-    "not_indexed": 17,
-    "performance_url": "https://search.google.com/u/1/search-console/performance/search-analytics?resource_id=sc-domain:invoicepad.net&num_of_days=28",
-    "overview_url": "https://search.google.com/u/1/search-console?resource_id=sc-domain:invoicepad.net",
-    "performance_title": "在 Google 搜索结果中的表现",
-    "overview_title": "概述",
-    "index_ok": true,
-    "top_queries": [
+    "queries": [
       {
         "query": "web development invoice",
         "clicks": 0,
@@ -409,20 +331,7 @@
   },
   {
     "site": "zoneplan.net",
-    "property": "sc-domain:zoneplan.net",
-    "ok": true,
-    "clicks": 2,
-    "impressions": 1950,
-    "ctr": "0.1%",
-    "position": 44.7,
-    "indexed": 4,
-    "not_indexed": 89,
-    "performance_url": "https://search.google.com/u/1/search-console/performance/search-analytics?resource_id=sc-domain:zoneplan.net&num_of_days=28",
-    "overview_url": "https://search.google.com/u/1/search-console?resource_id=sc-domain:zoneplan.net",
-    "performance_title": "在 Google 搜索结果中的表现",
-    "overview_title": "概述",
-    "index_ok": true,
-    "top_queries": [
+    "queries": [
       {
         "query": "zoneplan",
         "clicks": 2,
@@ -477,20 +386,7 @@
   },
   {
     "site": "pupvax.com",
-    "property": "sc-domain:pupvax.com",
-    "ok": true,
-    "clicks": 1,
-    "impressions": 241,
-    "ctr": "0.4%",
-    "position": 34.8,
-    "indexed": 8,
-    "not_indexed": 32,
-    "performance_url": "https://search.google.com/u/1/search-console/performance/search-analytics?resource_id=sc-domain:pupvax.com&num_of_days=28",
-    "overview_url": "https://search.google.com/u/1/search-console?resource_id=sc-domain:pupvax.com",
-    "performance_title": "在 Google 搜索结果中的表现",
-    "overview_title": "概述",
-    "index_ok": true,
-    "top_queries": [
+    "queries": [
       {
         "query": "dog deworming schedule",
         "clicks": 0,
