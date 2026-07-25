@@ -2,11 +2,22 @@
 
 The audit covered 745 URLs across iWorkViewer, LivePhotoKit, PlantingCalendar, FreeTDEE, BabyPercent, InvoicePad, ZonePlan, and PupVax.
 
+The eight tools audited were:
+
+- [iWorkViewer](https://iworkviewer.com/)
+- [LivePhotoKit](https://livephotokit.com/)
+- [PlantingCalendar](https://plantingcalendar.net/)
+- [FreeTDEE](https://freetdee.com/)
+- [BabyPercent](https://babypercent.com/)
+- [InvoicePad](https://invoicepad.net/)
+- [ZonePlan](https://zoneplan.net/)
+- [PupVax](https://pupvax.com/)
+
 ## The hidden canonical bug
 
 Fifteen comparison pages on five domains had a production canonical URL that still contained a template placeholder:
 
-`https://__domain__/vs/example/`
+`placeholder-domain/vs/example/`
 
 The visible URL returned 200, the title and H1 looked correct, and the page was in the sitemap. A normal health check would call it healthy. But the canonical told search engines that the preferred page lived on a nonexistent host.
 

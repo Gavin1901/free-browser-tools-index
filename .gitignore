@@ -1,2 +1,3 @@
 ﻿# Local-only archive and scratch files
 _local_archive/
+scripts/__pycache__/

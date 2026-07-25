@@ -1,5 +1,6 @@
 """Publish a Dev.to article via CDP (GavinBuilds Chrome) - simplified evaluate approach."""
-import asyncio, json, urllib.request, time
+import argparse, asyncio, json, urllib.request, time
+from pathlib import Path
 import websockets
 
 TITLE = "How I Built 8 Free Browser Tools With AI — First Click Milestone"
@@ -67,6 +68,17 @@ async def evaluate(ws, msg_id, expression):
     })
 
 async def main():
+    global TITLE, TAGS_STR, BODY_MD
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--title")
+    parser.add_argument("--body-file")
+    parser.add_argument("--tags", default="webdev,seo,nextjs,tutorial")
+    args = parser.parse_args()
+    if args.title:
+        TITLE = args.title
+    if args.body_file:
+        BODY_MD = Path(args.body_file).read_text(encoding="utf-8-sig")
+    TAGS_STR = args.tags
     tabs = json.loads(urllib.request.urlopen('http://localhost:9223/json').read())
     devto_tab = None
     for t in tabs:

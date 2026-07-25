@@ -66,10 +66,16 @@ async def main():
             await page.keyboard.press("Enter")
             await page.keyboard.press("Enter")
             await page.wait_for_timeout(args.paragraph_wait_ms)
-            state = await page.locator("body").inner_text()
-            if "cannot save your story" in state:
-                raise RuntimeError(f"Medium rejected the draft after paragraph {index}")
-            if "DraftSaved" not in state.replace(" ", ""):
+            saved = False
+            for _ in range(10):
+                state = await page.locator("body").inner_text()
+                if "cannot save your story" in state:
+                    raise RuntimeError(f"Medium rejected the draft after paragraph {index}")
+                if "DraftSaved" in state.replace(" ", ""):
+                    saved = True
+                    break
+                await page.wait_for_timeout(1_000)
+            if not saved:
                 raise RuntimeError(f"DraftSaved proof missing after paragraph {index}")
 
         await page.wait_for_timeout(8_000)
@@ -112,4 +118,3 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
-

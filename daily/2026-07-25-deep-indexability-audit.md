@@ -1,6 +1,6 @@
 # 2026-07-25 Deep Indexability Audit
 
-Run time: 2026-07-25T19:07:09
+Run time: 2026-07-25T20:22:31
 
 | Site | Sitemap URLs | Non-200 | Redirects | Missing canonical | Canonical mismatch | Noindex | Thin <200 | Orphan | Duplicate title count | Duplicate body count |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
