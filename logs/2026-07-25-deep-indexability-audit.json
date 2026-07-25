@@ -13,7 +13,7 @@
       "missing_description": 0,
       "missing_h1": 0,
       "thin_under_200_words": 3,
-      "orphan_in_sitemap": 1,
+      "orphan_in_sitemap": 0,
       "duplicate_titles": 0,
       "duplicate_descriptions": 6,
       "duplicate_text_hashes": 0,
@@ -33,9 +33,7 @@
         "https://iworkviewer.com/terms/",
         "https://iworkviewer.com/vs/"
       ],
-      "orphan_in_sitemap": [
-        "https://iworkviewer.com/vs/"
-      ],
+      "orphan_in_sitemap": [],
       "duplicate_titles": {},
       "duplicate_descriptions": {
         "Free .key viewer to view and read an Apple Keynote (.key) presentation online. Drop the file and read it instantly in your browser - no Mac, no account, nothing uploaded. Download a PDF copy that opens anywhere.": 2,
@@ -60,8 +58,8 @@
         "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
-        "word_count": 936,
-        "text_hash": "c439c4be4ad456b843816098c1319d1c6be60de5",
+        "word_count": 948,
+        "text_hash": "f00c3f8d6f847b3ccf1742bc370274bdd7964552",
         "internal_links": [
           "https://iworkviewer.com/",
           "https://iworkviewer.com/about",
@@ -102,9 +100,10 @@
           "https://iworkviewer.com/terms",
           "https://iworkviewer.com/viewer/keynote-viewer",
           "https://iworkviewer.com/viewer/numbers-viewer",
-          "https://iworkviewer.com/viewer/pages-viewer"
+          "https://iworkviewer.com/viewer/pages-viewer",
+          "https://iworkviewer.com/vs"
         ],
-        "internal_link_count": 40,
+        "internal_link_count": 41,
         "sitemap_indegree": 52
       },
       {
@@ -2010,7 +2009,7 @@
           "https://iworkviewer.com/vs/zamzar-iwork"
         ],
         "internal_link_count": 18,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://iworkviewer.com/vs/apple-pages-viewer/",
@@ -2139,7 +2138,7 @@
       "missing_description": 0,
       "missing_h1": 0,
       "thin_under_200_words": 2,
-      "orphan_in_sitemap": 2,
+      "orphan_in_sitemap": 0,
       "duplicate_titles": 0,
       "duplicate_descriptions": 0,
       "duplicate_text_hashes": 0,
@@ -2158,10 +2157,7 @@
         "https://livephotokit.com/contact/",
         "https://livephotokit.com/vs/"
       ],
-      "orphan_in_sitemap": [
-        "https://livephotokit.com/heic-live-photo/",
-        "https://livephotokit.com/vs/"
-      ],
+      "orphan_in_sitemap": [],
       "duplicate_titles": {},
       "duplicate_descriptions": {},
       "duplicate_text_hashes": {},
@@ -2182,8 +2178,8 @@
         "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
-        "word_count": 1257,
-        "text_hash": "b5758def59476110ed974efde15bcf0ea02bdc24",
+        "word_count": 1280,
+        "text_hash": "170b1db12b7c4a2dcc788ef4e3831b851b6f7f66",
         "internal_links": [
           "https://livephotokit.com/",
           "https://livephotokit.com/about",
@@ -2191,6 +2187,7 @@
           "https://livephotokit.com/blog",
           "https://livephotokit.com/compress-live-photo",
           "https://livephotokit.com/contact",
+          "https://livephotokit.com/heic-live-photo",
           "https://livephotokit.com/heic-to-jpg",
           "https://livephotokit.com/heic-to-pdf",
           "https://livephotokit.com/heic-to-png",
@@ -2206,9 +2203,10 @@
           "https://livephotokit.com/open-aae-file",
           "https://livephotokit.com/open-livp-file",
           "https://livephotokit.com/privacy-policy",
-          "https://livephotokit.com/terms"
+          "https://livephotokit.com/terms",
+          "https://livephotokit.com/vs"
         ],
-        "internal_link_count": 22,
+        "internal_link_count": 24,
         "sitemap_indegree": 26
       },
       {
@@ -2526,7 +2524,7 @@
           "https://livephotokit.com/terms"
         ],
         "internal_link_count": 15,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://livephotokit.com/heic-to-jpg/",
@@ -3162,7 +3160,7 @@
           "https://livephotokit.com/vs/zamzar-heic"
         ],
         "internal_link_count": 15,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://livephotokit.com/vs/aiseesoft-heic/",
@@ -3276,13 +3274,13 @@
       "non_200": 0,
       "redirected_in_sitemap": 0,
       "missing_canonical": 0,
-      "canonical_mismatch": 3,
+      "canonical_mismatch": 0,
       "noindex": 0,
       "missing_title": 0,
       "missing_description": 0,
       "missing_h1": 0,
       "thin_under_200_words": 3,
-      "orphan_in_sitemap": 2,
+      "orphan_in_sitemap": 0,
       "duplicate_titles": 0,
       "duplicate_descriptions": 0,
       "duplicate_text_hashes": 0,
@@ -3292,11 +3290,7 @@
       "non_200": [],
       "redirected_in_sitemap": [],
       "missing_canonical": [],
-      "canonical_mismatch": [
-        "https://plantingcalendar.net/vs/almanac-garden-planner/",
-        "https://plantingcalendar.net/vs/planter-garden/",
-        "https://plantingcalendar.net/vs/seedtime-garden/"
-      ],
+      "canonical_mismatch": [],
       "noindex": [],
       "missing_title": [],
       "missing_description": [],
@@ -3306,10 +3300,7 @@
         "https://plantingcalendar.net/contact/",
         "https://plantingcalendar.net/vs/"
       ],
-      "orphan_in_sitemap": [
-        "https://plantingcalendar.net/blog/composting-101/",
-        "https://plantingcalendar.net/vs/"
-      ],
+      "orphan_in_sitemap": [],
       "duplicate_titles": {},
       "duplicate_descriptions": {},
       "duplicate_text_hashes": {},
@@ -3330,8 +3321,8 @@
         "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
-        "word_count": 889,
-        "text_hash": "d35fc05176558a7260db72b053301e64a1e0c1a2",
+        "word_count": 897,
+        "text_hash": "b87e2c764135deba864741104dbe63c9198b889b",
         "internal_links": [
           "https://plantingcalendar.net/",
           "https://plantingcalendar.net/7a/beans",
@@ -3356,6 +3347,7 @@
           "https://plantingcalendar.net/7a/zucchini",
           "https://plantingcalendar.net/about",
           "https://plantingcalendar.net/blog",
+          "https://plantingcalendar.net/blog/composting-101",
           "https://plantingcalendar.net/contact",
           "https://plantingcalendar.net/frost-dates",
           "https://plantingcalendar.net/privacy-policy",
@@ -3381,6 +3373,7 @@
           "https://plantingcalendar.net/vegetables/squash",
           "https://plantingcalendar.net/vegetables/tomato",
           "https://plantingcalendar.net/vegetables/zucchini",
+          "https://plantingcalendar.net/vs",
           "https://plantingcalendar.net/zones",
           "https://plantingcalendar.net/zones/10a",
           "https://plantingcalendar.net/zones/10b",
@@ -3399,7 +3392,7 @@
           "https://plantingcalendar.net/zones/9a",
           "https://plantingcalendar.net/zones/9b"
         ],
-        "internal_link_count": 65,
+        "internal_link_count": 67,
         "sitemap_indegree": 374
       },
       {
@@ -18245,7 +18238,7 @@
           "https://plantingcalendar.net/zones"
         ],
         "internal_link_count": 11,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://plantingcalendar.net/blog/find-your-usda-hardiness-zone/",
@@ -19490,7 +19483,7 @@
           "https://plantingcalendar.net/vs/seedtime-garden"
         ],
         "internal_link_count": 8,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://plantingcalendar.net/vs/almanac-garden-planner/",
@@ -19502,8 +19495,8 @@
         "title": "PlantingCalendar vs Almanac Garden Planner: Free USDA Zone Lookup vs $35/Year | 2026 Planting Guide",
         "description": "The Almanac Garden Planner costs $35/year after a 7-day trial. PlantingCalendar gives you USDA hardiness zone lookup and planting calendar free.",
         "h1": "PlantingCalendar vs Almanac Garden Planner: Free USDA Zone Lookup vs $35/Year",
-        "canonical": "https://__domain__/vs/almanac-garden-planner/",
-        "canonical_matches": false,
+        "canonical": "https://plantingcalendar.net/vs/almanac-garden-planner/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 300,
@@ -19529,8 +19522,8 @@
         "title": "PlantingCalendar vs Planter: Free Browser Tool vs $24.99/Year App | 2026 Planting Guide",
         "description": "Planter free tier limits you to 1 garden bed. Premium costs $24.99/year. PlantingCalendar: free, browser-based, no app install.",
         "h1": "PlantingCalendar vs Planter: Free Browser Tool vs $24.99/Year App",
-        "canonical": "https://__domain__/vs/planter-garden/",
-        "canonical_matches": false,
+        "canonical": "https://plantingcalendar.net/vs/planter-garden/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 239,
@@ -19556,8 +19549,8 @@
         "title": "PlantingCalendar vs Seedtime: Free Planting Calendar vs $84/Year for Multi-Crop | 2026 Planting Guide",
         "description": "Seedtime free tier limits you to 1 crop. Unlock full calendar at $84-168/year. PlantingCalendar: all crops, all zones, free.",
         "h1": "PlantingCalendar vs Seedtime: Free Planting Calendar vs $84/Year for Multi-Crop",
-        "canonical": "https://__domain__/vs/seedtime-garden/",
-        "canonical_matches": false,
+        "canonical": "https://plantingcalendar.net/vs/seedtime-garden/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 255,
@@ -20429,13 +20422,13 @@
       "non_200": 0,
       "redirected_in_sitemap": 0,
       "missing_canonical": 0,
-      "canonical_mismatch": 3,
+      "canonical_mismatch": 0,
       "noindex": 0,
       "missing_title": 0,
       "missing_description": 0,
       "missing_h1": 0,
       "thin_under_200_words": 2,
-      "orphan_in_sitemap": 5,
+      "orphan_in_sitemap": 0,
       "duplicate_titles": 0,
       "duplicate_descriptions": 0,
       "duplicate_text_hashes": 0,
@@ -20445,11 +20438,7 @@
       "non_200": [],
       "redirected_in_sitemap": [],
       "missing_canonical": [],
-      "canonical_mismatch": [
-        "https://freetdee.com/vs/cronometer-tdee/",
-        "https://freetdee.com/vs/macrofactor-tdee/",
-        "https://freetdee.com/vs/myfitnesspal-tdee/"
-      ],
+      "canonical_mismatch": [],
       "noindex": [],
       "missing_title": [],
       "missing_description": [],
@@ -20458,13 +20447,7 @@
         "https://freetdee.com/contact/",
         "https://freetdee.com/vs/"
       ],
-      "orphan_in_sitemap": [
-        "https://freetdee.com/iifym-calculator/",
-        "https://freetdee.com/intermittent-fasting-calorie/",
-        "https://freetdee.com/keto-macro-calculator/",
-        "https://freetdee.com/mediterranean-diet-calorie/",
-        "https://freetdee.com/vs/"
-      ],
+      "orphan_in_sitemap": [],
       "duplicate_titles": {},
       "duplicate_descriptions": {},
       "duplicate_text_hashes": {},
@@ -20485,8 +20468,8 @@
         "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
-        "word_count": 1363,
-        "text_hash": "8e8ad6e1478f55695a2c85711509ea939d40da22",
+        "word_count": 1382,
+        "text_hash": "b500e7b6c424d1f5818a8c9d3873d50252556c87",
         "internal_links": [
           "https://freetdee.com/",
           "https://freetdee.com/about",
@@ -20519,16 +20502,21 @@
           "https://freetdee.com/contact",
           "https://freetdee.com/cutting",
           "https://freetdee.com/goals",
+          "https://freetdee.com/iifym-calculator",
+          "https://freetdee.com/intermittent-fasting-calorie",
+          "https://freetdee.com/keto-macro-calculator",
           "https://freetdee.com/macro-calculator",
           "https://freetdee.com/maintenance",
+          "https://freetdee.com/mediterranean-diet-calorie",
           "https://freetdee.com/muscle-gain",
           "https://freetdee.com/privacy-policy",
           "https://freetdee.com/protein-calculator",
           "https://freetdee.com/reverse-diet",
           "https://freetdee.com/terms",
+          "https://freetdee.com/vs",
           "https://freetdee.com/weight-loss"
         ],
-        "internal_link_count": 39,
+        "internal_link_count": 44,
         "sitemap_indegree": 53
       },
       {
@@ -22123,7 +22111,7 @@
           "https://freetdee.com/terms"
         ],
         "internal_link_count": 13,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://freetdee.com/intermittent-fasting-calorie/",
@@ -22157,7 +22145,7 @@
           "https://freetdee.com/terms"
         ],
         "internal_link_count": 13,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://freetdee.com/keto-macro-calculator/",
@@ -22191,7 +22179,7 @@
           "https://freetdee.com/terms"
         ],
         "internal_link_count": 13,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://freetdee.com/macro-calculator/",
@@ -22306,7 +22294,7 @@
           "https://freetdee.com/terms"
         ],
         "internal_link_count": 13,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://freetdee.com/muscle-gain/",
@@ -22540,7 +22528,7 @@
           "https://freetdee.com/vs/myfitnesspal-tdee"
         ],
         "internal_link_count": 15,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://freetdee.com/vs/cronometer-tdee/",
@@ -22552,8 +22540,8 @@
         "title": "FreeTDEE vs Cronometer: Free Multi-Formula TDEE vs $59.99/Year Single Estimate | 2026 Free TDEE Calculator",
         "description": "Cronometer Gold costs $59.99/year and gives a single formula-based estimate. FreeTDEE compares 6+ formulas — free, no account.",
         "h1": "FreeTDEE vs Cronometer: Free Multi-Formula TDEE vs $59.99/Year Single Estimate",
-        "canonical": "https://__domain__/vs/cronometer-tdee/",
-        "canonical_matches": false,
+        "canonical": "https://freetdee.com/vs/cronometer-tdee/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 276,
@@ -22585,8 +22573,8 @@
         "title": "FreeTDEE vs MacroFactor: Free Instant TDEE vs $71.99/Year + 3-Week Wait | 2026 Free TDEE Calculator",
         "description": "MacroFactor costs $71.99/year and needs 3 weeks of food logging before giving you an adaptive TDEE. FreeTDEE is instant and free.",
         "h1": "FreeTDEE vs MacroFactor: Free Instant TDEE vs $71.99/Year + 3-Week Wait",
-        "canonical": "https://__domain__/vs/macrofactor-tdee/",
-        "canonical_matches": false,
+        "canonical": "https://freetdee.com/vs/macrofactor-tdee/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 335,
@@ -22618,8 +22606,8 @@
         "title": "FreeTDEE vs MyFitnessPal: Focused TDEE Calculator vs $79.99/Year All-in-One | 2026 Free TDEE Calculator",
         "description": "MyFitnessPal Premium costs $79.99/year and does not directly display TDEE. FreeTDEE: dedicated, free, instant TDEE with 6+ formulas.",
         "h1": "FreeTDEE vs MyFitnessPal: Focused TDEE Calculator vs $79.99/Year All-in-One",
-        "canonical": "https://__domain__/vs/myfitnesspal-tdee/",
-        "canonical_matches": false,
+        "canonical": "https://freetdee.com/vs/myfitnesspal-tdee/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 315,
@@ -22698,13 +22686,13 @@
       "non_200": 0,
       "redirected_in_sitemap": 0,
       "missing_canonical": 0,
-      "canonical_mismatch": 3,
+      "canonical_mismatch": 0,
       "noindex": 0,
       "missing_title": 0,
       "missing_description": 0,
       "missing_h1": 0,
       "thin_under_200_words": 4,
-      "orphan_in_sitemap": 1,
+      "orphan_in_sitemap": 0,
       "duplicate_titles": 0,
       "duplicate_descriptions": 0,
       "duplicate_text_hashes": 0,
@@ -22714,11 +22702,7 @@
       "non_200": [],
       "redirected_in_sitemap": [],
       "missing_canonical": [],
-      "canonical_mismatch": [
-        "https://babypercent.com/vs/baby-growth-chart-app/",
-        "https://babypercent.com/vs/child-growth-tracker-pro/",
-        "https://babypercent.com/vs/growth-baby-child-charts/"
-      ],
+      "canonical_mismatch": [],
       "noindex": [],
       "missing_title": [],
       "missing_description": [],
@@ -22729,9 +22713,7 @@
         "https://babypercent.com/vs/",
         "https://babypercent.com/vs/child-growth-tracker-pro/"
       ],
-      "orphan_in_sitemap": [
-        "https://babypercent.com/vs/"
-      ],
+      "orphan_in_sitemap": [],
       "duplicate_titles": {},
       "duplicate_descriptions": {},
       "duplicate_text_hashes": {},
@@ -22752,8 +22734,8 @@
         "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
-        "word_count": 1348,
-        "text_hash": "bd93cf2cc1727bad43c23825f4b30775fc577890",
+        "word_count": 1368,
+        "text_hash": "1050401b283019d0689ac0ac72065122c9f32bbc",
         "internal_links": [
           "https://babypercent.com/",
           "https://babypercent.com/0-month",
@@ -22789,9 +22771,10 @@
           "https://babypercent.com/blog",
           "https://babypercent.com/contact",
           "https://babypercent.com/privacy-policy",
-          "https://babypercent.com/terms"
+          "https://babypercent.com/terms",
+          "https://babypercent.com/vs"
         ],
-        "internal_link_count": 35,
+        "internal_link_count": 36,
         "sitemap_indegree": 44
       },
       {
@@ -24752,7 +24735,7 @@
           "https://babypercent.com/vs/growth-baby-child-charts"
         ],
         "internal_link_count": 8,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://babypercent.com/vs/baby-growth-chart-app/",
@@ -24764,8 +24747,8 @@
         "title": "BabyPercent vs Baby Growth Chart App: Free Browser vs $2.99 iOS-Only App | 2026 Baby Growth Tracker",
         "description": "Growth Chart Percentile+ costs $2.99 and works only on iOS. BabyPercent is free, works in any browser, and uses WHO standards.",
         "h1": "BabyPercent vs Baby Growth Chart App: Free Browser vs $2.99 iOS-Only App",
-        "canonical": "https://__domain__/vs/baby-growth-chart-app/",
-        "canonical_matches": false,
+        "canonical": "https://babypercent.com/vs/baby-growth-chart-app/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 298,
@@ -24791,8 +24774,8 @@
         "title": "BabyPercent vs Child Growth Tracker: Free, Ad-Free, No Android Required | 2026 Baby Growth Tracker",
         "description": "Child Growth Tracker Pro is a paid ad-free Android app. BabyPercent: free, no ads, works on any device with a browser.",
         "h1": "BabyPercent vs Child Growth Tracker: Free, Ad-Free, No Android Required",
-        "canonical": "https://__domain__/vs/child-growth-tracker-pro/",
-        "canonical_matches": false,
+        "canonical": "https://babypercent.com/vs/child-growth-tracker-pro/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 192,
@@ -24818,8 +24801,8 @@
         "title": "BabyPercent vs Growth Charts App: Free Full Access vs $2.99 In-App Purchase | 2026 Baby Growth Tracker",
         "description": "Growth Charts app locks multi-child comparison behind a $2.99 in-app purchase. BabyPercent: unlimited free calculations, no paywalls.",
         "h1": "BabyPercent vs Growth Charts App: Free Full Access vs $2.99 In-App Purchase",
-        "canonical": "https://__domain__/vs/growth-baby-child-charts/",
-        "canonical_matches": false,
+        "canonical": "https://babypercent.com/vs/growth-baby-child-charts/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 217,
@@ -24851,7 +24834,7 @@
       "missing_description": 0,
       "missing_h1": 0,
       "thin_under_200_words": 1,
-      "orphan_in_sitemap": 3,
+      "orphan_in_sitemap": 0,
       "duplicate_titles": 0,
       "duplicate_descriptions": 0,
       "duplicate_text_hashes": 0,
@@ -24869,11 +24852,7 @@
       "thin_under_200_words": [
         "https://invoicepad.net/freelancer-invoice-template/"
       ],
-      "orphan_in_sitemap": [
-        "https://invoicepad.net/blog/how-to-write-an-invoice-freelancer/",
-        "https://invoicepad.net/blog/invoice-payment-terms-explained/",
-        "https://invoicepad.net/blog/what-to-include-on-an-invoice/"
-      ],
+      "orphan_in_sitemap": [],
       "duplicate_titles": {},
       "duplicate_descriptions": {},
       "duplicate_text_hashes": {},
@@ -24894,12 +24873,15 @@
         "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
-        "word_count": 1434,
-        "text_hash": "b68fbe3c1381019cdacd55d6e9ba1e094615601b",
+        "word_count": 1447,
+        "text_hash": "0119883caeb5c711819fd32ab2ea1d7400bf8395",
         "internal_links": [
           "https://invoicepad.net/",
           "https://invoicepad.net/about",
           "https://invoicepad.net/blog",
+          "https://invoicepad.net/blog/how-to-write-an-invoice-freelancer",
+          "https://invoicepad.net/blog/invoice-payment-terms-explained",
+          "https://invoicepad.net/blog/what-to-include-on-an-invoice",
           "https://invoicepad.net/contact",
           "https://invoicepad.net/estimate-generator",
           "https://invoicepad.net/freelance-writer-invoice-template",
@@ -24931,7 +24913,7 @@
           "https://invoicepad.net/terms",
           "https://invoicepad.net/web-developer-invoice-template"
         ],
-        "internal_link_count": 33,
+        "internal_link_count": 36,
         "sitemap_indegree": 35
       },
       {
@@ -24959,7 +24941,7 @@
           "https://invoicepad.net/terms"
         ],
         "internal_link_count": 6,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://invoicepad.net/blog/invoice-payment-terms-explained/",
@@ -24986,7 +24968,7 @@
           "https://invoicepad.net/terms"
         ],
         "internal_link_count": 6,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://invoicepad.net/blog/what-to-include-on-an-invoice/",
@@ -25013,7 +24995,7 @@
           "https://invoicepad.net/terms"
         ],
         "internal_link_count": 6,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://invoicepad.net/consultant-invoice-template/",
@@ -25061,7 +25043,7 @@
         "robots_meta": "",
         "noindex": false,
         "word_count": 974,
-        "text_hash": "e312f6d8cc777db2884ee90a087e0cb47964507b",
+        "text_hash": "d13dfb1e042aa05e442b5aa2c52929b4e18f34d4",
         "internal_links": [
           "https://invoicepad.net/",
           "https://invoicepad.net/about",
@@ -26038,7 +26020,7 @@
         "robots_meta": "",
         "noindex": false,
         "word_count": 1037,
-        "text_hash": "712244000acb07826a430b3b8b28f083cd716203",
+        "text_hash": "ccaa409a3ec503bb9d9f16dae5bdfb3840e6c0eb",
         "internal_links": [
           "https://invoicepad.net/",
           "https://invoicepad.net/about",
@@ -26163,13 +26145,13 @@
       "non_200": 0,
       "redirected_in_sitemap": 0,
       "missing_canonical": 0,
-      "canonical_mismatch": 3,
+      "canonical_mismatch": 0,
       "noindex": 0,
       "missing_title": 0,
       "missing_description": 0,
       "missing_h1": 0,
       "thin_under_200_words": 2,
-      "orphan_in_sitemap": 4,
+      "orphan_in_sitemap": 0,
       "duplicate_titles": 0,
       "duplicate_descriptions": 0,
       "duplicate_text_hashes": 0,
@@ -26179,11 +26161,7 @@
       "non_200": [],
       "redirected_in_sitemap": [],
       "missing_canonical": [],
-      "canonical_mismatch": [
-        "https://zoneplan.net/vs/timeanddate-meeting-planner/",
-        "https://zoneplan.net/vs/world-time-buddy/",
-        "https://zoneplan.net/vs/zonesync-app/"
-      ],
+      "canonical_mismatch": [],
       "noindex": [],
       "missing_title": [],
       "missing_description": [],
@@ -26192,12 +26170,7 @@
         "https://zoneplan.net/contact/",
         "https://zoneplan.net/vs/"
       ],
-      "orphan_in_sitemap": [
-        "https://zoneplan.net/blog/best-meeting-times-global/",
-        "https://zoneplan.net/scenarios/client-call/",
-        "https://zoneplan.net/scenarios/global-webinar/",
-        "https://zoneplan.net/vs/"
-      ],
+      "orphan_in_sitemap": [],
       "duplicate_titles": {},
       "duplicate_descriptions": {},
       "duplicate_text_hashes": {},
@@ -26218,8 +26191,8 @@
         "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
-        "word_count": 1349,
-        "text_hash": "1d9223061430a6c32e1226da9793d235d84991fd",
+        "word_count": 1365,
+        "text_hash": "abe5d32ab977de8630cdae730dfbb9b7eb9f5c31",
         "internal_links": [
           "https://zoneplan.net/",
           "https://zoneplan.net/abbreviation/cet-to-ist",
@@ -26249,6 +26222,7 @@
           "https://zoneplan.net/berlin-to-singapore",
           "https://zoneplan.net/berlin-to-tokyo",
           "https://zoneplan.net/blog",
+          "https://zoneplan.net/blog/best-meeting-times-global",
           "https://zoneplan.net/blog/remote-team-timezone-guide",
           "https://zoneplan.net/chicago-to-london",
           "https://zoneplan.net/contact",
@@ -26300,6 +26274,8 @@
           "https://zoneplan.net/privacy-policy",
           "https://zoneplan.net/san-francisco-to-bangalore",
           "https://zoneplan.net/sao-paulo-to-lisbon",
+          "https://zoneplan.net/scenarios/client-call",
+          "https://zoneplan.net/scenarios/global-webinar",
           "https://zoneplan.net/scenarios/remote-team-standup",
           "https://zoneplan.net/seoul-to-sydney",
           "https://zoneplan.net/shanghai-to-sydney",
@@ -26314,10 +26290,11 @@
           "https://zoneplan.net/toronto-to-bangalore",
           "https://zoneplan.net/toronto-to-london",
           "https://zoneplan.net/vancouver-to-tokyo",
+          "https://zoneplan.net/vs",
           "https://zoneplan.net/world-clock",
           "https://zoneplan.net/world-clock-meeting-planner"
         ],
-        "internal_link_count": 95,
+        "internal_link_count": 99,
         "sitemap_indegree": 106
       },
       {
@@ -27475,7 +27452,7 @@
           "https://zoneplan.net/world-clock"
         ],
         "internal_link_count": 15,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://zoneplan.net/blog/best-times-for-global-team-meetings/",
@@ -29792,7 +29769,7 @@
           "https://zoneplan.net/world-clock"
         ],
         "internal_link_count": 14,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://zoneplan.net/scenarios/global-webinar/",
@@ -29827,7 +29804,7 @@
           "https://zoneplan.net/world-clock"
         ],
         "internal_link_count": 14,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://zoneplan.net/scenarios/remote-team-standup/",
@@ -30563,7 +30540,7 @@
           "https://zoneplan.net/world-clock"
         ],
         "internal_link_count": 15,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://zoneplan.net/vs/timeanddate-meeting-planner/",
@@ -30575,8 +30552,8 @@
         "title": "ZonePlan vs timeanddate.com: Clean Free Planner vs Ad-Heavy Classic | 2026 Time Zone Planner",
         "description": "timeanddate.com Meeting Planner has ads in free version, $1-4/month for ad-free. ZonePlan: clean interface, free, no subscription.",
         "h1": "ZonePlan vs timeanddate.com: Clean Free Planner vs Ad-Heavy Classic",
-        "canonical": "https://__domain__/vs/timeanddate-meeting-planner/",
-        "canonical_matches": false,
+        "canonical": "https://zoneplan.net/vs/timeanddate-meeting-planner/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 276,
@@ -30609,8 +30586,8 @@
         "title": "ZonePlan vs World Time Buddy: Free Ad-Free Meeting Planner vs Ad-Supported Tool | 2026 Time Zone Planner",
         "description": "World Time Buddy free version has ads and limited city comparison. ZonePlan: clean, ad-light, free meeting planner with all features.",
         "h1": "ZonePlan vs World Time Buddy: Free Ad-Free Meeting Planner vs Ad-Supported Tool",
-        "canonical": "https://__domain__/vs/world-time-buddy/",
-        "canonical_matches": false,
+        "canonical": "https://zoneplan.net/vs/world-time-buddy/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 300,
@@ -30643,8 +30620,8 @@
         "title": "ZonePlan vs ZoneSync: Free Browser Tool vs $2.99/Month Apple-Only App | 2026 Time Zone Planner",
         "description": "ZoneSync costs $2.99/month or $24.99/year, iOS/macOS only. ZonePlan: free, browser-based, all platforms.",
         "h1": "ZonePlan vs ZoneSync: Free Browser Tool vs $2.99/Month Apple-Only App",
-        "canonical": "https://__domain__/vs/zonesync-app/",
-        "canonical_matches": false,
+        "canonical": "https://zoneplan.net/vs/zonesync-app/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 283,
@@ -30747,13 +30724,13 @@
       "non_200": 0,
       "redirected_in_sitemap": 0,
       "missing_canonical": 0,
-      "canonical_mismatch": 3,
+      "canonical_mismatch": 0,
       "noindex": 0,
       "missing_title": 0,
       "missing_description": 0,
       "missing_h1": 0,
       "thin_under_200_words": 3,
-      "orphan_in_sitemap": 4,
+      "orphan_in_sitemap": 0,
       "duplicate_titles": 0,
       "duplicate_descriptions": 0,
       "duplicate_text_hashes": 0,
@@ -30763,11 +30740,7 @@
       "non_200": [],
       "redirected_in_sitemap": [],
       "missing_canonical": [],
-      "canonical_mismatch": [
-        "https://pupvax.com/vs/11pets-premium/",
-        "https://pupvax.com/vs/breedera-app/",
-        "https://pupvax.com/vs/pawchamp-premium/"
-      ],
+      "canonical_mismatch": [],
       "noindex": [],
       "missing_title": [],
       "missing_description": [],
@@ -30777,12 +30750,7 @@
         "https://pupvax.com/contact/",
         "https://pupvax.com/vs/"
       ],
-      "orphan_in_sitemap": [
-        "https://pupvax.com/blog/dog-vaccine-schedule-guide/",
-        "https://pupvax.com/blog/puppy-shot-timeline/",
-        "https://pupvax.com/blog/senior-dog-health-vaccines/",
-        "https://pupvax.com/vs/"
-      ],
+      "orphan_in_sitemap": [],
       "duplicate_titles": {},
       "duplicate_descriptions": {},
       "duplicate_text_hashes": {},
@@ -30803,12 +30771,15 @@
         "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
-        "word_count": 1653,
-        "text_hash": "89ae5eba6ffe2ede886756ff6eee9a89f5972dcc",
+        "word_count": 1672,
+        "text_hash": "1e2eb5c2182e439004cdf66637979a6fde7bc8c8",
         "internal_links": [
           "https://pupvax.com/",
           "https://pupvax.com/about",
           "https://pupvax.com/blog",
+          "https://pupvax.com/blog/dog-vaccine-schedule-guide",
+          "https://pupvax.com/blog/puppy-shot-timeline",
+          "https://pupvax.com/blog/senior-dog-health-vaccines",
           "https://pupvax.com/breeds",
           "https://pupvax.com/contact",
           "https://pupvax.com/dhpp-vaccine",
@@ -30840,9 +30811,10 @@
           "https://pupvax.com/vaccine-schedule/poodle",
           "https://pupvax.com/vaccine-schedule/rottweiler",
           "https://pupvax.com/vaccine-schedule/shih-tzu",
-          "https://pupvax.com/vaccine-schedule/yorkshire-terrier"
+          "https://pupvax.com/vaccine-schedule/yorkshire-terrier",
+          "https://pupvax.com/vs"
         ],
-        "internal_link_count": 35,
+        "internal_link_count": 39,
         "sitemap_indegree": 46
       },
       {
@@ -30982,7 +30954,7 @@
           "https://pupvax.com/vaccine-schedule/labrador"
         ],
         "internal_link_count": 13,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://pupvax.com/blog/how-often-do-adult-dogs-need-vaccines/",
@@ -31050,7 +31022,7 @@
           "https://pupvax.com/vaccine-schedule/labrador"
         ],
         "internal_link_count": 13,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://pupvax.com/blog/puppy-vaccination-schedule/",
@@ -31118,7 +31090,7 @@
           "https://pupvax.com/vaccine-schedule/labrador"
         ],
         "internal_link_count": 13,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://pupvax.com/breeds/",
@@ -32604,7 +32576,7 @@
           "https://pupvax.com/vs/pawchamp-premium"
         ],
         "internal_link_count": 15,
-        "sitemap_indegree": 0
+        "sitemap_indegree": 1
       },
       {
         "url": "https://pupvax.com/vs/11pets-premium/",
@@ -32616,8 +32588,8 @@
         "title": "PupVax vs 11pets: Free Vaccine Schedule vs £5.99/Month for Cloud Sync | 2026 Dog Vaccine Tracker",
         "description": "11pets Premium costs £5.99/month (~$7.50) for cloud backup and multi-device sync. PupVax: free, browser-based vaccine schedule generator.",
         "h1": "PupVax vs 11pets: Free Vaccine Schedule vs £5.99/Month for Cloud Sync",
-        "canonical": "https://__domain__/vs/11pets-premium/",
-        "canonical_matches": false,
+        "canonical": "https://pupvax.com/vs/11pets-premium/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 342,
@@ -32650,8 +32622,8 @@
         "title": "PupVax vs Breedera: Free Pet Owner Tool vs $10/Month Breeder Platform | 2026 Dog Vaccine Tracker",
         "description": "Breedera is a breeder management platform at ~$10/month. PupVax: free, designed for regular pet owners, not breeders.",
         "h1": "PupVax vs Breedera: Free Pet Owner Tool vs $10/Month Breeder Platform",
-        "canonical": "https://__domain__/vs/breedera-app/",
-        "canonical_matches": false,
+        "canonical": "https://pupvax.com/vs/breedera-app/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 247,
@@ -32684,8 +32656,8 @@
         "title": "PupVax vs PawChamp: Free Vaccine Tool vs $99.99/Year Dog Training App | 2026 Dog Vaccine Tracker",
         "description": "PawChamp costs $99.99/year or $40/month and focuses on dog training — vaccines are a side feature. PupVax: free, dedicated vaccine scheduler.",
         "h1": "PupVax vs PawChamp: Free Vaccine Tool vs $99.99/Year Dog Training App",
-        "canonical": "https://__domain__/vs/pawchamp-premium/",
-        "canonical_matches": false,
+        "canonical": "https://pupvax.com/vs/pawchamp-premium/",
+        "canonical_matches": true,
         "robots_meta": "",
         "noindex": false,
         "word_count": 270,
