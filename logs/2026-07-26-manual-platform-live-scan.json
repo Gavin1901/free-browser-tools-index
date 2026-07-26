@@ -1,0 +1,874 @@
+[
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Product Hunt",
+    "url": "http://www.producthunt.com/",
+    "status": 403,
+    "final": "https://www.producthunt.com/",
+    "title": "Just a moment..."
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "X（推特）",
+    "url": "https://x.com",
+    "status": 200,
+    "final": "https://x.com/",
+    "title": "X. It’s what’s happening / X"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "10words",
+    "url": "https://10words.io",
+    "status": 200,
+    "final": "https://10words.io/",
+    "title": "Discover new apps and startups in 10 words or less"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Alternative To",
+    "url": "http://alternativeto.net/",
+    "status": 403,
+    "final": "https://alternativeto.net/",
+    "title": "Just a moment..."
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "App Rater",
+    "url": "https://apprater.net/add/",
+    "status": 200,
+    "final": "https://apprater.net/add/",
+    "title": "Submit app - AppRater"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Appvita",
+    "url": "http://www.appvita.com/",
+    "status": 200,
+    "final": "https://onk.io/",
+    "title": "Dave Onkels â Product Leader in Healthcare"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Arctic Startup",
+    "url": "http://arcticstartup.com/",
+    "status": 200,
+    "final": "https://arcticstartup.com/",
+    "title": "Home - ArcticStartup"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "BetaList",
+    "url": "https://betalist.com/submit",
+    "status": 200,
+    "final": "https://betalist.com/submit",
+    "title": ""
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Collaborizm",
+    "url": "https://www.collaborizm.com",
+    "status": 200,
+    "final": "https://www.collaborizm.com/",
+    "title": "Collaborizm"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "CSS Mania",
+    "url": "http://www.cssmania.com/submit/",
+    "status": 200,
+    "final": "https://www.cssmania.com/submit/",
+    "title": "Submit / CSSMania"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "CrozDesk",
+    "url": "https://vendor.crozdesk.com/user/signup",
+    "status": 200,
+    "final": "https://vendor.revleads.com/user/signup",
+    "title": "Reach Engaged Software Buyers | Revleads"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "F6S",
+    "url": "http://www.f6s.com/",
+    "status": 405,
+    "final": "https://www.f6s.com/",
+    "title": "Checking your browser"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Designer News",
+    "url": "https://www.designernews.co/",
+    "status": 500,
+    "final": "https://designernews.co/",
+    "title": "500: This page couldn’t load"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "G2 Crowd",
+    "url": "https://www.g2crowd.com/products/new",
+    "status": 403,
+    "final": "https://www.g2.com/products/new",
+    "title": "g2.com"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Geek Wire",
+    "url": "http://geekwire.com/startup-list/",
+    "status": 403,
+    "final": "https://www.geekwire.com/startup-list/",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Inc 42",
+    "url": "https://inc42.com/startup-submission/",
+    "status": 200,
+    "final": "https://inc42.com/startup-submission/",
+    "title": "Get Featured on Inc42: Submit Your Startup For Potential Coverage"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Index.co",
+    "url": "https://index.co/startup",
+    "status": 404,
+    "final": "https://index.co/startup",
+    "title": "404"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Land-book",
+    "url": "https://land-book.com/guidelines",
+    "status": 403,
+    "final": "https://land-book.com/guidelines",
+    "title": "Just a moment..."
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Launched",
+    "url": "https://launched.io/SubmitStartup",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='launched.io', port=443): Max retries exceeded with url: /SubmitStartup (Caused by SSLError(SSL"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Lobster",
+    "url": "https://lobste.rs/",
+    "status": 200,
+    "final": "https://lobste.rs/",
+    "title": "Lobsters"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Netted",
+    "url": "https://www.netted.net/contact-us/",
+    "status": 403,
+    "final": "https://www.netted.net/contact-us/",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Next Big What",
+    "url": "http://nextbigwhat.com/",
+    "status": 200,
+    "final": "https://nextbigwhat.com/",
+    "title": "NextBigWhat — Big Ideas, Products and News for AI Leaders"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Paggu",
+    "url": "http://www.paggu.com/submit-your-startup/",
+    "status": 403,
+    "final": "http://www.paggu.com/submit-your-startup/",
+    "title": "Checking your browser before accessing. Just a moment..."
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Postscapes",
+    "url": "http://about.postscapes.com/tools",
+    "status": 400,
+    "final": "http://about.postscapes.com/tools",
+    "title": "400 Bad Request"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Programmable Web",
+    "url": "https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='www.programmableweb.com', port=443): Max retries exceeded with url: /news/how-to-pitch-program"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Robingood",
+    "url": "http://tools.robingood.com/",
+    "status": 200,
+    "final": "https://tools.robingood.com/",
+    "title": ""
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "SaaSHub",
+    "url": "https://www.saashub.com/",
+    "status": 200,
+    "final": "https://www.saashub.com/",
+    "title": "SaaSHub - Software Alternatives, Accelerators &amp; Startups"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Show HN",
+    "url": "https://news.ycombinator.com/showhn.html",
+    "status": 200,
+    "final": "https://news.ycombinator.com/showhn.html",
+    "title": "Show HN Guidelines"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "SnapMunk",
+    "url": "https://www.snapmunk.com/submit-your-startup/",
+    "status": 200,
+    "final": "https://www.snapmunk.com/submit-your-startup/",
+    "title": "Submit Your Startup | SnapMunk"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Springwise",
+    "url": "http://springwise.com/tipus/",
+    "status": 403,
+    "final": "http://springwise.com/tipus/",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Stack Share",
+    "url": "http://stackshare.io/",
+    "status": 200,
+    "final": "https://stackshare.io/",
+    "title": "StackShare - Discover the best trending developer &amp; AI tools | StackShare"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Starter Story",
+    "url": "https://starterstory.com/",
+    "status": 200,
+    "final": "https://www.starterstory.com/",
+    "title": "Starter Story — The Researched Database of Real, Profitable Businesses"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Startup 88",
+    "url": "https://startup88.com/",
+    "status": 200,
+    "final": "https://startup88.com/",
+    "title": "Startup88 - Showcase your startup to the world!"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Startup Beat",
+    "url": "http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/",
+    "status": 200,
+    "final": "https://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/",
+    "title": "Lightning Pitch Submission - StartUp Beat"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Startup Benchmarks",
+    "url": "https://www.startupbenchmarks.com/",
+    "status": 200,
+    "final": "https://startupbenchmarks.com/",
+    "title": "Startup Software to Compare for Operations, Growth, and Team Work - Startup Benchmarks (2026)"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Startup Collections",
+    "url": "http://startupcollections.com/",
+    "status": 200,
+    "final": "https://startupcollections.com/",
+    "title": "Startup Collections - Resources and Tools for Starters"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Startup Dope",
+    "url": "http://startupdope.com/submit-news/",
+    "status": 200,
+    "final": "https://startupdope.com/submit-news/",
+    "title": "Startup Dope | Submit News"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Startup Inspire",
+    "url": "https://www.startupinspire.com/submit",
+    "status": 200,
+    "final": "https://www.startupinspire.com/404",
+    "title": "Startup inspiration - Submit and promote your Startup like a Pro | Inspiration gallery for startups"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Startup Ranking",
+    "url": "http://www.startupranking.com/",
+    "status": 200,
+    "final": "https://www.startupranking.com/",
+    "title": "Startup Ranking: Find the top and new startups worldwide"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Startup Resources",
+    "url": "https://startupresources.io",
+    "status": 200,
+    "final": "https://startupresources.io/",
+    "title": "The Best Tools For Your Startup | Startup Resources"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Startup Stash",
+    "url": "http://startupstash.com/",
+    "status": 200,
+    "final": "https://startupstash.com/",
+    "title": "Startup Stash - A Curated Directory of Tools and Resources for Your Startup"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Startup Tracker",
+    "url": "https://startuptracker.io/",
+    "status": 200,
+    "final": "https://startuptracker.io/",
+    "title": "Startup Tracker"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Startups List",
+    "url": "https://www.startups-list.com/",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='www.startups-list.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Techfaster",
+    "url": "http://techfaster.com/submit-your-company/",
+    "status": 200,
+    "final": "https://guidenetworth.com",
+    "title": "Guide Net Worth"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Tech Map",
+    "url": "http://thetechmap.com/",
+    "status": 200,
+    "final": "https://techmap.me/",
+    "title": "Professional Local Social Network for Techies and Entrepreneurs | The TechMap"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "The Changelog",
+    "url": "https://github.com/thechangelog/ping",
+    "status": 200,
+    "final": "https://github.com/thechangelog/ping",
+    "title": "GitHub - thechangelog/ping: Ping! Share show ideas, feedback, or general questions. Just create an issue. · GitHub"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "VB Profiles",
+    "url": "http://vbprofiles.com/",
+    "status": 403,
+    "final": "http://vbprofiles.com/",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Venture Beat",
+    "url": "http://venturebeat.com/news-tips/",
+    "status": 404,
+    "final": "https://venturebeat.com/news-tips",
+    "title": "VentureBeat | Transformative tech coverage that matters"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Ycombinator",
+    "url": "https://news.ycombinator.com/",
+    "status": 200,
+    "final": "https://news.ycombinator.com/",
+    "title": "Hacker News"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Tech Pluto",
+    "url": "http://www.techpluto.com/submit-a-startup/",
+    "status": 200,
+    "final": "https://www.techpluto.com/submit-a-startup/",
+    "title": "Submit A Startup - TechPluto - Latest Startup &amp; Tech News"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Capterra",
+    "url": "http://www.capterra.com/vendors/sign-up",
+    "status": 403,
+    "final": "http://www.capterra.com/vendors/sign-up",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "section": "6.1 🚀 产品发布平台",
+    "name": "Sidebar",
+    "url": "https://sidebar.io/submit",
+    "status": 200,
+    "final": "https://sidebar.io/submit",
+    "title": "Sidebar | Submit a Link"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "Reddit - /r/AlphaandBetausers",
+    "url": "https://www.reddit.com/r/alphaandbetausers/",
+    "status": 403,
+    "final": "https://www.reddit.com/r/alphaandbetausers/",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "Reddit - /r/advancedentrepreneur/",
+    "url": "https://www.reddit.com/r/advancedentrepreneur",
+    "status": 403,
+    "final": "https://www.reddit.com/r/advancedentrepreneur",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "Reddit -/r/growmybusiness/",
+    "url": "https://www.reddit.com/r/growmybusiness",
+    "status": 403,
+    "final": "https://www.reddit.com/r/growmybusiness",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "Reddit - /r/indiebiz/",
+    "url": "https://www.reddit.com/r/indiebiz/",
+    "status": 403,
+    "final": "https://www.reddit.com/r/indiebiz/",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "Reddit - /r/startup",
+    "url": "https://www.reddit.com/r/startup/",
+    "status": 403,
+    "final": "https://www.reddit.com/r/startup/",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "Reddit - /r/RoastMyStartup",
+    "url": "https://www.reddit.com/r/roastmystartup",
+    "status": 403,
+    "final": "https://www.reddit.com/r/roastmystartup",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "/r/Coupons",
+    "url": "https://www.reddit.com/r/coupons/",
+    "status": 403,
+    "final": "https://www.reddit.com/r/coupons/",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "/r/Design_Critiques",
+    "url": "https://www.reddit.com/r/design_critiques",
+    "status": 403,
+    "final": "https://www.reddit.com/r/design_critiques",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "/r/Entrepreneur",
+    "url": "http://reddit.com/r/entrepreneur",
+    "status": 403,
+    "final": "https://www.reddit.com/r/entrepreneur",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "r/EntrepreneurRideAlong",
+    "url": "http://www.reddit.com/r/EntrepreneurRideAlong/",
+    "status": 403,
+    "final": "https://www.reddit.com/r/EntrepreneurRideAlong/",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "/r/LadyBusiness （女性开发者）",
+    "url": "https://www.reddit.com/r/ladybusiness/",
+    "status": 403,
+    "final": "https://www.reddit.com/r/ladybusiness/",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "/r/SideProject",
+    "url": "http://reddit.com/r/sideproject",
+    "status": 403,
+    "final": "https://www.reddit.com/r/sideproject",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "/r/smallbusiness/",
+    "url": "http://reddit.com/r/smallbusiness",
+    "status": 403,
+    "final": "https://www.reddit.com/r/smallbusiness",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "r/Startups",
+    "url": "http://reddit.com/r/startups",
+    "status": 403,
+    "final": "https://www.reddit.com/r/startups",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "/r/Plugyourproduct/",
+    "url": "https://www.reddit.com/r/plugyourproduct",
+    "status": 403,
+    "final": "https://www.reddit.com/r/plugyourproduct",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "r/Webdesign",
+    "url": "http://reddit.com/r/web_design",
+    "status": 403,
+    "final": "https://www.reddit.com/r/web_design",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.2 🤖 Reddit 频道（注意 Reddit 规则，注意养号，小心封号）",
+    "name": "r/Webdev",
+    "url": "http://reddit.com/r/webdev",
+    "status": 403,
+    "final": "https://www.reddit.com/r/webdev",
+    "title": "Blocked"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Getworm",
+    "url": "https://getworm.com/submit-startup",
+    "status": 200,
+    "final": "https://getworm.com/submit-startup",
+    "title": "Get Worm"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Killer Startups",
+    "url": "http://killerstartups.com/submit-startup/",
+    "status": 200,
+    "final": "https://killerstartups.com/submit-startup/",
+    "title": "Introduce your startup to the world - KillerStartups.com"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Beta Bound",
+    "url": "http://www.betabound.com/announce/",
+    "status": 200,
+    "final": "https://betabound.com/announce/",
+    "title": "Find Great Beta Testers on Betabound"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Beta Page",
+    "url": "https://betapage.co/",
+    "status": 200,
+    "final": "https://pitchwall.co/",
+    "title": "PitchWall - Discover New AI Products Every Day"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Betafy",
+    "url": "https://www.betafy.co/easysignup/startup",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='www.betafy.co', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "All Startups",
+    "url": "http://www.allstartups.info/Startups/Submit",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='www.allstartups.info', port=443): Max retries exceeded with url: /Startups/Submit (Caused by S"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Apps Mamma",
+    "url": "http://appsmamma.com/submit-your-app/",
+    "status": 200,
+    "final": "https://appsmamma.com/submit-your-app/",
+    "title": "Submit Your App - AppsMamma"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Beterest",
+    "url": "https://beterest.com/submit-startup/",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='beterest.com', port=443): Max retries exceeded with url: /submit-startup/ (Caused by SSLError("
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Bootstrapped",
+    "url": "https://discuss.bootstrapped.fm/",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='discuss.bootstrapped.fm', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLE"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "CloudShowPlace",
+    "url": "http://www.cloudshowplace.com/add-your-company/",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='www.cloudshowplace.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Crazy About Startups",
+    "url": "http://www.crazyaboutstartups.com/index.php/share-your-startup-form",
+    "status": 200,
+    "final": "https://www.crazyaboutstartups.com/index.php/share-your-startup-form",
+    "title": ""
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Crunch Base",
+    "url": "https://www.crunchbase.com/#/home/index",
+    "status": 200,
+    "final": "https://www.crunchbase.com/#/home/index",
+    "title": "Crunchbase"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Discover Cloud",
+    "url": "https://www.discovercloud.com/become-a-vendor",
+    "status": 200,
+    "final": "https://www.discovercloud.com/become-a-vendor",
+    "title": "Join the DiscoverCloud Marketplace - Become A Vendor"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "NoDesign",
+    "url": "https://nodesign.dev/",
+    "status": 406,
+    "final": "https://nodesign.dev/",
+    "title": "406 Not Acceptable"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Fifty",
+    "url": "https://fifty.weekendprojects.xyz/",
+    "status": 200,
+    "final": "https://fifty.weekendprojects.xyz/",
+    "title": "weekendprojects.xyz"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "IndieHackers (not small but super friendly)",
+    "url": "https://indiehackers.com",
+    "status": 200,
+    "final": "https://www.indiehackers.com/",
+    "title": "Indie Hackers: Work Together to Build Profitable Online Businesses"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Launching Next",
+    "url": "http://www.launchingnext.com/submit/",
+    "status": 200,
+    "final": "https://www.launchingnext.com/submit/",
+    "title": "Submit Your Project | Launching Next"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Loop",
+    "url": "https://app.loopinput.com/",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='app.loopinput.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVer"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "MakerLog",
+    "url": "https://getmakerlog.com/",
+    "status": 200,
+    "final": "https://ambitiousfounder.com",
+    "title": "Ambitious Founder"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Next Big Product",
+    "url": "http://nextbigproduct.net/product-submission/",
+    "status": 502,
+    "final": "http://nextbigproduct.net/product-submission/",
+    "title": ""
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "PublicityX",
+    "url": "https://www.publicityx.com/startups/new",
+    "status": 503,
+    "final": "https://www.publicityx.com/startups/new",
+    "title": "Application Error"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Saasified",
+    "url": "https://saasified.co",
+    "status": 200,
+    "final": "https://saasified.co/",
+    "title": ""
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Side Projectors",
+    "url": "https://www.sideprojectors.com",
+    "status": 200,
+    "final": "https://www.sideprojectors.com/",
+    "title": "Sell, buy, show off your side projects - SideProjectors | Marketplace to buy and sell side projects."
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Slant",
+    "url": "https://www.slant.co/",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='www.slant.co', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, "
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Startup Base",
+    "url": "https://startupbase.io/submit",
+    "status": 200,
+    "final": "https://startupbase.io/login?expired&origin=%2Fsubmit",
+    "title": "Log into your account | StartupBase"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Startup Buffer",
+    "url": "http://startupbuffer.com",
+    "status": 403,
+    "final": "https://startupbuffer.com/",
+    "title": "Just a moment..."
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Startup Lift",
+    "url": "http://www.startuplift.com/",
+    "status": 404,
+    "final": "http://www.startuplift.com/",
+    "title": "404 Not Found"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "StartupBlink",
+    "url": "http://www.startupblink.com/",
+    "status": 403,
+    "final": "http://www.startupblink.com/",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "StartupJohn",
+    "url": "https://www.startupjohn.com/",
+    "status": 526,
+    "final": "https://www.startupjohn.com/",
+    "title": "startupjohn.com | 526: Invalid SSL certificate"
+  },
+  {
+    "section": "6.3 🎯 小型社区",
+    "name": "Webwide",
+    "url": "https://webwide.io/forums/project-showcase.15/",
+    "status": 404,
+    "final": "https://webwide.io/forums/project-showcase.15/",
+    "title": "404 Not Found"
+  },
+  {
+    "section": "6.4 💰 需要付费的平台",
+    "name": "All Top Startups",
+    "url": "http://alltopstartups.com/submit-startup/",
+    "status": 200,
+    "final": "https://alltopstartups.com/submit-startup/",
+    "title": "How to start a good blog, hire a startup blogger, business blogger wanted, startup blogger wanted, freelance blogger wan"
+  },
+  {
+    "section": "6.4 💰 需要付费的平台",
+    "name": "App 400",
+    "url": "http://apps400.com/",
+    "status": 200,
+    "final": "https://apps400.com/",
+    "title": "Apps400 - Web App Reviews | Facebook App Reviews | iPhone App Reviews | Android App Reviews"
+  },
+  {
+    "section": "6.4 💰 需要付费的平台",
+    "name": "Awwwards",
+    "url": "https://awwwards.com",
+    "status": 200,
+    "final": "https://www.awwwards.com/",
+    "title": "Awwwards - Website Awards - Best Web Design Trends"
+  },
+  {
+    "section": "6.4 💰 需要付费的平台",
+    "name": "Feed My App",
+    "url": "https://feedmyapp.com/submit/",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='feedmyapp.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "section": "6.4 💰 需要付费的平台",
+    "name": "Launch List",
+    "url": "https://launchlister.com/submit-startup",
+    "status": 404,
+    "final": "https://jonathanbird.com.au/submit-startup",
+    "title": "404 - Page Not Found - Jonathan Bird"
+  },
+  {
+    "section": "6.4 💰 需要付费的平台",
+    "name": "MakeUseOf",
+    "url": "http://www.makeuseof.com/about/",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='www.makeuseof.com', port=443): Max retries exceeded with url: /about/ (Caused by ProxyError('U"
+  },
+  {
+    "section": "6.4 💰 需要付费的平台",
+    "name": "pFind",
+    "url": "http://www.pfind.com/submit",
+    "status": 404,
+    "final": "https://www.pfind.com/submit",
+    "title": "Page Not Found - pFind"
+  },
+  {
+    "section": "6.4 💰 需要付费的平台",
+    "name": "Postmake",
+    "url": "https://postmake.io/submit",
+    "status": 200,
+    "final": "https://postmake.io/submit",
+    "title": "Submit Your Business – Postmake"
+  },
+  {
+    "section": "6.4 💰 需要付费的平台",
+    "name": "Wip",
+    "url": "https://wip.chat/",
+    "status": 200,
+    "final": "https://wip.co/",
+    "title": "WIP"
+  },
+  {
+    "section": "6.4 💰 需要付费的平台",
+    "name": "The Startup Pitch",
+    "url": "http://thestartuppitch.com/post-a-pitch/",
+    "status": "ERR",
+    "final": "",
+    "title": "HTTPSConnectionPool(host='thestartuppitch.com', port=443): Max retries exceeded with url: /post-a-pitch/ (Caused by SSLE"
+  }
+]
