@@ -1,0 +1,58 @@
+{
+  "page_count": 713,
+  "unique_internal_links": 756,
+  "internal_non_200": [
+    {
+      "url": "https://babypercent.com/cdn-cgi/l/email-protection",
+      "status": 404,
+      "final_url": "https://babypercent.com/cdn-cgi/l/email-protection",
+      "error": ""
+    },
+    {
+      "url": "https://iworkviewer.com/cdn-cgi/l/email-protection",
+      "status": 404,
+      "final_url": "https://iworkviewer.com/cdn-cgi/l/email-protection",
+      "error": ""
+    },
+    {
+      "url": "https://livephotokit.com/cdn-cgi/l/email-protection",
+      "status": 404,
+      "final_url": "https://livephotokit.com/cdn-cgi/l/email-protection",
+      "error": ""
+    },
+    {
+      "url": "https://livephotokit.com/open-livp",
+      "status": 404,
+      "final_url": "https://livephotokit.com/open-livp",
+      "error": ""
+    },
+    {
+      "url": "https://plantingcalendar.net/cdn-cgi/l/email-protection",
+      "status": 404,
+      "final_url": "https://plantingcalendar.net/cdn-cgi/l/email-protection",
+      "error": ""
+    },
+    {
+      "url": "https://pupvax.com/cdn-cgi/l/email-protection",
+      "status": 404,
+      "final_url": "https://pupvax.com/cdn-cgi/l/email-protection",
+      "error": ""
+    },
+    {
+      "url": "https://zoneplan.net/cdn-cgi/l/email-protection",
+      "status": 404,
+      "final_url": "https://zoneplan.net/cdn-cgi/l/email-protection",
+      "error": ""
+    },
+    {
+      "url": "https://zoneplan.net/san-francisco-to-bangalore",
+      "status": 404,
+      "final_url": "https://zoneplan.net/san-francisco-to-bangalore",
+      "error": ""
+    }
+  ],
+  "internal_redirects": [],
+  "schema_pages": 713,
+  "pages_no_schema": [],
+  "invalid_schema": []
+}

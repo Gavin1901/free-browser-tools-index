@@ -1,0 +1,298 @@
+[
+  {
+    "site": "iworkviewer.com",
+    "/": {
+      "status": 200,
+      "len": 42689,
+      "text": "<!DOCTYPE html><html lang=\"en\" class=\"inter_5901b7c6-module__ec5Qua__variable h-full antialiased\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/42kes6nihqy7s.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/"
+    },
+    "/robots.txt": {
+      "status": 200,
+      "len": 1905,
+      "text": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the correspon"
+    },
+    "/sitemap.xml": {
+      "status": 200,
+      "len": 9061,
+      "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://iworkviewer.com/blog/</loc>\n<lastmod>2026-07-25T12:47:03.884Z</lastmod>\n<changefreq>weekly</changefreq>\n<priority>0.7</priority>\n</url>\n<url>\n<loc>https://iworkviewer.com/blog/open-pages-file-on-windows/</loc>\n<lastmod>2026-07-25T12:47:03.884Z</lastmod>\n<changefreq>weekly</changefreq>\n<priority>0.7</priority>\n</url>\n<url>\n<loc>https://iworkviewer.com/blog/open-apple-numbers-file"
+    },
+    "/ads.txt": {
+      "status": 200,
+      "len": 59,
+      "text": "google.com, pub-3256422033020643, DIRECT, f08c47fec0942fa0\n"
+    },
+    "home": {
+      "title": "iWorkViewer - Open Apple iWork Files Online",
+      "desc": "Can't open a .pages, .numbers, or .key file on Windows or Android? View Apple iWork files in your browser and export to PDF.",
+      "h1": [
+        "Open Apple Pages, Numbers & Keynote on Any Device. Free. Private."
+      ],
+      "canonical": "https://iworkviewer.com/",
+      "words": 980,
+      "links": 61,
+      "jsonld": 2,
+      "ga": true,
+      "adsense": true,
+      "lang": "en"
+    }
+  },
+  {
+    "site": "livephotokit.com",
+    "/": {
+      "status": 200,
+      "len": 41308,
+      "text": "<!DOCTYPE html><html lang=\"en\" class=\"inter_5901b7c6-module__ec5Qua__variable h-full antialiased\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/0qwey_i_olf6d.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/"
+    },
+    "/robots.txt": {
+      "status": 200,
+      "len": 1906,
+      "text": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the correspon"
+    },
+    "/sitemap.xml": {
+      "status": 200,
+      "len": 5097,
+      "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://livephotokit.com/blog/</loc>\n<lastmod>2026-07-25T12:47:04.086Z</lastmod>\n<changefreq>weekly</changefreq>\n<priority>0.8</priority>\n</url>\n<url>\n<loc>https://livephotokit.com/blog/how-to-open-heic-files-on-windows-11/</loc>\n<lastmod>2026-07-25T12:47:04.086Z</lastmod>\n<changefreq>weekly</changefreq>\n<priority>0.8</priority>\n</url>\n<url>\n<loc>https://livephotokit.com/blog/what-is-a-"
+    },
+    "/ads.txt": {
+      "status": 200,
+      "len": 96,
+      "text": "google.com, pub-3256422033020643, DIRECT, f08c47fec0942fa0\n# Verified and redeployed 2026-07-25\n"
+    },
+    "home": {
+      "title": "LivePhotoKit - Free HEIC & Live Photo Converter",
+      "desc": "Free online HEIC & Live Photo converter. Open .livp files, extract JPG/MP4, batch convert, compress in your browser. No upload, no sign-up, 100% private.",
+      "h1": [
+        "2026 Free HEIC & Live Photo Converter"
+      ],
+      "canonical": "https://livephotokit.com/",
+      "words": 1333,
+      "links": 41,
+      "jsonld": 2,
+      "ga": true,
+      "adsense": true,
+      "lang": "en"
+    }
+  },
+  {
+    "site": "plantingcalendar.net",
+    "/": {
+      "status": 200,
+      "len": 63706,
+      "text": "<!DOCTYPE html><html lang=\"en\" class=\"inter_5901b7c6-module__ec5Qua__variable h-full antialiased\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/28j68vjgv4cp4.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/"
+    },
+    "/robots.txt": {
+      "status": 200,
+      "len": 1910,
+      "text": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the correspon"
+    },
+    "/sitemap.xml": {
+      "status": 200,
+      "len": 62744,
+      "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://plantingcalendar.net/</loc>\n<lastmod>2026-07-25T11:05:25.118Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://plantingcalendar.net/zones/</loc>\n<lastmod>2026-07-25T11:05:25.118Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>0.7</priority>\n</url>\n<url>\n<loc>https://plantingcalendar.net/vegetables/</loc>\n<lastmod>2026-07-25T11:05:"
+    },
+    "/ads.txt": {
+      "status": 200,
+      "len": 59,
+      "text": "google.com, pub-3256422033020643, DIRECT, f08c47fec0942fa0\n"
+    },
+    "home": {
+      "title": "Planting Calendar by ZIP & USDA Zone 2026 | Frost Dates",
+      "desc": "Find your 2026 planting calendar by USDA zone with last frost dates, first frost dates, seed-starting, transplant and harvest windows for 20+ vegetables. Free, printable, no sign-up.",
+      "h1": [
+        "2026 Vegetable Planting Calendar by Zone"
+      ],
+      "canonical": "https://plantingcalendar.net/",
+      "words": 998,
+      "links": 80,
+      "jsonld": 2,
+      "ga": true,
+      "adsense": true,
+      "lang": "en"
+    }
+  },
+  {
+    "site": "freetdee.com",
+    "/": {
+      "status": 200,
+      "len": 76440,
+      "text": "<!DOCTYPE html><html lang=\"en\" class=\"inter_5901b7c6-module__ec5Qua__variable h-full antialiased\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/3hfkqlbh3s2xb.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/"
+    },
+    "/robots.txt": {
+      "status": 200,
+      "len": 1902,
+      "text": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the correspon"
+    },
+    "/sitemap.xml": {
+      "status": 200,
+      "len": 9122,
+      "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://freetdee.com/</loc>\n<lastmod>2026-07-25T11:05:41.617Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://freetdee.com/calorie-calculator/</loc>\n<lastmod>2026-07-25T11:05:41.617Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>0.7</priority>\n</url>\n<url>\n<loc>https://freetdee.com/goals/</loc>\n<lastmod>2026-07-25T11:05:41.617Z</lastmod"
+    },
+    "/ads.txt": {
+      "status": 200,
+      "len": 59,
+      "text": "google.com, pub-3256422033020643, DIRECT, f08c47fec0942fa0\n"
+    },
+    "home": {
+      "title": "TDEE Calculator Free 2026 | BMR, Calories & Macros",
+      "desc": "Free TDEE calculator for weight loss, bodybuilding and maintenance. Estimate BMR, daily calories, calorie deficit and macros instantly. No sign-up.",
+      "h1": [
+        "2026 Free TDEE & Calorie Calculator"
+      ],
+      "canonical": "https://freetdee.com/",
+      "words": 1383,
+      "links": 81,
+      "jsonld": 2,
+      "ga": true,
+      "adsense": true,
+      "lang": "en"
+    }
+  },
+  {
+    "site": "babypercent.com",
+    "/": {
+      "status": 200,
+      "len": 67405,
+      "text": "<!DOCTYPE html><html lang=\"en\" class=\"inter_5901b7c6-module__ec5Qua__variable h-full antialiased\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/2n3js4e2gudhd.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/"
+    },
+    "/robots.txt": {
+      "status": 200,
+      "len": 1905,
+      "text": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the correspon"
+    },
+    "/sitemap.xml": {
+      "status": 200,
+      "len": 7533,
+      "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://babypercent.com/</loc>\n<lastmod>2026-07-25T11:05:48.214Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://babypercent.com/blog/</loc>\n<lastmod>2026-07-25T11:05:48.214Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>0.6</priority>\n</url>\n<url>\n<loc>https://babypercent.com/vs/</loc>\n<lastmod>2026-07-25T11:05:48.214Z</lastmod>\n<chang"
+    },
+    "/ads.txt": {
+      "status": 200,
+      "len": 59,
+      "text": "google.com, pub-3256422033020643, DIRECT, f08c47fec0942fa0\n"
+    },
+    "home": {
+      "title": "Baby Growth Percentile Calculator | WHO & CDC Charts",
+      "desc": "Free baby growth percentile calculator for weight, length, height and head circumference from 0-24 months. Compare WHO and CDC charts instantly. Private, no sign-up.",
+      "h1": [
+        "2026 Baby Growth Percentile Calculator"
+      ],
+      "canonical": "https://babypercent.com/",
+      "words": 1412,
+      "links": 52,
+      "jsonld": 2,
+      "ga": true,
+      "adsense": true,
+      "lang": "en"
+    }
+  },
+  {
+    "site": "invoicepad.net",
+    "/": {
+      "status": 200,
+      "len": 82812,
+      "text": "<!DOCTYPE html><html lang=\"en\" class=\"inter_5901b7c6-module__ec5Qua__variable h-full antialiased\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/2o4t7bqrtjml3.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/"
+    },
+    "/robots.txt": {
+      "status": 200,
+      "len": 1904,
+      "text": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the correspon"
+    },
+    "/sitemap.xml": {
+      "status": 200,
+      "len": 6316,
+      "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://invoicepad.net/</loc>\n<lastmod>2026-07-25T12:46:21.784Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://invoicepad.net/invoice-templates/</loc>\n<lastmod>2026-07-25T12:46:21.784Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>0.7</priority>\n</url>\n<url>\n<loc>https://invoicepad.net/seo-service-invoice-template/</loc>\n<lastmod>2026-"
+    },
+    "/ads.txt": {
+      "status": 200,
+      "len": 59,
+      "text": "google.com, pub-3256422033020643, DIRECT, f08c47fec0942fa0\n"
+    },
+    "home": {
+      "title": "Invoice Templates for Freelancers 2026 | Free Generator",
+      "desc": "Free 2026 invoice templates for SEO services, web developers, freelance writers and handymen. Create PDF invoices and estimates with no sign-up or watermark.",
+      "h1": [
+        "2026 Free Invoice Generator for Freelancers"
+      ],
+      "canonical": "https://invoicepad.net/",
+      "words": 1545,
+      "links": 51,
+      "jsonld": 2,
+      "ga": true,
+      "adsense": true,
+      "lang": "en"
+    }
+  },
+  {
+    "site": "zoneplan.net",
+    "/": {
+      "status": 200,
+      "len": 97697,
+      "text": "<!DOCTYPE html><html lang=\"en\" class=\"inter_5901b7c6-module__ec5Qua__variable h-full antialiased\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/337xunhi83kjt.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/"
+    },
+    "/robots.txt": {
+      "status": 200,
+      "len": 1902,
+      "text": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the correspon"
+    },
+    "/sitemap.xml": {
+      "status": 200,
+      "len": 18177,
+      "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://zoneplan.net/</loc>\n<lastmod>2026-07-25T11:06:10.580Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://zoneplan.net/meeting-planner/</loc>\n<lastmod>2026-07-25T11:06:10.580Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>0.85</priority>\n</url>\n<url>\n<loc>https://zoneplan.net/global-meeting-planner/</loc>\n<lastmod>2026-07-25T11:06:1"
+    },
+    "/ads.txt": {
+      "status": 200,
+      "len": 59,
+      "text": "google.com, pub-3256422033020643, DIRECT, f08c47fec0942fa0\n"
+    },
+    "home": {
+      "title": "Time Zone Meeting Planner 2026 | World Clock Scheduler",
+      "desc": "Free 2026 time zone meeting planner for international calls, remote teams and global meetings. Compare world clocks, find overlap windows and avoid DST mistakes.",
+      "h1": [
+        "2026 Meeting Time Zone Planner"
+      ],
+      "canonical": "https://zoneplan.net/",
+      "words": 1440,
+      "links": 127,
+      "jsonld": 2,
+      "ga": true,
+      "adsense": true,
+      "lang": "en"
+    }
+  },
+  {
+    "site": "pupvax.com",
+    "/": {
+      "status": 200,
+      "len": 84466,
+      "text": "<!DOCTYPE html><html lang=\"en\" class=\"inter_5901b7c6-module__ec5Qua__variable h-full antialiased\"><head><meta charSet=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/><link rel=\"preload\" href=\"/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2\" as=\"font\" crossorigin=\"\" type=\"font/woff2\"/><link rel=\"stylesheet\" href=\"/_next/static/chunks/0badn_-43j0kn.css\" data-precedence=\"next\"/><link rel=\"preload\" as=\"script\" fetchPriority=\"low\" href=\"/_next/static/chunks/"
+    },
+    "/robots.txt": {
+      "status": 200,
+      "len": 1900,
+      "text": "# As a condition of accessing this website, you agree to abide by the following\n# content signals:\n\n# (a)  If a Content-Signal = yes, you may collect content for the corresponding\n#      use.\n# (b)  If a Content-Signal = no, you may not collect content for the\n#      corresponding use.\n# (c)  If the website operator does not include a Content-Signal for a\n#      corresponding use, the website operator neither grants nor restricts\n#      permission via Content-Signal with respect to the correspon"
+    },
+    "/sitemap.xml": {
+      "status": 200,
+      "len": 8050,
+      "text": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n<url>\n<loc>https://pupvax.com/</loc>\n<lastmod>2026-07-25T11:06:10.623Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>1</priority>\n</url>\n<url>\n<loc>https://pupvax.com/dog-vaccines/</loc>\n<lastmod>2026-07-25T11:06:10.623Z</lastmod>\n<changefreq>monthly</changefreq>\n<priority>0.85</priority>\n</url>\n<url>\n<loc>https://pupvax.com/puppy-vaccine-schedule-by-age/</loc>\n<lastmod>2026-07-25T11:06:10."
+    },
+    "/ads.txt": {
+      "status": 200,
+      "len": 59,
+      "text": "google.com, pub-3256422033020643, DIRECT, f08c47fec0942fa0\n"
+    },
+    "home": {
+      "title": "Dog Deworming & Puppy Vaccine Schedule 2026 | PupVax",
+      "desc": "Free 2026 dog deworming schedule and puppy vaccine tracker. See DHPP, rabies, worming and booster timelines by age, breed and size. No sign-up.",
+      "h1": [
+        "2026 Dog Vaccine Schedule Tracker"
+      ],
+      "canonical": "https://pupvax.com/",
+      "words": 1681,
+      "links": 75,
+      "jsonld": 3,
+      "ga": true,
+      "adsense": true,
+      "lang": "en"
+    }
+  }
+]
