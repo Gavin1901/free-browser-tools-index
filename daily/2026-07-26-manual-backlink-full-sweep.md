@@ -117,7 +117,68 @@ https://www.launchingnext.com/thanks/?i=142160
 3. 免费队列预计等待4个月。
 4. 平台推荐99美元加速，本轮不付费。
 
-### 4.2 AppRater
+### 4.2 Startup88
+
+提交入口：
+
+https://startup88.typeform.com/to/CRjWqM
+
+已完整填写：
+
+1. Startup Name。
+2. Tag Line。
+3. Website。
+4. Founder Name。
+5. Founder Email。
+6. Elevator Pitch。
+7. Target Market。
+8. How will you make money。
+9. Founder身份。
+10. 融资额。
+11. 产品截图。
+12. 拒绝9.95美元付费加速。
+
+平台最终回执：
+
+`You made it :) Thanks very much for submitting your Startup.`
+
+当前状态：已提交，等待平台审核。
+
+### 4.3 Startup Dope
+
+提交入口：
+
+https://onboarding.startupdope.com/product-submission-form/
+
+已使用AI编程出海正确Google账号线`lg695101011@gmail.com`完成产品表单。
+
+已填写：
+
+1. 产品名和官网。
+2. 产品分类。
+3. 创始人身份。
+4. 产品定位与目标用户。
+5. 竞品。
+6. 技术特点。
+7. 开发难点。
+8. 后续计划。
+9. 变现路径。
+10. 自筹资金状态。
+11. 免费使用权益。
+12. 产品截图链接。
+13. 拒绝额外付费服务。
+
+平台最终回执：
+
+`Thanks for responding.`
+
+回执页面：
+
+https://docs.google.com/forms/u/1/d/e/1FAIpQLSd0MTw9lhVroHV_f3WTPVaVTjSYTm3vxLeeZHA34R4KQ2jihw/formResponse
+
+当前状态：已提交，等待编辑审核。
+
+### 4.4 AppRater
 
 已填写并提交：
 
@@ -233,7 +294,7 @@ GitHub返回：
 当前终态：
 
 1. 已公开并核验：4条。
-2. 已提交待审核：1条。
+2. 已提交待审核：3条。
 3. 已执行但回执未核实：1条。
 4. Medium草稿受24小时额度阻塞：1条。
 5. 其余入口已进入登录、平台、付费、不适配、失效或防串线状态。
