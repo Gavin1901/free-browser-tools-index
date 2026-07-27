@@ -1,0 +1,916 @@
+[
+  {
+    "url": "https://aipoju.com/docx/50163817-9833-4dca-8065-214c856965de/WYpVdwX7CoBRvHxbfescKm0wnN7",
+    "status": 200,
+    "final_url": "https://aipoju.com/docx/50163817-9833-4dca-8065-214c856965de/WYpVdwX7CoBRvHxbfescKm0wnN7",
+    "title": "AIç ´å±å®ç½"
+  },
+  {
+    "url": "https://aipoju.com/action",
+    "status": 200,
+    "final_url": "https://aipoju.com/action",
+    "title": "AIç ´å±å®ç½"
+  },
+  {
+    "url": "https://accounts.google.com/signup",
+    "status": 200,
+    "final_url": "https://accounts.google.com/lifecycle/steps/signup/name?dsh=S1277576604:1785195998591775&flowEntry=SignUp&flowName=GlifWebSignIn&TL=AE6Fvybkd9lK64V-ovmdil402x2R4hoM6x3Vjv0yG86zW67fUtphAc4bkBOooXpN&continue=https://accounts.google.com/ManageAccount?nc%3D1",
+    "title": "Create your Google Account"
+  },
+  {
+    "url": "https://github.com/",
+    "status": 200,
+    "final_url": "https://github.com/",
+    "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub"
+  },
+  {
+    "url": "https://dash.cloudflare.com/sign-up",
+    "status": 403,
+    "final_url": "https://dash.cloudflare.com/sign-up",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://dash.cloudflare.com/，就可以看到控制台界面了：",
+    "status": 403,
+    "final_url": "https://dash.cloudflare.com/%EF%BC%8C%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E6%8E%A7%E5%88%B6%E5%8F%B0%E7%95%8C%E9%9D%A2%E4%BA%86%EF%BC%9A",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.paypal.cn/portal/account-selection",
+    "status": 200,
+    "final_url": "https://www.paypal.cn/portal/account-selection",
+    "title": "PayPal - 申请使用跨境支付服务"
+  },
+  {
+    "url": "https://www.reddit.com/，点击右上角",
+    "status": 403,
+    "final_url": "https://www.reddit.com/%EF%BC%8C%E7%82%B9%E5%87%BB%E5%8F%B3%E4%B8%8A%E8%A7%92",
+    "title": "Blocked"
+  },
+  {
+    "url": "https://x.com/，点击",
+    "status": 200,
+    "final_url": "https://x.com/%EF%BC%8C%E7%82%B9%E5%87%BB",
+    "title": null
+  },
+  {
+    "url": "https://chatgpt.com/codex/get-started/",
+    "status": 403,
+    "final_url": "https://chatgpt.com/codex/get-started/",
+    "title": null
+  },
+  {
+    "url": "https://openai.com/zh-Hans-CN/codex/get-started/",
+    "status": 403,
+    "final_url": "https://openai.com/zh-Hans-CN/codex/get-started/",
+    "title": null
+  },
+  {
+    "url": "https://www.ccswitch.io/zh/",
+    "status": 200,
+    "final_url": "https://www.ccswitch.io/zh/",
+    "title": "CC Switch 官方网站 - AI 编程 CLI 统一管理工具"
+  },
+  {
+    "url": "https://platform.minimaxi.com/subscribe/token-plan",
+    "status": 200,
+    "final_url": "https://platform.minimaxi.com/subscribe/token-plan",
+    "title": "MiniMax API 开放平台"
+  },
+  {
+    "url": "https://hks.aipoju.com/",
+    "status": 200,
+    "final_url": "https://hks.aipoju.com/",
+    "title": "AI编程训练营作品展示"
+  },
+  {
+    "url": "https://www.toolify.ai/",
+    "status": 200,
+    "final_url": "https://www.toolify.ai/",
+    "title": "Best AI Tools Directory &amp; AI Tools List - Toolify"
+  },
+  {
+    "url": "https://trends.google.com/trends/",
+    "status": 200,
+    "final_url": "https://trends.google.com/trends/",
+    "title": "Google Trends"
+  },
+  {
+    "url": "https://trends.google.com/trends/explore",
+    "status": 429,
+    "final_url": "https://trends.google.com/trends/explore",
+    "title": "Error 429 (Too Many Requests)!!1"
+  },
+  {
+    "url": "https://chromewebstore.google.com/detail/trendsbar-google-trends-a/djimlibchepimambphhbhhjegmanioch",
+    "status": 200,
+    "final_url": "https://chromewebstore.google.com/detail/trendsbar-google-trends-a/djimlibchepimambphhbhhjegmanioch",
+    "title": "TrendsBar - Google Trends Assistant - Chrome Web Store"
+  },
+  {
+    "url": "https://github.com/settings/tokens",
+    "status": 200,
+    "final_url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsettings%2Ftokens",
+    "title": "Sign in to GitHub · GitHub"
+  },
+  {
+    "url": "https://www.remove.bg/dashboard#api-key",
+    "status": 200,
+    "final_url": "https://accounts.kaleido.ai/users/sign_in#api-key",
+    "title": "Log in with your Kaleido Account – remove.bg"
+  },
+  {
+    "url": "https://dash.cloudflare.com/",
+    "status": 403,
+    "final_url": "https://dash.cloudflare.com/",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://dash.cloudflare.com/{你的Account",
+    "status": 403,
+    "final_url": "https://dash.cloudflare.com/%7B%E4%BD%A0%E7%9A%84Account",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.godaddy.com/",
+    "status": 403,
+    "final_url": "https://www.godaddy.com/",
+    "title": "Access Denied"
+  },
+  {
+    "url": "https://dcc.godaddy.com/control/dnsmanagement",
+    "status": 200,
+    "final_url": "https://sso.godaddy.com/?app=dcc&realm=idp&referrer=sso&path=%2Fcontrol%2Fcontrol%2Fdnsmanagement&subdomain=dcc",
+    "title": "Sign In to Your Account - GoDaddy"
+  },
+  {
+    "url": "http://localhost:3000/api/auth/google/callback",
+    "status": 502,
+    "final_url": "http://localhost:3000/api/auth/google/callback",
+    "title": null
+  },
+  {
+    "url": "https://example.com/api/auth/google/callback```",
+    "status": 404,
+    "final_url": "https://example.com/api/auth/google/callback%60%60%60",
+    "title": "Example Domain"
+  },
+  {
+    "url": "https://你的域名/api/auth/google/callback```",
+    "error": "SSLError: HTTPSConnectionPool(host='xn--6qqv7i2xdt95b', port=443): Max retries exceeded with url: /api/auth/google/callback%60%60%60 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_"
+  },
+  {
+    "url": "https://example.com。",
+    "error": "InvalidURL: Failed to parse: https://example.com。"
+  },
+  {
+    "url": "https://developer.paypal.com/home/",
+    "status": 200,
+    "final_url": "https://developer.paypal.com/home/",
+    "title": "PayPal Developer | APIs, SDKs &amp; Integration Docs"
+  },
+  {
+    "url": "https://www.creem.io/",
+    "status": 200,
+    "final_url": "https://www.creem.io/",
+    "title": "Creem"
+  },
+  {
+    "url": "https://ahrefs.com/zh/keyword-generator",
+    "status": 200,
+    "final_url": "https://ahrefs.com/zh/keyword-generator",
+    "title": "免费关键词生成器：可在数秒内找到100多个关键词创意"
+  },
+  {
+    "url": "https://ahrefs.com/keyword-difficulty",
+    "status": 200,
+    "final_url": "https://ahrefs.com/keyword-difficulty",
+    "title": "Free Keyword Difficulty Checker - Ahrefs"
+  },
+  {
+    "url": "http://www.sitemaps.org/schemas/sitemap/0.9",
+    "status": 200,
+    "final_url": "https://www.sitemaps.org/schemas/sitemap/0.9/",
+    "title": "www.sitemaps.org - /schemas/sitemap/0.9/"
+  },
+  {
+    "url": "https://xxx.com/",
+    "status": 200,
+    "final_url": "https://www.xxx.com/",
+    "title": "XXX.com - XXX Sex Videos - Free Porn Movies"
+  },
+  {
+    "url": "https://xxx.com.com/blog/",
+    "status": 403,
+    "final_url": "https://dac.gen.xyz/cart2.html?tld=.xyz&sld=xxx",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://www.domain.com/sitemap.xml",
+    "status": 403,
+    "final_url": "https://www.domain.com/sitemap.xml",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://example.com/sample-page/",
+    "status": 404,
+    "final_url": "https://example.com/sample-page/",
+    "title": "Example Domain"
+  },
+  {
+    "url": "https://example.com/sample-page/”：可以在这个网址找到权威版本。",
+    "status": 404,
+    "final_url": "https://example.com/sample-page/%E2%80%9D%EF%BC%9A%E5%8F%AF%E4%BB%A5%E5%9C%A8%E8%BF%99%E4%B8%AA%E7%BD%91%E5%9D%80%E6%89%BE%E5%88%B0%E6%9D%83%E5%A8%81%E7%89%88%E6%9C%AC%E3%80%82",
+    "title": "Example Domain"
+  },
+  {
+    "url": "https://example.com",
+    "status": 200,
+    "final_url": "https://example.com/",
+    "title": "Example Domain"
+  },
+  {
+    "url": "http://www.example.com）",
+    "error": "InvalidURL: Failed to parse: http://www.example.com）"
+  },
+  {
+    "url": "https://aitdk.com/",
+    "status": 200,
+    "final_url": "https://aitdk.com/",
+    "title": "AITDK: Free AI SEO Tools, AI Generator for SEO"
+  },
+  {
+    "url": "https://app.ahrefs.com/dashboard",
+    "status": 403,
+    "final_url": "https://app.ahrefs.com/dashboard",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://search.google.com/search-console",
+    "status": 200,
+    "final_url": "https://search.google.com/search-console/about",
+    "title": "Google Search Console"
+  },
+  {
+    "url": "https://analytics.google.com/",
+    "status": 200,
+    "final_url": "https://analytics.google.com/analytics/web/",
+    "title": "Redirecting..."
+  },
+  {
+    "url": "https://news.ycombinator.com/",
+    "status": 200,
+    "final_url": "https://news.ycombinator.com/",
+    "title": "Hacker News"
+  },
+  {
+    "url": "https://dev.to/",
+    "status": 200,
+    "final_url": "https://dev.to/",
+    "title": "DEV Community"
+  },
+  {
+    "url": "https://github.com/ruanyf/weekly",
+    "status": 200,
+    "final_url": "https://github.com/ruanyf/weekly",
+    "title": "GitHub - ruanyf/weekly: 科技爱好者周刊，每周五发布 · GitHub"
+  },
+  {
+    "url": "https://www.producthunt.com/",
+    "status": 403,
+    "final_url": "https://www.producthunt.com/",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "http://www.producthunt.com/",
+    "status": 403,
+    "final_url": "https://www.producthunt.com/",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://x.com",
+    "status": 200,
+    "final_url": "https://x.com/",
+    "title": "X. It’s what’s happening / X"
+  },
+  {
+    "url": "https://10words.io",
+    "status": 200,
+    "final_url": "https://10words.io/",
+    "title": "Discover new apps and startups in 10 words or less"
+  },
+  {
+    "url": "http://alternativeto.net/",
+    "status": 403,
+    "final_url": "https://alternativeto.net/",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://apprater.net/add/",
+    "status": 200,
+    "final_url": "https://apprater.net/add/",
+    "title": "Submit app - AppRater"
+  },
+  {
+    "url": "http://www.appvita.com/",
+    "status": 200,
+    "final_url": "https://onk.io/",
+    "title": "Dave Onkels â Product Leader in Healthcare"
+  },
+  {
+    "url": "http://arcticstartup.com/",
+    "status": 200,
+    "final_url": "https://arcticstartup.com/",
+    "title": "Home - ArcticStartup"
+  },
+  {
+    "url": "https://betalist.com/submit",
+    "status": 200,
+    "final_url": "https://betalist.com/submit",
+    "title": null
+  },
+  {
+    "url": "https://www.collaborizm.com",
+    "status": 200,
+    "final_url": "https://www.collaborizm.com/",
+    "title": "Collaborizm"
+  },
+  {
+    "url": "http://www.cssmania.com/submit/",
+    "status": 200,
+    "final_url": "https://www.cssmania.com/submit/",
+    "title": "Submit / CSSMania"
+  },
+  {
+    "url": "https://vendor.crozdesk.com/user/signup",
+    "status": 200,
+    "final_url": "https://vendor.revleads.com/user/signup",
+    "title": "Reach Engaged Software Buyers | Revleads"
+  },
+  {
+    "url": "http://www.f6s.com/",
+    "status": 405,
+    "final_url": "https://www.f6s.com/",
+    "title": "Checking your browser"
+  },
+  {
+    "url": "https://www.designernews.co/",
+    "status": 500,
+    "final_url": "https://designernews.co/",
+    "title": "500: This page couldn’t load"
+  },
+  {
+    "url": "https://www.g2crowd.com/products/new",
+    "status": 403,
+    "final_url": "https://www.g2.com/products/new",
+    "title": "g2.com"
+  },
+  {
+    "url": "http://geekwire.com/startup-list/",
+    "status": 403,
+    "final_url": "https://www.geekwire.com/startup-list/",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "url": "https://inc42.com/startup-submission/",
+    "status": 200,
+    "final_url": "https://inc42.com/startup-submission/",
+    "title": "Get Featured on Inc42: Submit Your Startup For Potential Coverage"
+  },
+  {
+    "url": "https://index.co/startup",
+    "status": 404,
+    "final_url": "https://index.co/startup",
+    "title": "404"
+  },
+  {
+    "url": "https://land-book.com/guidelines",
+    "status": 403,
+    "final_url": "https://land-book.com/guidelines",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "https://launched.io/SubmitStartup",
+    "error": "SSLError: HTTPSConnectionPool(host='launched.io', port=443): Max retries exceeded with url: /SubmitStartup (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] c"
+  },
+  {
+    "url": "https://lobste.rs/",
+    "status": 200,
+    "final_url": "https://lobste.rs/",
+    "title": "Lobsters"
+  },
+  {
+    "url": "https://www.netted.net/contact-us/",
+    "status": 403,
+    "final_url": "https://www.netted.net/contact-us/",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "url": "http://nextbigwhat.com/",
+    "status": 200,
+    "final_url": "https://nextbigwhat.com/",
+    "title": "NextBigWhat — Big Ideas, Products and News for AI Leaders"
+  },
+  {
+    "url": "http://www.paggu.com/submit-your-startup/",
+    "status": 403,
+    "final_url": "http://www.paggu.com/submit-your-startup/",
+    "title": "Checking your browser before accessing. Just a moment..."
+  },
+  {
+    "url": "http://about.postscapes.com/tools",
+    "status": 400,
+    "final_url": "http://about.postscapes.com/tools",
+    "title": "400 Bad Request"
+  },
+  {
+    "url": "https://www.programmableweb.com/news/how-to-pitch-programmableweb-covering-your-news/2016/11/18",
+    "error": "SSLError: HTTPSConnectionPool(host='www.programmableweb.com', port=443): Max retries exceeded with url: /news/how-to-pitch-programmableweb-covering-your-news/2016/11/18 (Caused by SSLError(S"
+  },
+  {
+    "url": "http://tools.robingood.com/",
+    "status": 200,
+    "final_url": "https://tools.robingood.com/",
+    "title": null
+  },
+  {
+    "url": "https://www.saashub.com/",
+    "status": 200,
+    "final_url": "https://www.saashub.com/",
+    "title": "SaaSHub - Software Alternatives, Accelerators &amp; Startups"
+  },
+  {
+    "url": "https://news.ycombinator.com/showhn.html",
+    "status": 200,
+    "final_url": "https://news.ycombinator.com/showhn.html",
+    "title": "Show HN Guidelines"
+  },
+  {
+    "url": "https://www.snapmunk.com/submit-your-startup/",
+    "status": 200,
+    "final_url": "https://www.snapmunk.com/submit-your-startup/",
+    "title": "Submit Your Startup | SnapMunk"
+  },
+  {
+    "url": "http://springwise.com/tipus/",
+    "status": 403,
+    "final_url": "http://springwise.com/tipus/",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "url": "http://stackshare.io/",
+    "status": 200,
+    "final_url": "https://stackshare.io/",
+    "title": "StackShare - Discover the best trending developer &amp; AI tools | StackShare"
+  },
+  {
+    "url": "https://starterstory.com/",
+    "status": 200,
+    "final_url": "https://www.starterstory.com/",
+    "title": "Starter Story — The Researched Database of Real, Profitable Businesses"
+  },
+  {
+    "url": "https://startup88.com/",
+    "status": 200,
+    "final_url": "https://startup88.com/",
+    "title": "Startup88 - Showcase your startup to the world!"
+  },
+  {
+    "url": "http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/",
+    "status": 200,
+    "final_url": "https://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/",
+    "title": "Lightning Pitch Submission - StartUp Beat"
+  },
+  {
+    "url": "https://www.startupbenchmarks.com/",
+    "status": 200,
+    "final_url": "https://startupbenchmarks.com/",
+    "title": "Startup Software to Compare for Operations, Growth, and Team Work - Startup Benchmarks (2026)"
+  },
+  {
+    "url": "http://startupcollections.com/",
+    "status": 200,
+    "final_url": "https://startupcollections.com/",
+    "title": "Startup Collections - Resources and Tools for Starters"
+  },
+  {
+    "url": "http://startupdope.com/submit-news/",
+    "status": 200,
+    "final_url": "https://startupdope.com/submit-news/",
+    "title": "Startup Dope | Submit News"
+  },
+  {
+    "url": "https://www.startupinspire.com/submit",
+    "status": 200,
+    "final_url": "https://www.startupinspire.com/404",
+    "title": "Startup inspiration - Submit and promote your Startup like a Pro | Inspiration gallery for startups"
+  },
+  {
+    "url": "http://www.startupranking.com/",
+    "status": 200,
+    "final_url": "https://www.startupranking.com/",
+    "title": "Startup Ranking: Find the top and new startups worldwide"
+  },
+  {
+    "url": "https://startupresources.io",
+    "status": 200,
+    "final_url": "https://startupresources.io/",
+    "title": "The Best Tools For Your Startup | Startup Resources"
+  },
+  {
+    "url": "http://startupstash.com/",
+    "status": 200,
+    "final_url": "https://startupstash.com/",
+    "title": "Startup Stash - A Curated Directory of Tools and Resources for Your Startup"
+  },
+  {
+    "url": "https://startuptracker.io/",
+    "status": 200,
+    "final_url": "https://startuptracker.io/",
+    "title": "Startup Tracker"
+  },
+  {
+    "url": "https://www.startups-list.com/",
+    "error": "ReadTimeout: HTTPSConnectionPool(host='www.startups-list.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "url": "http://techfaster.com/submit-your-company/",
+    "status": 200,
+    "final_url": "https://guidenetworth.com",
+    "title": "Guide Net Worth"
+  },
+  {
+    "url": "http://thetechmap.com/",
+    "status": 500,
+    "final_url": "https://techmap.me/",
+    "title": "Error | The TechMap"
+  },
+  {
+    "url": "https://github.com/thechangelog/ping",
+    "status": 200,
+    "final_url": "https://github.com/thechangelog/ping",
+    "title": "GitHub - thechangelog/ping: Ping! Share show ideas, feedback, or general questions. Just create an issue. · GitHub"
+  },
+  {
+    "url": "http://vbprofiles.com/",
+    "status": 403,
+    "final_url": "http://vbprofiles.com/",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "url": "http://venturebeat.com/news-tips/",
+    "status": 404,
+    "final_url": "https://venturebeat.com/news-tips",
+    "title": "VentureBeat | Transformative tech coverage that matters"
+  },
+  {
+    "url": "http://www.techpluto.com/submit-a-startup/",
+    "status": 200,
+    "final_url": "https://www.techpluto.com/submit-a-startup/",
+    "title": "Submit A Startup - TechPluto - Latest Startup &amp; Tech News"
+  },
+  {
+    "url": "http://www.capterra.com/vendors/sign-up",
+    "status": 403,
+    "final_url": "http://www.capterra.com/vendors/sign-up",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "url": "https://sidebar.io/submit",
+    "status": 200,
+    "final_url": "https://sidebar.io/submit",
+    "title": "Sidebar | Submit a Link"
+  },
+  {
+    "url": "https://www.reddit.com/r/alphaandbetausers/",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/alphaandbetausers/",
+    "title": "Blocked"
+  },
+  {
+    "url": "https://www.reddit.com/r/advancedentrepreneur",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/advancedentrepreneur",
+    "title": "Blocked"
+  },
+  {
+    "url": "https://www.reddit.com/r/growmybusiness",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/growmybusiness",
+    "title": "Blocked"
+  },
+  {
+    "url": "https://www.reddit.com/r/indiebiz/",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/indiebiz/",
+    "title": "Blocked"
+  },
+  {
+    "url": "https://www.reddit.com/r/startup/",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/startup/",
+    "title": "Blocked"
+  },
+  {
+    "url": "https://www.reddit.com/r/roastmystartup",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/roastmystartup",
+    "title": "Blocked"
+  },
+  {
+    "url": "https://www.reddit.com/r/coupons/",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/coupons/",
+    "title": "Blocked"
+  },
+  {
+    "url": "https://www.reddit.com/r/design_critiques",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/design_critiques",
+    "title": "Blocked"
+  },
+  {
+    "url": "http://reddit.com/r/entrepreneur",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/entrepreneur",
+    "title": "Blocked"
+  },
+  {
+    "url": "http://www.reddit.com/r/EntrepreneurRideAlong/",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/EntrepreneurRideAlong/",
+    "title": "Blocked"
+  },
+  {
+    "url": "https://www.reddit.com/r/ladybusiness/",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/ladybusiness/",
+    "title": "Blocked"
+  },
+  {
+    "url": "http://reddit.com/r/sideproject",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/sideproject",
+    "title": "Blocked"
+  },
+  {
+    "url": "http://reddit.com/r/smallbusiness",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/smallbusiness",
+    "title": "Blocked"
+  },
+  {
+    "url": "http://reddit.com/r/startups",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/startups",
+    "title": "Blocked"
+  },
+  {
+    "url": "https://www.reddit.com/r/plugyourproduct",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/plugyourproduct",
+    "title": "Blocked"
+  },
+  {
+    "url": "http://reddit.com/r/web_design",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/web_design",
+    "title": "Blocked"
+  },
+  {
+    "url": "http://reddit.com/r/webdev",
+    "status": 403,
+    "final_url": "https://www.reddit.com/r/webdev",
+    "title": "Blocked"
+  },
+  {
+    "url": "https://getworm.com/submit-startup",
+    "status": 200,
+    "final_url": "https://getworm.com/submit-startup",
+    "title": "Get Worm"
+  },
+  {
+    "url": "http://killerstartups.com/submit-startup/",
+    "status": 200,
+    "final_url": "https://killerstartups.com/submit-startup/",
+    "title": "Introduce your startup to the world - KillerStartups.com"
+  },
+  {
+    "url": "http://www.betabound.com/announce/",
+    "status": 200,
+    "final_url": "https://betabound.com/announce/",
+    "title": "Find Great Beta Testers on Betabound"
+  },
+  {
+    "url": "https://betapage.co/",
+    "status": 200,
+    "final_url": "https://pitchwall.co/",
+    "title": "PitchWall - Discover New AI Products Every Day"
+  },
+  {
+    "url": "https://www.betafy.co/easysignup/startup",
+    "error": "ReadTimeout: HTTPSConnectionPool(host='www.betafy.co', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "url": "http://www.allstartups.info/Startups/Submit",
+    "error": "SSLError: HTTPSConnectionPool(host='www.allstartups.info', port=443): Max retries exceeded with url: /Startups/Submit (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIF"
+  },
+  {
+    "url": "http://appsmamma.com/submit-your-app/",
+    "status": 200,
+    "final_url": "https://appsmamma.com/submit-your-app/",
+    "title": "Submit Your App - AppsMamma"
+  },
+  {
+    "url": "https://beterest.com/submit-startup/",
+    "error": "SSLError: HTTPSConnectionPool(host='beterest.com', port=443): Max retries exceeded with url: /submit-startup/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED"
+  },
+  {
+    "url": "https://discuss.bootstrapped.fm/",
+    "error": "SSLError: HTTPSConnectionPool(host='discuss.bootstrapped.fm', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred"
+  },
+  {
+    "url": "http://www.cloudshowplace.com/add-your-company/",
+    "status": 200,
+    "final_url": "https://www.cloudshowplace.com/",
+    "title": "Home - Cloudshowplace"
+  },
+  {
+    "url": "http://www.crazyaboutstartups.com/index.php/share-your-startup-form",
+    "status": 200,
+    "final_url": "https://www.crazyaboutstartups.com/index.php/share-your-startup-form",
+    "title": ""
+  },
+  {
+    "url": "https://www.crunchbase.com/#/home/index",
+    "status": 200,
+    "final_url": "https://www.crunchbase.com/#/home/index",
+    "title": "Crunchbase"
+  },
+  {
+    "url": "https://www.discovercloud.com/become-a-vendor",
+    "status": 200,
+    "final_url": "https://www.discovercloud.com/become-a-vendor",
+    "title": "Join the DiscoverCloud Marketplace - Become A Vendor"
+  },
+  {
+    "url": "https://nodesign.dev/",
+    "status": 406,
+    "final_url": "https://nodesign.dev/",
+    "title": "406 Not Acceptable"
+  },
+  {
+    "url": "https://fifty.weekendprojects.xyz/",
+    "status": 200,
+    "final_url": "https://fifty.weekendprojects.xyz/",
+    "title": "weekendprojects.xyz"
+  },
+  {
+    "url": "https://indiehackers.com",
+    "status": 200,
+    "final_url": "https://www.indiehackers.com/",
+    "title": "Indie Hackers: Work Together to Build Profitable Online Businesses"
+  },
+  {
+    "url": "http://www.launchingnext.com/submit/",
+    "status": 200,
+    "final_url": "https://www.launchingnext.com/submit/",
+    "title": "Submit Your Project | Launching Next"
+  },
+  {
+    "url": "https://app.loopinput.com/",
+    "error": "SSLError: HTTPSConnectionPool(host='app.loopinput.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certific"
+  },
+  {
+    "url": "https://getmakerlog.com/",
+    "status": 200,
+    "final_url": "https://ambitiousfounder.com",
+    "title": "Ambitious Founder"
+  },
+  {
+    "url": "http://nextbigproduct.net/product-submission/",
+    "status": 200,
+    "final_url": "http://nextbigproduct.net/product-submission/",
+    "title": "nextbigproduct.net - Coming Soon"
+  },
+  {
+    "url": "https://www.publicityx.com/startups/new",
+    "status": 503,
+    "final_url": "https://www.publicityx.com/startups/new",
+    "title": "Application Error"
+  },
+  {
+    "url": "https://saasified.co",
+    "status": 200,
+    "final_url": "https://saasified.co/",
+    "title": ""
+  },
+  {
+    "url": "https://www.sideprojectors.com",
+    "status": 200,
+    "final_url": "https://www.sideprojectors.com/",
+    "title": "Sell, buy, show off your side projects - SideProjectors | Marketplace to buy and sell side projects."
+  },
+  {
+    "url": "https://www.slant.co/",
+    "status": 403,
+    "final_url": "https://www.slant.co/",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "url": "https://startupbase.io/submit",
+    "status": 200,
+    "final_url": "https://startupbase.io/login?expired&origin=%2Fsubmit",
+    "title": "Log into your account | StartupBase"
+  },
+  {
+    "url": "http://startupbuffer.com",
+    "status": 403,
+    "final_url": "https://startupbuffer.com/",
+    "title": "Just a moment..."
+  },
+  {
+    "url": "http://www.startuplift.com/",
+    "status": 404,
+    "final_url": "http://www.startuplift.com/",
+    "title": "404 Not Found"
+  },
+  {
+    "url": "http://www.startupblink.com/",
+    "status": 403,
+    "final_url": "http://www.startupblink.com/",
+    "title": "Attention Required! | Cloudflare"
+  },
+  {
+    "url": "https://www.startupjohn.com/",
+    "status": 526,
+    "final_url": "https://www.startupjohn.com/",
+    "title": "startupjohn.com | 526: Invalid SSL certificate"
+  },
+  {
+    "url": "https://webwide.io/forums/project-showcase.15/",
+    "status": 404,
+    "final_url": "https://webwide.io/forums/project-showcase.15/",
+    "title": "404 Not Found"
+  },
+  {
+    "url": "http://alltopstartups.com/submit-startup/",
+    "status": 200,
+    "final_url": "https://alltopstartups.com/submit-startup/",
+    "title": "How to start a good blog, hire a startup blogger, business blogger wanted, startup blogger wanted, freelance blogger wanted, hire a business bloggers, business "
+  },
+  {
+    "url": "http://apps400.com/",
+    "status": 200,
+    "final_url": "https://apps400.com/",
+    "title": "Apps400 - Web App Reviews | Facebook App Reviews | iPhone App Reviews | Android App Reviews"
+  },
+  {
+    "url": "https://awwwards.com",
+    "status": 200,
+    "final_url": "https://www.awwwards.com/",
+    "title": "Awwwards - Website Awards - Best Web Design Trends"
+  },
+  {
+    "url": "https://feedmyapp.com/submit/",
+    "error": "ReadTimeout: HTTPSConnectionPool(host='feedmyapp.com', port=443): Read timed out. (read timeout=15)"
+  },
+  {
+    "url": "https://launchlister.com/submit-startup",
+    "status": 404,
+    "final_url": "https://jonathanbird.com.au/submit-startup",
+    "title": "404 - Page Not Found - Jonathan Bird"
+  },
+  {
+    "url": "http://www.makeuseof.com/about/",
+    "error": "ProxyError: HTTPSConnectionPool(host='www.makeuseof.com', port=443): Max retries exceeded with url: /about/ (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end c"
+  },
+  {
+    "url": "http://www.pfind.com/submit",
+    "status": 404,
+    "final_url": "https://www.pfind.com/submit",
+    "title": "Page Not Found - pFind"
+  },
+  {
+    "url": "https://postmake.io/submit",
+    "status": 200,
+    "final_url": "https://postmake.io/submit",
+    "title": "Submit Your Business – Postmake"
+  },
+  {
+    "url": "https://wip.chat/",
+    "status": 200,
+    "final_url": "https://wip.co/",
+    "title": "WIP"
+  },
+  {
+    "url": "http://thestartuppitch.com/post-a-pitch/",
+    "error": "SSLError: HTTPSConnectionPool(host='thestartuppitch.com', port=443): Max retries exceeded with url: /post-a-pitch/ (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_F"
+  },
+  {
+    "url": "https://ahrefs.com/backlink-checker",
+    "status": 200,
+    "final_url": "https://ahrefs.com/backlink-checker",
+    "title": "Free Backlink Checker by Ahrefs: Check Backlinks to Any Site"
+  }
+]
