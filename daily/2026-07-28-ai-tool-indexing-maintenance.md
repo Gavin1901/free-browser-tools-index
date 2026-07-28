@@ -208,3 +208,27 @@ Most findings are the same prose punctuation rule plus browser-localStorage effe
 
 The second maintenance run exposed a real automation defect: rerunning `run-ai8-daily-maintenance.ps1` on the same date overwrote the detailed daily evidence file. The evidence was restored from commit `e81d7c5`, and the script now replaces only a bounded `AUTO_MAINTENANCE` section. A second same-day rerun preserved all seven evidence headings and updated only the generated block. Repair commit: `796ffb8`.
 
+## Six-repository lint repair closeout
+
+The remaining lint debt identified by the final cross-check has now been repaired in all six repositories.
+
+| Repository | Before | Repair commit | Production deploy |
+|---|---:|---|---|
+| LivePhotoKit | 7 errors, 4 warnings | `8398f19` | run `30324152496`, success |
+| PlantingCalendar | 16 errors | `2a3a245` | run `30324155840`, success |
+| FreeTDEE | 223 errors | `213d90f` | run `30324159004`, success |
+| BabyPercent | 51 errors, 2 warnings | `889685f` | run `30324162690`, success |
+| InvoicePad | 2 errors | `4eb2de2` | run `30324166709`, success |
+| PupVax | 26 errors, 1 warning | `6384ab6` | run `30324169934`, success |
+
+Verification:
+
+- All six repositories passed `npm run lint` with zero findings.
+- All six repositories passed `npm run build`.
+- A final eight-repository lint sweep passed for all eight sites.
+- All six working trees are clean after push.
+- All six new Cloudflare Pages workflows completed successfully.
+- All six production home pages returned HTTP 200 after deployment.
+
+Repairs covered browser-only localStorage hydration, TypeScript `any` removal, declaration order, unused symbols and Next.js internal links. Natural punctuation in prose pages uses the same documented readability-only ESLint policy as ZonePlan; TypeScript, React Hooks, accessibility and production build checks remain enabled.
+
