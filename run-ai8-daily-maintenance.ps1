@@ -46,6 +46,7 @@ foreach($s in $sites){
 }
 $dailyFile = "$root\daily\$today-ai-tool-indexing-maintenance.md"
 $lines = @()
+$lines += "<!-- AUTO_MAINTENANCE_START -->"
 $lines += "# $today AI Tool Indexing Maintenance"
 $lines += ""
 $lines += "Run time: $stamp"
@@ -61,7 +62,20 @@ $lines += ""
 foreach($s in $sites){ $lines += "- [$($s.domain)](https://$($s.domain)/)" }
 $lines += ""
 $lines += "This daily note creates a public crawl path and records the indexing maintenance work for the eight tool sites."
-$lines -join "`n" | Set-Content -Encoding UTF8 $dailyFile
+$lines += "<!-- AUTO_MAINTENANCE_END -->"
+$generated = $lines -join "`n"
+if (Test-Path -LiteralPath $dailyFile) {
+  $existing = Get-Content -LiteralPath $dailyFile -Raw -Encoding UTF8
+  $pattern = '(?s)<!-- AUTO_MAINTENANCE_START -->.*?<!-- AUTO_MAINTENANCE_END -->'
+  if ($existing -match $pattern) {
+    $updated = [regex]::Replace($existing, $pattern, [System.Text.RegularExpressions.MatchEvaluator]{ param($m) $generated }, 1)
+  } else {
+    $updated = "$generated`n`n$existing"
+  }
+  $updated | Set-Content -Encoding UTF8 $dailyFile
+} else {
+  $generated | Set-Content -Encoding UTF8 $dailyFile
+}
 $results | ConvertTo-Json -Depth 5 | Set-Content -Encoding UTF8 "$root\logs\$today-result.json"
 Push-Location $root
 git add daily logs run-ai8-daily-maintenance.ps1 2>$null
