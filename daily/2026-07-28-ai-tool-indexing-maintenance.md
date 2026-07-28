@@ -232,3 +232,44 @@ Verification:
 
 Repairs covered browser-only localStorage hydration, TypeScript `any` removal, declaration order, unused symbols and Next.js internal links. Natural punctuation in prose pages uses the same documented readability-only ESLint policy as ZonePlan; TypeScript, React Hooks, accessibility and production build checks remain enabled.
 
+## Eight-site remaining-work disposition
+
+Every remaining item was reclassified into action, intentional no-change, or external blocker instead of leaving a vague backlog.
+
+### Thin-page review
+
+The 18 pages under 200 words are utility or aggregation surfaces: contact pages, one terms page, blog index pages and `/vs/` index pages. They have valid titles, descriptions, H1s, canonicals, internal links and HTTP 200 responses. They are not broken landing pages. No bulk text was added because doing so across several sites would create low-value filler and contaminate active single-variable SEO experiments. They remain a GSC-triggered content queue: expand only when a page earns impressions.
+
+### GSC
+
+- ZonePlan was verified live in the authorized `lg695101011@gmail.com` Search Console session: 2 clicks, 2,670 impressions, 0.1% CTR and position 45.8. The leading non-brand query remains `international meeting planner` at 91 impressions and 0 clicks.
+- The ZonePlan description experiment remains inside its observation window; no second ZonePlan SEO variable was changed.
+- A fresh automated eight-site export could not run because GavinBuilds CDP 9223 was offline. Repeated direct Search Console navigation for the other properties did not produce stable loaded tables. No stale numbers were relabeled as current.
+
+### SaaSHub public-state recheck
+
+| Product | Public page | Direct domain found in returned HTML |
+|---|---:|---:|
+| iWorkViewer | HTTP 200 | yes |
+| LivePhotoKit | HTTP 200 | yes |
+| ZonePlan | HTTP 200 | yes |
+| InvoicePad | HTTP 200 | no |
+| PlantingCalendar | HTTP 404 | no |
+| FreeTDEE | HTTP 404 | no |
+| BabyPercent | HTTP 404 | no |
+| PupVax | HTTP 404 | no |
+
+SaaSHub still requires registration/login to submit more than one product. The missing four products and InvoicePad direct-link defect cannot be truthfully called submitted or repaired without that account action.
+
+### Monetization boundary
+
+Analytics and AdSense tags are present on all eight home pages, but backend reporting is not proven by the public tags. Google Analytics, AdSense, PayPal and Creem still require the correct authenticated account or OAuth/payment identity action. No product, API key, webhook, test order or revenue was fabricated.
+
+### Strict completion state
+
+- Site availability, indexability, code lint, production builds and deployments: complete.
+- Thin-page bulk expansion: intentionally not performed pending page-level GSC demand.
+- Other-property live GSC export: blocked by the unavailable CDP/export path and unstable direct property loading.
+- SaaSHub missing products and InvoicePad outbound link: account-login blocker.
+- AdSense, analytics backend and payment/first-dollar proof: authentication and identity blocker.
+
