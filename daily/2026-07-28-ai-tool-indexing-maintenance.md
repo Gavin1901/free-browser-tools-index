@@ -74,3 +74,57 @@ The current action-camp manual was re-extracted and 157 unique HTTP(S) entries w
 An accessible URL is not publication proof. Many entries are login pages, paid services, ordinary reference pages, closed services, or platforms that do not accept this product type.
 
 Machine evidence: `logs/2026-07-28-manual-platform-live-scan.json`.
+
+## Browser publishing recovery
+
+The Chrome extension control path was repaired and the currently selected Chrome profile was verified platform by platform before any write action.
+
+### Published and verified
+
+- Dev.to:
+  https://dev.to/gavinbuilds/tdee-vs-bmr-vs-macros-a-practical-starting-point-4m7h
+- Author route: `gavinbuilds`.
+- Public page and title were visible.
+- The article contains a clickable `https://freetdee.com/` link.
+
+### Duplicate cleanup
+
+The duplicate PlantingCalendar Pinterest Pin `1097893215437125297` was deleted from the Gavin Builds account. Pinterest redirected to the `Free Online Tools` board after confirmation. The retained Pin is:
+
+https://www.pinterest.com/pin/1097893215437125765/
+
+### Fresh GSC evidence
+
+ZonePlan Search Console was read live. The selected account had property access.
+
+- Last update: 6 hours ago.
+- Total clicks: 2.
+- Total impressions: 2,670.
+- CTR: 0.1%.
+- Average position: 45.8.
+- Indexed pages: 30.
+- Not indexed pages: 84.
+
+Top visible queries:
+
+| Query | Clicks | Impressions |
+|---|---:|---:|
+| zoneplan | 2 | 16 |
+| international meeting planner | 0 | 91 |
+| global meeting planner | 0 | 87 |
+| world meeting planning | 0 | 73 |
+| international meeting schedule | 0 | 64 |
+| meeting planner time and date | 0 | 62 |
+| meeting planner worldwide | 0 | 57 |
+| meeting planner | 0 | 56 |
+| meeting time planner | 0 | 48 |
+| world clock meeting planner | 0 | 46 |
+
+The existing `global-meeting-planner` and `international-meeting-planner` pages already use exact-match titles and H1s. No second page variable was changed during the active experiment window.
+
+### Platform boundaries verified in the browser
+
+- Medium was logged in as `Gold Risk Notes`, not the approved Gavin Builds publishing identity. No AI-tool article was posted there.
+- Quora was logged in as `Gold Risk Notes`, while the duplicate posts belong to `Gan Liu`. The account menu offered no switch to Gan Liu, so the posts could not be safely deleted.
+- SaaSHub was logged out and returned: `Please register to submit more than one product.`
+- Paid platforms, dead services, non-product reference pages, and incompatible directories were not falsely counted as publishable platforms.
