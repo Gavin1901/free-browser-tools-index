@@ -273,3 +273,11 @@ Analytics and AdSense tags are present on all eight home pages, but backend repo
 - SaaSHub missing products and InvoicePad outbound link: account-login blocker.
 - AdSense, analytics backend and payment/first-dollar proof: authentication and identity blocker.
 
+## Final omission audit
+
+The final repository sweep found one durable-asset omission: the published LivePhotoKit Pinterest creative was still an untracked root file. It has now been preserved at:
+
+`assets/livephotokit-pin-20260726.png`
+
+The file is now part of the public evidence repository instead of remaining an untracked local artifact. This also returns the evidence repository to a clean working-tree state after commit.
+
