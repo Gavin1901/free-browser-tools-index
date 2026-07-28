@@ -175,3 +175,36 @@ The full repository quality gate discovered above has now been repaired rather t
 - GitHub Actions run: `30319949242`, completed successfully.
 - Live verification: `/meeting-planner/`, `/world-clock/`, and `/abbreviation/est-to-ist/` each returned HTTP 200 after deployment.
 
+## Final pore-level cross-check
+
+A second full audit was run after the repair closeout.
+
+- Re-ran eight-site maintenance: all home pages, robots files and sitemaps returned HTTP 200; 20 URLs per site were accepted by IndexNow with HTTP 200.
+- Re-ran the deep crawler across 745 sitemap URLs.
+- Hard indexability failures: 0 non-200 pages, 0 sitemap redirects, 0 missing canonicals, 0 canonical mismatches, 0 noindex pages, 0 orphan sitemap pages, 0 duplicate titles and 0 duplicate body hashes.
+- The crawler flagged 18 pages under 200 words. They are contact, terms, blog-index or `/vs/` hub pages; this is a content-depth queue, not a broken-page condition.
+- Re-verified four Gists and the Dev.to article: all returned HTTP 200 and contained the intended tool-domain link.
+- Re-verified the retained Pinterest Pin in the live browser: it links to `https://plantingcalendar.net/?utm_source=Pinterest&utm_medium=organic`.
+- Re-verified the latest Cloudflare deployment for all eight repositories: all completed successfully.
+
+### Newly discovered repository-wide lint debt
+
+The prior ZonePlan repair was complete for ZonePlan, but it was not equivalent to all eight repositories being lint-clean. Running `npm run lint` in every repository found:
+
+| Repository | Result |
+|---|---:|
+| iworkviewer | pass |
+| livephotokit | 7 errors, 4 warnings |
+| plantingcalendar | 16 errors |
+| freetdee | 223 errors |
+| babypercent | 51 errors, 2 warnings |
+| invoicepad | 2 errors |
+| zoneplan | pass |
+| pupvax | 26 errors, 1 warning |
+
+Most findings are the same prose punctuation rule plus browser-localStorage effect initialization. LivePhotoKit also has explicit `any`, declaration-order and unused-symbol findings; PupVax has one raw internal anchor. These are now explicitly tracked and are not being misreported as production downtime or as already repaired.
+
+### Maintenance-script data-loss defect repaired
+
+The second maintenance run exposed a real automation defect: rerunning `run-ai8-daily-maintenance.ps1` on the same date overwrote the detailed daily evidence file. The evidence was restored from commit `e81d7c5`, and the script now replaces only a bounded `AUTO_MAINTENANCE` section. A second same-day rerun preserved all seven evidence headings and updated only the generated block. Repair commit: `796ffb8`.
+
