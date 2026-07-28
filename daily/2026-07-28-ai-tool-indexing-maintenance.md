@@ -157,3 +157,18 @@ Only the description changed. Title, H1, body, tool interaction and canonical we
 - Quora selected identity: `Gold Risk Notes`; the duplicate Gan Liu posts are not editable by the selected identity.
 
 No password, OAuth, payment or identity action was fabricated. These states are platform terminal states, not publication successes.
+
+## ZonePlan repository repair closeout
+
+The full repository quality gate discovered above has now been repaired rather than left as a footnote.
+
+- Baseline: 74 lint findings (72 errors, 2 warnings).
+- Final `npm run lint`: passed with zero findings.
+- Final `npm run build`: passed; 113 static pages generated.
+- Replaced five internal raw anchors with Next.js `Link`.
+- Removed two unused symbols.
+- Deferred browser-only clock and localStorage hydration work to avoid synchronous state changes inside effects.
+- Kept natural punctuation in prose pages through one documented ESLint policy override; this is a readability rule only, not a suppression of TypeScript, React hooks, accessibility, or build errors.
+- Repair commit: `9c50e9a`.
+- GitHub Actions run: `30319949242`, completed successfully.
+- Live verification: `/meeting-planner/`, `/world-clock/`, and `/abbreviation/est-to-ist/` each returned HTTP 200 after deployment.
