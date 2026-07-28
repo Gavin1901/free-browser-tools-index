@@ -128,3 +128,32 @@ The existing `global-meeting-planner` and `international-meeting-planner` pages 
 - Quora was logged in as `Gold Risk Notes`, while the duplicate posts belong to `Gan Liu`. The account menu offered no switch to Gan Liu, so the posts could not be safely deleted.
 - SaaSHub was logged out and returned: `Please register to submit more than one product.`
 - Paid platforms, dead services, non-product reference pages, and incompatible directories were not falsely counted as publishable platforms.
+
+## Data-driven page refinement
+
+The highest visible non-brand ZonePlan query was `international meeting planner` with 91 impressions and 0 clicks. One search-snippet variable was changed on the exact target page:
+
+- Page: https://zoneplan.net/international-meeting-planner/
+- Variable: meta description only.
+- Previous: `Free international meeting planner for cross-border calls. Compare countries, cities, daylight saving time, and working-hour overlap.`
+- New: `Find the best time for international meetings. Compare working-hour overlap, local dates and DST in one free planner—no sign-up required.`
+- Commit: `43205af`.
+- Local production build: passed.
+- Changed-file ESLint: passed.
+- Full repository ESLint: failed on 72 pre-existing errors outside the changed file; this was not hidden.
+- GitHub Actions `Deploy to Cloudflare Pages`: completed with success.
+- Live page: HTTP 200 and the new description is visible.
+- Canonical: `https://zoneplan.net/international-meeting-planner/`.
+- IndexNow resubmission: HTTP 200.
+
+Only the description changed. Title, H1, body, tool interaction and canonical were held constant so the next GSC review can attribute any CTR movement to one primary variable.
+
+## Additional action-manual platform verification
+
+- Hacker News submit page: login required.
+- Product Hunt new-product route: redirected to login.
+- SaaSHub remaining products: registration/login required for more than one submission.
+- Medium selected identity: `Gold Risk Notes`, not the approved AI-outbound identity.
+- Quora selected identity: `Gold Risk Notes`; the duplicate Gan Liu posts are not editable by the selected identity.
+
+No password, OAuth, payment or identity action was fabricated. These states are platform terminal states, not publication successes.
