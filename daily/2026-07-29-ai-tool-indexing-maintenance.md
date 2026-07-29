@@ -301,3 +301,11 @@ Historical pending submissions were also checked:
 - Total new qualified public pages today: 16.
 
 This count is separate from older Product Hunt, Hacker News, SaaSHub, Pinterest and directory assets.
+
+Final link-level validator:
+
+- 14 GitHub/Dev.to public pages: all HTTP 200 and all contained the expected target domain.
+- 2 Medium pages: both canonical pages and both target links verified through the correct live profile.
+- Evidence:
+  - `logs/2026-07-29-final-16-backlink-verification.json`
+  - `logs/2026-07-29-medium-live-verification.json`

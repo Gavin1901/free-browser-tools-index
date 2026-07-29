@@ -1,0 +1,100 @@
+[
+  {
+    "name": "pup-gist1",
+    "url": "https://gist.github.com/Gavin1901/4cd3096ace902ed74706f2c95c80e8a1",
+    "status": 200,
+    "target": "pupvax.com/puppy-deworming-schedule",
+    "has_target": true
+  },
+  {
+    "name": "pup-gist2",
+    "url": "https://gist.github.com/Gavin1901/e63a2f7bdb6cd5778f92fe65251fa19a",
+    "status": 200,
+    "target": "pupvax.com/puppy-deworming-schedule",
+    "has_target": true
+  },
+  {
+    "name": "pup-gist3",
+    "url": "https://gist.github.com/Gavin1901/73ae9348c33868a881a541b252ac70b3",
+    "status": 200,
+    "target": "pupvax.com/puppy-deworming-schedule",
+    "has_target": true
+  },
+  {
+    "name": "pup-issue",
+    "url": "https://github.com/Gavin1901/pupvax/issues/5",
+    "status": 200,
+    "target": "pupvax.com/puppy-deworming-schedule",
+    "has_target": true
+  },
+  {
+    "name": "pup-dev",
+    "url": "https://dev.to/gavinbuilds/dog-deworming-schedule-chart-puppy-to-adult-2026-4f0e",
+    "status": 200,
+    "target": "pupvax.com/puppy-deworming-schedule",
+    "has_target": true
+  },
+  {
+    "name": "free-gist1",
+    "url": "https://gist.github.com/Gavin1901/3b22ee59da4f6c483195c7a42b311f61",
+    "status": 200,
+    "target": "freetdee.com",
+    "has_target": true
+  },
+  {
+    "name": "free-gist2",
+    "url": "https://gist.github.com/Gavin1901/aa084e61c36f148aa9ca0a98c1f4e55f",
+    "status": 200,
+    "target": "freetdee.com",
+    "has_target": true
+  },
+  {
+    "name": "free-issue",
+    "url": "https://github.com/Gavin1901/freetdee/issues/5",
+    "status": 200,
+    "target": "freetdee.com",
+    "has_target": true
+  },
+  {
+    "name": "inv-gist1",
+    "url": "https://gist.github.com/Gavin1901/4d90f082e90298005958e06d74ae738a",
+    "status": 200,
+    "target": "invoicepad.net",
+    "has_target": true
+  },
+  {
+    "name": "inv-gist2",
+    "url": "https://gist.github.com/Gavin1901/57d8244b9b4053e5975cdc87484f489f",
+    "status": 200,
+    "target": "invoicepad.net",
+    "has_target": true
+  },
+  {
+    "name": "inv-issue",
+    "url": "https://github.com/Gavin1901/invoicepad/issues/5",
+    "status": 200,
+    "target": "invoicepad.net",
+    "has_target": true
+  },
+  {
+    "name": "zone-gist1",
+    "url": "https://gist.github.com/Gavin1901/06a5a805964646eb1a73b41ae13a39e3",
+    "status": 200,
+    "target": "zoneplan.net",
+    "has_target": true
+  },
+  {
+    "name": "zone-gist2",
+    "url": "https://gist.github.com/Gavin1901/8eb42f1f992833c0a10c6b071afcb44b",
+    "status": 200,
+    "target": "zoneplan.net",
+    "has_target": true
+  },
+  {
+    "name": "zone-issue",
+    "url": "https://github.com/Gavin1901/zoneplan/issues/6",
+    "status": 200,
+    "target": "zoneplan.net",
+    "has_target": true
+  }
+]
