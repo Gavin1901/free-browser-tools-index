@@ -309,3 +309,39 @@ Final link-level validator:
 - Evidence:
   - `logs/2026-07-29-final-16-backlink-verification.json`
   - `logs/2026-07-29-medium-live-verification.json`
+
+## Fifth audit: full course-manual scope
+
+The complete 104 KB action-camp main manual was checked, not only the compact daily-operations system. This exposed course-level requirements outside the SEO/backlink loop:
+
+- Action-camp daily check-in.
+- Work upload to `hks.aipoju.com`.
+- Google Analytics account/report access.
+- PayPal developer credentials, product/payment integration and sandbox/live validation.
+- Creem account, product, API key, webhook and test checkout.
+
+Live state through the correct GavinBuilds profile:
+
+| Course requirement | Current live state |
+|---|---|
+| Action-camp check-in | Redirects to WeChat QR login |
+| HKS work upload | Public gallery loads; upload requires login |
+| GA | Redirects to `/analytics/web/provision/`; no report property is available in this account |
+| PayPal Developer | Public developer page; explicitly says `Log in to get your API keys` |
+| Creem | Sign-in page; requires Google login or email magic link |
+
+These are not ordinary unfinished scripts. They require account access, QR confirmation, OAuth, email magic links, payment identity or credentials that are not present in the workspace. No account, API key, product, webhook, payment or course check-in was fabricated.
+
+The required login pages were opened in the correct GavinBuilds Chrome profile as handoff tabs:
+
+1. Action-camp check-in.
+2. HKS work upload.
+3. AlternativeTo sign-in.
+4. Indie Hackers sign-in.
+5. Creem sign-in.
+6. PayPal Developer.
+7. Google Analytics provisioning.
+
+Machine evidence:
+
+- `logs/2026-07-29-course-platform-state.json`
