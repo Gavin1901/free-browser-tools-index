@@ -81,7 +81,9 @@ The three Gists cover different intents: a puppy-to-adult schedule chart, common
 ## Platform sweep
 
 - GitHub/Gist: published and verified.
-- Dev.to: the correct logged-in editor opened, but the browser-control session repeatedly timed out before a safe publish action; no post was fabricated.
+- Dev.to: published and independently verified:
+  https://dev.to/gavinbuilds/dog-deworming-schedule-chart-puppy-to-adult-2026-4f0e
+  The public page returned HTTP 200 and contained the clickable PupVax target link.
 - Hacker News submit: HTTP 200 page requires login.
 - Product Hunt new-product route: HTTP 403 Cloudflare interstitial.
 - SaaSHub submit: HTTP 200 but requires login/registration for continued product submissions.
@@ -103,3 +105,12 @@ IndexNow HTTP 200 means Bing accepted the requests; it does not prove Google ind
 - The latest Cloudflare Pages workflow for every repository completed successfully.
 
 Machine-readable evidence: `logs/2026-07-29-home-seo-audit.json`.
+
+## Final backlink closeout
+
+- Qualified public backlinks published today: 5.
+- GitHub ecosystem: 3 Gists and 1 public issue.
+- Independent domain: 1 Dev.to article.
+- Medium and Quora were rechecked in the live browser. The selected Medium identity was still `Gold Risk Notes`; no AI-tool content was transmitted through the wrong identity.
+- Hacker News was rechecked in the live browser and explicitly required a username/password login.
+- Remaining directory/community platforms stayed at their documented login, Cloudflare, timeout, or product-fit terminal states. These states are not counted as publications.
