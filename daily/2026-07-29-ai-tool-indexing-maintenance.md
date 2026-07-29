@@ -345,3 +345,20 @@ The required login pages were opened in the correct GavinBuilds Chrome profile a
 Machine evidence:
 
 - `logs/2026-07-29-course-platform-state.json`
+
+## Sixth audit: fresh page-level rerun
+
+Fresh verification at 20:48-20:56 Asia/Shanghai:
+
+- Re-ran the complete 745-URL indexability audit.
+- Final result across all 8 sites: non-200 0, sitemap redirects 0, missing or mismatched canonical 0, noindex 0, orphan pages 0, duplicate titles 0 and duplicate bodies 0.
+- The first rerun saw four transient Python SSL EOF results on PlantingCalendar. Each URL returned HTTP 200 in three independent PowerShell requests; the complete audit was then rerun and all four cleared.
+- Rechecked all 14 GitHub/Dev.to evidence pages: all returned HTTP 200 and contained the intended target domain.
+- Direct unauthenticated requests to Medium returned HTTP 403, so both Medium articles were reopened in the correct live browser profile. Both canonical URLs loaded and both page DOMs contained the intended target link.
+- No new technical defect or newly executable publishing omission was found.
+
+Evidence:
+
+- `logs/2026-07-29-deep-indexability-audit.json`
+- `daily/2026-07-29-deep-indexability-audit.md`
+- `logs/2026-07-29-sixth-audit-16-links.json`

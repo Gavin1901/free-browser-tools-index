@@ -1,0 +1,148 @@
+[
+  {
+    "name": "pup-gist1",
+    "url": "https://gist.github.com/Gavin1901/4cd3096ace902ed74706f2c95c80e8a1",
+    "status": 200,
+    "target": "pupvax.com/puppy-deworming-schedule",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:12+08:00",
+    "final_url": "https://gist.github.com/Gavin1901/4cd3096ace902ed74706f2c95c80e8a1"
+  },
+  {
+    "name": "pup-gist2",
+    "url": "https://gist.github.com/Gavin1901/e63a2f7bdb6cd5778f92fe65251fa19a",
+    "status": 200,
+    "target": "pupvax.com/puppy-deworming-schedule",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:14+08:00",
+    "final_url": "https://gist.github.com/Gavin1901/e63a2f7bdb6cd5778f92fe65251fa19a"
+  },
+  {
+    "name": "pup-gist3",
+    "url": "https://gist.github.com/Gavin1901/73ae9348c33868a881a541b252ac70b3",
+    "status": 200,
+    "target": "pupvax.com/puppy-deworming-schedule",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:16+08:00",
+    "final_url": "https://gist.github.com/Gavin1901/73ae9348c33868a881a541b252ac70b3"
+  },
+  {
+    "name": "pup-issue",
+    "url": "https://github.com/Gavin1901/pupvax/issues/5",
+    "status": 200,
+    "target": "pupvax.com/puppy-deworming-schedule",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:22+08:00",
+    "final_url": "https://github.com/Gavin1901/pupvax/issues/5"
+  },
+  {
+    "name": "pup-dev",
+    "url": "https://dev.to/gavinbuilds/dog-deworming-schedule-chart-puppy-to-adult-2026-4f0e",
+    "status": 200,
+    "target": "pupvax.com/puppy-deworming-schedule",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:28+08:00",
+    "final_url": "https://dev.to/gavinbuilds/dog-deworming-schedule-chart-puppy-to-adult-2026-4f0e"
+  },
+  {
+    "name": "free-gist1",
+    "url": "https://gist.github.com/Gavin1901/3b22ee59da4f6c483195c7a42b311f61",
+    "status": 200,
+    "target": "freetdee.com",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:33+08:00",
+    "final_url": "https://gist.github.com/Gavin1901/3b22ee59da4f6c483195c7a42b311f61"
+  },
+  {
+    "name": "free-gist2",
+    "url": "https://gist.github.com/Gavin1901/aa084e61c36f148aa9ca0a98c1f4e55f",
+    "status": 200,
+    "target": "freetdee.com",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:36+08:00",
+    "final_url": "https://gist.github.com/Gavin1901/aa084e61c36f148aa9ca0a98c1f4e55f"
+  },
+  {
+    "name": "free-issue",
+    "url": "https://github.com/Gavin1901/freetdee/issues/5",
+    "status": 200,
+    "target": "freetdee.com",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:41+08:00",
+    "final_url": "https://github.com/Gavin1901/freetdee/issues/5"
+  },
+  {
+    "name": "inv-gist1",
+    "url": "https://gist.github.com/Gavin1901/4d90f082e90298005958e06d74ae738a",
+    "status": 200,
+    "target": "invoicepad.net",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:44+08:00",
+    "final_url": "https://gist.github.com/Gavin1901/4d90f082e90298005958e06d74ae738a"
+  },
+  {
+    "name": "inv-gist2",
+    "url": "https://gist.github.com/Gavin1901/57d8244b9b4053e5975cdc87484f489f",
+    "status": 200,
+    "target": "invoicepad.net",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:46+08:00",
+    "final_url": "https://gist.github.com/Gavin1901/57d8244b9b4053e5975cdc87484f489f"
+  },
+  {
+    "name": "inv-issue",
+    "url": "https://github.com/Gavin1901/invoicepad/issues/5",
+    "status": 200,
+    "target": "invoicepad.net",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:49+08:00",
+    "final_url": "https://github.com/Gavin1901/invoicepad/issues/5"
+  },
+  {
+    "name": "zone-gist1",
+    "url": "https://gist.github.com/Gavin1901/06a5a805964646eb1a73b41ae13a39e3",
+    "status": 200,
+    "target": "zoneplan.net",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:52+08:00",
+    "final_url": "https://gist.github.com/Gavin1901/06a5a805964646eb1a73b41ae13a39e3"
+  },
+  {
+    "name": "zone-gist2",
+    "url": "https://gist.github.com/Gavin1901/8eb42f1f992833c0a10c6b071afcb44b",
+    "status": 200,
+    "target": "zoneplan.net",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:54:56+08:00",
+    "final_url": "https://gist.github.com/Gavin1901/8eb42f1f992833c0a10c6b071afcb44b"
+  },
+  {
+    "name": "zone-issue",
+    "url": "https://github.com/Gavin1901/zoneplan/issues/6",
+    "status": 200,
+    "target": "zoneplan.net",
+    "has_target": true,
+    "checked_at": "2026-07-29T20:55:09+08:00",
+    "final_url": "https://github.com/Gavin1901/zoneplan/issues/6"
+  },
+  {
+    "name": "free-medium",
+    "url": "https://medium.com/@lg695101011/tdee-calculator-vs-macro-calculator-which-number-should-you-use-first-c3c083a808fc",
+    "target": "freetdee.com",
+    "status": 200,
+    "has_target": true,
+    "verification": "correct-profile live DOM",
+    "canonical": "https://medium.com/@lg695101011/tdee-calculator-vs-macro-calculator-which-number-should-you-use-first-c3c083a808fc",
+    "direct_http_note": "Unauthenticated urllib returned HTTP 403; browser DOM verified the public article and target link."
+  },
+  {
+    "name": "inv-medium",
+    "url": "https://medium.com/@lg695101011/web-development-invoice-checklist-7-details-that-prevent-payment-delays-0412a27aa756",
+    "target": "invoicepad.net",
+    "status": 200,
+    "has_target": true,
+    "verification": "correct-profile live DOM",
+    "canonical": "https://medium.com/@lg695101011/web-development-invoice-checklist-7-details-that-prevent-payment-delays-0412a27aa756",
+    "direct_http_note": "Unauthenticated urllib returned HTTP 403; browser DOM verified the public article and target link."
+  }
+]
