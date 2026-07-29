@@ -1,0 +1,17 @@
+Web Development Invoice Checklist: 7 Details That Prevent Payment Delays
+
+A web development invoice should make the work, amount, and payment deadline obvious without forcing a client to decode technical project notes.
+
+Start with seven details: a unique invoice number, issue date, due date, client billing details, a plain-language service description, the amount and currency, and a clear payment method.
+
+For project work, separate milestones such as discovery, design, implementation, deployment, and maintenance. If the agreement includes a deposit or change requests, show those as separate line items instead of hiding them inside one total.
+
+The description should say what was delivered, not just list tools. “Responsive landing page implementation” is clearer to a client than a row of framework names. Add the project or purchase-order reference when the client uses one.
+
+Before sending, check the totals, tax treatment, currency, due date, and recipient email. Save a PDF copy and keep the same invoice number in your own records.
+
+The free InvoicePad web developer invoice template helps freelancers build and export this structure without creating an account:
+
+https://invoicepad.net/web-developer-invoice-template/
+
+This is a workflow checklist, not tax or legal advice. Local invoicing requirements vary, so confirm the required fields for your jurisdiction.

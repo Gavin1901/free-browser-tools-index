@@ -1,0 +1,79 @@
+[
+  {
+    "name": "medium-invoice",
+    "url": "https://medium.com/@lg695101011/web-development-invoice-checklist-7-details-that-prevent-payment-delays-0412a27aa756",
+    "status": 403,
+    "target": "invoicepad.net/web-developer-invoice-template",
+    "has_target": false
+  },
+  {
+    "name": "medium-freetdee",
+    "url": "https://medium.com/@lg695101011/tdee-calculator-vs-macro-calculator-which-number-should-you-use-first-c3c083a808fc",
+    "status": 403,
+    "target": "freetdee.com",
+    "has_target": false
+  },
+  {
+    "name": "gist-free-1",
+    "url": "https://gist.github.com/Gavin1901/3b22ee59da4f6c483195c7a42b311f61",
+    "status": 200,
+    "target": "freetdee.com",
+    "has_target": true
+  },
+  {
+    "name": "gist-free-2",
+    "url": "https://gist.github.com/Gavin1901/aa084e61c36f148aa9ca0a98c1f4e55f",
+    "status": 200,
+    "target": "freetdee.com",
+    "has_target": true
+  },
+  {
+    "name": "gist-inv-1",
+    "url": "https://gist.github.com/Gavin1901/4d90f082e90298005958e06d74ae738a",
+    "status": 200,
+    "target": "invoicepad.net/seo-service-invoice-template",
+    "has_target": true
+  },
+  {
+    "name": "gist-inv-2",
+    "url": "https://gist.github.com/Gavin1901/57d8244b9b4053e5975cdc87484f489f",
+    "status": 200,
+    "target": "invoicepad.net/web-developer-invoice-template",
+    "has_target": true
+  },
+  {
+    "name": "gist-zone-1",
+    "url": "https://gist.github.com/Gavin1901/06a5a805964646eb1a73b41ae13a39e3",
+    "status": 200,
+    "target": "zoneplan.net/global-meeting-planner",
+    "has_target": true
+  },
+  {
+    "name": "gist-zone-2",
+    "url": "https://gist.github.com/Gavin1901/8eb42f1f992833c0a10c6b071afcb44b",
+    "status": 200,
+    "target": "zoneplan.net/remote-team-meeting-time-planner",
+    "has_target": true
+  },
+  {
+    "name": "issue-free",
+    "url": "https://github.com/Gavin1901/freetdee/issues/5",
+    "status": 200,
+    "target": "freetdee.com",
+    "has_target": true
+  },
+  {
+    "name": "issue-inv",
+    "url": "https://github.com/Gavin1901/invoicepad/issues/5",
+    "status": 200,
+    "target": "invoicepad.net",
+    "has_target": true
+  },
+  {
+    "name": "issue-zone",
+    "url": "https://github.com/Gavin1901/zoneplan/issues/6",
+    "status": 200,
+    "target": "zoneplan.net",
+    "has_target": true
+  }
+]

@@ -1,0 +1,23 @@
+TDEE Calculator vs Macro Calculator: Which Number Should You Use First?
+
+TDEE and macro calculators answer different questions. A TDEE estimate is the starting point for daily energy intake. A macro calculator divides that calorie target into protein, carbohydrate, and fat targets.
+
+Use a TDEE calculator first when you do not yet have a daily calorie target. It combines an estimate of resting energy needs with an activity multiplier. The result is still an estimate, so treat it as a starting range rather than a medical measurement.
+
+Use a macro calculator after choosing a goal such as maintenance, gradual fat loss, or weight gain. Protein and fat targets create the structure; carbohydrate usually fills the remaining calories.
+
+The practical sequence is simple:
+
+1. Estimate maintenance calories.
+2. Choose a modest goal adjustment.
+3. Set a protein target.
+4. Set a reasonable fat floor.
+5. Allocate the remaining calories to carbohydrate.
+6. Track body-weight trends and training performance for two to three weeks.
+7. Adjust one variable at a time.
+
+The free FreeTDEE calculator provides the calorie estimate, BMR context, and macro starting point in one place:
+
+https://freetdee.com/
+
+Calculator output is general educational information. Individual energy needs can differ because of health, medication, pregnancy, training load, or other factors.
