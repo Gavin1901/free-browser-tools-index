@@ -91,3 +91,15 @@ The three Gists cover different intents: a puppy-to-adult schedule chart, common
 - Reddit remains isolated to the PGM account line.
 
 IndexNow HTTP 200 means Bing accepted the requests; it does not prove Google indexing.
+
+## Home SEO and deployment verification
+
+- All eight home pages returned HTTP 200.
+- Every home page had a non-empty title, description and H1.
+- Every canonical matched the HTTPS root domain.
+- No home page contained `noindex`.
+- GA and AdSense front-end tags were present on all eight home pages.
+- All JSON-LD blocks parsed successfully: seven sites had 2/2 valid blocks; PupVax had 3/3.
+- The latest Cloudflare Pages workflow for every repository completed successfully.
+
+Machine-readable evidence: `logs/2026-07-29-home-seo-audit.json`.
