@@ -254,3 +254,50 @@ Evidence:
 
 - `daily/2026-07-29-deep-indexability-audit.md`
 - `logs/2026-07-29-deep-indexability-audit.json`
+
+## Fourth cross-audit: stale-route and account corrections
+
+The final reverse audit found three additional stale conclusions:
+
+1. FreeTDEE is public on SaaSHub under its submitted product name, not the guessed `/freetdee` slug:
+   https://www.saashub.com/bmr-calories-macros
+   The page returned HTTP 200 and contained `freetdee.com`.
+2. The correct GavinBuilds profile is logged into Hacker News. A single relevant InvoicePad Show HN submission was attempted and the platform returned the explicit `/showlim` restriction. No public item was created.
+3. The correct profile was rechecked for the remaining account-gated platforms:
+   - AlternativeTo: visible sign-in form with password, Google, GitHub and Apple routes.
+   - Indie Hackers: visible email/password sign-in form.
+   - Quora: current navigation failed with `ERR_CONNECTION_CLOSED`; no current publish state was fabricated.
+
+The two new Medium articles were re-opened through the correct profile. Both canonical URLs loaded and both DOMs contained their intended target links. Evidence:
+
+- `logs/2026-07-29-medium-live-verification.json`
+- `logs/2026-07-29-auth-blocker-recheck.json`
+
+Historical pending submissions were also checked:
+
+- Launching Next receipt remains HTTP 200 with title `Submission Received`.
+- Startup88 and Startup Dope submission entries remain accessible, but no public LivePhotoKit listing was found.
+- AppRater still has no independently verifiable public LivePhotoKit listing.
+
+### Current SaaSHub truth
+
+| Product | Current state |
+|---|---|
+| iWorkViewer | Public, HTTP 200, official domain present |
+| LivePhotoKit | Public, HTTP 200, official domain present |
+| ZonePlan | Public, HTTP 200, official domain present |
+| FreeTDEE / BMR Calories Macros | Public, HTTP 200, official domain present |
+| InvoicePad | Public, HTTP 200, official-domain link missing |
+| PlantingCalendar | No public listing found |
+| BabyPercent | No public listing found |
+| PupVax | No public listing found |
+
+### Final daily backlink count
+
+- PupVax: 5 qualified public pages.
+- FreeTDEE: 4 qualified public pages.
+- InvoicePad: 4 qualified public pages.
+- ZonePlan: 3 qualified public pages.
+- Total new qualified public pages today: 16.
+
+This count is separate from older Product Hunt, Hacker News, SaaSHub, Pinterest and directory assets.
