@@ -67,3 +67,16 @@ Composition:
 ## Remaining quality boundary
 
 The count is repaired, but domain diversity remains weaker than ideal because browser control became unavailable later in the session. This correction does not claim that twelve GitHub-hosted pages equal twelve independent referring domains.
+
+## Additional external-directory submissions
+
+After the 16 public-page correction, two additional curator-owned directory submissions were opened:
+
+1. samimamdoh/awesome-online-tools:
+   https://github.com/samimamdoh/awesome-online-tools/pull/1
+2. janstk/Awesome-online-tools:
+   https://github.com/janstk/Awesome-online-tools/pull/56
+
+Both submissions add LivePhotoKit, iWorkViewer, InvoicePad, and ZonePlan to relevant tool categories. Their current state is `pending_review`; they are not counted as accepted directory backlinks.
+
+The ruanyf/weekly route was checked before retrying. Gavin1901 already has two prior submissions covering the same tool family, both closed, so a new duplicate submission was not forced.

@@ -10,5 +10,8 @@
   {"platform":"Quora","status":"platform_blocked","feasible_unattempted":false},
   {"platform":"Product Hunt","status":"duplicate_avoided","feasible_unattempted":false},
   {"platform":"Pinterest","status":"duplicate_avoided","feasible_unattempted":false},
-  {"platform":"Reddit","status":"duplicate_avoided","feasible_unattempted":false}
+  {"platform":"Reddit","status":"duplicate_avoided","feasible_unattempted":false},
+  {"platform":"samimamdoh/awesome-online-tools","status":"pending_review","feasible_unattempted":false},
+  {"platform":"janstk/Awesome-online-tools","status":"pending_review","feasible_unattempted":false},
+  {"platform":"ruanyf/weekly","status":"duplicate_avoided","feasible_unattempted":false}
 ]
