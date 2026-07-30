@@ -1,0 +1,18 @@
+[
+  {"url":"https://gist.github.com/Gavin1901/1f7a438ee09172101c5ef55a0302f83a","platform":"GitHub Gist","target_domain":"invoicepad.net","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://github.com/Gavin1901/invoicepad/issues/6","platform":"GitHub Issues","target_domain":"invoicepad.net","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://dev.to/gavinbuildsai/web-development-invoice-template-what-clients-expect-in-2026-3h6","platform":"Dev.to","target_domain":"invoicepad.net","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://medium.com/@lg695101011/1aa6f4f0aa86","platform":"Medium","target_domain":"invoicepad.net","http_status":403,"verification_method":"browser","public_verified":true,"target_link_verified":true},
+  {"url":"https://gist.github.com/Gavin1901/a8c935347af5ec2b55354ab2244fdf61","platform":"GitHub Gist","target_domain":"livephotokit.com","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://gist.github.com/Gavin1901/370c999c6929ca855597405b4e71e0b6","platform":"GitHub Gist","target_domain":"livephotokit.com","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://github.com/Gavin1901/livephotokit/issues/3","platform":"GitHub Issues","target_domain":"livephotokit.com","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://gist.github.com/Gavin1901/ce68e2860a0ace4e93cd66328ad84a10","platform":"GitHub Gist","target_domain":"plantingcalendar.net","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://gist.github.com/Gavin1901/016e0356f419bd013a6069056fa9f5c5","platform":"GitHub Gist","target_domain":"plantingcalendar.net","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://github.com/Gavin1901/plantingcalendar/issues/3","platform":"GitHub Issues","target_domain":"plantingcalendar.net","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://gist.github.com/Gavin1901/80c214eacc66f63d7098466d5f515b9f","platform":"GitHub Gist","target_domain":"babypercent.com","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://gist.github.com/Gavin1901/20a5b50f5d66ff98dc34311069eb8d27","platform":"GitHub Gist","target_domain":"babypercent.com","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://github.com/Gavin1901/babypercent/issues/3","platform":"GitHub Issues","target_domain":"babypercent.com","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://gist.github.com/Gavin1901/a5502ed08307650426814e4b49f3d63c","platform":"GitHub Gist","target_domain":"iworkviewer.com","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://gist.github.com/Gavin1901/4db3196e543552f438db54df41c1a641","platform":"GitHub Gist","target_domain":"iworkviewer.com","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://github.com/Gavin1901/iworkviewer/issues/3","platform":"GitHub Issues","target_domain":"iworkviewer.com","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true}
+]

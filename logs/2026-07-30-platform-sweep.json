@@ -1,0 +1,14 @@
+[
+  {"platform":"GitHub Gist","status":"published","feasible_unattempted":false},
+  {"platform":"GitHub Issues","status":"published","feasible_unattempted":false},
+  {"platform":"Dev.to","status":"published","feasible_unattempted":false},
+  {"platform":"Medium","status":"published","feasible_unattempted":false},
+  {"platform":"SaaSHub","status":"pending_review","feasible_unattempted":false},
+  {"platform":"AlternativeTo","status":"pending_review","feasible_unattempted":false},
+  {"platform":"Indie Hackers","status":"login_blocked","feasible_unattempted":false},
+  {"platform":"Hacker News","status":"platform_blocked","feasible_unattempted":false},
+  {"platform":"Quora","status":"platform_blocked","feasible_unattempted":false},
+  {"platform":"Product Hunt","status":"duplicate_avoided","feasible_unattempted":false},
+  {"platform":"Pinterest","status":"duplicate_avoided","feasible_unattempted":false},
+  {"platform":"Reddit","status":"duplicate_avoided","feasible_unattempted":false}
+]
