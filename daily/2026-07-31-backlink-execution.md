@@ -53,3 +53,15 @@ The repair added 12 more public pages for the four weakest sites:
 Final strict count: 17 qualified public pages. The 12 repair pages were independently requested and all returned HTTP 200 with the intended target domain present in the public body.
 
 Evidence: `logs/2026-07-31-repair-12-verification.json`.
+
+## Continued publishing — Pinterest independent-domain repair
+
+Five additional public Pinterest pages were published through the correct Gavin Builds profile and verified in the live DOM. Each Pin contains a clickable outbound link to its intended tool site:
+
+1. BabyPercent: https://www.pinterest.com/pin/1097893215437459772/
+2. InvoicePad: https://www.pinterest.com/pin/1097893215437460253/
+3. ZonePlan: https://www.pinterest.com/pin/1097893215437460326/
+4. FreeTDEE: https://www.pinterest.com/pin/1097893215437460350/
+5. PupVax: https://www.pinterest.com/pin/1097893215437460383/
+
+Hacker News was retried live and returned `/showlim`; it remains platform-blocked and produced no public item. Two Quora posts were created, but the target URL was not rendered as a clickable outbound link, so both are excluded from the qualified backlink count.

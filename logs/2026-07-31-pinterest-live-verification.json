@@ -1,0 +1,41 @@
+{
+  "profile": "Gavin Builds",
+  "cdp_port": 9223,
+  "published": [
+    {
+      "url": "https://www.pinterest.com/pin/1097893215437459772/",
+      "target": "https://babypercent.com/",
+      "dom_target_link_verified": true
+    },
+    {
+      "url": "https://www.pinterest.com/pin/1097893215437460253/",
+      "target": "https://invoicepad.net/web-developer-invoice-template/",
+      "dom_target_link_verified": true
+    },
+    {
+      "url": "https://www.pinterest.com/pin/1097893215437460326/",
+      "target": "https://zoneplan.net/global-meeting-planner/",
+      "dom_target_link_verified": true
+    },
+    {
+      "url": "https://www.pinterest.com/pin/1097893215437460350/",
+      "target": "https://freetdee.com/",
+      "dom_target_link_verified": true
+    },
+    {
+      "url": "https://www.pinterest.com/pin/1097893215437460383/",
+      "target": "https://pupvax.com/dog-deworming-schedule-chart/",
+      "dom_target_link_verified": true
+    }
+  ],
+  "excluded": [
+    {
+      "platform": "Hacker News",
+      "reason": "Live submit returned https://news.ycombinator.com/showlim; no public item."
+    },
+    {
+      "platform": "Quora",
+      "reason": "Posts were created, but BabyPercent was not rendered as a clickable outbound link; not counted."
+    }
+  ]
+}
