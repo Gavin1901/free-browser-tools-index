@@ -1,55 +1,9 @@
 ﻿[
     {
-        "url":  "https://dev.to/gavinbuildsai/baby-percentile-chart-how-to-read-growth-percentiles-without-panicking-1nmm",
-        "platform":  "Dev.to",
-        "target_domain":  "babypercent.com",
-        "http_status":  200,
-        "verification_method":  "http",
-        "public_verified":  true,
-        "target_link_verified":  true
-    },
-    {
-        "url":  "https://medium.com/@lg695101011/understanding-baby-growth-percentiles-a-parent-friendly-guide-22fe94e89f1f",
-        "platform":  "Medium",
-        "target_domain":  "babypercent.com",
-        "http_status":  403,
-        "verification_method":  "browser",
-        "public_verified":  true,
-        "target_link_verified":  true
-    },
-    {
-        "url":  "https://gist.github.com/Gavin1901/9ddabc5d404dae8320241c70d840aceb",
-        "platform":  "GitHub Gist",
-        "target_domain":  "babypercent.com",
-        "http_status":  200,
-        "verification_method":  "http",
-        "public_verified":  true,
-        "target_link_verified":  true
-    },
-    {
-        "url":  "https://github.com/Gavin1901/babypercent/issues/4",
-        "platform":  "GitHub Issues",
-        "target_domain":  "babypercent.com",
-        "http_status":  200,
-        "verification_method":  "http",
-        "public_verified":  true,
-        "target_link_verified":  true
-    },
-    {
-        "url":  "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-07-31-baby-percentile-chart-guide.md",
-        "platform":  "GitHub public daily",
-        "target_domain":  "babypercent.com",
-        "http_status":  200,
-        "verification_method":  "http",
-        "public_verified":  true,
-        "target_link_verified":  true
-    },
-    {
         "url":  "https://gist.github.com/Gavin1901/8846c0bc8c7e8032265f4390d58de2da",
         "platform":  "GitHub Gist",
         "target_domain":  "invoicepad.net",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     },
@@ -58,7 +12,6 @@
         "platform":  "GitHub Gist",
         "target_domain":  "invoicepad.net",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     },
@@ -67,7 +20,6 @@
         "platform":  "GitHub Gist",
         "target_domain":  "zoneplan.net",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     },
@@ -76,7 +28,6 @@
         "platform":  "GitHub Gist",
         "target_domain":  "zoneplan.net",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     },
@@ -85,7 +36,6 @@
         "platform":  "GitHub Gist",
         "target_domain":  "freetdee.com",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     },
@@ -94,7 +44,6 @@
         "platform":  "GitHub Gist",
         "target_domain":  "freetdee.com",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     },
@@ -103,7 +52,6 @@
         "platform":  "GitHub Gist",
         "target_domain":  "pupvax.com",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     },
@@ -112,7 +60,6 @@
         "platform":  "GitHub Gist",
         "target_domain":  "pupvax.com",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     },
@@ -121,7 +68,6 @@
         "platform":  "GitHub Issues",
         "target_domain":  "invoicepad.net",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     },
@@ -130,7 +76,6 @@
         "platform":  "GitHub Issues",
         "target_domain":  "zoneplan.net",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     },
@@ -139,7 +84,6 @@
         "platform":  "GitHub Issues",
         "target_domain":  "freetdee.com",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     },
@@ -148,7 +92,6 @@
         "platform":  "GitHub Issues",
         "target_domain":  "pupvax.com",
         "http_status":  200,
-        "verification_method":  "http",
         "public_verified":  true,
         "target_link_verified":  true
     }

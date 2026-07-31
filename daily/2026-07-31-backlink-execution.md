@@ -38,3 +38,18 @@ Target: https://babypercent.com/
 ## GSC context
 
 BabyPercent currently shows 18 clicks, 4,360 impressions, 0.4% CTR, average position 19.2, 45 indexed pages, and 36 not indexed pages in the live 28-day GSC view captured today.
+
+## Full repair after log review
+
+The first pass stopped at 5 pages. That was execution shrinkage and did not match the 2026-07-30 precedent of 16 verified public pages.
+
+The repair added 12 more public pages for the four weakest sites:
+
+- InvoicePad: 2 Gists + 1 Issue.
+- ZonePlan: 2 Gists + 1 Issue.
+- FreeTDEE: 2 Gists + 1 Issue.
+- PupVax: 2 Gists + 1 Issue.
+
+Final strict count: 17 qualified public pages. The 12 repair pages were independently requested and all returned HTTP 200 with the intended target domain present in the public body.
+
+Evidence: `logs/2026-07-31-repair-12-verification.json`.
