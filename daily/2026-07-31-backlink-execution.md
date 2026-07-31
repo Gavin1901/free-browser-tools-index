@@ -65,3 +65,9 @@ Five additional public Pinterest pages were published through the correct Gavin 
 5. PupVax: https://www.pinterest.com/pin/1097893215437460383/
 
 Hacker News was retried live and returned `/showlim`; it remains platform-blocked and produced no public item. Two Quora posts were created, but the target URL was not rendered as a clickable outbound link, so both are excluded from the qualified backlink count.
+
+## Final platform resolution
+
+Further live execution produced four additional qualified public backlinks: one Quora post with a clickable BabyPercent link, plus three SaaSHub listings that have moved from review to public approval for Planting Calendar, FreeTDEE, and BabyPercent.
+
+PupVax was fully submitted to SaaSHub with categories and competitors and reached the success receipt; it is pending approval. A Product Hunt Self-Promotion thread was submitted and reached a public-shaped URL but currently displays `Pending Review`, so it is not counted as published. Product Hunt's direct BabyPercent submission returned `Oops, can't hunt this product. The link provided seems to be invalid.` AlternativeTo's moderator message rejected LivePhotoKit for not meeting the platform threshold. HKS remains logged out, and Indie Hackers still requires owner authentication/registration.

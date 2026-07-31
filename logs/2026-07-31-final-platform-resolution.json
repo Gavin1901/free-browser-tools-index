@@ -1,0 +1,65 @@
+{
+  "published_or_approved": [
+    {
+      "platform": "Quora",
+      "url": "https://www.quora.com/profile/Gan-Liu-16/A-baby-growth-percentile-is-a-comparison-not-a-grade-The-trend-across-visits-usually-matters-more-than-one-isolated-me",
+      "target": "https://babypercent.com/",
+      "browser_dom_target_link_verified": true
+    },
+    {
+      "platform": "SaaSHub",
+      "url": "https://www.saashub.com/planting-calendar",
+      "target": "https://plantingcalendar.net/",
+      "http_status": 200,
+      "target_domain_in_html": true
+    },
+    {
+      "platform": "SaaSHub",
+      "url": "https://www.saashub.com/freetdee",
+      "target": "https://freetdee.com/",
+      "http_status": 200,
+      "target_domain_in_html": true
+    },
+    {
+      "platform": "SaaSHub",
+      "url": "https://www.saashub.com/babypercent",
+      "target": "https://babypercent.com/",
+      "http_status": 200,
+      "target_domain_in_html": true
+    }
+  ],
+  "submitted_pending_review": [
+    {
+      "platform": "SaaSHub",
+      "url": "https://www.saashub.com/pupvax/added",
+      "result": "PupVax was submitted successfully"
+    },
+    {
+      "platform": "Product Hunt forum",
+      "url": "https://www.producthunt.com/p/self-promotion/i-built-a-free-baby-growth-percentile-calculator-feedback-welcome",
+      "result": "Pending Review"
+    }
+  ],
+  "terminal_blocks": [
+    {
+      "platform": "AlternativeTo",
+      "result": "LivePhotoKit rejected by moderator for not meeting the platform quality and benefits threshold"
+    },
+    {
+      "platform": "Product Hunt product submission",
+      "result": "BabyPercent returned: Oops, can't hunt this product. The link provided seems to be invalid."
+    },
+    {
+      "platform": "Hacker News",
+      "result": "Submission returned /showlim"
+    },
+    {
+      "platform": "Indie Hackers",
+      "result": "Registration or authentication still required"
+    },
+    {
+      "platform": "HKS",
+      "result": "Page still displays Login; no upload permission"
+    }
+  ]
+}

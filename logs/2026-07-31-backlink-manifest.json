@@ -196,5 +196,41 @@
         "verification_method":  "browser",
         "public_verified":  true,
         "target_link_verified":  true
+    },
+    {
+        "url":  "https://www.quora.com/profile/Gan-Liu-16/A-baby-growth-percentile-is-a-comparison-not-a-grade-The-trend-across-visits-usually-matters-more-than-one-isolated-me",
+        "platform":  "Quora",
+        "target_domain":  "babypercent.com",
+        "http_status":  403,
+        "verification_method":  "browser",
+        "public_verified":  true,
+        "target_link_verified":  true
+    },
+    {
+        "url":  "https://www.saashub.com/planting-calendar",
+        "platform":  "SaaSHub",
+        "target_domain":  "plantingcalendar.net",
+        "http_status":  200,
+        "verification_method":  "http",
+        "public_verified":  true,
+        "target_link_verified":  true
+    },
+    {
+        "url":  "https://www.saashub.com/freetdee",
+        "platform":  "SaaSHub",
+        "target_domain":  "freetdee.com",
+        "http_status":  200,
+        "verification_method":  "http",
+        "public_verified":  true,
+        "target_link_verified":  true
+    },
+    {
+        "url":  "https://www.saashub.com/babypercent",
+        "platform":  "SaaSHub",
+        "target_domain":  "babypercent.com",
+        "http_status":  200,
+        "verification_method":  "http",
+        "public_verified":  true,
+        "target_link_verified":  true
     }
 ]

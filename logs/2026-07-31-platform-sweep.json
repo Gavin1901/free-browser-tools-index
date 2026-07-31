@@ -26,12 +26,12 @@
     },
     {
         "platform":  "SaaSHub",
-        "status":  "pending_review",
+        "status":  "published",
         "feasible_unattempted":  false
     },
     {
         "platform":  "AlternativeTo",
-        "status":  "pending_review",
+        "status":  "platform_blocked",
         "feasible_unattempted":  false
     },
     {
@@ -46,12 +46,12 @@
     },
     {
         "platform":  "Quora",
-        "status":  "platform_blocked",
+        "status":  "published",
         "feasible_unattempted":  false
     },
     {
         "platform":  "Product Hunt",
-        "status":  "duplicate_avoided",
+        "status":  "pending_review",
         "feasible_unattempted":  false
     },
     {
@@ -77,6 +77,11 @@
     {
         "platform":  "janstk/Awesome-online-tools",
         "status":  "pending_review",
+        "feasible_unattempted":  false
+    },
+    {
+        "platform":  "HKS",
+        "status":  "login_blocked",
         "feasible_unattempted":  false
     }
 ]
