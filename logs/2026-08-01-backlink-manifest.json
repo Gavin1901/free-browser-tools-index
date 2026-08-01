@@ -3,5 +3,7 @@
   {"url":"https://medium.com/@lg695101011/worldwide-meeting-planner-how-to-find-a-fair-time-across-countries-039f445bbe11","target_domain":"zoneplan.net","platform":"Medium","http_status":null,"verification_method":"browser","public_verified":true,"target_link_verified":true},
   {"url":"https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-01-worldwide-meeting-planner-guide.md","target_domain":"zoneplan.net","platform":"GitHub Daily","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
   {"url":"https://gist.github.com/Gavin1901/9a676e206ab9cafd4e55713cb70e6275","target_domain":"zoneplan.net","platform":"GitHub Gist","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
-  {"url":"https://github.com/Gavin1901/zoneplan/issues/8","target_domain":"zoneplan.net","platform":"GitHub Issue","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true}
+  {"url":"https://github.com/Gavin1901/zoneplan/issues/8","target_domain":"zoneplan.net","platform":"GitHub Issue","http_status":200,"verification_method":"http","public_verified":true,"target_link_verified":true},
+  {"url":"https://www.pinterest.com/pin/1097893215437555606","target_domain":"zoneplan.net","platform":"Pinterest","http_status":null,"verification_method":"browser","public_verified":true,"target_link_verified":true},
+  {"url":"https://www.producthunt.com/p/self-promotion/i-built-a-free-worldwide-meeting-planner-for-distributed-teams","target_domain":"zoneplan.net","platform":"Product Hunt Forum","http_status":null,"verification_method":"browser","public_verified":true,"target_link_verified":true}
 ]
