@@ -1,0 +1,17 @@
+[
+  {"platform":"Dev.to","status":"published","feasible_unattempted":false,"evidence":"https://dev.to/gavinbuildsai/worldwide-meeting-planner-how-to-find-a-fair-time-across-countries-4h64"},
+  {"platform":"Medium","status":"published","feasible_unattempted":false,"evidence":"https://medium.com/@lg695101011/worldwide-meeting-planner-how-to-find-a-fair-time-across-countries-039f445bbe11"},
+  {"platform":"GitHub Daily","status":"published","feasible_unattempted":false,"evidence":"https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-01-worldwide-meeting-planner-guide.md"},
+  {"platform":"GitHub Gist","status":"published","feasible_unattempted":false,"evidence":"https://gist.github.com/Gavin1901/9a676e206ab9cafd4e55713cb70e6275"},
+  {"platform":"GitHub Issue","status":"published","feasible_unattempted":false,"evidence":"https://github.com/Gavin1901/zoneplan/issues/8"},
+  {"platform":"Quora","status":"published","feasible_unattempted":false,"evidence":"Gan Liu profile shows 14 Posts and Just now content; target URL not clickable, excluded from backlink manifest"},
+  {"platform":"Pinterest","status":"platform_blocked","feasible_unattempted":false,"evidence":"Logged in as Gavin Builds; pin creation route rendered blank editor controls"},
+  {"platform":"Product Hunt Forum","status":"platform_blocked","feasible_unattempted":false,"evidence":"Logged in as Gan Liu; Start new thread did not open composer"},
+  {"platform":"Product Hunt Product","status":"duplicate_avoided","feasible_unattempted":false,"evidence":"ZonePlan is not a new launch today; no duplicate product submission"},
+  {"platform":"Indie Hackers","status":"login_blocked","feasible_unattempted":false,"evidence":"Homepage and post/new show Join and redirect to feed"},
+  {"platform":"HKS","status":"platform_blocked","feasible_unattempted":false,"evidence":"ERR_CONNECTION_CLOSED"},
+  {"platform":"SaaSHub","status":"duplicate_avoided","feasible_unattempted":false,"evidence":"ZonePlan already has an existing product page; no duplicate submission"},
+  {"platform":"AlternativeTo","status":"platform_blocked","feasible_unattempted":false,"evidence":"software/add route returns 404; prior LivePhotoKit rejection remains"},
+  {"platform":"Hacker News","status":"duplicate_avoided","feasible_unattempted":false,"evidence":"Logged in submit form available; recent repeated Show HN attempts entered showlim"},
+  {"platform":"Reddit","status":"duplicate_avoided","feasible_unattempted":false,"evidence":"PGM account-line boundary; AI tool content prohibited"}
+]
