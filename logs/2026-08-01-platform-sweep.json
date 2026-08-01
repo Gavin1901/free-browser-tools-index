@@ -8,7 +8,7 @@
   {"platform":"Pinterest","status":"published","feasible_unattempted":false,"evidence":"https://www.pinterest.com/pin/1097893215437555606"},
   {"platform":"Product Hunt Forum","status":"published","feasible_unattempted":false,"evidence":"https://www.producthunt.com/p/self-promotion/i-built-a-free-worldwide-meeting-planner-for-distributed-teams"},
   {"platform":"Product Hunt Product","status":"duplicate_avoided","feasible_unattempted":false,"evidence":"ZonePlan is not a new launch today; no duplicate product submission"},
-  {"platform":"Indie Hackers","status":"login_blocked","feasible_unattempted":false,"evidence":"Homepage and post/new show Join and redirect to feed"},
+  {"platform":"Indie Hackers","status":"platform_blocked","feasible_unattempted":false,"evidence":"Registration completed as Gavin1; new account shows Welcome gate and post/new redirects to feed until community abilities unlock"},
   {"platform":"HKS","status":"platform_blocked","feasible_unattempted":false,"evidence":"ERR_CONNECTION_CLOSED"},
   {"platform":"SaaSHub","status":"duplicate_avoided","feasible_unattempted":false,"evidence":"ZonePlan already has an existing product page; no duplicate submission"},
   {"platform":"AlternativeTo","status":"platform_blocked","feasible_unattempted":false,"evidence":"software/add route returns 404; prior LivePhotoKit rejection remains"},
