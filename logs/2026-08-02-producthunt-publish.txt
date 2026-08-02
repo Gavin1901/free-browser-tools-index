@@ -1,0 +1,145 @@
+https://www.producthunt.com/p/self-promotion/i-improved-a-free-web-development-invoice-generator-after-gsc-showed-75-impressions-and-0-clicks
+Best Products
+Launches
+News
+Forums
+Advertise
+Submit
+13
+Home
+Recent comments
+Search all threads
+Start new thread
+Topic Forums
+p/general
+p/vibecoding
+p/ama
+p/introduce-yourself
+p/self-promotion
+Product Forums
+p/pushary
+p/runevr
+p/tablo-a-desktop-cat-widget
+p/touchgrass-2
+p/phantom-voice
+p/skim-5
+p/causo-hub-free-tools-for-fundraising
+p/kopai-the-marketplace-for-ai-agents
+p/linkedin
+p/slimsnap
+p/openai
+p/producthunt
+p/banquish-make-the-web-your-workspace
+p/premast-templates
+p/soundgate-guitar-app
+p/prelint
+p/vercel
+p/rankfender
+p/nudgefile
+p/codexbar-lite
+p/self-promotion
+Show off what you're working on
+Start new thread
+I improved a free web development invoice generator after GSC showed 75 impressions and 0 clicks
+by
+Gan Liu
+•
+1m ago
+Pending Review
+
+I run eight small browser tools and use Search Console data to choose one change at a time. InvoicePad had 1,090 impressions and zero clicks in the last 28 days. The query 'web development invoice' alone had 75 impressions and no clicks, so today I rewrote only the page title and redeployed it.
+
+The free template is here: https://invoicepad.net/web-devel...
+
+It supports project work, retainers, milestones, maintenance, and API integrations. No sign-up or watermark. I am sharing the experiment publicly and will compare CTR after the next data window.
+
+0
+
+0
+
+
+
+
+Comment
+Replies
+Be the first to comment
+Top Product Categories
+Engineering & Development
+Vibe Coding Tools
+AI Coding Agents
+AI Code Editors
+LLMs
+AI Chatbots
+AI Infrastructure Tools
+Prompt Engineering Tools
+Productivity
+AI notetakers
+Note and writing apps
+Team collaboration software
+Search
+AI Workflow Automation
+Marketing & Sales
+Lead generation software
+Marketing automation platforms
+Design & Creative
+Video editing
+Design resources
+Graphic design tools
+AI Generative Media
+Social & Community
+Social Networking
+Professional networking platforms
+Community management
+Finance
+Accounting software
+Fundraising resources
+Investing
+AI Agents
+AI Voice Agents
+See All Categories >>
+Trending categories
+Vibe Coding Tools
+AI Dictation Apps
+AI notetakers
+Code Review Tools
+No-code Platforms
+Figma Plugins
+Static site generators
+Top reviewed
+Lovable
+n8n
+Attio
+PostHog
+Vapi
+Granola
+Raycast
+Supabase
+Trending products
+Lovable
+Screen Studio
+bolt.new
+Wispr Flow
+Framer
+Replit
+Vapi
+Granola
+Top forum threads
+Cursor or Claude Code?
+POLL: Domain or product first?
+YC deadline in <2 weeks; Who's applying?
+We Got into YC, Got Kicked Out, and Fought Our Way Back
+How Wispr Flow found PMF through pivot
+Best Vibe Coding tool so far?
+Landing page roast - 48 hours only
+Fix your tagline with the PH CEO
+© 2026 Product Hunt
+Newsletter
+Apps
+About
+FAQ
+Terms
+Privacy & Cookies
+Privacy Choices
+Advertise
+llms.txt
+Contact us: hello@producthunt.com
