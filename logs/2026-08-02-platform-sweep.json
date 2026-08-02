@@ -1,0 +1,92 @@
+[
+  {
+    "platform": "Dev.to",
+    "status": "published",
+    "feasible_unattempted": false,
+    "evidence": "https://dev.to/gavinbuildsai/web-development-invoice-what-to-include-in-2026-4ppe"
+  },
+  {
+    "platform": "Medium",
+    "status": "published",
+    "feasible_unattempted": false,
+    "evidence": "https://medium.com/@lg695101011/web-development-invoice-what-to-include-in-2026-f5b101390eb9 published; target URL not clickable so excluded from backlink manifest"
+  },
+  {
+    "platform": "GitHub Daily",
+    "status": "published",
+    "feasible_unattempted": false,
+    "evidence": "4 new query-led public guides"
+  },
+  {
+    "platform": "GitHub Gist",
+    "status": "published",
+    "feasible_unattempted": false,
+    "evidence": "7 new public gists"
+  },
+  {
+    "platform": "GitHub Issue",
+    "status": "published",
+    "feasible_unattempted": false,
+    "evidence": "4 new public issues"
+  },
+  {
+    "platform": "Quora",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "2026-08-01 post failed clickable-link validation; no repeat today"
+  },
+  {
+    "platform": "Pinterest",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "recent 2026-08-01 ZonePlan pin; no duplicate pin today"
+  },
+  {
+    "platform": "Product Hunt Forum",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "recent 2026-08-01 ZonePlan thread; no duplicate promotion today"
+  },
+  {
+    "platform": "Product Hunt Product",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "iWorkViewer already launched; no duplicate product submission"
+  },
+  {
+    "platform": "Indie Hackers",
+    "status": "platform_blocked",
+    "feasible_unattempted": false,
+    "evidence": "Gavin1 new-account community posting gate remains"
+  },
+  {
+    "platform": "HKS",
+    "status": "platform_blocked",
+    "feasible_unattempted": false,
+    "evidence": "previous ERR_CONNECTION_CLOSED; no stable route"
+  },
+  {
+    "platform": "SaaSHub",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "existing product pages retained; no duplicate submission"
+  },
+  {
+    "platform": "AlternativeTo",
+    "status": "platform_blocked",
+    "feasible_unattempted": false,
+    "evidence": "add route/rejection history remains unresolved"
+  },
+  {
+    "platform": "Hacker News",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "recent repeated submissions entered showlim; no repeat today"
+  },
+  {
+    "platform": "Reddit",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "PGM account-line boundary; AI tool content prohibited"
+  }
+]
