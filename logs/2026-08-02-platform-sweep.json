@@ -3,49 +3,49 @@
     "platform": "Dev.to",
     "status": "published",
     "feasible_unattempted": false,
-    "evidence": "https://dev.to/gavinbuildsai/web-development-invoice-what-to-include-in-2026-4ppe"
+    "evidence": "https://dev.to/gavinbuildsai/web-development-invoice-what-to-include-in-2026-4ppe; browser and HTTP target-link verified"
   },
   {
     "platform": "Medium",
     "status": "published",
     "feasible_unattempted": false,
-    "evidence": "https://medium.com/@lg695101011/web-development-invoice-what-to-include-in-2026-f5b101390eb9 published; target URL not clickable so excluded from backlink manifest"
+    "evidence": "https://medium.com/@lg695101011/web-development-invoice-what-to-include-in-2026-f5b101390eb9; edited and browser target-link verified"
   },
   {
     "platform": "GitHub Daily",
     "status": "published",
     "feasible_unattempted": false,
-    "evidence": "4 new query-led public guides"
+    "evidence": "4 new public query-led guides; HTTP and target links verified"
   },
   {
     "platform": "GitHub Gist",
     "status": "published",
     "feasible_unattempted": false,
-    "evidence": "7 new public gists"
+    "evidence": "7 new public gists; HTTP and target links verified"
   },
   {
     "platform": "GitHub Issue",
     "status": "published",
     "feasible_unattempted": false,
-    "evidence": "4 new public issues"
+    "evidence": "4 new public issues; HTTP and target links verified"
   },
   {
     "platform": "Quora",
     "status": "duplicate_avoided",
     "feasible_unattempted": false,
-    "evidence": "2026-08-01 post failed clickable-link validation; no repeat today"
+    "evidence": "Live browser: correct Gan Liu profile, 15 posts; latest tool post 20h old, prior target link not clickable; no spam repeat"
   },
   {
     "platform": "Pinterest",
-    "status": "duplicate_avoided",
+    "status": "published",
     "feasible_unattempted": false,
-    "evidence": "recent 2026-08-01 ZonePlan pin; no duplicate pin today"
+    "evidence": "https://www.pinterest.com/pin/1097893215437625729/; Gavin Builds, public title and clickable InvoicePad destination browser-verified"
   },
   {
     "platform": "Product Hunt Forum",
-    "status": "duplicate_avoided",
+    "status": "published",
     "feasible_unattempted": false,
-    "evidence": "recent 2026-08-01 ZonePlan thread; no duplicate promotion today"
+    "evidence": "https://www.producthunt.com/p/self-promotion/i-improved-a-free-web-development-invoice-generator-after-gsc-showed-75-impressions-and-0-clicks; anonymous HTTP 200 and target link verified"
   },
   {
     "platform": "Product Hunt Product",
@@ -57,31 +57,31 @@
     "platform": "Indie Hackers",
     "status": "platform_blocked",
     "feasible_unattempted": false,
-    "evidence": "Gavin1 new-account community posting gate remains"
+    "evidence": "Live browser: /post/new redirects to public feed; new-account posting gate still active"
   },
   {
     "platform": "HKS",
-    "status": "platform_blocked",
+    "status": "login_blocked",
     "feasible_unattempted": false,
-    "evidence": "previous ERR_CONNECTION_CLOSED; no stable route"
+    "evidence": "Live browser 2026-08-02: site recovered and shows login; no authenticated session"
   },
   {
     "platform": "SaaSHub",
     "status": "duplicate_avoided",
     "feasible_unattempted": false,
-    "evidence": "existing product pages retained; no duplicate submission"
+    "evidence": "Live browser: ZonePlan public page contains target link and Pending approval; no duplicate submission"
   },
   {
     "platform": "AlternativeTo",
     "status": "platform_blocked",
     "feasible_unattempted": false,
-    "evidence": "add route/rejection history remains unresolved"
+    "evidence": "Live browser: /software/add/ returns platform 404 page"
   },
   {
     "platform": "Hacker News",
     "status": "duplicate_avoided",
     "feasible_unattempted": false,
-    "evidence": "recent repeated submissions entered showlim; no repeat today"
+    "evidence": "Live browser: logged-in submit form available; recent repeated submissions entered showlim, no spam repeat"
   },
   {
     "platform": "Reddit",

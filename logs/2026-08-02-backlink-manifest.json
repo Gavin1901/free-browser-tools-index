@@ -142,5 +142,32 @@
     "verification_method": "http",
     "public_verified": true,
     "target_link_verified": true
+  },
+  {
+    "url": "https://medium.com/@lg695101011/web-development-invoice-what-to-include-in-2026-f5b101390eb9",
+    "target_domain": "invoicepad.net",
+    "platform": "Medium",
+    "http_status": null,
+    "verification_method": "browser",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://www.producthunt.com/p/self-promotion/i-improved-a-free-web-development-invoice-generator-after-gsc-showed-75-impressions-and-0-clicks",
+    "target_domain": "invoicepad.net",
+    "platform": "Product Hunt Forum",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://www.pinterest.com/pin/1097893215437625729/",
+    "target_domain": "invoicepad.net",
+    "platform": "Pinterest",
+    "http_status": null,
+    "verification_method": "browser",
+    "public_verified": true,
+    "target_link_verified": true
   }
 ]
