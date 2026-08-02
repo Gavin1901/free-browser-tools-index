@@ -169,5 +169,23 @@
     "verification_method": "browser",
     "public_verified": true,
     "target_link_verified": true
+  },
+  {
+    "url": "https://dev.to/gavinbuildsai/bodybuilding-tdee-set-cutting-and-lean-bulk-calories-without-guessing-jbn",
+    "target_domain": "freetdee.com",
+    "platform": "Dev.to",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://www.pinterest.com/pin/1097893215437627266/",
+    "target_domain": "livephotokit.com",
+    "platform": "Pinterest",
+    "http_status": null,
+    "verification_method": "browser",
+    "public_verified": true,
+    "target_link_verified": true
   }
 ]

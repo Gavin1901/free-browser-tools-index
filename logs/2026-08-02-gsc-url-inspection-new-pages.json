@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "livephotokit.com",
+    "target": "https://livephotokit.com/send-live-photo-as-gif-whatsapp/",
+    "status": "not_on_google",
+    "inspection_url": "https://search.google.com/u/1/search-console/inspect?resource_id=sc-domain%3Alivephotokit.com&id=SIjJHqOsOhdG8ZHXKiRnVA",
+    "request_submitted": true,
+    "confirmation": "已请求编入索引",
+    "wait_seconds": 20
+  },
+  {
+    "domain": "freetdee.com",
+    "target": "https://freetdee.com/tdee-calculator-bodybuilding/",
+    "status": "not_on_google",
+    "inspection_url": "https://search.google.com/u/1/search-console/inspect?resource_id=sc-domain%3Afreetdee.com&id=5uNC0sT3p6ox4LVZ5puKfw",
+    "request_submitted": true,
+    "confirmation": "已请求编入索引",
+    "wait_seconds": 15
+  }
+]
