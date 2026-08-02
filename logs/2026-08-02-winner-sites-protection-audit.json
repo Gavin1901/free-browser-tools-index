@@ -1,0 +1,110 @@
+[
+  {
+    "site": "livephotokit.com",
+    "url": "https://livephotokit.com/",
+    "status": 200,
+    "title": "LivePhotoKit - Free HEIC & Live Photo Converter",
+    "title_len": 47,
+    "h1": "2026 Free HEIC & Live Photo Converter",
+    "canonical": "https://livephotokit.com/",
+    "schema": 2,
+    "internal_links": 24,
+    "noindex": false
+  },
+  {
+    "site": "livephotokit.com",
+    "url": "https://livephotokit.com/livp-to-jpg/",
+    "status": 200,
+    "title": "LIVP to JPG — Extract Still Photos from Live Photos (2026)",
+    "title_len": 58,
+    "h1": "LIVP to JPG Converter",
+    "canonical": "https://livephotokit.com/livp-to-jpg/",
+    "schema": 2,
+    "internal_links": 17,
+    "noindex": false
+  },
+  {
+    "site": "livephotokit.com",
+    "url": "https://livephotokit.com/open-livp-file/",
+    "status": 200,
+    "title": "Open LIVP File Online — View Live Photos, No Install (2026)",
+    "title_len": 59,
+    "h1": "Open LIVP File Online",
+    "canonical": "https://livephotokit.com/open-livp-file/",
+    "schema": 2,
+    "internal_links": 17,
+    "noindex": false
+  },
+  {
+    "site": "livephotokit.com",
+    "url": "https://livephotokit.com/live-photo-to-gif/",
+    "status": 200,
+    "title": "Live Photo to GIF — Make Animated GIFs from iPhone (2026)",
+    "title_len": 57,
+    "h1": "Turn a Live Photo into a GIF",
+    "canonical": "https://livephotokit.com/live-photo-to-gif/",
+    "schema": 2,
+    "internal_links": 16,
+    "noindex": false
+  },
+  {
+    "site": "iworkviewer.com",
+    "url": "https://iworkviewer.com/",
+    "status": 200,
+    "title": "iWorkViewer - Open Apple iWork Files Online",
+    "title_len": 43,
+    "h1": "Open Apple Pages, Numbers & Keynote on Any Device. Free. Private.",
+    "canonical": "https://iworkviewer.com/",
+    "schema": 2,
+    "internal_links": 41,
+    "noindex": false
+  },
+  {
+    "site": "iworkviewer.com",
+    "url": "https://iworkviewer.com/pages/",
+    "status": 200,
+    "title": "Apple Pages (.pages) Files - Open, View & Convert Free Online 2026",
+    "title_len": 66,
+    "h1": "Apple Pages (.pages) Files - Open, View & Convert",
+    "canonical": "https://iworkviewer.com/pages/",
+    "schema": 2,
+    "internal_links": 24,
+    "noindex": false
+  },
+  {
+    "site": "iworkviewer.com",
+    "url": "https://iworkviewer.com/open-pages-file-windows/",
+    "status": 200,
+    "title": "Open Pages File on Windows 2026 - Free, No Mac Needed",
+    "title_len": 53,
+    "h1": "Open a Pages File on Windows - Free, No Mac",
+    "canonical": "https://iworkviewer.com/open-pages-file-windows/",
+    "schema": 2,
+    "internal_links": 17,
+    "noindex": false
+  },
+  {
+    "site": "iworkviewer.com",
+    "url": "https://iworkviewer.com/keynote/",
+    "status": 200,
+    "title": "Apple Keynote (.key) Files - Open, View & Convert Free Online 2026",
+    "title_len": 66,
+    "h1": "Apple Keynote (.key) Files - Open, View & Convert",
+    "canonical": "https://iworkviewer.com/keynote/",
+    "schema": 2,
+    "internal_links": 26,
+    "noindex": false
+  },
+  {
+    "site": "iworkviewer.com",
+    "url": "https://iworkviewer.com/numbers/",
+    "status": 200,
+    "title": "Apple Numbers (.numbers) Files - Open, View & Convert Free Online 2026",
+    "title_len": 70,
+    "h1": "Apple Numbers (.numbers) Files - Open, View & Convert",
+    "canonical": "https://iworkviewer.com/numbers/",
+    "schema": 2,
+    "internal_links": 25,
+    "noindex": false
+  }
+]
