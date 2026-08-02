@@ -1,0 +1,66 @@
+{
+  "livephotokit_whatsapp": {
+    "url": "https://livephotokit.com/send-live-photo-as-gif-whatsapp/",
+    "status": 200,
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "length": 32803
+  },
+  "iwork_android": {
+    "url": "https://iworkviewer.com/open/pages-on-android/",
+    "status": 200,
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "length": 43368
+  },
+  "zone_global": {
+    "url": "https://zoneplan.net/global-meeting-planner/",
+    "status": 200,
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "length": 38627
+  },
+  "plant_zone8a": {
+    "url": "https://plantingcalendar.net/zones/8a/",
+    "status": 200,
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "length": 60378
+  },
+  "baby_percentile": {
+    "url": "https://babypercent.com/baby-weight-percentile/",
+    "status": 200,
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "length": 59371
+  },
+  "pup_deworming": {
+    "url": "https://pupvax.com/puppy-deworming-schedule/",
+    "status": 200,
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "length": 42121
+  },
+  "freetdee_bodybuilding": {
+    "url": "https://freetdee.com/goals/bodybuilding/",
+    "status": 404,
+    "canonical": true,
+    "schema": true,
+    "noindex": true,
+    "length": 21535
+  },
+  "invoice_webdev": {
+    "url": "https://invoicepad.net/web-developer-invoice-template/",
+    "status": 200,
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "length": 34088
+  }
+}

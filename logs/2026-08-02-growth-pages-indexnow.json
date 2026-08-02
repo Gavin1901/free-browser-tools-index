@@ -1,0 +1,35 @@
+[
+  {
+    "host": "freetdee.com",
+    "urls": [
+      "https://freetdee.com/tdee-calculator-bodybuilding/"
+    ],
+    "status": 200,
+    "body": ""
+  },
+  {
+    "host": "zoneplan.net",
+    "urls": [
+      "https://zoneplan.net/",
+      "https://zoneplan.net/global-meeting-planner/"
+    ],
+    "status": 200,
+    "body": ""
+  },
+  {
+    "host": "plantingcalendar.net",
+    "urls": [
+      "https://plantingcalendar.net/zones/8a/"
+    ],
+    "status": 200,
+    "body": ""
+  },
+  {
+    "host": "babypercent.com",
+    "urls": [
+      "https://babypercent.com/baby-weight-percentile/"
+    ],
+    "status": 200,
+    "body": ""
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "request": {
+    "host": "livephotokit.com",
+    "key": "0f3e7a9c4b2d16850fa9c7e3b1d64a28",
+    "keyLocation": "https://livephotokit.com/0f3e7a9c4b2d16850fa9c7e3b1d64a28.txt",
+    "urlList": [
+      "https://livephotokit.com/send-live-photo-as-gif-whatsapp/"
+    ]
+  },
+  "status": 200,
+  "body": ""
+}

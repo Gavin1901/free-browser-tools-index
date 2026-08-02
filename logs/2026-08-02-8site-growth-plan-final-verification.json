@@ -1,0 +1,122 @@
+{
+  "live": {
+    "url": "https://livephotokit.com/send-live-photo-as-gif-whatsapp/",
+    "status": 200,
+    "title": "Send Live Photo as GIF on WhatsApp - Free Online (2026)",
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "checks": {
+      "whatsapp": true,
+      "bodybuilding": false,
+      "zone_focus": false,
+      "frost": false,
+      "cdc": false
+    }
+  },
+  "free": {
+    "url": "https://freetdee.com/tdee-calculator-bodybuilding/",
+    "status": 200,
+    "title": "TDEE Calculator for Bodybuilding - Cut or Bulk Calories (2026) | 2026 Free TDEE Calculator",
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "checks": {
+      "whatsapp": false,
+      "bodybuilding": true,
+      "zone_focus": false,
+      "frost": false,
+      "cdc": false
+    }
+  },
+  "zone": {
+    "url": "https://zoneplan.net/",
+    "status": 200,
+    "title": "Time Zone Meeting Planner 2026 | World Clock Scheduler",
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "checks": {
+      "whatsapp": false,
+      "bodybuilding": false,
+      "zone_focus": true,
+      "frost": false,
+      "cdc": false
+    }
+  },
+  "plant": {
+    "url": "https://plantingcalendar.net/zones/8a/",
+    "status": 200,
+    "title": "Last Frost Date Zone 8a &amp; 2026 Planting Calendar | 2026 Planting Guide",
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "checks": {
+      "whatsapp": false,
+      "bodybuilding": false,
+      "zone_focus": false,
+      "frost": true,
+      "cdc": false
+    }
+  },
+  "baby": {
+    "url": "https://babypercent.com/baby-weight-percentile/",
+    "status": 200,
+    "title": "Baby Weight Percentile (2026) \u2014 WHO &amp; CDC Charts, Averages by Age | 2026 Baby Growth Tracker",
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "checks": {
+      "whatsapp": false,
+      "bodybuilding": false,
+      "zone_focus": false,
+      "frost": false,
+      "cdc": true
+    }
+  },
+  "iwork": {
+    "url": "https://iworkviewer.com/open/pages-on-android/",
+    "status": 200,
+    "title": "Open .pages File on Android 2026 - Free, No Mac Needed",
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "checks": {
+      "whatsapp": false,
+      "bodybuilding": false,
+      "zone_focus": false,
+      "frost": false,
+      "cdc": false
+    }
+  },
+  "pup": {
+    "url": "https://pupvax.com/puppy-deworming-schedule/",
+    "status": 200,
+    "title": "Dog Deworming Schedule Chart: Puppy to Adult (2026) | 2026 Dog Vaccine Tracker",
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "checks": {
+      "whatsapp": false,
+      "bodybuilding": false,
+      "zone_focus": false,
+      "frost": false,
+      "cdc": false
+    }
+  },
+  "invoice": {
+    "url": "https://invoicepad.net/web-developer-invoice-template/",
+    "status": 200,
+    "title": "Web Development Invoice - Free PDF Template &amp; Generator | 2026 Free Invoice Generator",
+    "canonical": true,
+    "schema": true,
+    "noindex": false,
+    "checks": {
+      "whatsapp": false,
+      "bodybuilding": false,
+      "zone_focus": false,
+      "frost": false,
+      "cdc": false
+    }
+  }
+}
