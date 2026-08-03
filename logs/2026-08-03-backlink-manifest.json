@@ -97,5 +97,14 @@
     "verification_method": "browser",
     "public_verified": true,
     "target_link_verified": true
+  },
+  {
+    "url": "https://www.producthunt.com/p/self-promotion/zoneplan-worldwide-meeting-planner-hit-258-impressions-for-one-query-2",
+    "target_domain": "zoneplan.net",
+    "platform": "Product Hunt Forum",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
   }
 ]

@@ -45,7 +45,7 @@
     "platform": "Product Hunt Forum",
     "status": "published",
     "feasible_unattempted": false,
-    "evidence": "ZonePlan post published; title contains ZonePlan; body not filled (PH uses rich editor not textarea); target link not clickable in DOM"
+    "evidence": "ZonePlan post published at /self-promotion/zoneplan-worldwide-meeting-planner-hit-258-impressions-for-one-query-2; body filled via TipTap/ProseMirror contenteditable div + keyboard.type(); 2 clickable zoneplan.net links verified"
   },
   {
     "platform": "Product Hunt Product",
