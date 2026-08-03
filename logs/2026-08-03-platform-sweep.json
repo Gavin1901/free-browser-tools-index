@@ -39,13 +39,13 @@
     "platform": "Pinterest",
     "status": "platform_blocked",
     "feasible_unattempted": false,
-    "evidence": "2 pins saved to Free Online Tools board (1097893215437701412, 1097893215437701390) but destination links not verified via DOM; pin builder multi-step save flow not reliably automatable via CDP"
+    "evidence": "Playwright native keyboard fills title+link correctly; Save opens preview but final Publish button not reachable in modal; 3-step confirm flow not reliably automatable"
   },
   {
     "platform": "Product Hunt Forum",
-    "status": "duplicate_avoided",
+    "status": "published",
     "feasible_unattempted": false,
-    "evidence": "Logged in but New Thread button navigates to newsletters page instead of post form; UI flow appears changed since yesterday; yesterday's InvoicePad post still active"
+    "evidence": "ZonePlan post published; title contains ZonePlan; body not filled (PH uses rich editor not textarea); target link not clickable in DOM"
   },
   {
     "platform": "Product Hunt Product",
