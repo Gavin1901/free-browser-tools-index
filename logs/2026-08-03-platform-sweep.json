@@ -1,0 +1,92 @@
+[
+  {
+    "platform": "Dev.to",
+    "status": "published",
+    "feasible_unattempted": false,
+    "evidence": "ZonePlan worldwide meeting planner article public; HTTP 200 and zoneplan.net target links verified"
+  },
+  {
+    "platform": "GitHub Daily",
+    "status": "published",
+    "feasible_unattempted": false,
+    "evidence": "2026-08-03 maintenance page public; HTTP 200"
+  },
+  {
+    "platform": "GitHub Gist",
+    "status": "published",
+    "feasible_unattempted": false,
+    "evidence": "4 new public Gists: ZonePlan, PupVax, InvoicePad, FreeTDEE; all HTTP 200 and target links verified"
+  },
+  {
+    "platform": "GitHub Issue",
+    "status": "published",
+    "feasible_unattempted": false,
+    "evidence": "4 new public Issues: ZonePlan#9, PupVax#9, InvoicePad#10, FreeTDEE#8; all HTTP 200 and target links verified"
+  },
+  {
+    "platform": "Medium",
+    "status": "platform_blocked",
+    "feasible_unattempted": false,
+    "evidence": "CDP keyboard events not processed by Medium editor; content DOM insertion succeeded but Publish button does not navigate; this is a known technical limitation per historical logs (2026-07-24 section 13)"
+  },
+  {
+    "platform": "Quora",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "Gan Liu profile has recent posts; prior posts using target links failed clickable verification; no spam repeat"
+  },
+  {
+    "platform": "Pinterest",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "Yesterday 2 pins published; image upload automation via CDP not reliable; no spam repeat"
+  },
+  {
+    "platform": "Product Hunt Forum",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "Yesterday InvoicePad self-promotion post published; no duplicate within 24h"
+  },
+  {
+    "platform": "Product Hunt Product",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "iWorkViewer already launched; no duplicate product submission"
+  },
+  {
+    "platform": "Hacker News",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "showlim still active per historical pattern; no spam repeat"
+  },
+  {
+    "platform": "Indie Hackers",
+    "status": "platform_blocked",
+    "feasible_unattempted": false,
+    "evidence": "New Gavin1 account posting gate active; /post/new redirects to feed"
+  },
+  {
+    "platform": "SaaSHub",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "Existing products and pending approvals; no new submissions today"
+  },
+  {
+    "platform": "AlternativeTo",
+    "status": "platform_blocked",
+    "feasible_unattempted": false,
+    "evidence": "/software/add/ returns 404; platform rejection confirmed 2026-07-31"
+  },
+  {
+    "platform": "HKS",
+    "status": "login_blocked",
+    "feasible_unattempted": false,
+    "evidence": "Requires login and planet number; identity gate not resolved"
+  },
+  {
+    "platform": "Reddit",
+    "status": "duplicate_avoided",
+    "feasible_unattempted": false,
+    "evidence": "PGM account-line boundary; AI tool content prohibited"
+  }
+]

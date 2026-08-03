@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-03-ai-tool-indexing-maintenance.md",
+    "target_domain": "multi-site",
+    "platform": "GitHub Daily",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://gist.github.com/Gavin1901/da65e60185bb0bd638ef7011be9e9319",
+    "target_domain": "zoneplan.net",
+    "platform": "GitHub Gist",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://gist.github.com/Gavin1901/e4589bd9c6167c29845397bfb7ebf17f",
+    "target_domain": "pupvax.com",
+    "platform": "GitHub Gist",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://gist.github.com/Gavin1901/1baed974b8ac4c3fbaef286bc370afa9",
+    "target_domain": "invoicepad.net",
+    "platform": "GitHub Gist",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://gist.github.com/Gavin1901/4dce4a497300220c821f935c4d9e0c0d",
+    "target_domain": "freetdee.com",
+    "platform": "GitHub Gist",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://github.com/Gavin1901/zoneplan/issues/9",
+    "target_domain": "zoneplan.net",
+    "platform": "GitHub Issue",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://github.com/Gavin1901/pupvax/issues/9",
+    "target_domain": "pupvax.com",
+    "platform": "GitHub Issue",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://github.com/Gavin1901/invoicepad/issues/10",
+    "target_domain": "invoicepad.net",
+    "platform": "GitHub Issue",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://github.com/Gavin1901/freetdee/issues/8",
+    "target_domain": "freetdee.com",
+    "platform": "GitHub Issue",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://dev.to/gavinbuildsai/worldwide-meeting-planner-how-to-find-one-fair-time-across-24-time-zones-44jj",
+    "target_domain": "zoneplan.net",
+    "platform": "Dev.to",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  }
+]
