@@ -88,5 +88,14 @@
     "verification_method": "http",
     "public_verified": true,
     "target_link_verified": true
+  },
+  {
+    "url": "https://medium.com/@lg695101011/-69f3b1368484",
+    "target_domain": "zoneplan.net",
+    "platform": "Medium",
+    "http_status": null,
+    "verification_method": "browser",
+    "public_verified": true,
+    "target_link_verified": true
   }
 ]

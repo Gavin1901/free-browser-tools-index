@@ -25,9 +25,9 @@
   },
   {
     "platform": "Medium",
-    "status": "platform_blocked",
+    "status": "published",
     "feasible_unattempted": false,
-    "evidence": "CDP keyboard events not processed by Medium editor; content DOM insertion succeeded but Publish button does not navigate; this is a known technical limitation per historical logs (2026-07-24 section 13)"
+    "evidence": "Published via Playwright native keyboard (medium_publish_native.py); canonical https://medium.com/@lg695101011/-69f3b1368484; 4 ZonePlan clickable target links verified via CDP browser DOM"
   },
   {
     "platform": "Quora",
@@ -37,15 +37,15 @@
   },
   {
     "platform": "Pinterest",
-    "status": "duplicate_avoided",
+    "status": "platform_blocked",
     "feasible_unattempted": false,
-    "evidence": "Yesterday 2 pins published; image upload automation via CDP not reliable; no spam repeat"
+    "evidence": "2 pins saved to Free Online Tools board (1097893215437701412, 1097893215437701390) but destination links not verified via DOM; pin builder multi-step save flow not reliably automatable via CDP"
   },
   {
     "platform": "Product Hunt Forum",
     "status": "duplicate_avoided",
     "feasible_unattempted": false,
-    "evidence": "Yesterday InvoicePad self-promotion post published; no duplicate within 24h"
+    "evidence": "Logged in but New Thread button navigates to newsletters page instead of post form; UI flow appears changed since yesterday; yesterday's InvoicePad post still active"
   },
   {
     "platform": "Product Hunt Product",
