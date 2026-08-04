@@ -1,0 +1,38 @@
+﻿[
+  {
+    "url": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-04-ai-tool-indexing-maintenance.md",
+    "target_domain": "multi-site",
+    "platform": "GitHub Daily",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://gist.github.com/Gavin1901/6cd06ec70a3b412dc473297662c606cf",
+    "target_domain": "iworkviewer.com",
+    "platform": "GitHub Gist",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://github.com/Gavin1901/iworkviewer/issues/4",
+    "target_domain": "iworkviewer.com",
+    "platform": "GitHub Issue",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  },
+  {
+    "url": "https://dev.to/gavinbuildsai/how-to-open-apple-pages-files-on-android-no-mac-no-app-free-2026-guide-me4",
+    "target_domain": "iworkviewer.com",
+    "platform": "Dev.to",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
+  }
+]

@@ -1,0 +1,15 @@
+﻿[
+  {"platform": "GitHub Daily", "status": "published"},
+  {"platform": "GitHub Gist", "status": "published"},
+  {"platform": "GitHub Issue", "status": "published"},
+  {"platform": "Dev.to", "status": "published"},
+  {"platform": "Medium", "status": "duplicate_avoided", "note": "08-03 ZonePlan Medium already published; preventing spam"},
+  {"platform": "Quora", "status": "login_blocked", "note": "Chrome profile not accessible; login required"},
+  {"platform": "Hacker News", "status": "duplicate_avoided", "note": "Previous submit under /showlim; preventing repeat"},
+  {"platform": "Product Hunt Forum", "status": "duplicate_avoided", "note": "08-03 ZonePlan post published; preventing spam"},
+  {"platform": "Pinterest", "status": "login_blocked", "note": "3-step confirmation flow requires manual operation"},
+  {"platform": "SaaSHub", "status": "login_blocked", "note": "Remaining submissions require registration/login"},
+  {"platform": "AlternativeTo", "status": "login_blocked", "note": "OAuth login required"},
+  {"platform": "Indie Hackers", "status": "login_blocked", "note": "Email+password login required"},
+  {"platform": "Reddit", "status": "platform_blocked", "note": "PGM account line; forbidden per rules"}
+]
