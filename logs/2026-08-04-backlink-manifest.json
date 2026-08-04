@@ -34,5 +34,14 @@
     "verification_method": "http",
     "public_verified": true,
     "target_link_verified": true
+  },
+  {
+    "url": "https://gist.github.com/Gavin1901/8f47b666d9bff3eb78634330c75b92c7",
+    "target_domain": "zoneplan.net",
+    "platform": "GitHub Gist",
+    "http_status": 200,
+    "verification_method": "http",
+    "public_verified": true,
+    "target_link_verified": true
   }
 ]
