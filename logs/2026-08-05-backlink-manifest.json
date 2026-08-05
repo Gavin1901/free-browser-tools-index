@@ -1,119 +1,18 @@
 [
-  {
-    "url": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-05-ai-tool-indexing-maintenance.md",
-    "target_domain": "multi-site",
-    "platform": "GitHub Daily",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://gist.github.com/Gavin1901/9239a82596f661c51034b73411c554ee",
-    "target_domain": "zoneplan.net",
-    "platform": "GitHub Gist",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://gist.github.com/Gavin1901/5075bbde11ed97446d8cb6e013639545",
-    "target_domain": "iworkviewer.com",
-    "platform": "GitHub Gist",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://gist.github.com/Gavin1901/a14ccb6cd6c95dc71c260fcf943e0cc5",
-    "target_domain": "invoicepad.net",
-    "platform": "GitHub Gist",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://gist.github.com/Gavin1901/b7756a5adb2f64f7cd317962e4dc89da",
-    "target_domain": "freetdee.com",
-    "platform": "GitHub Gist",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://gist.github.com/Gavin1901/a816b071dc9db5994777c4f32f9d7495",
-    "target_domain": "pupvax.com",
-    "platform": "GitHub Gist",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://gist.github.com/Gavin1901/a8eb222188d97da421ac87acd0d9f748",
-    "target_domain": "plantingcalendar.net",
-    "platform": "GitHub Gist",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://github.com/Gavin1901/zoneplan/issues/10",
-    "target_domain": "zoneplan.net",
-    "platform": "GitHub Issue",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://github.com/Gavin1901/iworkviewer/issues/5",
-    "target_domain": "iworkviewer.com",
-    "platform": "GitHub Issue",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://github.com/Gavin1901/invoicepad/issues/11",
-    "target_domain": "invoicepad.net",
-    "platform": "GitHub Issue",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://github.com/Gavin1901/freetdee/issues/9",
-    "target_domain": "freetdee.com",
-    "platform": "GitHub Issue",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://github.com/Gavin1901/pupvax/issues/10",
-    "target_domain": "pupvax.com",
-    "platform": "GitHub Issue",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  },
-  {
-    "url": "https://github.com/Gavin1901/plantingcalendar/issues/5",
-    "target_domain": "plantingcalendar.net",
-    "platform": "GitHub Issue",
-    "http_status": 200,
-    "verification_method": "http",
-    "public_verified": true,
-    "target_link_verified": true
-  }
+  {"url": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-05-ai-tool-indexing-maintenance.md", "target_domain": "multi-site", "platform": "GitHub Daily", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://gist.github.com/Gavin1901/9239a82596f661c51034b73411c554ee", "target_domain": "zoneplan.net", "platform": "GitHub Gist", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://gist.github.com/Gavin1901/5075bbde11ed97446d8cb6e013639545", "target_domain": "iworkviewer.com", "platform": "GitHub Gist", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://gist.github.com/Gavin1901/a14ccb6cd6c95dc71c260fcf943e0cc5", "target_domain": "invoicepad.net", "platform": "GitHub Gist", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://gist.github.com/Gavin1901/b7756a5adb2f64f7cd317962e4dc89da", "target_domain": "freetdee.com", "platform": "GitHub Gist", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://gist.github.com/Gavin1901/a816b071dc9db5994777c4f32f9d7495", "target_domain": "pupvax.com", "platform": "GitHub Gist", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://gist.github.com/Gavin1901/a8eb222188d97da421ac87acd0d9f748", "target_domain": "plantingcalendar.net", "platform": "GitHub Gist", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://github.com/Gavin1901/zoneplan/issues/10", "target_domain": "zoneplan.net", "platform": "GitHub Issue", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://github.com/Gavin1901/iworkviewer/issues/5", "target_domain": "iworkviewer.com", "platform": "GitHub Issue", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://github.com/Gavin1901/invoicepad/issues/11", "target_domain": "invoicepad.net", "platform": "GitHub Issue", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://github.com/Gavin1901/freetdee/issues/9", "target_domain": "freetdee.com", "platform": "GitHub Issue", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://github.com/Gavin1901/pupvax/issues/10", "target_domain": "pupvax.com", "platform": "GitHub Issue", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://github.com/Gavin1901/plantingcalendar/issues/5", "target_domain": "plantingcalendar.net", "platform": "GitHub Issue", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://dev.to/gavinbuildsai/i-merged-6-near-identical-planner-pages-into-1-here-is-what-happened-to-our-seo-55d1", "target_domain": "zoneplan.net", "platform": "Dev.to", "http_status": 200, "verification_method": "http", "public_verified": true, "target_link_verified": true},
+  {"url": "https://medium.com/@lg695101011/d43fb0bc462e", "target_domain": "multi-site", "platform": "Medium", "http_status": 200, "verification_method": "browser", "public_verified": true, "target_link_verified": true, "note": "8 clickable tool links verified via browser DOM"},
+  {"url": "https://news.ycombinator.com/item?id=49178050", "target_domain": "zoneplan.net", "platform": "Hacker News", "http_status": 200, "verification_method": "browser", "public_verified": true, "target_link_verified": true, "note": "Links to Dev.to article which contains zoneplan.net link"}
 ]
