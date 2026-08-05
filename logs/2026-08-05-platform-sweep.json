@@ -1,0 +1,17 @@
+[
+  {"platform": "GitHub Daily", "status": "published"},
+  {"platform": "GitHub Gist", "status": "published"},
+  {"platform": "GitHub Issue", "status": "published"},
+  {"platform": "Dev.to", "status": "login_blocked", "note": "CDP 9223 unavailable; Chrome running without --remote-debugging-port; no Dev.to API key configured"},
+  {"platform": "Medium", "status": "login_blocked", "note": "CDP 9223 unavailable; Playwright medium_publish_native.py requires CDP connection"},
+  {"platform": "Quora", "status": "login_blocked", "note": "CDP 9223 unavailable; browser-based login required"},
+  {"platform": "Hacker News", "status": "login_blocked", "note": "CDP 9223 unavailable; also under /showlim restriction"},
+  {"platform": "Product Hunt Forum", "status": "duplicate_avoided", "note": "08-03 ZonePlan post already published; 08-04 already marked duplicate_avoided; preventing repeat spam within same week"},
+  {"platform": "Pinterest", "status": "login_blocked", "note": "CDP 9223 unavailable; 3-step confirmation flow requires browser or manual operation by 淦总"},
+  {"platform": "SaaSHub", "status": "login_blocked", "note": "Registration/login required; remaining submissions blocked"},
+  {"platform": "AlternativeTo", "status": "login_blocked", "note": "OAuth login required; LivePhotoKit already rejected by admin"},
+  {"platform": "Indie Hackers", "status": "login_blocked", "note": "Account Gavin1 exists but new-account posting gated; requires 淦总 to resolve"},
+  {"platform": "Reddit", "status": "platform_blocked", "note": "PGM account line; forbidden per account isolation rules"},
+  {"platform": "LivePhotoKit SaaSHub", "status": "published", "note": "Previously verified public with direct link to livephotokit.com; not resubmitted today"},
+  {"platform": "BabyPercent SaaSHub", "status": "published", "note": "Previously verified public with direct link to babypercent.com; not resubmitted today"}
+]
