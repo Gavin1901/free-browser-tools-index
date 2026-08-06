@@ -1,0 +1,17 @@
+﻿[
+  {"platform": "GitHub Daily", "status": "published", "url": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-06-invoicepad-backlinks.md"},
+  {"platform": "GitHub Gist", "status": "published", "url": "https://gist.github.com/Gavin1901/63b10fcc22a0a3676a0692bf0d7e08ae"},
+  {"platform": "GitHub Issue (evidence repo)", "status": "published", "url": "https://github.com/Gavin1901/free-browser-tools-index/issues/17"},
+  {"platform": "GitHub Issue (invoicepad repo)", "status": "published", "url": "https://github.com/Gavin1901/invoicepad/issues/12"},
+  {"platform": "GitHub Issue (evidence #2)", "status": "published", "url": "https://github.com/Gavin1901/free-browser-tools-index/issues/18"},
+  {"platform": "Dev.to", "status": "platform_blocked", "note": "CDP editor interaction unreliable. Title validation error. Screenshot: logs/2026-08-06-devto-final.png"},
+  {"platform": "Medium", "status": "pending_review", "note": "Content filled. Publish confirmation requires native interaction. Screenshot: logs/2026-08-06-medium-pub-dialog.png"},
+  {"platform": "Hacker News", "status": "duplicate_avoided", "note": "Recent posts; /showlim gated"},
+  {"platform": "Quora", "status": "login_blocked", "note": "GavinBuilds profile post creation incomplete since 08-05"},
+  {"platform": "Pinterest", "status": "login_blocked", "note": "3-step pin confirmation unreliable via CDP"},
+  {"platform": "Product Hunt Forum", "status": "platform_blocked", "note": "TipTap editor not initialized; form elements missing"},
+  {"platform": "SaaSHub", "status": "login_blocked", "note": "Login required for remaining submissions"},
+  {"platform": "AlternativeTo", "status": "login_blocked", "note": "OAuth login required"},
+  {"platform": "Indie Hackers", "status": "login_blocked", "note": "New-account posting gated"},
+  {"platform": "Reddit", "status": "platform_blocked", "note": "PGM account line; forbidden"}
+]
