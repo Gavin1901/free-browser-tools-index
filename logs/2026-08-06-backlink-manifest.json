@@ -1,47 +1,8 @@
 ﻿[
-  {
-    "url": "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-06-invoicepad-backlinks.md",
-    "target_domain": "invoicepad.net",
-    "platform": "GitHub Daily",
-    "public_verified": true,
-    "target_link_verified": true,
-    "http_status": 200,
-    "verification_method": "browser"
-  },
-  {
-    "url": "https://gist.github.com/Gavin1901/63b10fcc22a0a3676a0692bf0d7e08ae",
-    "target_domain": "invoicepad.net",
-    "platform": "GitHub Gist",
-    "public_verified": true,
-    "target_link_verified": true,
-    "http_status": 200,
-    "verification_method": "http"
-  },
-  {
-    "url": "https://github.com/Gavin1901/free-browser-tools-index/issues/17",
-    "target_domain": "invoicepad.net",
-    "platform": "GitHub Issue",
-    "public_verified": true,
-    "target_link_verified": true,
-    "http_status": 200,
-    "verification_method": "http"
-  },
-  {
-    "url": "https://github.com/Gavin1901/invoicepad/issues/12",
-    "target_domain": "invoicepad.net",
-    "platform": "GitHub Issue (invoicepad repo)",
-    "public_verified": true,
-    "target_link_verified": true,
-    "http_status": 200,
-    "verification_method": "http"
-  },
-  {
-    "url": "https://github.com/Gavin1901/free-browser-tools-index/issues/18",
-    "target_domain": "invoicepad.net",
-    "platform": "GitHub Issue",
-    "public_verified": true,
-    "target_link_verified": true,
-    "http_status": 200,
-    "verification_method": "http"
-  }
+  {"url":"https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-06-invoicepad-backlinks.md","target_domain":"invoicepad.net","platform":"GitHub Daily","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"browser"},
+  {"url":"https://gist.github.com/Gavin1901/63b10fcc22a0a3676a0692bf0d7e08ae","target_domain":"invoicepad.net","platform":"GitHub Gist","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
+  {"url":"https://github.com/Gavin1901/free-browser-tools-index/issues/17","target_domain":"invoicepad.net","platform":"GitHub Issue","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
+  {"url":"https://github.com/Gavin1901/invoicepad/issues/12","target_domain":"invoicepad.net","platform":"GitHub Issue (invoicepad)","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
+  {"url":"https://github.com/Gavin1901/free-browser-tools-index/issues/18","target_domain":"invoicepad.net","platform":"GitHub Issue #2","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
+  {"url":"https://dev.to/gavinbuildsai/what-invoicepad-taught-me-about-search-intent-17a6","target_domain":"invoicepad.net","platform":"Dev.to","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"}
 ]
