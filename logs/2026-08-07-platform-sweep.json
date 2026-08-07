@@ -6,7 +6,7 @@
   {"platform":"GitHub Issue ×7 cross-ref","status":"published","url":"invoicepad#14, zoneplan#12, freetdee#11, babypercent#6, livephotokit#6, iworkviewer#7, plantingcalendar#7"},
   {"platform":"Dev.to","status":"published","url":"https://dev.to/gavinbuildsai/839-impressions-1-click-what-i-learned-from-my-puppy-vaccine-tracker-seo-4818","verified":"HTTP 200, pupvax.com link present"},
   {"platform":"Hacker News","status":"platform_blocked","note":"Comment submitted via CDP but not publicly visible. Same as 08-06 boundary: account limited from new link submissions. Comment functionality confirmed working but link not publicly verifiable."},
-  {"platform":"Medium","status":"pending_review","note":"CDP keyboard type runs but publish confirmation requires native browser click. Same as 08-06 boundary."},
+  {"platform":"Medium","status":"published","url":"https://medium.com/@lg695101011/puppy-vaccination-schedule-what-every-new-owner-misses-113f40a5deb2","note":"Published via Playwright keyboard.type() + 2-step Publish confirm. pupvax.com and github.com visible as text in article body. Edit page content not loading for link fix. CDP browser DOM verified."},
   {"platform":"Quora","status":"login_blocked","note":"Content creation CDP unreliable on Quora complex UI"},
   {"platform":"Pinterest","status":"login_blocked","note":"3-step pin confirmation requires native click"},
   {"platform":"Product Hunt","status":"login_blocked","note":"Not logged in. TipTap editor issue persists."},
