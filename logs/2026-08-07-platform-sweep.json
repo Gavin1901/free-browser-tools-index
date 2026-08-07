@@ -1,0 +1,17 @@
+[
+  {"platform":"GitHub Daily","status":"published","url":"https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-07-pupvax-backlinks.md"},
+  {"platform":"GitHub Gist","status":"published","url":"https://gist.github.com/Gavin1901/28bcdb9d2dc02d2473359d5334d4a6e0"},
+  {"platform":"GitHub Issue (free-browser-tools-index)","status":"published","url":"https://github.com/Gavin1901/free-browser-tools-index/issues/19"},
+  {"platform":"GitHub Issue (pupvax)","status":"published","url":"https://github.com/Gavin1901/pupvax/issues/12"},
+  {"platform":"GitHub Issue ×7 cross-ref","status":"published","url":"invoicepad#14, zoneplan#12, freetdee#11, babypercent#6, livephotokit#6, iworkviewer#7, plantingcalendar#7"},
+  {"platform":"Dev.to","status":"published","url":"https://dev.to/gavinbuildsai/839-impressions-1-click-what-i-learned-from-my-puppy-vaccine-tracker-seo-4818","verified":"HTTP 200, pupvax.com link present"},
+  {"platform":"Hacker News","status":"pending_review","note":"Comment submitted to item?id=49201970. Link not verified due to HN display delay. Submitted content contains pupvax.com link."},
+  {"platform":"Medium","status":"pending_review","note":"CDP keyboard type runs but publish confirmation requires native browser click. Same as 08-06 boundary."},
+  {"platform":"Quora","status":"login_blocked","note":"Content creation CDP unreliable on Quora complex UI"},
+  {"platform":"Pinterest","status":"login_blocked","note":"3-step pin confirmation requires native click"},
+  {"platform":"Product Hunt","status":"login_blocked","note":"Not logged in. TipTap editor issue persists."},
+  {"platform":"SaaSHub","status":"login_blocked","note":"Login required"},
+  {"platform":"AlternativeTo","status":"login_blocked","note":"OAuth login required"},
+  {"platform":"Indie Hackers","status":"login_blocked","note":"New-account posting gated"},
+  {"platform":"Reddit","status":"platform_blocked","note":"PGM account line; forbidden"}
+]
