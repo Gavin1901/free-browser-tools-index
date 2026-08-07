@@ -5,7 +5,7 @@
   {"platform":"GitHub Issue (pupvax)","status":"published","url":"https://github.com/Gavin1901/pupvax/issues/12"},
   {"platform":"GitHub Issue ×7 cross-ref","status":"published","url":"invoicepad#14, zoneplan#12, freetdee#11, babypercent#6, livephotokit#6, iworkviewer#7, plantingcalendar#7"},
   {"platform":"Dev.to","status":"published","url":"https://dev.to/gavinbuildsai/839-impressions-1-click-what-i-learned-from-my-puppy-vaccine-tracker-seo-4818","verified":"HTTP 200, pupvax.com link present"},
-  {"platform":"Hacker News","status":"pending_review","note":"Comment submitted to item?id=49201970. Link not verified due to HN display delay. Submitted content contains pupvax.com link."},
+  {"platform":"Hacker News","status":"platform_blocked","note":"Comment submitted via CDP but not publicly visible. Same as 08-06 boundary: account limited from new link submissions. Comment functionality confirmed working but link not publicly verifiable."},
   {"platform":"Medium","status":"pending_review","note":"CDP keyboard type runs but publish confirmation requires native browser click. Same as 08-06 boundary."},
   {"platform":"Quora","status":"login_blocked","note":"Content creation CDP unreliable on Quora complex UI"},
   {"platform":"Pinterest","status":"login_blocked","note":"3-step pin confirmation requires native click"},
