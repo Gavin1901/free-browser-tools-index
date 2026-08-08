@@ -1,0 +1,5287 @@
+[
+  {
+    "url": "https://babypercent.com/",
+    "status": 200,
+    "final_url": "https://babypercent.com/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/0-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/0-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/1-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/1-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/10-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/10-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/11-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/11-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/12-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/12-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/13-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/13-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/14-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/14-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/15-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/15-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/16-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/16-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/17-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/17-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/18-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/18-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/19-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/19-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/2-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/2-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/20-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/20-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/21-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/21-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/22-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/22-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/23-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/23-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/24-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/24-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/3-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/3-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/4-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/4-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/5-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/5-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/6-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/6-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/7-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/7-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/8-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/8-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/9-month",
+    "status": 200,
+    "final_url": "https://babypercent.com/9-month/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/about",
+    "status": 200,
+    "final_url": "https://babypercent.com/about/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/baby-bmi",
+    "status": 200,
+    "final_url": "https://babypercent.com/baby-bmi/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/baby-head-circumference",
+    "status": 200,
+    "final_url": "https://babypercent.com/baby-head-circumference/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/baby-height-percentile",
+    "status": 200,
+    "final_url": "https://babypercent.com/baby-height-percentile/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/baby-weight-percentile",
+    "status": 200,
+    "final_url": "https://babypercent.com/baby-weight-percentile/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/blog",
+    "status": 200,
+    "final_url": "https://babypercent.com/blog/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/blog/baby-growth-first-year",
+    "status": 200,
+    "final_url": "https://babypercent.com/blog/baby-growth-first-year/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/blog/breastfeeding-vs-formula-growth",
+    "status": 200,
+    "final_url": "https://babypercent.com/blog/breastfeeding-vs-formula-growth/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/blog/how-to-read-baby-growth-percentile-charts",
+    "status": 200,
+    "final_url": "https://babypercent.com/blog/how-to-read-baby-growth-percentile-charts/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/blog/what-does-50th-percentile-mean",
+    "status": 200,
+    "final_url": "https://babypercent.com/blog/what-does-50th-percentile-mean/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/blog/when-to-worry-baby-weight",
+    "status": 200,
+    "final_url": "https://babypercent.com/blog/when-to-worry-baby-weight/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/blog/who-vs-cdc-growth-charts",
+    "status": 200,
+    "final_url": "https://babypercent.com/blog/who-vs-cdc-growth-charts/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/cdn-cgi/l/email-protection",
+    "status": null,
+    "final_url": "",
+    "ok": false,
+    "attempt": 3,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://babypercent.com/contact",
+    "status": 200,
+    "final_url": "https://babypercent.com/contact/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://babypercent.com/privacy-policy/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/terms",
+    "status": 200,
+    "final_url": "https://babypercent.com/terms/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/vs",
+    "status": 200,
+    "final_url": "https://babypercent.com/vs/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/vs/baby-growth-chart-app",
+    "status": 200,
+    "final_url": "https://babypercent.com/vs/baby-growth-chart-app/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/vs/child-growth-tracker-pro",
+    "status": 200,
+    "final_url": "https://babypercent.com/vs/child-growth-tracker-pro/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://babypercent.com/vs/growth-baby-child-charts",
+    "status": 200,
+    "final_url": "https://babypercent.com/vs/growth-baby-child-charts/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/",
+    "status": 200,
+    "final_url": "https://freetdee.com/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/about",
+    "status": 200,
+    "final_url": "https://freetdee.com/about/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/blog",
+    "status": 200,
+    "final_url": "https://freetdee.com/blog/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/blog/bmr-vs-tdee-difference",
+    "status": 200,
+    "final_url": "https://freetdee.com/blog/bmr-vs-tdee-difference/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/blog/calorie-deficit-explained",
+    "status": 200,
+    "final_url": "https://freetdee.com/blog/calorie-deficit-explained/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/blog/how-to-calculate-tdee-for-weight-loss",
+    "status": 200,
+    "final_url": "https://freetdee.com/blog/how-to-calculate-tdee-for-weight-loss/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/blog/how-to-set-macros-cutting-bulking",
+    "status": 200,
+    "final_url": "https://freetdee.com/blog/how-to-set-macros-cutting-bulking/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/blog/macro-tracking-beginners",
+    "status": 200,
+    "final_url": "https://freetdee.com/blog/macro-tracking-beginners/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/blog/tdee-for-weight-loss",
+    "status": 200,
+    "final_url": "https://freetdee.com/blog/tdee-for-weight-loss/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/bmi-calculator",
+    "status": 200,
+    "final_url": "https://freetdee.com/bmi-calculator/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/bmr-calculator",
+    "status": 200,
+    "final_url": "https://freetdee.com/bmr-calculator/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/body-recomposition",
+    "status": 200,
+    "final_url": "https://freetdee.com/body-recomposition/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/crossfit",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/crossfit/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/cyclists",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/cyclists/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/ectomorph",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/ectomorph/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/endomorph",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/endomorph/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/men-over-50",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/men-over-50/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/mesomorph",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/mesomorph/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/nurses",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/nurses/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/office-workers",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/office-workers/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/over-200-lbs",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/over-200-lbs/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/pcos",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/pcos/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/postpartum",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/postpartum/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/runners",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/runners/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/seniors",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/seniors/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/skinny-guys",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/skinny-guys/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/swimmers",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/swimmers/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/teenage-athlete",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/teenage-athlete/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/vegan",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/vegan/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/vegetarian",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/vegetarian/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/weightlifters",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/weightlifters/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-calculator/women-over-40",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-calculator/women-over-40/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/calorie-deficit",
+    "status": 200,
+    "final_url": "https://freetdee.com/calorie-deficit/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/cdn-cgi/l/email-protection",
+    "status": null,
+    "final_url": "",
+    "ok": false,
+    "attempt": 3,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://freetdee.com/contact",
+    "status": 200,
+    "final_url": "https://freetdee.com/contact/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/cutting",
+    "status": 200,
+    "final_url": "https://freetdee.com/cutting/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/goals",
+    "status": 200,
+    "final_url": "https://freetdee.com/goals/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/iifym-calculator",
+    "status": 200,
+    "final_url": "https://freetdee.com/iifym-calculator/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/intermittent-fasting-calorie",
+    "status": 200,
+    "final_url": "https://freetdee.com/intermittent-fasting-calorie/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/keto-macro-calculator",
+    "status": 200,
+    "final_url": "https://freetdee.com/keto-macro-calculator/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/macro-calculator",
+    "status": 200,
+    "final_url": "https://freetdee.com/macro-calculator/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/maintenance",
+    "status": 200,
+    "final_url": "https://freetdee.com/maintenance/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/mediterranean-diet-calorie",
+    "status": 200,
+    "final_url": "https://freetdee.com/mediterranean-diet-calorie/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/muscle-gain",
+    "status": 200,
+    "final_url": "https://freetdee.com/muscle-gain/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://freetdee.com/privacy-policy/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/protein-calculator",
+    "status": 200,
+    "final_url": "https://freetdee.com/protein-calculator/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/reverse-diet",
+    "status": 200,
+    "final_url": "https://freetdee.com/reverse-diet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/tdee-calculator-bodybuilding",
+    "status": 200,
+    "final_url": "https://freetdee.com/tdee-calculator-bodybuilding/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/terms",
+    "status": 200,
+    "final_url": "https://freetdee.com/terms/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/vs",
+    "status": 200,
+    "final_url": "https://freetdee.com/vs/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/vs/cronometer-tdee",
+    "status": 200,
+    "final_url": "https://freetdee.com/vs/cronometer-tdee/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/vs/macrofactor-tdee",
+    "status": 200,
+    "final_url": "https://freetdee.com/vs/macrofactor-tdee/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/vs/myfitnesspal-tdee",
+    "status": 200,
+    "final_url": "https://freetdee.com/vs/myfitnesspal-tdee/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://freetdee.com/weight-loss",
+    "status": 200,
+    "final_url": "https://freetdee.com/weight-loss/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/",
+    "status": 200,
+    "final_url": "https://invoicepad.net/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/about",
+    "status": 200,
+    "final_url": "https://invoicepad.net/about/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/blog",
+    "status": 200,
+    "final_url": "https://invoicepad.net/blog/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/blog/how-to-write-an-invoice-freelancer",
+    "status": 200,
+    "final_url": "https://invoicepad.net/blog/how-to-write-an-invoice-freelancer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/blog/invoice-payment-terms-explained",
+    "status": 200,
+    "final_url": "https://invoicepad.net/blog/invoice-payment-terms-explained/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/blog/what-to-include-on-an-invoice",
+    "status": 200,
+    "final_url": "https://invoicepad.net/blog/what-to-include-on-an-invoice/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/consultant-invoice-template",
+    "status": 200,
+    "final_url": "https://invoicepad.net/consultant-invoice-template/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/contact",
+    "status": 200,
+    "final_url": "https://invoicepad.net/contact/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/estimate-generator",
+    "status": 200,
+    "final_url": "https://invoicepad.net/estimate-generator/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/freelance-writer-invoice-template",
+    "status": 200,
+    "final_url": "https://invoicepad.net/freelance-writer-invoice-template/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/freelancer-invoice-template",
+    "status": 200,
+    "final_url": "https://invoicepad.net/freelancer-invoice-template/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/handyman-invoice-template",
+    "status": 200,
+    "final_url": "https://invoicepad.net/handyman-invoice-template/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/accountant",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/accountant/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/cleaner",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/cleaner/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/coach",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/coach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/consultant",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/consultant/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/contractor",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/contractor/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/event-planner",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/event-planner/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/freelance-writer",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/freelance-writer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/graphic-designer",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/graphic-designer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/handyman",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/handyman/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/makeup-artist",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/makeup-artist/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/personal-trainer",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/personal-trainer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/photographer",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/photographer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/seo-specialist",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/seo-specialist/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/social-media-manager",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/social-media-manager/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/translator",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/translator/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/tutor",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/tutor/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/ui-designer",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/ui-designer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/video-editor",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/video-editor/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/virtual-assistant",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/virtual-assistant/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-template/web-developer",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-template/web-developer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/invoice-templates",
+    "status": 200,
+    "final_url": "https://invoicepad.net/invoice-templates/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/privacy-policy",
+    "status": 200,
+    "final_url": "https://invoicepad.net/privacy-policy/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/receipt-maker",
+    "status": 200,
+    "final_url": "https://invoicepad.net/receipt-maker/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/seo-service-invoice-template",
+    "status": 200,
+    "final_url": "https://invoicepad.net/seo-service-invoice-template/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/terms",
+    "status": 200,
+    "final_url": "https://invoicepad.net/terms/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://invoicepad.net/web-developer-invoice-template",
+    "status": 200,
+    "final_url": "https://invoicepad.net/web-developer-invoice-template/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/about",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/about/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/blog",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/blog/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/blog/open-apple-numbers-files",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/blog/open-apple-numbers-files/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/blog/open-pages-file-on-windows",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/blog/open-pages-file-on-windows/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/blog/pages-vs-word",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/blog/pages-vs-word/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/cdn-cgi/l/email-protection",
+    "status": null,
+    "final_url": "",
+    "ok": false,
+    "attempt": 3,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://iworkviewer.com/contact",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/contact/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/keynote",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/keynote/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/keynote-to-pdf",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/keynote-to-pdf/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/keynote-to-ppt",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/keynote-to-ppt/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/numbers",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/numbers/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/numbers-to-excel",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/numbers-to-excel/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/numbers-to-pdf",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/numbers-to-pdf/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open-keynote-file",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open-keynote-file/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open-pages-file-android",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open-pages-file-android/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open-pages-file-windows",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open-pages-file-windows/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/keynote-on-android",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/keynote-on-android/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/keynote-on-chromebook",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/keynote-on-chromebook/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/keynote-on-iphone",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/keynote-on-iphone/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/keynote-on-linux",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/keynote-on-linux/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/keynote-on-mac",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/keynote-on-mac/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://iworkviewer.com/open/keynote-on-online",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/keynote-on-online/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/keynote-on-windows",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/keynote-on-windows/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/numbers-on-android",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/numbers-on-android/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/numbers-on-chromebook",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/numbers-on-chromebook/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/numbers-on-iphone",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/numbers-on-iphone/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/numbers-on-linux",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/numbers-on-linux/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/numbers-on-mac",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/numbers-on-mac/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/numbers-on-online",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/numbers-on-online/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/numbers-on-windows",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/numbers-on-windows/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/pages-on-android",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/pages-on-android/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/pages-on-chromebook",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/pages-on-chromebook/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://iworkviewer.com/open/pages-on-iphone",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/pages-on-iphone/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/pages-on-linux",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/pages-on-linux/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/pages-on-mac",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/pages-on-mac/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/open/pages-on-online",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/open/pages-on-online/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/pages",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/pages/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/pages-to-pdf",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/pages-to-pdf/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/pages-to-word",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/pages-to-word/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/privacy-policy/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/terms",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/terms/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/viewer/keynote-no-app",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/viewer/keynote-no-app/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/viewer/keynote-reader-online",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/viewer/keynote-reader-online/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/viewer/keynote-viewer",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/viewer/keynote-viewer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/viewer/numbers-no-app",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/viewer/numbers-no-app/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/viewer/numbers-reader-online",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/viewer/numbers-reader-online/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/viewer/numbers-viewer",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/viewer/numbers-viewer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/viewer/pages-no-app",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/viewer/pages-no-app/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/viewer/pages-reader-online",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/viewer/pages-reader-online/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/viewer/pages-viewer",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/viewer/pages-viewer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/vs",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/vs/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/vs/apple-pages-viewer",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/vs/apple-pages-viewer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/vs/cloudconvert-iwork",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/vs/cloudconvert-iwork/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://iworkviewer.com/vs/zamzar-iwork",
+    "status": 200,
+    "final_url": "https://iworkviewer.com/vs/zamzar-iwork/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/",
+    "status": 200,
+    "final_url": "https://livephotokit.com/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/about",
+    "status": 200,
+    "final_url": "https://livephotokit.com/about/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/batch-convert-live-photo",
+    "status": 200,
+    "final_url": "https://livephotokit.com/batch-convert-live-photo/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://livephotokit.com/blog",
+    "status": 200,
+    "final_url": "https://livephotokit.com/blog/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/blog/heic-vs-jpg-which-format",
+    "status": 200,
+    "final_url": "https://livephotokit.com/blog/heic-vs-jpg-which-format/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/blog/how-to-open-heic-files-on-windows-11",
+    "status": 200,
+    "final_url": "https://livephotokit.com/blog/how-to-open-heic-files-on-windows-11/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/blog/what-is-a-livp-file",
+    "status": 200,
+    "final_url": "https://livephotokit.com/blog/what-is-a-livp-file/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/cdn-cgi/l/email-protection",
+    "status": null,
+    "final_url": "",
+    "ok": false,
+    "attempt": 3,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://livephotokit.com/compress-live-photo",
+    "status": 200,
+    "final_url": "https://livephotokit.com/compress-live-photo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/contact",
+    "status": 200,
+    "final_url": "https://livephotokit.com/contact/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/heic-live-photo",
+    "status": 200,
+    "final_url": "https://livephotokit.com/heic-live-photo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/heic-to-jpg",
+    "status": 200,
+    "final_url": "https://livephotokit.com/heic-to-jpg/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/heic-to-pdf",
+    "status": 200,
+    "final_url": "https://livephotokit.com/heic-to-pdf/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/heic-to-png",
+    "status": 200,
+    "final_url": "https://livephotokit.com/heic-to-png/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/heic-to-webp",
+    "status": 200,
+    "final_url": "https://livephotokit.com/heic-to-webp/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/heic-viewer",
+    "status": 200,
+    "final_url": "https://livephotokit.com/heic-viewer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/image-compressor",
+    "status": 200,
+    "final_url": "https://livephotokit.com/image-compressor/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/live-photo-to-gif",
+    "status": 200,
+    "final_url": "https://livephotokit.com/live-photo-to-gif/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/live-photo-to-jpg",
+    "status": 200,
+    "final_url": "https://livephotokit.com/live-photo-to-jpg/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/live-photo-to-png",
+    "status": 200,
+    "final_url": "https://livephotokit.com/live-photo-to-png/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/live-photo-to-webp",
+    "status": 200,
+    "final_url": "https://livephotokit.com/live-photo-to-webp/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/livp-to-jpg",
+    "status": 200,
+    "final_url": "https://livephotokit.com/livp-to-jpg/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/livp-to-mp4",
+    "status": 200,
+    "final_url": "https://livephotokit.com/livp-to-mp4/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/open-aae-file",
+    "status": 200,
+    "final_url": "https://livephotokit.com/open-aae-file/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/open-livp-file",
+    "status": 200,
+    "final_url": "https://livephotokit.com/open-livp-file/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://livephotokit.com/privacy-policy/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/send-live-photo-as-gif-whatsapp",
+    "status": 200,
+    "final_url": "https://livephotokit.com/send-live-photo-as-gif-whatsapp/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/terms",
+    "status": 200,
+    "final_url": "https://livephotokit.com/terms/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://livephotokit.com/vs",
+    "status": 200,
+    "final_url": "https://livephotokit.com/vs/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/vs/aiseesoft-heic",
+    "status": 200,
+    "final_url": "https://livephotokit.com/vs/aiseesoft-heic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/vs/cloudconvert-heic",
+    "status": 200,
+    "final_url": "https://livephotokit.com/vs/cloudconvert-heic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://livephotokit.com/vs/zamzar-heic",
+    "status": 200,
+    "final_url": "https://livephotokit.com/vs/zamzar-heic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10a/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10a/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/10b/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/10b/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3a/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3a/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/spinach/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/3b/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/3b/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4a/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4a/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/beans/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/carrot/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/4b/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/4b/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/cabbage/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5a/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5a/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/radish/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/5b/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/5b/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6a/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6a/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/6b/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/6b/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7a/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7a/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/radish/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/7b/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/7b/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8a/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8a/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/potato/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/8b/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/8b/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9a/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9a/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/9b/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/9b/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/about",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/about/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/blog",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/blog/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/blog/beginner-garden-guide",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/blog/beginner-garden-guide/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/blog/composting-101",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/blog/composting-101/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/blog/find-your-usda-hardiness-zone",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/blog/find-your-usda-hardiness-zone/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/blog/soil-preparation",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/blog/soil-preparation/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/blog/spring-vegetable-planting-schedule",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/blog/spring-vegetable-planting-schedule/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/blog/when-to-start-tomato-seeds-indoors",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/blog/when-to-start-tomato-seeds-indoors/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/cdn-cgi/l/email-protection",
+    "status": null,
+    "final_url": "",
+    "ok": false,
+    "attempt": 3,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://plantingcalendar.net/contact",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/contact/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/frost-dates",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/frost-dates/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/privacy-policy",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/privacy-policy/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/terms",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/terms/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/beans",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/beans/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/beet",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/beet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/broccoli",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/broccoli/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/cabbage",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/cabbage/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/carrot",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/carrot/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/cauliflower",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/cauliflower/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/corn",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/corn/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/cucumber",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/cucumber/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/garlic",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/garlic/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/kale",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/kale/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/lettuce",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/lettuce/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/onion",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/onion/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/peas",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/peas/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/pepper",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/pepper/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/potato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/potato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/radish",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/radish/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/spinach",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/spinach/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/squash",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/squash/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/tomato",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/tomato/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vegetables/zucchini",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vegetables/zucchini/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vs",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vs/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vs/almanac-garden-planner",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vs/almanac-garden-planner/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vs/planter-garden",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vs/planter-garden/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/vs/seedtime-garden",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/vs/seedtime-garden/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/10a",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/10a/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/10b",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/10b/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/3a",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/3a/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/3b",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/3b/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/4a",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/4a/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/4b",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/4b/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/5a",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/5a/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/5b",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/5b/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/6a",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/6a/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/6b",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/6b/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/7a",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/7a/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/7b",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/7b/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/8a",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/8a/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/8b",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/8b/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/9a",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/9a/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://plantingcalendar.net/zones/9b",
+    "status": 200,
+    "final_url": "https://plantingcalendar.net/zones/9b/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/",
+    "status": 200,
+    "final_url": "https://pupvax.com/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/about",
+    "status": 200,
+    "final_url": "https://pupvax.com/about/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/blog",
+    "status": 200,
+    "final_url": "https://pupvax.com/blog/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/blog/core-vs-non-core-dog-vaccines",
+    "status": 200,
+    "final_url": "https://pupvax.com/blog/core-vs-non-core-dog-vaccines/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/blog/dog-vaccine-schedule-guide",
+    "status": 200,
+    "final_url": "https://pupvax.com/blog/dog-vaccine-schedule-guide/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/blog/how-often-do-adult-dogs-need-vaccines",
+    "status": 200,
+    "final_url": "https://pupvax.com/blog/how-often-do-adult-dogs-need-vaccines/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/blog/puppy-shot-timeline",
+    "status": 200,
+    "final_url": "https://pupvax.com/blog/puppy-shot-timeline/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/blog/puppy-vaccination-schedule",
+    "status": 200,
+    "final_url": "https://pupvax.com/blog/puppy-vaccination-schedule/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/blog/senior-dog-health-vaccines",
+    "status": 200,
+    "final_url": "https://pupvax.com/blog/senior-dog-health-vaccines/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/breeds",
+    "status": 200,
+    "final_url": "https://pupvax.com/breeds/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/cdn-cgi/l/email-protection",
+    "status": null,
+    "final_url": "",
+    "ok": false,
+    "attempt": 3,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://pupvax.com/contact",
+    "status": 200,
+    "final_url": "https://pupvax.com/contact/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/dhpp-vaccine",
+    "status": 200,
+    "final_url": "https://pupvax.com/dhpp-vaccine/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/dog-deworming-schedule",
+    "status": 200,
+    "final_url": "https://pupvax.com/dog-deworming-schedule/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/dog-vaccines",
+    "status": 200,
+    "final_url": "https://pupvax.com/dog-vaccines/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/heartworm-prevention",
+    "status": 200,
+    "final_url": "https://pupvax.com/heartworm-prevention/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://pupvax.com/privacy-policy/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/puppy-deworming-schedule",
+    "status": 200,
+    "final_url": "https://pupvax.com/puppy-deworming-schedule/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/puppy-vaccine-schedule",
+    "status": 200,
+    "final_url": "https://pupvax.com/puppy-vaccine-schedule/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/puppy-vaccine-schedule-by-age",
+    "status": 200,
+    "final_url": "https://pupvax.com/puppy-vaccine-schedule-by-age/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/rabies-vaccine",
+    "status": 200,
+    "final_url": "https://pupvax.com/rabies-vaccine/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/senior-dog-vaccines",
+    "status": 200,
+    "final_url": "https://pupvax.com/senior-dog-vaccines/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/terms",
+    "status": 200,
+    "final_url": "https://pupvax.com/terms/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/titer-test-dogs",
+    "status": 200,
+    "final_url": "https://pupvax.com/titer-test-dogs/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/australian-shepherd",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/australian-shepherd/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/beagle",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/beagle/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/border-collie",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/border-collie/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/boxer",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/boxer/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/cavalier-king-charles",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/cavalier-king-charles/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/chihuahua",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/chihuahua/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/corgi",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/corgi/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/dachshund",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/dachshund/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/french-bulldog",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/french-bulldog/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/german-shepherd",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/german-shepherd/",
+    "ok": true,
+    "attempt": 3
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/golden-retriever",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/golden-retriever/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/great-dane",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/great-dane/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/husky",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/husky/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/labrador",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/labrador/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/pitbull",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/pitbull/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/pomeranian",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/pomeranian/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/poodle",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/poodle/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/rottweiler",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/rottweiler/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/shih-tzu",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/shih-tzu/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vaccine-schedule/yorkshire-terrier",
+    "status": 200,
+    "final_url": "https://pupvax.com/vaccine-schedule/yorkshire-terrier/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vs",
+    "status": 200,
+    "final_url": "https://pupvax.com/vs/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vs/11pets-premium",
+    "status": 200,
+    "final_url": "https://pupvax.com/vs/11pets-premium/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vs/breedera-app",
+    "status": 200,
+    "final_url": "https://pupvax.com/vs/breedera-app/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://pupvax.com/vs/pawchamp-premium",
+    "status": 200,
+    "final_url": "https://pupvax.com/vs/pawchamp-premium/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/",
+    "status": 200,
+    "final_url": "https://zoneplan.net/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/cet-to-ist",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/cet-to-ist/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/cet-to-jst",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/cet-to-jst/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/est-to-aest",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/est-to-aest/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/est-to-cet",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/est-to-cet/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/est-to-gmt",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/est-to-gmt/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/est-to-ist",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/est-to-ist/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/est-to-jst",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/est-to-jst/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/est-to-pst",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/est-to-pst/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/gmt-to-aest",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/gmt-to-aest/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/gmt-to-ist",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/gmt-to-ist/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/gmt-to-jst",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/gmt-to-jst/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/ist-to-sgt",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/ist-to-sgt/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/pst-to-aest",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/pst-to-aest/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/pst-to-gmt",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/pst-to-gmt/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/pst-to-ist",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/pst-to-ist/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/abbreviation/pst-to-jst",
+    "status": 200,
+    "final_url": "https://zoneplan.net/abbreviation/pst-to-jst/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/about",
+    "status": 200,
+    "final_url": "https://zoneplan.net/about/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/amsterdam-to-bangalore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/amsterdam-to-bangalore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/amsterdam-to-singapore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/amsterdam-to-singapore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/bangalore-to-singapore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/bangalore-to-singapore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/bangalore-to-sydney",
+    "status": 200,
+    "final_url": "https://zoneplan.net/bangalore-to-sydney/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/bangalore-to-tokyo",
+    "status": 200,
+    "final_url": "https://zoneplan.net/bangalore-to-tokyo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/berlin-to-bangalore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/berlin-to-bangalore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/berlin-to-mumbai",
+    "status": 200,
+    "final_url": "https://zoneplan.net/berlin-to-mumbai/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/berlin-to-singapore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/berlin-to-singapore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/berlin-to-tokyo",
+    "status": 200,
+    "final_url": "https://zoneplan.net/berlin-to-tokyo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/blog",
+    "status": 200,
+    "final_url": "https://zoneplan.net/blog/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/blog/best-meeting-times-global",
+    "status": 200,
+    "final_url": "https://zoneplan.net/blog/best-meeting-times-global/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/blog/best-times-for-global-team-meetings",
+    "status": 200,
+    "final_url": "https://zoneplan.net/blog/best-times-for-global-team-meetings/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/blog/daylight-saving-time-explained",
+    "status": 200,
+    "final_url": "https://zoneplan.net/blog/daylight-saving-time-explained/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/blog/remote-team-timezone-guide",
+    "status": 200,
+    "final_url": "https://zoneplan.net/blog/remote-team-timezone-guide/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/blog/schedule-meeting-across-time-zones",
+    "status": 200,
+    "final_url": "https://zoneplan.net/blog/schedule-meeting-across-time-zones/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/blog/utc-gmt-time-zone-offsets-explained",
+    "status": 200,
+    "final_url": "https://zoneplan.net/blog/utc-gmt-time-zone-offsets-explained/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/cdn-cgi/l/email-protection",
+    "status": null,
+    "final_url": "",
+    "ok": false,
+    "attempt": 3,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://zoneplan.net/chicago-to-london",
+    "status": 200,
+    "final_url": "https://zoneplan.net/chicago-to-london/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/contact",
+    "status": 200,
+    "final_url": "https://zoneplan.net/contact/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/dubai-to-london",
+    "status": 200,
+    "final_url": "https://zoneplan.net/dubai-to-london/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/dubai-to-singapore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/dubai-to-singapore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/global-meeting-planner",
+    "status": 200,
+    "final_url": "https://zoneplan.net/global-meeting-planner/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/hong-kong-to-sydney",
+    "status": 200,
+    "final_url": "https://zoneplan.net/hong-kong-to-sydney/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-bangalore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-bangalore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-berlin",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-berlin/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-dubai",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-dubai/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-hong-kong",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-hong-kong/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-manila",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-manila/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-mumbai",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-mumbai/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-sao-paulo",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-sao-paulo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-shanghai",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-shanghai/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-singapore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-singapore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-sydney",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-sydney/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-tokyo",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-tokyo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/london-to-toronto",
+    "status": 200,
+    "final_url": "https://zoneplan.net/london-to-toronto/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/los-angeles-to-bangalore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/los-angeles-to-bangalore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/los-angeles-to-berlin",
+    "status": 200,
+    "final_url": "https://zoneplan.net/los-angeles-to-berlin/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/los-angeles-to-london",
+    "status": 200,
+    "final_url": "https://zoneplan.net/los-angeles-to-london/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/los-angeles-to-manila",
+    "status": 200,
+    "final_url": "https://zoneplan.net/los-angeles-to-manila/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/los-angeles-to-shanghai",
+    "status": 200,
+    "final_url": "https://zoneplan.net/los-angeles-to-shanghai/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/los-angeles-to-singapore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/los-angeles-to-singapore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/los-angeles-to-sydney",
+    "status": 200,
+    "final_url": "https://zoneplan.net/los-angeles-to-sydney/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/los-angeles-to-tokyo",
+    "status": 200,
+    "final_url": "https://zoneplan.net/los-angeles-to-tokyo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/manila-to-sydney",
+    "status": 200,
+    "final_url": "https://zoneplan.net/manila-to-sydney/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/meeting-planner",
+    "status": 200,
+    "final_url": "https://zoneplan.net/meeting-planner/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/mexico-city-to-madrid",
+    "status": 200,
+    "final_url": "https://zoneplan.net/mexico-city-to-madrid/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/mumbai-to-dubai",
+    "status": 200,
+    "final_url": "https://zoneplan.net/mumbai-to-dubai/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/mumbai-to-singapore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/mumbai-to-singapore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/mumbai-to-sydney",
+    "status": 200,
+    "final_url": "https://zoneplan.net/mumbai-to-sydney/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-bangalore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-bangalore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-berlin",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-berlin/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-dubai",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-dubai/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-london",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-london/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-los-angeles",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-los-angeles/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-manila",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-manila/",
+    "ok": true,
+    "attempt": 2
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-mumbai",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-mumbai/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-paris",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-paris/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-sao-paulo",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-sao-paulo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-singapore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-singapore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-sydney",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-sydney/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/new-york-to-tokyo",
+    "status": 200,
+    "final_url": "https://zoneplan.net/new-york-to-tokyo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/paris-to-bangalore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/paris-to-bangalore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/paris-to-tokyo",
+    "status": 200,
+    "final_url": "https://zoneplan.net/paris-to-tokyo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/privacy-policy",
+    "status": 200,
+    "final_url": "https://zoneplan.net/privacy-policy/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/sao-paulo-to-lisbon",
+    "status": 200,
+    "final_url": "https://zoneplan.net/sao-paulo-to-lisbon/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/scenarios/client-call",
+    "status": 200,
+    "final_url": "https://zoneplan.net/scenarios/client-call/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/scenarios/global-webinar",
+    "status": 200,
+    "final_url": "https://zoneplan.net/scenarios/global-webinar/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/scenarios/remote-team-standup",
+    "status": 200,
+    "final_url": "https://zoneplan.net/scenarios/remote-team-standup/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/seoul-to-sydney",
+    "status": 200,
+    "final_url": "https://zoneplan.net/seoul-to-sydney/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/shanghai-to-sydney",
+    "status": 200,
+    "final_url": "https://zoneplan.net/shanghai-to-sydney/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/singapore-to-shanghai",
+    "status": 200,
+    "final_url": "https://zoneplan.net/singapore-to-shanghai/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/singapore-to-sydney",
+    "status": 200,
+    "final_url": "https://zoneplan.net/singapore-to-sydney/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/singapore-to-tokyo",
+    "status": 200,
+    "final_url": "https://zoneplan.net/singapore-to-tokyo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/sydney-to-auckland",
+    "status": 200,
+    "final_url": "https://zoneplan.net/sydney-to-auckland/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/terms",
+    "status": 200,
+    "final_url": "https://zoneplan.net/terms/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/time-zones",
+    "status": 200,
+    "final_url": "https://zoneplan.net/time-zones/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/tokyo-to-shanghai",
+    "status": 200,
+    "final_url": "https://zoneplan.net/tokyo-to-shanghai/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/tokyo-to-sydney",
+    "status": 200,
+    "final_url": "https://zoneplan.net/tokyo-to-sydney/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/toronto-to-bangalore",
+    "status": 200,
+    "final_url": "https://zoneplan.net/toronto-to-bangalore/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/toronto-to-london",
+    "status": 200,
+    "final_url": "https://zoneplan.net/toronto-to-london/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/vancouver-to-tokyo",
+    "status": 200,
+    "final_url": "https://zoneplan.net/vancouver-to-tokyo/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/vs",
+    "status": 200,
+    "final_url": "https://zoneplan.net/vs/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/vs/timeanddate-meeting-planner",
+    "status": 200,
+    "final_url": "https://zoneplan.net/vs/timeanddate-meeting-planner/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/vs/world-time-buddy",
+    "status": 200,
+    "final_url": "https://zoneplan.net/vs/world-time-buddy/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/vs/zonesync-app",
+    "status": 200,
+    "final_url": "https://zoneplan.net/vs/zonesync-app/",
+    "ok": true,
+    "attempt": 1
+  },
+  {
+    "url": "https://zoneplan.net/world-clock",
+    "status": 200,
+    "final_url": "https://zoneplan.net/world-clock/",
+    "ok": true,
+    "attempt": 1
+  }
+]

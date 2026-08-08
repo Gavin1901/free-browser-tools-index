@@ -1,0 +1,18 @@
+[
+  {
+    "domain": "iworkviewer.com",
+    "target": "https://iworkviewer.com/open-pages-file-android/",
+    "inspection_url": "https://search.google.com/u/1/search-console/inspect?resource_id=sc-domain%3Aiworkviewer.com&id=5bwnsxytaGoCHxiTumiaKA",
+    "before": "unknown",
+    "request_submitted": true,
+    "confirmation": "requested"
+  },
+  {
+    "domain": "zoneplan.net",
+    "target": "https://zoneplan.net/global-meeting-planner/",
+    "inspection_url": "https://search.google.com/u/1/search-console/inspect?resource_id=sc-domain%3Azoneplan.net&id=N5zNBQF4AQUu76xDnPj0Dw",
+    "before": "unknown",
+    "request_submitted": true,
+    "confirmation": "requested"
+  }
+]

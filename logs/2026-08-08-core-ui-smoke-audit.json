@@ -1,0 +1,85 @@
+[
+  {
+    "domain": "iworkviewer.com",
+    "http": 200,
+    "title": "iWorkViewer - Open Apple iWork Files Online",
+    "inputs": 1,
+    "selects": 0,
+    "buttons": 0,
+    "file_inputs": 1,
+    "body_chars": 5765,
+    "js_errors": []
+  },
+  {
+    "domain": "livephotokit.com",
+    "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://livephotokit.com/\", waiting until \"networkidle\"\n"
+  },
+  {
+    "domain": "plantingcalendar.net",
+    "http": 200,
+    "title": "2026 Planting Calendar by USDA Zone — Free Vegetable Garden Planner",
+    "inputs": 0,
+    "selects": 1,
+    "buttons": 0,
+    "file_inputs": 0,
+    "body_chars": 5128,
+    "js_errors": []
+  },
+  {
+    "domain": "freetdee.com",
+    "http": 200,
+    "title": "Free TDEE Calculator 2026 — Calculate Your Daily Calories & Macros Instantly",
+    "inputs": 4,
+    "selects": 3,
+    "buttons": 2,
+    "file_inputs": 0,
+    "body_chars": 8129,
+    "js_errors": []
+  },
+  {
+    "domain": "babypercent.com",
+    "http": 200,
+    "title": "Baby Growth Percentile Calculator | WHO & CDC Charts",
+    "inputs": 3,
+    "selects": 2,
+    "buttons": 6,
+    "file_inputs": 0,
+    "body_chars": 8723,
+    "js_errors": []
+  },
+  {
+    "domain": "invoicepad.net",
+    "http": 200,
+    "title": "Free Invoice Generator 2026 — Create & Download PDF Invoices Instantly",
+    "inputs": 11,
+    "selects": 3,
+    "buttons": 5,
+    "file_inputs": 0,
+    "body_chars": 9029,
+    "js_errors": [
+      "Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+    ]
+  },
+  {
+    "domain": "zoneplan.net",
+    "http": 200,
+    "title": "Time Zone Meeting Planner 2026 | World Clock Scheduler",
+    "inputs": 1,
+    "selects": 2,
+    "buttons": 3,
+    "file_inputs": 0,
+    "body_chars": 8152,
+    "js_errors": []
+  },
+  {
+    "domain": "pupvax.com",
+    "http": 200,
+    "title": "Dog Deworming & Puppy Vaccine Schedule 2026 | PupVax",
+    "inputs": 2,
+    "selects": 1,
+    "buttons": 1,
+    "file_inputs": 0,
+    "body_chars": 10936,
+    "js_errors": []
+  }
+]

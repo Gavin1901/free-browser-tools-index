@@ -1,0 +1,24 @@
+[
+  {
+    "domain": "livephotokit.com",
+    "http": 200,
+    "title": "LivePhotoKit - Free HEIC & Live Photo Converter",
+    "inputs": 1,
+    "selects": 0,
+    "buttons": 0,
+    "file_inputs": 1,
+    "body_chars": 7745,
+    "js_errors": []
+  },
+  {
+    "domain": "invoicepad.net",
+    "http": 200,
+    "title": "Free Invoice Generator 2026 — Create & Download PDF Invoices Instantly",
+    "inputs": 11,
+    "selects": 3,
+    "buttons": 5,
+    "file_inputs": 0,
+    "body_chars": 9029,
+    "js_errors": []
+  }
+]
