@@ -1,0 +1,7 @@
+﻿[
+  {"url":"https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-08-zoneplan-observation.md","target_domain":"zoneplan.net","platform":"GitHub Daily","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
+  {"url":"https://gist.github.com/Gavin1901/0c41a6be41e46e86d6f0ec191035d6f7","target_domain":"zoneplan.net","platform":"GitHub Gist","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
+  {"url":"https://github.com/Gavin1901/zoneplan/issues/13","target_domain":"zoneplan.net","platform":"GitHub Issue","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
+  {"url":"https://dev.to/gavinbuildsai/5860-impressions-and-4-clicks-why-i-am-not-changing-the-page-yet-588a","target_domain":"zoneplan.net","platform":"Dev.to","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
+  {"url":"https://medium.com/@lg695101011/5-860-impressions-4-clicks-the-case-for-waiting-c574cc8e5deb","target_domain":"zoneplan.net","platform":"Medium","public_verified":true,"target_link_verified":true,"http_status":403,"verification_method":"browser","note":"Published in GavinBuilds profile; public article DOM verified with target URL present."}
+]
