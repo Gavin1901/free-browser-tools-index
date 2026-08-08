@@ -1,0 +1,82 @@
+﻿[
+    {
+        "domain":  "iworkviewer.com",
+        "http":  200,
+        "canonical":  true,
+        "schema":  true,
+        "ga":  true,
+        "adsense":  true,
+        "noindex":  false,
+        "title":  "iWorkViewer - Open Apple iWork Files Online"
+    },
+    {
+        "domain":  "livephotokit.com",
+        "http":  200,
+        "canonical":  true,
+        "schema":  true,
+        "ga":  true,
+        "adsense":  true,
+        "noindex":  false,
+        "title":  "LivePhotoKit - Free HEIC \u0026amp; Live Photo Converter"
+    },
+    {
+        "domain":  "plantingcalendar.net",
+        "http":  200,
+        "canonical":  true,
+        "schema":  true,
+        "ga":  true,
+        "adsense":  true,
+        "noindex":  false,
+        "title":  "2026 Planting Calendar by USDA Zone — Free Vegetable Garden Planner"
+    },
+    {
+        "domain":  "freetdee.com",
+        "http":  200,
+        "canonical":  true,
+        "schema":  true,
+        "ga":  true,
+        "adsense":  true,
+        "noindex":  false,
+        "title":  "Free TDEE Calculator 2026 — Calculate Your Daily Calories \u0026amp; Macros Instantly"
+    },
+    {
+        "domain":  "babypercent.com",
+        "http":  200,
+        "canonical":  true,
+        "schema":  true,
+        "ga":  true,
+        "adsense":  true,
+        "noindex":  false,
+        "title":  "Baby Growth Percentile Calculator | WHO \u0026amp; CDC Charts"
+    },
+    {
+        "domain":  "invoicepad.net",
+        "http":  200,
+        "canonical":  true,
+        "schema":  true,
+        "ga":  true,
+        "adsense":  true,
+        "noindex":  false,
+        "title":  "Free Invoice Generator 2026 — Create \u0026amp; Download PDF Invoices Instantly"
+    },
+    {
+        "domain":  "zoneplan.net",
+        "http":  200,
+        "canonical":  true,
+        "schema":  true,
+        "ga":  true,
+        "adsense":  true,
+        "noindex":  false,
+        "title":  "Time Zone Meeting Planner 2026 | World Clock Scheduler"
+    },
+    {
+        "domain":  "pupvax.com",
+        "http":  200,
+        "canonical":  true,
+        "schema":  true,
+        "ga":  true,
+        "adsense":  true,
+        "noindex":  false,
+        "title":  "Dog Deworming \u0026amp; Puppy Vaccine Schedule 2026 | PupVax"
+    }
+]

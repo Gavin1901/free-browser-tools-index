@@ -1,0 +1,146 @@
+﻿[
+    {
+        "url":  "https://babypercent.com/22-month/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://babypercent.com/22-month/",
+        "canonical":  "https://babypercent.com/22-month/",
+        "error":  ""
+    },
+    {
+        "url":  "https://babypercent.com/vs/baby-growth-chart-app/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://babypercent.com/vs/baby-growth-chart-app/",
+        "canonical":  "https://babypercent.com/vs/baby-growth-chart-app/",
+        "error":  ""
+    },
+    {
+        "url":  "https://plantingcalendar.net/5a/cabbage/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://plantingcalendar.net/5a/cabbage/",
+        "canonical":  "https://plantingcalendar.net/5a/cabbage/",
+        "error":  ""
+    },
+    {
+        "url":  "https://plantingcalendar.net/5a/radish/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://plantingcalendar.net/5a/radish/",
+        "canonical":  "https://plantingcalendar.net/5a/radish/",
+        "error":  ""
+    },
+    {
+        "url":  "https://plantingcalendar.net/6a/beans/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://plantingcalendar.net/6a/beans/",
+        "canonical":  "https://plantingcalendar.net/6a/beans/",
+        "error":  ""
+    },
+    {
+        "url":  "https://plantingcalendar.net/6a/carrot/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://plantingcalendar.net/6a/carrot/",
+        "canonical":  "https://plantingcalendar.net/6a/carrot/",
+        "error":  ""
+    },
+    {
+        "url":  "https://plantingcalendar.net/7a/cabbage/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://plantingcalendar.net/7a/cabbage/",
+        "canonical":  "https://plantingcalendar.net/7a/cabbage/",
+        "error":  ""
+    },
+    {
+        "url":  "https://plantingcalendar.net/7a/lettuce/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://plantingcalendar.net/7a/lettuce/",
+        "canonical":  "https://plantingcalendar.net/7a/lettuce/",
+        "error":  ""
+    },
+    {
+        "url":  "https://plantingcalendar.net/7a/pepper/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://plantingcalendar.net/7a/pepper/",
+        "canonical":  "https://plantingcalendar.net/7a/pepper/",
+        "error":  ""
+    },
+    {
+        "url":  "https://plantingcalendar.net/9b/corn/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://plantingcalendar.net/9b/corn/",
+        "canonical":  "https://plantingcalendar.net/9b/corn/",
+        "error":  ""
+    },
+    {
+        "url":  "https://plantingcalendar.net/zones/6b/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://plantingcalendar.net/zones/6b/",
+        "canonical":  "https://plantingcalendar.net/zones/6b/",
+        "error":  ""
+    },
+    {
+        "url":  "https://plantingcalendar.net/zones/7b/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://plantingcalendar.net/zones/7b/",
+        "canonical":  "https://plantingcalendar.net/zones/7b/",
+        "error":  ""
+    },
+    {
+        "url":  "https://pupvax.com/contact/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://pupvax.com/contact/",
+        "canonical":  "https://pupvax.com/contact/",
+        "error":  ""
+    },
+    {
+        "url":  "https://zoneplan.net/abbreviation/pst-to-aest/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://zoneplan.net/abbreviation/pst-to-aest/",
+        "canonical":  "https://zoneplan.net/abbreviation/pst-to-aest/",
+        "error":  ""
+    },
+    {
+        "url":  "https://zoneplan.net/meeting-planner/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://zoneplan.net/meeting-planner/",
+        "canonical":  "https://zoneplan.net/global-meeting-planner/",
+        "error":  ""
+    },
+    {
+        "url":  "https://zoneplan.net/remote-team-meeting-time-planner/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://zoneplan.net/remote-team-meeting-time-planner/",
+        "canonical":  "https://zoneplan.net/global-meeting-planner/",
+        "error":  ""
+    },
+    {
+        "url":  "https://zoneplan.net/scenarios/global-webinar/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://zoneplan.net/scenarios/global-webinar/",
+        "canonical":  "https://zoneplan.net/scenarios/global-webinar/",
+        "error":  ""
+    },
+    {
+        "url":  "https://zoneplan.net/shanghai-to-sydney/",
+        "ok":  true,
+        "status":  200,
+        "final":  "https://zoneplan.net/shanghai-to-sydney/",
+        "canonical":  "https://zoneplan.net/shanghai-to-sydney/",
+        "error":  ""
+    }
+]
