@@ -43,8 +43,9 @@
     },
     {
         "platform":  "Hacker News",
-        "status":  "platform_blocked",
-        "note":  "New link submissions remain limited through showlim."
+        "status":  "published",
+        "note":  "Public Show HN item verified anonymously at HTTP 200. Context comment with direct site URLs is visible only while logged in and is not counted as a public backlink.",
+        "url":  "https://news.ycombinator.com/item?id=49219257"
     },
     {
         "platform":  "SaaSHub",

@@ -1,0 +1,14 @@
+{
+  "item": {
+    "url": "https://news.ycombinator.com/item?id=49219257",
+    "http": 200,
+    "contains": true,
+    "excerpt": "\tHacker Newsnew | threads | past | comments | ask | show | jobs | submit\tgavinbuilds (2) | logout\n\n\n\n\t\n*\n\n\tShow HN: I audited 743 URLs across 8 free browser tools (github.com/gavin1901)\n\t1 point by gavinbuilds 1 minute ago | hide | past | favorite | discuss | edit | delete\n\t\n\n\n\t\n help\n\n\n\n\n\n\n\n\nConsider applying for YC's Fall 2026 batch! Applications are open till July 27.\n\n\nGuidelines | FAQ | Lists | API | Security | Legal | Apply to YC | Contact\n\n\nSearch: "
+  },
+  "showlim": {
+    "url": "https://news.ycombinator.com/showlim",
+    "http": 200,
+    "contains": false,
+    "excerpt": "\tUpdate re Show HNs\n\n\n\nWe're temporarily restricting Show HNs because of a massive influx, mostly by users who aren't yet familiar with the site or its culture.\n\nYou're welcome on HN! Take some time to get to know the community, become a good contributor, and then it will be fine to post an occasional Show HN.\n\nHere are some links to get you started:\n\nhttps://news.ycombinator.com/newsguidelines.html\n\nhttps://news.ycombinator.com/newswelcome.html\n\nhttps://news.ycombinator.com/showhn.html\n\n\n"
+  }
+}

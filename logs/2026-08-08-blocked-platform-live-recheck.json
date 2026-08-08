@@ -1,0 +1,47 @@
+[
+  {
+    "platform": "AlternativeTo",
+    "url": "https://alternativeto.net/",
+    "http": 200,
+    "title": "AlternativeTo - Crowdsourced software recommendations | AlternativeTo",
+    "signals": [
+      "Sign In",
+      "Sign in",
+      "Login"
+    ],
+    "body_excerpt": "NEW APP RELEASES\n|\nBROWSE ALL APPS\n|\nTECH NEWS\n|\nLISTS\nSign In\nProton VPN\n \n\nHigh speed private VPN protected by strong Swiss privacy laws\n\nOFFICIAL PARTNER\nVisit site\n150,004 Apps & Software Alternatives - Ranked by 2,023,223 User Opinions\n\nAlternativeTo is a crowd-sourced and free site that helps you find better apps and services. Sign up and help others find great apps!\n\nDEEPSEEK\n  |  \nALTERNATIVES\n   \nYESTERDAY\n   \nDeepSeek warns developers of a substantial hike to its API prices\nSIGNAL\n  |  \nALTERNATIVES\n   \nAUG 6, 2026\n   \nSignal now lets users link multiple phones and tablets to one account\nCHATGPT\n   \nYESTERDAY\n   \nOpenAI launches GPT-5.6 Luna as default for free ChatGPT users with unlimited text chats\nXBOX APP\n   \nAUG 6, 2026\n   \nXbox adds party chat recordings, cloud save rollback and plan Platinum-style achievements\nICLOUD\n   \nAUG 5, 2026\n   \nRecent reports reveal Apple’s iCloud Private Relay is leaking users’ real IP addresses\nLUMO BY PROTON\n   \nAUG 5, 2026\n   \nProton’s privacy-focused AI Lumo can now generate interactive charts and visuals in chat\nMore tech news  \nAlternativeTo is supported by…\nOFFICIAL PARTNER\nProton VPN\nFreemium (Subscription)\nOpen Source (\nGPL-3.0\n)"
+  },
+  {
+    "platform": "Indie Hackers",
+    "url": "https://www.indiehackers.com/",
+    "http": 200,
+    "title": "Indie Hackers: Work Together to Build Profitable Online Businesses",
+    "signals": [
+      "Submit",
+      "Join"
+    ],
+    "body_excerpt": "Starting Up\nCase Studies\nIdeas DB\nProducts DB\nAre my ads actually making me money?\nMonaLK\n9\n13\nThe easiest version of generation history was probably the least useful one\nWarren455\n3\n15\nDiscountHub just passed 10,000 pageviews in a month\nMasterBek\n37\n37\nUsers have clicked through from DiscountHub to partner stores 537 times in 20 days\nMasterBek\n24\n4\nBuilding a freelancing playbook for web developers — would love your feedback\nDevAfop\n5\n16\nCo-founders suck…\nkingcy\n39\n67\nI built a tool to find people already talking about problems your product solves\nAidenyum\n15\n27\nI Just Discovered My Analytics Numbers Are Mostly Fake. Here Is Why.\nAngelcee\n37\n92\nPytch: Fighting the struggle of getting your product noticed\nPytch\n28\n34\nAnalyzing markets for months before finding the right idea and building a 5-figure MRR product\n\nAfter a big swing that failed, Derrick Reimer analyzed the market and found a better idea. Now, he's bringing in a 5-figure MRR. Here's the story.\n\nIndieJames\n17\nupvotes\n5\ncomments\nGrowing a talent marketplace to $2.5M+/yr after two years of losses\n\nDavid Stepania had an idea and funded it with credit cards. Now, his talent marketplace is bringing in $2.5M+/yr. Here's how.\n\n"
+  },
+  {
+    "platform": "SaaSHub",
+    "url": "https://www.saashub.com/",
+    "http": 200,
+    "title": "SaaSHub - Software Alternatives, Accelerators & Startups",
+    "signals": [
+      "Login",
+      "Submit",
+      "Join"
+    ],
+    "body_excerpt": "Feedback\nSoftware Alternatives, Accelerators & Startups\nRegister | Login\nTools & Categories \n Feature My Product\nSubmit Product\nSoftware Alternatives, Accelerators & Startups\n236,085 products and growing - is yours here?\nCRM\nHelp Desk\nProductivity\nMarketing\nAccounting\neCommerce\nHR\nWriting Tools\nProject Management\nMonitoring Tools\nFinance\nEducation\nSaaSHub Experts\nThe ongoing tournament that rewards the best products.\n00\n58\n30\nHOURS\nMINUTES\nSECONDS\nJoin us &  Select tomorrow's Top 5\nRound Details Learn more\nTop 15 Journal Products of Aug 7\n1. Journey\nNote Taking / Journal\n\nA diary that keeps your private memories forever.\n\n2. Day One\nJournal / Note Taking\n\nA simple journal application for the Mac, iPhone, and iPad. AboutTo learn more about Day One, see these two excellent reviews . PublishPublish is not available in Day One 2.\n\n3. Daylio\nNote Taking / Journal\n\nDaylio enables you to keep a private diary without having to type a single line.\n\n4. Stoic.\nProductivity / Note Taking\n\nUnlock a happier, more productive life with stoic. Journal, set habits, track mood, tackle obstacles, and gain insights for full well-being. Join 3M+ today.\n\n5. PrivacyNotes\nNote Taking / Journal\n\nZero-knowle"
+  },
+  {
+    "platform": "HN submit",
+    "url": "https://news.ycombinator.com/submit",
+    "http": 200,
+    "title": "Submit | Hacker News",
+    "signals": [
+      "Submit"
+    ],
+    "body_excerpt": "\tSubmit\n\n\n\ntitle\t\nurl\t\ntext\t\n\t\n\t\n\n\tLeave url blank to submit a question for discussion. If there is no url, text will appear at the top of the thread. If there is a url, text is optional.\n\nYou can also submit via bookmarklet."
+  }
+]
