@@ -1,7 +1,149 @@
 ﻿[
-  {"url":"https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-08-zoneplan-observation.md","target_domain":"zoneplan.net","platform":"GitHub Daily","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
-  {"url":"https://gist.github.com/Gavin1901/0c41a6be41e46e86d6f0ec191035d6f7","target_domain":"zoneplan.net","platform":"GitHub Gist","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
-  {"url":"https://github.com/Gavin1901/zoneplan/issues/13","target_domain":"zoneplan.net","platform":"GitHub Issue","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
-  {"url":"https://dev.to/gavinbuildsai/5860-impressions-and-4-clicks-why-i-am-not-changing-the-page-yet-588a","target_domain":"zoneplan.net","platform":"Dev.to","public_verified":true,"target_link_verified":true,"http_status":200,"verification_method":"http"},
-  {"url":"https://medium.com/@lg695101011/5-860-impressions-4-clicks-the-case-for-waiting-c574cc8e5deb","target_domain":"zoneplan.net","platform":"Medium","public_verified":true,"target_link_verified":true,"http_status":403,"verification_method":"browser","note":"Published in GavinBuilds profile; public article DOM verified with target URL present."}
+    {
+        "url":  "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-08-zoneplan-observation.md",
+        "target_domain":  "zoneplan.net",
+        "platform":  "GitHub Daily",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://gist.github.com/Gavin1901/0c41a6be41e46e86d6f0ec191035d6f7",
+        "target_domain":  "zoneplan.net",
+        "platform":  "GitHub Gist",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://github.com/Gavin1901/zoneplan/issues/13",
+        "target_domain":  "zoneplan.net",
+        "platform":  "GitHub Issue",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://dev.to/gavinbuildsai/5860-impressions-and-4-clicks-why-i-am-not-changing-the-page-yet-588a",
+        "target_domain":  "zoneplan.net",
+        "platform":  "Dev.to",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://medium.com/@lg695101011/5-860-impressions-4-clicks-the-case-for-waiting-c574cc8e5deb",
+        "target_domain":  "zoneplan.net",
+        "platform":  "Medium",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  403,
+        "verification_method":  "browser",
+        "note":  "Published in GavinBuilds profile; public article DOM verified with target URL present."
+    },
+    {
+        "url":  "https://gist.github.com/Gavin1901/de1d3126640580027a877526ad13358c",
+        "target_domain":  "babypercent.com",
+        "platform":  "GitHub Gist - babypercent",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://gist.github.com/Gavin1901/751f62b3f4c005fa8ca14e27a7660735",
+        "target_domain":  "freetdee.com",
+        "platform":  "GitHub Gist - freetdee",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://gist.github.com/Gavin1901/262a3d4af9f39ad26c142e01765c82ce",
+        "target_domain":  "invoicepad.net",
+        "platform":  "GitHub Gist - invoicepad",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://gist.github.com/Gavin1901/8cd7bdfa9164ef717e84f949c7e5ef3c",
+        "target_domain":  "iworkviewer.com",
+        "platform":  "GitHub Gist - iworkviewer",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://gist.github.com/Gavin1901/3e67a2cf7c247428ce891028dcc19023",
+        "target_domain":  "livephotokit.com",
+        "platform":  "GitHub Gist - livephotokit",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://gist.github.com/Gavin1901/ee405122e87a89684f2dc1edccd815c5",
+        "target_domain":  "plantingcalendar.net",
+        "platform":  "GitHub Gist - plantingcalendar",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://gist.github.com/Gavin1901/e54d31f3be2968284c83d9966de018b5",
+        "target_domain":  "pupvax.com",
+        "platform":  "GitHub Gist - pupvax",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://gist.github.com/Gavin1901/b822497e598c6d1c2051a36a2b383fd4",
+        "target_domain":  "zoneplan.net",
+        "platform":  "GitHub Gist - zoneplan",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://github.com/Gavin1901/free-browser-tools-index/blob/master/daily/2026-08-08-8site-pore-level-audit-and-repair.md",
+        "target_domain":  "iworkviewer.com",
+        "platform":  "GitHub Daily - 8-site audit",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http"
+    },
+    {
+        "url":  "https://dev.to/gavinbuildsai/i-crawled-743-urls-across-8-ai-built-tool-sites-here-is-what-broke-1kba",
+        "target_domain":  "livephotokit.com",
+        "platform":  "Dev.to - 8-site audit",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  200,
+        "verification_method":  "http",
+        "note":  "Article contains verified links to all eight domains."
+    },
+    {
+        "url":  "https://medium.com/@lg695101011/743-urls-8-tool-sites-2-real-seo-defects-638462a691c9",
+        "target_domain":  "plantingcalendar.net",
+        "platform":  "Medium - 8-site audit",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  403,
+        "verification_method":  "browser",
+        "note":  "Public DOM contains all eight target domains."
+    }
 ]
