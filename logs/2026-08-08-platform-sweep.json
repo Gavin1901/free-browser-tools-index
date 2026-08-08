@@ -1,16 +1,74 @@
 ﻿[
-  {"platform":"GitHub Daily","status":"published","note":"Two public evidence pages, including full 8-site audit."},
-  {"platform":"GitHub Gist","status":"published","note":"Nine public Gists; eight new site-specific audit backlinks cover all target domains."},
-  {"platform":"GitHub Issue","status":"published","url":"https://github.com/Gavin1901/zoneplan/issues/13"},
-  {"platform":"Dev.to","status":"published","note":"Two public articles; full-audit article contains all eight target domains."},
-  {"platform":"Medium","status":"published","note":"Two public articles verified in GavinBuilds browser DOM; full-audit article contains all eight domains."},
-  {"platform":"Quora","status":"duplicate_avoided","note":"Recent AI-outbound posts exist and target URLs have not produced reliable clickable links; no duplicate hard post."},
-  {"platform":"Pinterest","status":"duplicate_avoided","note":"Existing verified Pins cover recent priority experiments; avoided repetitive same-day portfolio Pin."},
-  {"platform":"Product Hunt","status":"duplicate_avoided","note":"iWorkViewer is already launched and the recent self-promotion experiment is public; no duplicate submission."},
-  {"platform":"Hacker News","status":"platform_blocked","note":"New link submissions remain limited through showlim."},
-  {"platform":"SaaSHub","status":"duplicate_avoided","note":"Existing public product pages retained; duplicate product submissions avoided."},
-  {"platform":"AlternativeTo","status":"login_blocked","note":"OAuth login required and simple utility categories remain disfavored."},
-  {"platform":"Indie Hackers","status":"login_blocked","note":"Email/password login plus new-account posting gate remains."},
-  {"platform":"ruanyf/weekly","status":"platform_blocked","note":"Prior submission completed; additional duplicate/API submissions blocked."},
-  {"platform":"Reddit","status":"platform_blocked","note":"Reserved PGM account line; AI-outbound posting forbidden."}
+    {
+        "platform":  "GitHub Daily",
+        "status":  "published",
+        "note":  "Two public evidence pages, including full 8-site audit."
+    },
+    {
+        "platform":  "GitHub Gist",
+        "status":  "published",
+        "note":  "Nine public Gists; eight new site-specific audit backlinks cover all target domains."
+    },
+    {
+        "platform":  "GitHub Issue",
+        "status":  "published",
+        "url":  "https://github.com/Gavin1901/zoneplan/issues/13"
+    },
+    {
+        "platform":  "Dev.to",
+        "status":  "published",
+        "note":  "Two public articles; full-audit article contains all eight target domains."
+    },
+    {
+        "platform":  "Medium",
+        "status":  "published",
+        "note":  "Two public articles verified in GavinBuilds browser DOM; full-audit article contains all eight domains."
+    },
+    {
+        "platform":  "Quora",
+        "status":  "duplicate_avoided",
+        "note":  "Recent AI-outbound posts exist and target URLs have not produced reliable clickable links; no duplicate hard post."
+    },
+    {
+        "platform":  "Pinterest",
+        "status":  "published",
+        "note":  "New FreeTDEE audit Pin published; public title and target link verified.",
+        "url":  "https://www.pinterest.com/pin/1097893215438135670/"
+    },
+    {
+        "platform":  "Product Hunt",
+        "status":  "published",
+        "note":  "New 8-site technical audit thread published and browser-verified with all eight target domains.",
+        "url":  "https://www.producthunt.com/p/self-promotion/i-crawled-743-urls-across-8-free-tool-sites-and-fixed-the-two-defects-that-survived-retry"
+    },
+    {
+        "platform":  "Hacker News",
+        "status":  "platform_blocked",
+        "note":  "New link submissions remain limited through showlim."
+    },
+    {
+        "platform":  "SaaSHub",
+        "status":  "duplicate_avoided",
+        "note":  "Existing public product pages retained; duplicate product submissions avoided."
+    },
+    {
+        "platform":  "AlternativeTo",
+        "status":  "login_blocked",
+        "note":  "OAuth login required and simple utility categories remain disfavored."
+    },
+    {
+        "platform":  "Indie Hackers",
+        "status":  "login_blocked",
+        "note":  "Email/password login plus new-account posting gate remains."
+    },
+    {
+        "platform":  "ruanyf/weekly",
+        "status":  "platform_blocked",
+        "note":  "Prior submission completed; additional duplicate/API submissions blocked."
+    },
+    {
+        "platform":  "Reddit",
+        "status":  "platform_blocked",
+        "note":  "Reserved PGM account line; AI-outbound posting forbidden."
+    }
 ]

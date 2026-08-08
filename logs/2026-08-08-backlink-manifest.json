@@ -145,5 +145,25 @@
         "http_status":  403,
         "verification_method":  "browser",
         "note":  "Public DOM contains all eight target domains."
+    },
+    {
+        "url":  "https://www.producthunt.com/p/self-promotion/i-crawled-743-urls-across-8-free-tool-sites-and-fixed-the-two-defects-that-survived-retry",
+        "target_domain":  "iworkviewer.com",
+        "platform":  "Product Hunt Self-Promotion",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  403,
+        "verification_method":  "browser",
+        "note":  "Published in GavinBuilds profile; public thread DOM contains all eight target domains."
+    },
+    {
+        "url":  "https://www.pinterest.com/pin/1097893215438135670/",
+        "target_domain":  "freetdee.com",
+        "platform":  "Pinterest",
+        "public_verified":  true,
+        "target_link_verified":  true,
+        "http_status":  403,
+        "verification_method":  "browser",
+        "note":  "Public Pin DOM confirms title and clickable FreeTDEE bodybuilding target."
     }
 ]
