@@ -1,0 +1,19 @@
+[
+  {
+    "platform": "AlternativeTo",
+    "url": "https://alternativeto.net/login/",
+    "http": 200,
+    "title": ""
+  },
+  {
+    "platform": "Indie Hackers",
+    "url": "https://www.indiehackers.com/sign-up",
+    "http": 200,
+    "title": ""
+  },
+  {
+    "platform": "SaaSHub",
+    "url": "https://www.saashub.com/login?__cf_chl_rt_tk=kKQQHI.Vax4mzgDD.nkBiqORBrrIwwxMJ1s_eaf9mow-1786169153-1.0.1.1-6BaewfANNoke2GAj6hKy0Hsc_JVFHRtMGFc0bSbSR9A",
+    "title": "Just a moment..."
+  }
+]
